@@ -1,0 +1,609 @@
+{
+  "name": "海选赛day8",
+  "time": "2024-08-12 23:00:36",
+  "voter": 1029,
+  "last_time": "2024-08-12 22:59:18",
+  "last_floor": "1191",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "辉夜大小姐想让我告白-四条真妃",
+      "vote": 486,
+      "rate_global": 47.23,
+      "rate_group": 8.36
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "Love Live 虹咲-钟岚珠",
+      "vote": 471,
+      "rate_global": 45.77,
+      "rate_group": 8.1
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "悠哉日常大王-蜜柑",
+      "vote": 456,
+      "rate_global": 44.31,
+      "rate_group": 7.84
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "BanG Dream!-美竹兰",
+      "vote": 313,
+      "rate_global": 30.42,
+      "rate_group": 5.38
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "海绵宝宝-章鱼哥",
+      "vote": 267,
+      "rate_global": 25.95,
+      "rate_group": 4.59
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "寒蝉鸣泣之时-北条沙都子",
+      "vote": 252,
+      "rate_global": 24.49,
+      "rate_group": 4.33
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "某科学的超电磁炮-芙兰达",
+      "vote": 251,
+      "rate_global": 24.39,
+      "rate_group": 4.32
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "BanG Dream!-冰川纱夜",
+      "vote": 245,
+      "rate_global": 23.81,
+      "rate_group": 4.21
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "GIRLS BAND CRY-RUPA",
+      "vote": 214,
+      "rate_global": 20.8,
+      "rate_group": 3.68
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "BanG Dream!-户山香澄",
+      "vote": 212,
+      "rate_global": 20.6,
+      "rate_group": 3.65
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "天使降临我身边-星野日向",
+      "vote": 206,
+      "rate_global": 20.02,
+      "rate_group": 3.54
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "魔法少女伊莉雅-伊莉雅",
+      "vote": 186,
+      "rate_global": 18.08,
+      "rate_group": 3.2
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "我的百合乃工作是也!-知花纯加",
+      "vote": 184,
+      "rate_global": 17.88,
+      "rate_group": 3.16
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "轻音少女-中野梓",
+      "vote": 170,
+      "rate_global": 16.52,
+      "rate_group": 2.92
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "我推的孩子-星野爱",
+      "vote": 170,
+      "rate_global": 16.52,
+      "rate_group": 2.92
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "魔法纪录-二叶莎奈",
+      "vote": 144,
+      "rate_global": 13.99,
+      "rate_group": 2.48
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "深夜Punch-莉布",
+      "vote": 128,
+      "rate_global": 12.44,
+      "rate_group": 2.2
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "别当欧尼酱了-绪山真寻",
+      "vote": 122,
+      "rate_global": 11.86,
+      "rate_group": 2.1
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "BanG Dream!-朝日六花",
+      "vote": 115,
+      "rate_global": 11.18,
+      "rate_group": 1.98
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "LoveLive Superstar-涩谷香音",
+      "vote": 101,
+      "rate_global": 9.82,
+      "rate_group": 1.74
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "亦叶亦花-大谷稳花",
+      "vote": 81,
+      "rate_global": 7.87,
+      "rate_group": 1.39
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "邻家索菲-夏木日向",
+      "vote": 75,
+      "rate_global": 7.29,
+      "rate_group": 1.29
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "东方Project-八云紫",
+      "vote": 72,
+      "rate_global": 7.0,
+      "rate_group": 1.24
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "秋叶原冥途战争-和平奈古美",
+      "vote": 68,
+      "rate_global": 6.61,
+      "rate_group": 1.17
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "白箱-板木静香",
+      "vote": 68,
+      "rate_global": 6.61,
+      "rate_group": 1.17
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "BanG Dream!-海野夏希",
+      "vote": 67,
+      "rate_global": 6.51,
+      "rate_group": 1.15
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "狼与香辛料-赫萝",
+      "vote": 54,
+      "rate_global": 5.25,
+      "rate_group": 0.93
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "比宇宙更远的地方-三宅日向",
+      "vote": 50,
+      "rate_global": 4.86,
+      "rate_group": 0.86
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "猫和老鼠-布奇",
+      "vote": 49,
+      "rate_global": 4.76,
+      "rate_group": 0.84
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "幻想嘉年华-阿尔托莉雅·卡斯特",
+      "vote": 43,
+      "rate_global": 4.18,
+      "rate_group": 0.74
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "Love Live-星空凛",
+      "vote": 42,
+      "rate_global": 4.08,
+      "rate_group": 0.72
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "超超超超超喜欢你的100个女朋友-花园羽香里",
+      "vote": 36,
+      "rate_global": 3.5,
+      "rate_group": 0.62
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "少女与战车-喀秋莎",
+      "vote": 33,
+      "rate_global": 3.21,
+      "rate_group": 0.57
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "哆啦A梦-出木杉英才",
+      "vote": 31,
+      "rate_global": 3.01,
+      "rate_group": 0.53
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "Wonderful光之美少女!-猫屋敷麻友",
+      "vote": 29,
+      "rate_global": 2.82,
+      "rate_group": 0.5
+    },
+    {
+      "group": 1,
+      "rank": 36,
+      "name": "凉宫春日的忧郁-鹤屋",
+      "vote": 29,
+      "rate_global": 2.82,
+      "rate_group": 0.5
+    },
+    {
+      "group": 1,
+      "rank": 37,
+      "name": "星灵感应-秋月彗",
+      "vote": 26,
+      "rate_global": 2.53,
+      "rate_group": 0.45
+    },
+    {
+      "group": 1,
+      "rank": 38,
+      "name": "家里蹲吸血姬的苦闷-卡莲",
+      "vote": 26,
+      "rate_global": 2.53,
+      "rate_group": 0.45
+    },
+    {
+      "group": 1,
+      "rank": 39,
+      "name": "守护甜心-边里唯世",
+      "vote": 22,
+      "rate_global": 2.14,
+      "rate_group": 0.38
+    },
+    {
+      "group": 1,
+      "rank": 40,
+      "name": "进击的巨人-佩特拉·拉鲁",
+      "vote": 19,
+      "rate_global": 1.85,
+      "rate_group": 0.33
+    },
+    {
+      "group": 1,
+      "rank": 41,
+      "name": "无法割舍恋情的双胞胎-神宫寺那织",
+      "vote": 18,
+      "rate_global": 1.75,
+      "rate_group": 0.31
+    },
+    {
+      "group": 1,
+      "rank": 42,
+      "name": "女高中生的虚度日常-田中望",
+      "vote": 17,
+      "rate_global": 1.65,
+      "rate_group": 0.29
+    },
+    {
+      "group": 1,
+      "rank": 43,
+      "name": "幻日的夜羽-果南",
+      "vote": 16,
+      "rate_global": 1.55,
+      "rate_group": 0.28
+    },
+    {
+      "group": 1,
+      "rank": 44,
+      "name": "天穗-佐久名",
+      "vote": 12,
+      "rate_global": 1.17,
+      "rate_group": 0.21
+    },
+    {
+      "group": 1,
+      "rank": 45,
+      "name": "忍者杀手-浅理",
+      "vote": 11,
+      "rate_global": 1.07,
+      "rate_group": 0.19
+    },
+    {
+      "group": 1,
+      "rank": 46,
+      "name": "战国妖狐-灼岩",
+      "vote": 10,
+      "rate_global": 0.97,
+      "rate_group": 0.17
+    },
+    {
+      "group": 1,
+      "rank": 47,
+      "name": "假面骑士极狐-鞍马祢音",
+      "vote": 10,
+      "rate_global": 0.97,
+      "rate_group": 0.17
+    },
+    {
+      "group": 1,
+      "rank": 48,
+      "name": "前辈是伪娘-远藤透",
+      "vote": 9,
+      "rate_global": 0.87,
+      "rate_group": 0.15
+    },
+    {
+      "group": 1,
+      "rank": 49,
+      "name": "经验丰富的你与经验为零的我交往的故事-白河月爱",
+      "vote": 9,
+      "rate_global": 0.87,
+      "rate_group": 0.15
+    },
+    {
+      "group": 1,
+      "rank": 50,
+      "name": "魔法少女特殊战明日香-米亚·塞拉斯",
+      "vote": 9,
+      "rate_global": 0.87,
+      "rate_group": 0.15
+    },
+    {
+      "group": 1,
+      "rank": 51,
+      "name": "剧偶像-中村茧璃",
+      "vote": 9,
+      "rate_global": 0.87,
+      "rate_group": 0.15
+    },
+    {
+      "group": 1,
+      "rank": 52,
+      "name": "16bit的感动-下田香织",
+      "vote": 6,
+      "rate_global": 0.58,
+      "rate_group": 0.1
+    },
+    {
+      "group": 1,
+      "rank": 53,
+      "name": "战国妖狐-小玉",
+      "vote": 6,
+      "rate_global": 0.58,
+      "rate_group": 0.1
+    },
+    {
+      "group": 1,
+      "rank": 54,
+      "name": "雀魂 KANG!!-二阶堂美树",
+      "vote": 5,
+      "rate_global": 0.49,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 55,
+      "name": "排球少年-菅原孝支",
+      "vote": 5,
+      "rate_global": 0.49,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 56,
+      "name": "魔王学院的不适任者-艾米莉亚",
+      "vote": 5,
+      "rate_global": 0.49,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 57,
+      "name": "星色Girl Drop-夕阳冕",
+      "vote": 4,
+      "rate_global": 0.39,
+      "rate_group": 0.07
+    },
+    {
+      "group": 1,
+      "rank": 58,
+      "name": "放学后桌游俱乐部-大野翠",
+      "vote": 4,
+      "rate_global": 0.39,
+      "rate_group": 0.07
+    },
+    {
+      "group": 1,
+      "rank": 59,
+      "name": "学院魔剑使-黎榭莉亚",
+      "vote": 4,
+      "rate_global": 0.39,
+      "rate_group": 0.07
+    },
+    {
+      "group": 1,
+      "rank": 60,
+      "name": "SHY腼腆英雄-眠龙",
+      "vote": 3,
+      "rate_global": 0.29,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 61,
+      "name": "咒术回战-忧忧",
+      "vote": 3,
+      "rate_global": 0.29,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 62,
+      "name": "夜樱家的大作战-切崎杀香",
+      "vote": 3,
+      "rate_global": 0.29,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 63,
+      "name": "笑容的代价-斯黛拉",
+      "vote": 3,
+      "rate_global": 0.29,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 64,
+      "name": "Code Geass 反叛的鲁路修-玉城真一郎",
+      "vote": 2,
+      "rate_global": 0.19,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 65,
+      "name": "强风吹拂-岩仓雪彦",
+      "vote": 2,
+      "rate_global": 0.19,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 66,
+      "name": "金田一少年事件簿-剑持勇",
+      "vote": 2,
+      "rate_global": 0.19,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 67,
+      "name": "守护甜心-小丝",
+      "vote": 2,
+      "rate_global": 0.19,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 68,
+      "name": "青猪少年-国见佑真",
+      "vote": 2,
+      "rate_global": 0.19,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 69,
+      "name": "爷爷奶奶返老还童-斋藤依音",
+      "vote": 2,
+      "rate_global": 0.19,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 70,
+      "name": "2.5次元的诱惑-牧野",
+      "vote": 2,
+      "rate_global": 0.19,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 71,
+      "name": "学院魔剑使-咲耶",
+      "vote": 2,
+      "rate_global": 0.19,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 72,
+      "name": "药屋少女的呢喃-虞渊",
+      "vote": 1,
+      "rate_global": 0.1,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 73,
+      "name": "精灵小姐瘦不了。-绘留札",
+      "vote": 1,
+      "rate_global": 0.1,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 74,
+      "name": "Code Geass 反叛的鲁路修-朝比奈省悟",
+      "vote": 1,
+      "rate_global": 0.1,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 75,
+      "name": "怪物转生-哥布江",
+      "vote": 1,
+      "rate_global": 0.1,
+      "rate_group": 0.02
+    }
+  ]
+}

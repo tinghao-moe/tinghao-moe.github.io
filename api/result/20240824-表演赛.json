@@ -1,0 +1,89 @@
+{
+  "name": "表演赛",
+  "time": "2024-08-24 23:01:09",
+  "voter": 1910,
+  "last_time": "2024-08-24 22:59:57",
+  "last_floor": "2402",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-长崎爽世",
+      "vote": 936,
+      "rate_global": 49.01,
+      "rate_group": 50.11
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "BanG Dream! It's MyGO!!!!!-若叶睦",
+      "vote": 932,
+      "rate_global": 48.8,
+      "rate_group": 49.89
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "吹响！上低音号-久石奏",
+      "vote": 614,
+      "rate_global": 32.15,
+      "rate_group": 35.37
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "败犬女主太多了！-八奈见杏菜",
+      "vote": 604,
+      "rate_global": 31.62,
+      "rate_group": 34.79
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "安达与岛村-安达樱",
+      "vote": 406,
+      "rate_global": 21.26,
+      "rate_group": 23.39
+    },
+    {
+      "group": 2,
+      "rank": 4,
+      "name": "恋语轻唱-泉志帆",
+      "vote": 112,
+      "rate_global": 5.86,
+      "rate_group": 6.45
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "GIRLS BAND CRY-货车",
+      "vote": 1156,
+      "rate_global": 60.52,
+      "rate_group": 73.68
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "佐贺偶像是传奇-源樱",
+      "vote": 413,
+      "rate_global": 21.62,
+      "rate_group": 26.32
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "劳塔罗",
+      "vote": 836,
+      "rate_global": 43.77,
+      "rate_group": 79.09
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "梅西",
+      "vote": 221,
+      "rate_global": 11.57,
+      "rate_group": 20.91
+    }
+  ]
+}

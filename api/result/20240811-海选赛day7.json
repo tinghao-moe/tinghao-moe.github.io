@@ -1,0 +1,609 @@
+{
+  "name": "海选赛day7",
+  "time": "2024-08-11 23:00:45",
+  "voter": 1257,
+  "last_time": "2024-08-11 22:59:07",
+  "last_floor": "1495",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-高松灯",
+      "vote": 866,
+      "rate_global": 68.89,
+      "rate_group": 12.1
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "星灵感应-明内幽",
+      "vote": 682,
+      "rate_global": 54.26,
+      "rate_group": 9.53
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "水母-山之内花音",
+      "vote": 440,
+      "rate_global": 35.0,
+      "rate_group": 6.15
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "GIRLS BAND CRY-河原木桃香",
+      "vote": 431,
+      "rate_global": 34.29,
+      "rate_group": 6.02
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "恋语轻唱-水口亚季",
+      "vote": 406,
+      "rate_global": 32.3,
+      "rate_group": 5.67
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "赛马娘-成田路",
+      "vote": 372,
+      "rate_global": 29.59,
+      "rate_group": 5.2
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "契约之吻-夕桐绫乃",
+      "vote": 287,
+      "rate_global": 22.83,
+      "rate_group": 4.01
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "孤独摇滚-后藤一里",
+      "vote": 272,
+      "rate_global": 21.64,
+      "rate_group": 3.8
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "BanG Dream!-凑友希那",
+      "vote": 257,
+      "rate_global": 20.45,
+      "rate_group": 3.59
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "赛马娘-北部玄驹",
+      "vote": 252,
+      "rate_global": 20.05,
+      "rate_group": 3.52
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "赛博朋克 边缘行者-Rebecca",
+      "vote": 237,
+      "rate_global": 18.85,
+      "rate_group": 3.31
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "憧憬成为魔法少女-柊舞缇娜",
+      "vote": 199,
+      "rate_global": 15.83,
+      "rate_group": 2.78
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "青猪少年-牧之原翔子",
+      "vote": 194,
+      "rate_global": 15.43,
+      "rate_group": 2.71
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "满月之战-小日向满月",
+      "vote": 189,
+      "rate_global": 15.04,
+      "rate_group": 2.64
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "为美好的世界献上爆焰！-悠悠",
+      "vote": 167,
+      "rate_global": 13.29,
+      "rate_group": 2.33
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "Do It Yourself!!-须理出未来",
+      "vote": 158,
+      "rate_global": 12.57,
+      "rate_group": 2.21
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "ATRI-神白水菜萌",
+      "vote": 155,
+      "rate_global": 12.33,
+      "rate_group": 2.17
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "Love Live 虹咲-艾玛·维尔德",
+      "vote": 152,
+      "rate_global": 12.09,
+      "rate_group": 2.12
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "无职转生-洛琪希",
+      "vote": 142,
+      "rate_global": 11.3,
+      "rate_group": 1.98
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "BanG Dream!-若宫伊芙",
+      "vote": 140,
+      "rate_global": 11.14,
+      "rate_group": 1.96
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "深夜Punch-真咲",
+      "vote": 106,
+      "rate_global": 8.43,
+      "rate_group": 1.48
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "星灵感应-小之星穗波",
+      "vote": 103,
+      "rate_global": 8.19,
+      "rate_group": 1.44
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "轻声俄语-艾莉莎",
+      "vote": 95,
+      "rate_global": 7.56,
+      "rate_group": 1.33
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "凉宫春日的忧郁-阿虚",
+      "vote": 90,
+      "rate_global": 7.16,
+      "rate_group": 1.26
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "无职转生-爱夏",
+      "vote": 70,
+      "rate_global": 5.57,
+      "rate_group": 0.98
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "World Dai Star-儒艮",
+      "vote": 69,
+      "rate_global": 5.49,
+      "rate_group": 0.96
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "义妹生活-绫濑沙季",
+      "vote": 62,
+      "rate_global": 4.93,
+      "rate_group": 0.87
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "莱莎的炼金工房-科洛蒂娅",
+      "vote": 48,
+      "rate_global": 3.82,
+      "rate_group": 0.67
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "GIRLS BAND CRY-井芹凉音",
+      "vote": 47,
+      "rate_global": 3.74,
+      "rate_group": 0.66
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "我推的孩子-GOA",
+      "vote": 35,
+      "rate_global": 2.78,
+      "rate_group": 0.49
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "声优广播的台前幕后-佐藤由美子",
+      "vote": 32,
+      "rate_global": 2.55,
+      "rate_group": 0.45
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "败犬女主太多了！-月之木古都",
+      "vote": 32,
+      "rate_global": 2.55,
+      "rate_group": 0.45
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "比宇宙更远的地方-高桥惠",
+      "vote": 31,
+      "rate_global": 2.47,
+      "rate_group": 0.43
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "Wonderful光之美少女!-犬饲小麦",
+      "vote": 26,
+      "rate_global": 2.07,
+      "rate_group": 0.36
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "别当欧尼酱了-室崎美夜",
+      "vote": 26,
+      "rate_global": 2.07,
+      "rate_group": 0.36
+    },
+    {
+      "group": 1,
+      "rank": 36,
+      "name": "神明选拔-佐和穗花",
+      "vote": 23,
+      "rate_global": 1.83,
+      "rate_group": 0.32
+    },
+    {
+      "group": 1,
+      "rank": 37,
+      "name": "蔚蓝档案-阿慈谷日富美",
+      "vote": 22,
+      "rate_global": 1.75,
+      "rate_group": 0.31
+    },
+    {
+      "group": 1,
+      "rank": 38,
+      "name": "约会大作战-八舞夕弦",
+      "vote": 20,
+      "rate_global": 1.59,
+      "rate_group": 0.28
+    },
+    {
+      "group": 1,
+      "rank": 39,
+      "name": "舰队collection-睦月",
+      "vote": 19,
+      "rate_global": 1.51,
+      "rate_group": 0.27
+    },
+    {
+      "group": 1,
+      "rank": 40,
+      "name": "Do It Yourself!!-幸希心",
+      "vote": 18,
+      "rate_global": 1.43,
+      "rate_group": 0.25
+    },
+    {
+      "group": 1,
+      "rank": 41,
+      "name": "狼与香辛料-罗伦斯",
+      "vote": 16,
+      "rate_global": 1.27,
+      "rate_group": 0.22
+    },
+    {
+      "group": 1,
+      "rank": 42,
+      "name": "义妹生活-浅村太一",
+      "vote": 13,
+      "rate_global": 1.03,
+      "rate_group": 0.18
+    },
+    {
+      "group": 1,
+      "rank": 43,
+      "name": "假面骑士歌查德-银杏莲华",
+      "vote": 11,
+      "rate_global": 0.88,
+      "rate_group": 0.15
+    },
+    {
+      "group": 1,
+      "rank": 44,
+      "name": "风都侦探-照井亚树子",
+      "vote": 11,
+      "rate_global": 0.88,
+      "rate_group": 0.15
+    },
+    {
+      "group": 1,
+      "rank": 45,
+      "name": "Tropical Rouge光之美少女-库鲁伦",
+      "vote": 10,
+      "rate_global": 0.8,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 46,
+      "name": "魔王学院的不适任者-米莎",
+      "vote": 9,
+      "rate_global": 0.72,
+      "rate_group": 0.13
+    },
+    {
+      "group": 1,
+      "rank": 47,
+      "name": "蔚蓝档案-浅黄无月",
+      "vote": 8,
+      "rate_global": 0.64,
+      "rate_group": 0.11
+    },
+    {
+      "group": 1,
+      "rank": 48,
+      "name": "声优广播的台前幕后-朝加美玲",
+      "vote": 8,
+      "rate_global": 0.64,
+      "rate_group": 0.11
+    },
+    {
+      "group": 1,
+      "rank": 49,
+      "name": "少女与战车-阪口桂利奈",
+      "vote": 8,
+      "rate_global": 0.64,
+      "rate_group": 0.11
+    },
+    {
+      "group": 1,
+      "rank": 50,
+      "name": "Healin Good 光之美少女-拉比琳",
+      "vote": 7,
+      "rate_global": 0.56,
+      "rate_group": 0.1
+    },
+    {
+      "group": 1,
+      "rank": 51,
+      "name": "战记-维夏",
+      "vote": 6,
+      "rate_global": 0.48,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 52,
+      "name": "放学后桌游俱乐部-武笠美姬",
+      "vote": 6,
+      "rate_global": 0.48,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 53,
+      "name": "排球少年-山口忠",
+      "vote": 6,
+      "rate_global": 0.48,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 54,
+      "name": "金田一少年事件簿-金田一一",
+      "vote": 5,
+      "rate_global": 0.4,
+      "rate_group": 0.07
+    },
+    {
+      "group": 1,
+      "rank": 55,
+      "name": "Healin Good 光之美少女-喵托兰",
+      "vote": 5,
+      "rate_global": 0.4,
+      "rate_group": 0.07
+    },
+    {
+      "group": 1,
+      "rank": 56,
+      "name": "欢迎来到实力至上主义教室-山内春树",
+      "vote": 5,
+      "rate_global": 0.4,
+      "rate_group": 0.07
+    },
+    {
+      "group": 1,
+      "rank": 57,
+      "name": "Happiness Charge光之美少女!-爱乃惠",
+      "vote": 5,
+      "rate_global": 0.4,
+      "rate_group": 0.07
+    },
+    {
+      "group": 1,
+      "rank": 58,
+      "name": "白箱-井口祐未",
+      "vote": 5,
+      "rate_global": 0.4,
+      "rate_group": 0.07
+    },
+    {
+      "group": 1,
+      "rank": 59,
+      "name": "雀魂 KANG!!-姬川响",
+      "vote": 5,
+      "rate_global": 0.4,
+      "rate_group": 0.07
+    },
+    {
+      "group": 1,
+      "rank": 60,
+      "name": "神明选拔-天昂辉",
+      "vote": 4,
+      "rate_global": 0.32,
+      "rate_group": 0.06
+    },
+    {
+      "group": 1,
+      "rank": 61,
+      "name": "AURA ~魔龙院光牙最后的战斗~-佐藤一郎",
+      "vote": 4,
+      "rate_global": 0.32,
+      "rate_group": 0.06
+    },
+    {
+      "group": 1,
+      "rank": 62,
+      "name": "排球少年-日向翔阳",
+      "vote": 3,
+      "rate_global": 0.24,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 63,
+      "name": "金田一少年事件簿-金田一二三",
+      "vote": 3,
+      "rate_global": 0.24,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 64,
+      "name": "强风吹拂-杉山高志",
+      "vote": 3,
+      "rate_global": 0.24,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 65,
+      "name": "BULLBUSTER-白金美雪",
+      "vote": 3,
+      "rate_global": 0.24,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 66,
+      "name": "狂赌之渊-黄泉月露娜",
+      "vote": 2,
+      "rate_global": 0.16,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 67,
+      "name": "默示录的四骑士-特里斯坦",
+      "vote": 2,
+      "rate_global": 0.16,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 68,
+      "name": "暴食狂战士-洛琪希·哈托",
+      "vote": 2,
+      "rate_global": 0.16,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 69,
+      "name": "白箱-堂本知惠美",
+      "vote": 2,
+      "rate_global": 0.16,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 70,
+      "name": "圣剑学院的魔剑使-艾尔菲涅",
+      "vote": 2,
+      "rate_global": 0.16,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 71,
+      "name": "身为VTuber的我因为忘记关台而成了传说-朝雾晴",
+      "vote": 1,
+      "rate_global": 0.08,
+      "rate_group": 0.01
+    },
+    {
+      "group": 1,
+      "rank": 72,
+      "name": "谎言游戏-彩园寺更纱",
+      "vote": 1,
+      "rate_global": 0.08,
+      "rate_group": 0.01
+    },
+    {
+      "group": 1,
+      "rank": 73,
+      "name": "谎言游戏-筱原绯吕斗",
+      "vote": 1,
+      "rate_global": 0.08,
+      "rate_group": 0.01
+    },
+    {
+      "group": 1,
+      "rank": 74,
+      "name": "僵尸百分百-真希",
+      "vote": 1,
+      "rate_global": 0.08,
+      "rate_group": 0.01
+    },
+    {
+      "group": 1,
+      "rank": 75,
+      "name": "从路人角色开始的探索英雄谭-高木海斗",
+      "vote": 1,
+      "rate_global": 0.08,
+      "rate_group": 0.01
+    }
+  ]
+}

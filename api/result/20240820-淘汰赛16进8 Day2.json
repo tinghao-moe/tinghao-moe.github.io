@@ -1,0 +1,73 @@
+{
+  "name": "淘汰赛16进8 Day2",
+  "time": "2024-08-20 23:01:41",
+  "voter": 2152,
+  "last_time": "2024-08-20 22:59:59",
+  "last_floor": "2596",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "败犬女主太多了！-八奈见杏菜",
+      "vote": 1251,
+      "rate_global": 58.13,
+      "rate_group": 61.96
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "Love Live 虹咲-优木雪菜",
+      "vote": 768,
+      "rate_global": 35.69,
+      "rate_group": 38.04
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-丰川祥子",
+      "vote": 1062,
+      "rate_global": 49.35,
+      "rate_group": 50.62
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "安达与岛村-安达樱",
+      "vote": 1036,
+      "rate_global": 48.14,
+      "rate_group": 49.38
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-高松灯",
+      "vote": 1188,
+      "rate_global": 55.2,
+      "rate_group": 57.78
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "GIRLS BAND CRY-货车",
+      "vote": 868,
+      "rate_global": 40.33,
+      "rate_group": 42.22
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "吹响！上低音号-铠冢霙",
+      "vote": 1355,
+      "rate_global": 62.96,
+      "rate_group": 66.39
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "BanG Dream! It's MyGO!!!!!-千早爱音",
+      "vote": 686,
+      "rate_global": 31.88,
+      "rate_group": 33.61
+    }
+  ]
+}

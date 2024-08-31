@@ -1,0 +1,41 @@
+{
+  "name": "半决赛",
+  "time": "2024-08-22 23:01:16",
+  "voter": 2013,
+  "last_time": "2024-08-22 22:59:54",
+  "last_floor": "2614",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-椎名立希",
+      "vote": 1682,
+      "rate_global": 83.56,
+      "rate_group": 86.48
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "BanG Dream! It's MyGO!!!!!-高松灯",
+      "vote": 263,
+      "rate_global": 13.07,
+      "rate_group": 13.52
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-若叶睦",
+      "vote": 1438,
+      "rate_global": 71.44,
+      "rate_group": 72.81
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "BanG Dream! It's MyGO!!!!!-丰川祥子",
+      "vote": 537,
+      "rate_global": 26.68,
+      "rate_group": 27.19
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "name": "淘汰赛48进16 Day3",
+  "time": "2024-08-17 23:01:33",
+  "voter": 2325,
+  "last_time": "2024-08-17 23:00:00",
+  "last_floor": "3339",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "Love Live 虹咲-优木雪菜",
+      "vote": 914,
+      "rate_global": 39.31,
+      "rate_group": 44.33
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "我推的孩子-黑川茜",
+      "vote": 800,
+      "rate_global": 34.41,
+      "rate_group": 38.8
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "BanG Dream!-美竹兰",
+      "vote": 348,
+      "rate_global": 14.97,
+      "rate_group": 16.88
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "败犬女主太多了！-八奈见杏菜",
+      "vote": 1040,
+      "rate_global": 44.73,
+      "rate_group": 47.27
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "吹响！上低音号-黄前久美子",
+      "vote": 1013,
+      "rate_global": 43.57,
+      "rate_group": 46.05
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "吹响！上低音号-黑江真由",
+      "vote": 147,
+      "rate_global": 6.32,
+      "rate_group": 6.68
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "安达与岛村-安达樱",
+      "vote": 1247,
+      "rate_global": 53.63,
+      "rate_group": 58.24
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "吹响！上低音号-冢本秀一",
+      "vote": 730,
+      "rate_global": 31.4,
+      "rate_group": 34.1
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "夜晚的水母不会游泳-光月真昼",
+      "vote": 164,
+      "rate_global": 7.05,
+      "rate_group": 7.66
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-丰川祥子",
+      "vote": 1565,
+      "rate_global": 67.31,
+      "rate_group": 73.37
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "败犬女主太多了！-小鞠知花",
+      "vote": 291,
+      "rate_global": 12.52,
+      "rate_group": 13.64
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "我推的孩子-有马加奈",
+      "vote": 277,
+      "rate_global": 11.91,
+      "rate_group": 12.99
+    }
+  ]
+}

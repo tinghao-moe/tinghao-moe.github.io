@@ -1,0 +1,105 @@
+{
+  "name": "淘汰赛48进16 Day4",
+  "time": "2024-08-18 23:01:18",
+  "voter": 1741,
+  "last_time": "2024-08-18 22:59:44",
+  "last_floor": "2055",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "GIRLS BAND CRY-货车",
+      "vote": 763,
+      "rate_global": 43.83,
+      "rate_group": 46.5
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "结城友奈是勇者-高岛友奈",
+      "vote": 541,
+      "rate_global": 31.07,
+      "rate_group": 32.97
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "孤独摇滚-伊地知虹夏",
+      "vote": 337,
+      "rate_global": 19.36,
+      "rate_group": 20.54
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-高松灯",
+      "vote": 995,
+      "rate_global": 57.15,
+      "rate_group": 61.42
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "赛马娘-优秀素质",
+      "vote": 449,
+      "rate_global": 25.79,
+      "rate_group": 27.72
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "水母-山之内花音",
+      "vote": 176,
+      "rate_global": 10.11,
+      "rate_group": 10.86
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "吹响！上低音号-铠冢霙",
+      "vote": 747,
+      "rate_global": 42.91,
+      "rate_group": 46.66
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "安达与岛村-岛村抱月",
+      "vote": 555,
+      "rate_global": 31.88,
+      "rate_group": 34.67
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "悠哉日常大王-蜜柑",
+      "vote": 299,
+      "rate_global": 17.17,
+      "rate_group": 18.68
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-千早爱音",
+      "vote": 733,
+      "rate_global": 42.1,
+      "rate_group": 46.1
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "恋语轻唱-水口亚季",
+      "vote": 621,
+      "rate_global": 35.67,
+      "rate_group": 39.06
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "GIRLS BAND CRY-安和昴",
+      "vote": 236,
+      "rate_global": 13.56,
+      "rate_group": 14.84
+    }
+  ]
+}

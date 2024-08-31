@@ -1,0 +1,105 @@
+{
+  "name": "淘汰赛48进16 Day1",
+  "time": "2024-08-15 23:00:58",
+  "voter": 1695,
+  "last_time": "2024-08-15 22:59:53",
+  "last_floor": "1912",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "星灵感应-明内幽",
+      "vote": 827,
+      "rate_global": 48.79,
+      "rate_group": 51.95
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "葬送的芙莉莲-辛美尔",
+      "vote": 553,
+      "rate_global": 32.63,
+      "rate_group": 34.74
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "Love Live 虹咲-钟岚珠",
+      "vote": 212,
+      "rate_global": 12.51,
+      "rate_group": 13.32
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-椎名立希",
+      "vote": 1395,
+      "rate_global": 82.3,
+      "rate_group": 84.39
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "凉宫春日的忧郁-长门有希",
+      "vote": 179,
+      "rate_global": 10.56,
+      "rate_group": 10.83
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "Love Live 虹咲-高咲侑",
+      "vote": 79,
+      "rate_global": 4.66,
+      "rate_group": 4.78
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-三角初华",
+      "vote": 1074,
+      "rate_global": 63.36,
+      "rate_group": 66.63
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "闪耀路标-黑金莲",
+      "vote": 346,
+      "rate_global": 20.41,
+      "rate_group": 21.46
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "我的百合乃工作是也!-间宫果乃子",
+      "vote": 192,
+      "rate_global": 11.33,
+      "rate_group": 11.91
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "吹响！上低音号-久石奏",
+      "vote": 882,
+      "rate_global": 52.04,
+      "rate_group": 54.99
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "处刑少女的生存之道-茉茉",
+      "vote": 580,
+      "rate_global": 34.22,
+      "rate_group": 36.16
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "败犬女主太多了！-烧盐柠檬",
+      "vote": 142,
+      "rate_global": 8.38,
+      "rate_group": 8.85
+    }
+  ]
+}

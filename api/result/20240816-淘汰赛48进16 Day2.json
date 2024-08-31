@@ -1,0 +1,105 @@
+{
+  "name": "淘汰赛48进16 Day2",
+  "time": "2024-08-16 23:01:25",
+  "voter": 1666,
+  "last_time": "2024-08-16 22:59:25",
+  "last_floor": "1845",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "突击莉莉-枫",
+      "vote": 628,
+      "rate_global": 37.7,
+      "rate_group": 42.01
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "轻声俄语-周防有希",
+      "vote": 464,
+      "rate_global": 27.85,
+      "rate_group": 31.04
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "Lycoris Recoil-井之上泷奈",
+      "vote": 403,
+      "rate_global": 24.19,
+      "rate_group": 26.96
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "恋语轻唱-泉志帆",
+      "vote": 625,
+      "rate_global": 37.52,
+      "rate_group": 40.74
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "契约之吻-木更",
+      "vote": 595,
+      "rate_global": 35.71,
+      "rate_group": 38.79
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "海绵宝宝-章鱼哥",
+      "vote": 314,
+      "rate_global": 18.85,
+      "rate_group": 20.47
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "少女歌剧-神乐光",
+      "vote": 855,
+      "rate_global": 51.32,
+      "rate_group": 54.81
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "辉夜大小姐想让我告白-四条真妃",
+      "vote": 405,
+      "rate_global": 24.31,
+      "rate_group": 25.96
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "World Dai Star-卡特莉娜",
+      "vote": 300,
+      "rate_global": 18.01,
+      "rate_group": 19.23
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-若叶睦",
+      "vote": 1245,
+      "rate_global": 74.73,
+      "rate_group": 77.81
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "BanG Dream!-青叶摩卡",
+      "vote": 307,
+      "rate_global": 18.43,
+      "rate_group": 19.19
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "GIRLS BAND CRY-河原木桃香",
+      "vote": 48,
+      "rate_global": 2.88,
+      "rate_group": 3.0
+    }
+  ]
+}

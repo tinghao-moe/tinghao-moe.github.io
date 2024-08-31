@@ -1,0 +1,73 @@
+{
+  "name": "淘汰赛8进4",
+  "time": "2024-08-21 23:01:21",
+  "voter": 2220,
+  "last_time": "2024-08-21 22:59:55",
+  "last_floor": "2814",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-椎名立希",
+      "vote": 1811,
+      "rate_global": 81.58,
+      "rate_group": 85.75
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "恋语轻唱-泉志帆",
+      "vote": 301,
+      "rate_global": 13.56,
+      "rate_group": 14.25
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-若叶睦",
+      "vote": 1912,
+      "rate_global": 86.13,
+      "rate_group": 90.27
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "BanG Dream! It's MyGO!!!!!-三角初华",
+      "vote": 206,
+      "rate_global": 9.28,
+      "rate_group": 9.73
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-高松灯",
+      "vote": 1206,
+      "rate_global": 54.32,
+      "rate_group": 56.75
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "败犬女主太多了！-八奈见杏菜",
+      "vote": 919,
+      "rate_global": 41.4,
+      "rate_group": 43.25
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-丰川祥子",
+      "vote": 1322,
+      "rate_global": 59.55,
+      "rate_group": 62.33
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "吹响！上低音号-铠冢霙",
+      "vote": 799,
+      "rate_global": 35.99,
+      "rate_group": 37.67
+    }
+  ]
+}

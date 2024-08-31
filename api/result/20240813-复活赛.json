@@ -1,0 +1,329 @@
+{
+  "name": "复活赛",
+  "time": "2024-08-13 23:00:41",
+  "voter": 1232,
+  "last_time": "2024-08-13 22:59:55",
+  "last_floor": "1420",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "处刑少女的生存之道-茉茉",
+      "vote": 506,
+      "rate_global": 41.07,
+      "rate_group": 6.64
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "吹响！上低音号-黑江真由",
+      "vote": 477,
+      "rate_global": 38.72,
+      "rate_group": 6.26
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "我推的孩子-黑川茜",
+      "vote": 358,
+      "rate_global": 29.06,
+      "rate_group": 4.7
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "败犬女主太多了！-小鞠知花",
+      "vote": 298,
+      "rate_global": 24.19,
+      "rate_group": 3.91
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "突击莉莉-枫",
+      "vote": 293,
+      "rate_global": 23.78,
+      "rate_group": 3.84
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "我的百合乃工作是也!-间宫果乃子",
+      "vote": 284,
+      "rate_global": 23.05,
+      "rate_group": 3.73
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "结城友奈是勇者-高岛友奈",
+      "vote": 284,
+      "rate_global": 23.05,
+      "rate_group": 3.73
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "败犬女主太多了！-烧盐柠檬",
+      "vote": 270,
+      "rate_global": 21.92,
+      "rate_group": 3.54
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "吹响！上低音号-中世古香织",
+      "vote": 261,
+      "rate_global": 21.19,
+      "rate_group": 3.42
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "吹响！上低音号-高坂丽奈",
+      "vote": 248,
+      "rate_global": 20.13,
+      "rate_group": 3.25
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "猫和老鼠-汤姆",
+      "vote": 234,
+      "rate_global": 18.99,
+      "rate_group": 3.07
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "某科学的超电磁炮-食蜂操祈",
+      "vote": 232,
+      "rate_global": 18.83,
+      "rate_group": 3.04
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "GIRLS BAND CRY-雏",
+      "vote": 225,
+      "rate_global": 18.26,
+      "rate_group": 2.95
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "水母-芽衣",
+      "vote": 222,
+      "rate_global": 18.02,
+      "rate_group": 2.91
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "BanG Dream!-和奏瑞依",
+      "vote": 216,
+      "rate_global": 17.53,
+      "rate_group": 2.83
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "吹响！上低音号-小笠原晴香",
+      "vote": 202,
+      "rate_global": 16.4,
+      "rate_group": 2.65
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "赛马娘-成田路",
+      "vote": 200,
+      "rate_global": 16.23,
+      "rate_group": 2.62
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "恋语轻唱-水口未希",
+      "vote": 183,
+      "rate_global": 14.85,
+      "rate_group": 2.4
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "Love Live 虹咲-樱坂雫",
+      "vote": 181,
+      "rate_global": 14.69,
+      "rate_group": 2.37
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "契约之吻-夕桐绫乃",
+      "vote": 179,
+      "rate_global": 14.53,
+      "rate_group": 2.35
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "败犬女主太多了！-温水佳树",
+      "vote": 177,
+      "rate_global": 14.37,
+      "rate_group": 2.32
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "BanG Dream!-市谷有咲",
+      "vote": 163,
+      "rate_global": 13.23,
+      "rate_group": 2.14
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "星灵感应-小之星海果",
+      "vote": 158,
+      "rate_global": 12.82,
+      "rate_group": 2.07
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "Love Live Superstar-平安名堇",
+      "vote": 142,
+      "rate_global": 11.53,
+      "rate_group": 1.86
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "摇曳百合-赤座灯里",
+      "vote": 142,
+      "rate_global": 11.53,
+      "rate_group": 1.86
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "寒蝉鸣泣之时-北条沙都子",
+      "vote": 139,
+      "rate_global": 11.28,
+      "rate_group": 1.82
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "Love Live 虹咲-三船栞子",
+      "vote": 135,
+      "rate_global": 10.96,
+      "rate_group": 1.77
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "BanG Dream!-冰川纱夜",
+      "vote": 127,
+      "rate_global": 10.31,
+      "rate_group": 1.67
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "街角魔族-吉田优子",
+      "vote": 123,
+      "rate_global": 9.98,
+      "rate_group": 1.61
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "某科学的超电磁炮-白井黑子",
+      "vote": 119,
+      "rate_global": 9.66,
+      "rate_group": 1.56
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "GIRLS BAND CRY-井芹仁菜",
+      "vote": 107,
+      "rate_global": 8.69,
+      "rate_group": 1.4
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "BanG Dream!-凑友希那",
+      "vote": 105,
+      "rate_global": 8.52,
+      "rate_group": 1.38
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "孤独摇滚-喜多郁代",
+      "vote": 101,
+      "rate_global": 8.2,
+      "rate_group": 1.32
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "寒蝉鸣泣之时-古手梨花",
+      "vote": 95,
+      "rate_global": 7.71,
+      "rate_group": 1.25
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "BanG Dream!-户山香澄",
+      "vote": 92,
+      "rate_global": 7.47,
+      "rate_group": 1.21
+    },
+    {
+      "group": 1,
+      "rank": 36,
+      "name": "某科学的超电磁炮-芙兰达",
+      "vote": 90,
+      "rate_global": 7.31,
+      "rate_group": 1.18
+    },
+    {
+      "group": 1,
+      "rank": 37,
+      "name": "GIRLS BAND CRY-RUPA",
+      "vote": 74,
+      "rate_global": 6.01,
+      "rate_group": 0.97
+    },
+    {
+      "group": 1,
+      "rank": 38,
+      "name": "赛马娘-北部玄驹",
+      "vote": 72,
+      "rate_global": 5.84,
+      "rate_group": 0.94
+    },
+    {
+      "group": 1,
+      "rank": 39,
+      "name": "孤独摇滚-后藤一里",
+      "vote": 69,
+      "rate_global": 5.6,
+      "rate_group": 0.91
+    },
+    {
+      "group": 1,
+      "rank": 40,
+      "name": "败犬女主太多了！-温水和彦",
+      "vote": 40,
+      "rate_global": 3.25,
+      "rate_group": 0.52
+    }
+  ]
+}

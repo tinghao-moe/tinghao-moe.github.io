@@ -1,0 +1,609 @@
+{
+  "name": "海选赛day3",
+  "time": "2024-08-07 23:00:48",
+  "voter": 1364,
+  "last_time": "2024-08-07 22:59:42",
+  "last_floor": "1664",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-若叶睦",
+      "vote": 1234,
+      "rate_global": 90.47,
+      "rate_group": 14.81
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "安达与岛村-岛村抱月",
+      "vote": 539,
+      "rate_global": 39.52,
+      "rate_group": 6.47
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "GIRLS BAND CRY-安和昴",
+      "vote": 522,
+      "rate_global": 38.27,
+      "rate_group": 6.26
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "我推的孩子-有马加奈",
+      "vote": 488,
+      "rate_global": 35.78,
+      "rate_group": 5.85
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "孤独摇滚-伊地知虹夏",
+      "vote": 446,
+      "rate_global": 32.7,
+      "rate_group": 5.35
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "败犬女主太多了！-烧盐柠檬",
+      "vote": 362,
+      "rate_global": 26.54,
+      "rate_group": 4.34
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "摇曳百合-赤座灯里",
+      "vote": 342,
+      "rate_global": 25.07,
+      "rate_group": 4.1
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "Love Live 虹咲-樱坂雫",
+      "vote": 308,
+      "rate_global": 22.58,
+      "rate_group": 3.7
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "结城友奈是勇者-高岛友奈",
+      "vote": 294,
+      "rate_global": 21.55,
+      "rate_group": 3.53
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "Love Live 虹咲-三船栞子",
+      "vote": 247,
+      "rate_global": 18.11,
+      "rate_group": 2.96
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "我推的孩子-星野露比",
+      "vote": 239,
+      "rate_global": 17.52,
+      "rate_group": 2.87
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "机动战士高达 水星的魔女-沙迪克",
+      "vote": 235,
+      "rate_global": 17.23,
+      "rate_group": 2.82
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "亦叶亦花-小父内凉叶",
+      "vote": 203,
+      "rate_global": 14.88,
+      "rate_group": 2.44
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "青猪少年-古贺朋绘",
+      "vote": 194,
+      "rate_global": 14.22,
+      "rate_group": 2.33
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "Love Live 虹咲-中须霞",
+      "vote": 190,
+      "rate_global": 13.93,
+      "rate_group": 2.28
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "BanG Dream!-白金燐子",
+      "vote": 159,
+      "rate_global": 11.66,
+      "rate_group": 1.91
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "BanG Dream!-珠手知由",
+      "vote": 152,
+      "rate_global": 11.14,
+      "rate_group": 1.82
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "末班列车去哪里？-千仓静留",
+      "vote": 143,
+      "rate_global": 10.48,
+      "rate_group": 1.72
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "机动战士高达 水星的魔女-斯莱塔",
+      "vote": 143,
+      "rate_global": 10.48,
+      "rate_group": 1.72
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "LoveLive Superstar-叶月恋",
+      "vote": 127,
+      "rate_global": 9.31,
+      "rate_group": 1.52
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "轻声俄语-玛利亚",
+      "vote": 124,
+      "rate_global": 9.09,
+      "rate_group": 1.49
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "海绵宝宝-海绵宝宝",
+      "vote": 119,
+      "rate_global": 8.72,
+      "rate_group": 1.43
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "Love Live 虹咲-米娅泰勒",
+      "vote": 105,
+      "rate_global": 7.7,
+      "rate_group": 1.26
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "为美好的世界献上祝福！-爱丽丝",
+      "vote": 105,
+      "rate_global": 7.7,
+      "rate_group": 1.26
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "Love Live 虹咲-近江彼方",
+      "vote": 103,
+      "rate_global": 7.55,
+      "rate_group": 1.24
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "World Dai Star-新妻八惠",
+      "vote": 103,
+      "rate_global": 7.55,
+      "rate_group": 1.24
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "魔法少女奈叶-菲特",
+      "vote": 94,
+      "rate_global": 6.89,
+      "rate_group": 1.13
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "机动战士高达 水星的魔女-米奥莉奈",
+      "vote": 94,
+      "rate_global": 6.89,
+      "rate_group": 1.13
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "家里蹲吸血姬的苦闷-朔奈",
+      "vote": 92,
+      "rate_global": 6.74,
+      "rate_group": 1.1
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "猫和老鼠-斯派克",
+      "vote": 81,
+      "rate_global": 5.94,
+      "rate_group": 0.97
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "迷宫饭-玛露西尔",
+      "vote": 80,
+      "rate_global": 5.87,
+      "rate_group": 0.96
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "死亡笔记-弥海砂",
+      "vote": 75,
+      "rate_global": 5.5,
+      "rate_group": 0.9
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "声优广播的台前幕后-渡边千佳",
+      "vote": 70,
+      "rate_global": 5.13,
+      "rate_group": 0.84
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "约会大作战-崇宫澪",
+      "vote": 54,
+      "rate_global": 3.96,
+      "rate_group": 0.65
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "超超超超超喜欢你的100个女朋友-院田唐音",
+      "vote": 45,
+      "rate_global": 3.3,
+      "rate_group": 0.54
+    },
+    {
+      "group": 1,
+      "rank": 36,
+      "name": "义妹生活-绫濑亚季子",
+      "vote": 33,
+      "rate_global": 2.42,
+      "rate_group": 0.4
+    },
+    {
+      "group": 1,
+      "rank": 37,
+      "name": "幻日的夜羽-千歌",
+      "vote": 33,
+      "rate_global": 2.42,
+      "rate_group": 0.4
+    },
+    {
+      "group": 1,
+      "rank": 38,
+      "name": "杖与剑的魔剑谭-柯蕾特",
+      "vote": 29,
+      "rate_global": 2.13,
+      "rate_group": 0.35
+    },
+    {
+      "group": 1,
+      "rank": 39,
+      "name": "超超超超超喜欢你的100个女朋友-好本静",
+      "vote": 27,
+      "rate_global": 1.98,
+      "rate_group": 0.32
+    },
+    {
+      "group": 1,
+      "rank": 40,
+      "name": "药屋少女的呢喃-壬氏",
+      "vote": 25,
+      "rate_global": 1.83,
+      "rate_group": 0.3
+    },
+    {
+      "group": 1,
+      "rank": 41,
+      "name": "末班列车去哪里？-久贺玲实",
+      "vote": 20,
+      "rate_global": 1.47,
+      "rate_group": 0.24
+    },
+    {
+      "group": 1,
+      "rank": 42,
+      "name": "超超超超超喜欢你的100个女朋友-爱城恋太郎",
+      "vote": 17,
+      "rate_global": 1.25,
+      "rate_group": 0.2
+    },
+    {
+      "group": 1,
+      "rank": 43,
+      "name": "16bit的感动-墨染希",
+      "vote": 17,
+      "rate_global": 1.25,
+      "rate_group": 0.2
+    },
+    {
+      "group": 1,
+      "rank": 44,
+      "name": "无法割舍恋情的双胞胎-神宫寺琉实",
+      "vote": 15,
+      "rate_global": 1.1,
+      "rate_group": 0.18
+    },
+    {
+      "group": 1,
+      "rank": 45,
+      "name": "欢迎来到实力至上主义教室-王美雨",
+      "vote": 14,
+      "rate_global": 1.03,
+      "rate_group": 0.17
+    },
+    {
+      "group": 1,
+      "rank": 46,
+      "name": "约会大作战-艾略特",
+      "vote": 14,
+      "rate_global": 1.03,
+      "rate_group": 0.17
+    },
+    {
+      "group": 1,
+      "rank": 47,
+      "name": "想要成为影之实力者-德尔塔",
+      "vote": 13,
+      "rate_global": 0.95,
+      "rate_group": 0.16
+    },
+    {
+      "group": 1,
+      "rank": 48,
+      "name": "2.5次元的诱惑-莉莉爱露",
+      "vote": 13,
+      "rate_global": 0.95,
+      "rate_group": 0.16
+    },
+    {
+      "group": 1,
+      "rank": 49,
+      "name": "小刻的画图写话-豆苗",
+      "vote": 12,
+      "rate_global": 0.88,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 50,
+      "name": "水母-铃村灯里",
+      "vote": 12,
+      "rate_global": 0.88,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 51,
+      "name": "X特遣队的奇幻之旅-哈莉·奎茵",
+      "vote": 12,
+      "rate_global": 0.88,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 52,
+      "name": "狂赌之渊-梦见弖优芽美",
+      "vote": 11,
+      "rate_global": 0.81,
+      "rate_group": 0.13
+    },
+    {
+      "group": 1,
+      "rank": 53,
+      "name": "我心里危险的东西-小林千寻",
+      "vote": 10,
+      "rate_global": 0.73,
+      "rate_group": 0.12
+    },
+    {
+      "group": 1,
+      "rank": 54,
+      "name": "守护甜心-日奈森亚梦",
+      "vote": 9,
+      "rate_global": 0.66,
+      "rate_group": 0.11
+    },
+    {
+      "group": 1,
+      "rank": 55,
+      "name": "经验丰富的你与经验为零的我交往的故事-黑濑海爱",
+      "vote": 8,
+      "rate_global": 0.59,
+      "rate_group": 0.1
+    },
+    {
+      "group": 1,
+      "rank": 56,
+      "name": "金田一少年事件簿-速水玲香",
+      "vote": 8,
+      "rate_global": 0.59,
+      "rate_group": 0.1
+    },
+    {
+      "group": 1,
+      "rank": 57,
+      "name": "轻声俄语-久世政近",
+      "vote": 7,
+      "rate_global": 0.51,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 58,
+      "name": "药屋少女的呢喃-玉叶妃",
+      "vote": 7,
+      "rate_global": 0.51,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 59,
+      "name": "偶像大师闪耀色彩-有栖川夏叶",
+      "vote": 7,
+      "rate_global": 0.51,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 60,
+      "name": "暗杀教室-矶贝悠马",
+      "vote": 6,
+      "rate_global": 0.44,
+      "rate_group": 0.07
+    },
+    {
+      "group": 1,
+      "rank": 61,
+      "name": "堤亚穆帝国物语-米雅",
+      "vote": 6,
+      "rate_global": 0.44,
+      "rate_group": 0.07
+    },
+    {
+      "group": 1,
+      "rank": 62,
+      "name": "杖与剑的魔剑谭-威尔",
+      "vote": 5,
+      "rate_global": 0.37,
+      "rate_group": 0.06
+    },
+    {
+      "group": 1,
+      "rank": 63,
+      "name": "不死不幸-穆",
+      "vote": 5,
+      "rate_global": 0.37,
+      "rate_group": 0.06
+    },
+    {
+      "group": 1,
+      "rank": 64,
+      "name": "X特遣队的奇幻之旅-菲奥娜",
+      "vote": 4,
+      "rate_global": 0.29,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 65,
+      "name": "狂赌之渊双-乾千岁",
+      "vote": 3,
+      "rate_global": 0.22,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 66,
+      "name": "女神的露天咖啡厅-鹤河秋水",
+      "vote": 3,
+      "rate_global": 0.22,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 67,
+      "name": "里亚德录大地-梅",
+      "vote": 3,
+      "rate_global": 0.22,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 68,
+      "name": "欢迎来到实力至上主义教室-松下千秋",
+      "vote": 3,
+      "rate_global": 0.22,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 69,
+      "name": "圣剑学院的魔剑使-蕾吉娜",
+      "vote": 3,
+      "rate_global": 0.22,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 70,
+      "name": "爷爷奶奶返老还童-斋藤正藏",
+      "vote": 2,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 71,
+      "name": "我的妻子没有感情-小杉拓马",
+      "vote": 2,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 72,
+      "name": "变态王子与不笑猫-胖太",
+      "vote": 2,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 73,
+      "name": "身为VTuber的我因为忘记关台而成了传说-柳濑Chami",
+      "vote": 2,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 74,
+      "name": "经验丰富的你与经验为零的我交往的故事-加岛龙斗",
+      "vote": 1,
+      "rate_global": 0.07,
+      "rate_group": 0.01
+    },
+    {
+      "group": 1,
+      "rank": 75,
+      "name": "我独自升级-刘晨浩",
+      "vote": 1,
+      "rate_global": 0.07,
+      "rate_group": 0.01
+    }
+  ]
+}

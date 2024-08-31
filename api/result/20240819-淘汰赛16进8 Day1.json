@@ -1,0 +1,73 @@
+{
+  "name": "淘汰赛16进8 Day1",
+  "time": "2024-08-19 23:01:25",
+  "voter": 2360,
+  "last_time": "2024-08-19 22:59:59",
+  "last_floor": "2934",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-椎名立希",
+      "vote": 1775,
+      "rate_global": 75.21,
+      "rate_group": 80.14
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "星灵感应-明内幽",
+      "vote": 440,
+      "rate_global": 18.64,
+      "rate_group": 19.86
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-三角初华",
+      "vote": 1142,
+      "rate_global": 48.39,
+      "rate_group": 50.04
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "吹响！上低音号-久石奏",
+      "vote": 1140,
+      "rate_global": 48.31,
+      "rate_group": 49.96
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "恋语轻唱-泉志帆",
+      "vote": 1210,
+      "rate_global": 51.27,
+      "rate_group": 62.86
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "突击莉莉-枫",
+      "vote": 715,
+      "rate_global": 30.3,
+      "rate_group": 37.14
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-若叶睦",
+      "vote": 1859,
+      "rate_global": 78.77,
+      "rate_group": 83.48
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "少女歌剧-神乐光",
+      "vote": 368,
+      "rate_global": 15.59,
+      "rate_group": 16.52
+    }
+  ]
+}
