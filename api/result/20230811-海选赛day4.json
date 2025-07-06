@@ -1,0 +1,465 @@
+{
+    "name": "海选赛day4",
+    "time": "2023-08-11 23:00:00",
+    "voter": 551,
+    "last_time": "2023-08-11 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "Love Live 虹咲-优木雪菜",
+            "vote": 401,
+            "rate_global": 72.78,
+            "rate_group": 12.63
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "BanG Dream! It's MyGO!!!!!-三角初华",
+            "vote": 379,
+            "rate_global": 68.78,
+            "rate_group": 11.94
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "处刑少女的生存之道-茉茉",
+            "vote": 307,
+            "rate_global": 55.72,
+            "rate_group": 9.67
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "突击莉莉-枫·J·努韦尔",
+            "vote": 278,
+            "rate_global": 50.45,
+            "rate_group": 8.76
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "魔法纪录-由比鹤乃",
+            "vote": 221,
+            "rate_global": 40.11,
+            "rate_group": 6.96
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "World Dai Star-凤心菜",
+            "vote": 169,
+            "rate_global": 30.67,
+            "rate_group": 5.32
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "我推的孩子-黑川茜",
+            "vote": 165,
+            "rate_global": 29.95,
+            "rate_group": 5.2
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "我的百合乃工作是也!-知花纯加",
+            "vote": 146,
+            "rate_global": 26.5,
+            "rate_group": 4.6
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "满月之战-小日向满月",
+            "vote": 131,
+            "rate_global": 23.77,
+            "rate_group": 4.13
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "Love Live-矢泽妮可",
+            "vote": 130,
+            "rate_global": 23.59,
+            "rate_group": 4.09
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "机动战士高达水星的魔女-尼卡·七浦",
+            "vote": 86,
+            "rate_global": 15.61,
+            "rate_group": 2.71
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "异世界舅舅-精灵",
+            "vote": 79,
+            "rate_global": 14.34,
+            "rate_group": 2.49
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "奇蛋物语-川井璃夏",
+            "vote": 68,
+            "rate_global": 12.34,
+            "rate_group": 2.14
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "NEWGAME!-樱宁宁",
+            "vote": 59,
+            "rate_global": 10.71,
+            "rate_group": 1.86
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "幻日的夜羽-果南",
+            "vote": 55,
+            "rate_global": 9.98,
+            "rate_group": 1.73
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "别当欧尼酱了-穗月椛",
+            "vote": 54,
+            "rate_global": 9.8,
+            "rate_group": 1.7
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "名侦探柯南-毛利兰",
+            "vote": 41,
+            "rate_global": 7.44,
+            "rate_group": 1.29
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "偶像大师 灰姑娘女孩 U149-的场梨沙",
+            "vote": 41,
+            "rate_global": 7.44,
+            "rate_group": 1.29
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "名侦探柯南-吉田步美",
+            "vote": 39,
+            "rate_global": 7.08,
+            "rate_group": 1.23
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "成龙历险记-陈小玉",
+            "vote": 38,
+            "rate_global": 6.9,
+            "rate_group": 1.2
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "明日方舟 黎明前奏-阿米娅",
+            "vote": 34,
+            "rate_global": 6.17,
+            "rate_group": 1.07
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "别当欧尼酱了-穗月枫",
+            "vote": 27,
+            "rate_global": 4.9,
+            "rate_group": 0.85
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "恋爱flops-白梦华",
+            "vote": 25,
+            "rate_global": 4.54,
+            "rate_group": 0.79
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "天使降临我身边-小之森夏音",
+            "vote": 24,
+            "rate_global": 4.36,
+            "rate_group": 0.76
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "咒术回战-夏油杰",
+            "vote": 18,
+            "rate_global": 3.27,
+            "rate_group": 0.57
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "想要成为影之实力者-阿蕾克西雅·米德嘉尔",
+            "vote": 18,
+            "rate_global": 3.27,
+            "rate_group": 0.57
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "偶像大师 灰姑娘女孩 U149-一之濑志希",
+            "vote": 18,
+            "rate_global": 3.27,
+            "rate_group": 0.57
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "游戏王-武藤游戏",
+            "vote": 16,
+            "rate_global": 2.9,
+            "rate_group": 0.5
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "蓝色监狱-洁世一",
+            "vote": 11,
+            "rate_global": 2.0,
+            "rate_group": 0.35
+        },
+        {
+            "group": 1,
+            "rank": 30,
+            "name": "偶像大师 灰姑娘女孩 U149-片桐早苗",
+            "vote": 10,
+            "rate_global": 1.81,
+            "rate_group": 0.31
+        },
+        {
+            "group": 1,
+            "rank": 31,
+            "name": "IDOLY PRIDE-早坂芽衣",
+            "vote": 8,
+            "rate_global": 1.45,
+            "rate_group": 0.25
+        },
+        {
+            "group": 1,
+            "rank": 32,
+            "name": "平凡职业造就世界最强-白崎香织",
+            "vote": 7,
+            "rate_global": 1.27,
+            "rate_group": 0.22
+        },
+        {
+            "group": 1,
+            "rank": 33,
+            "name": "无能的奈奈-中岛七男",
+            "vote": 7,
+            "rate_global": 1.27,
+            "rate_group": 0.22
+        },
+        {
+            "group": 1,
+            "rank": 34,
+            "name": "恋爱flops-伊集院好雄",
+            "vote": 6,
+            "rate_global": 1.09,
+            "rate_group": 0.19
+        },
+        {
+            "group": 1,
+            "rank": 35,
+            "name": "哆啦A梦-野比伸助",
+            "vote": 6,
+            "rate_global": 1.09,
+            "rate_group": 0.19
+        },
+        {
+            "group": 1,
+            "rank": 36,
+            "name": "妖幻三重奏-花奏铃",
+            "vote": 6,
+            "rate_global": 1.09,
+            "rate_group": 0.19
+        },
+        {
+            "group": 1,
+            "rank": 37,
+            "name": "World Dai Star-白丸美兔",
+            "vote": 5,
+            "rate_global": 0.91,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 38,
+            "name": "浪客剑心 明治剑客浪漫谭-绯村剑心",
+            "vote": 5,
+            "rate_global": 0.91,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 39,
+            "name": "Fate strange Fake-弗拉特·艾斯卡尔德斯",
+            "vote": 5,
+            "rate_global": 0.91,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 40,
+            "name": "无良公会-艾诺梅",
+            "vote": 4,
+            "rate_global": 0.73,
+            "rate_group": 0.13
+        },
+        {
+            "group": 1,
+            "rank": 41,
+            "name": "英雄王，为了穷尽武道而转生-英格莉丝",
+            "vote": 4,
+            "rate_global": 0.73,
+            "rate_group": 0.13
+        },
+        {
+            "group": 1,
+            "rank": 42,
+            "name": "Fate strange Fake-弗兰切斯卡·普勒拉蒂",
+            "vote": 4,
+            "rate_global": 0.73,
+            "rate_group": 0.13
+        },
+        {
+            "group": 1,
+            "rank": 43,
+            "name": "幻想嘉年华-杀生院祈荒",
+            "vote": 3,
+            "rate_global": 0.54,
+            "rate_group": 0.09
+        },
+        {
+            "group": 1,
+            "rank": 44,
+            "name": "为美好的世界献上爆焰！-富尼费拉",
+            "vote": 3,
+            "rate_global": 0.54,
+            "rate_group": 0.09
+        },
+        {
+            "group": 1,
+            "rank": 45,
+            "name": "我推的孩子-森本剑吾",
+            "vote": 2,
+            "rate_global": 0.36,
+            "rate_group": 0.06
+        },
+        {
+            "group": 1,
+            "rank": 46,
+            "name": "异世界一击无双姐姐-谭雅",
+            "vote": 1,
+            "rate_global": 0.18,
+            "rate_group": 0.03
+        },
+        {
+            "group": 1,
+            "rank": 47,
+            "name": "僵尸百分百-贝雅托里斯·阿默豪瑟",
+            "vote": 1,
+            "rate_global": 0.18,
+            "rate_group": 0.03
+        },
+        {
+            "group": 1,
+            "rank": 48,
+            "name": "星掠者-一支濑咲",
+            "vote": 1,
+            "rate_global": 0.18,
+            "rate_group": 0.03
+        },
+        {
+            "group": 1,
+            "rank": 49,
+            "name": "星掠者-坂井阳菜",
+            "vote": 1,
+            "rate_global": 0.18,
+            "rate_group": 0.03
+        },
+        {
+            "group": 1,
+            "rank": 50,
+            "name": "第二次被异世界召唤-缇娅·阿姆雷特",
+            "vote": 1,
+            "rate_global": 0.18,
+            "rate_group": 0.03
+        },
+        {
+            "group": 1,
+            "rank": 51,
+            "name": "火影忍者-静音",
+            "vote": 1,
+            "rate_global": 0.18,
+            "rate_group": 0.03
+        },
+        {
+            "group": 1,
+            "rank": 52,
+            "name": "五星物语-爱夏·红坛鼎",
+            "vote": 1,
+            "rate_global": 0.18,
+            "rate_group": 0.03
+        },
+        {
+            "group": 1,
+            "rank": 53,
+            "name": "魔具少女-雨渡穰华",
+            "vote": 1,
+            "rate_global": 0.18,
+            "rate_group": 0.03
+        },
+        {
+            "group": 1,
+            "rank": 54,
+            "name": "宇崎酱想要玩耍-宇崎藤生",
+            "vote": 1,
+            "rate_global": 0.18,
+            "rate_group": 0.03
+        },
+        {
+            "group": 1,
+            "rank": 55,
+            "name": "英雄教室-阿妮斯特·弗莱明",
+            "vote": 1,
+            "rate_global": 0.18,
+            "rate_group": 0.03
+        },
+        {
+            "group": 1,
+            "rank": 56,
+            "name": "第二次被异世界召唤-埃尔卡",
+            "vote": 1,
+            "rate_global": 0.18,
+            "rate_group": 0.03
+        },
+        {
+            "group": 1,
+            "rank": 57,
+            "name": "异世界魔王与召唤少女的奴隶魔术-芭芭珑",
+            "vote": 1,
+            "rate_global": 0.18,
+            "rate_group": 0.03
+        }
+    ]
+}
