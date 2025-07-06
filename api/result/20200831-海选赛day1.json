@@ -1,0 +1,337 @@
+{
+    "name": "海选赛day1",
+    "time": "2020-08-31 23:00:00",
+    "voter": 218,
+    "last_time": "2020-08-31 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "我的青春恋爱物语果然有问题-由比滨结衣",
+            "vote": 119,
+            "rate_global": 54.59,
+            "rate_group": 10.08
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "刀使巫女-柳濑舞衣",
+            "vote": 109,
+            "rate_global": 50.0,
+            "rate_group": 9.23
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "龙与虎-栉枝实乃梨",
+            "vote": 100,
+            "rate_global": 45.87,
+            "rate_group": 8.47
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "青春猪头少年-古贺朋绘",
+            "vote": 74,
+            "rate_global": 33.94,
+            "rate_group": 6.27
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "街角魔族-千代田桃",
+            "vote": 69,
+            "rate_global": 31.65,
+            "rate_group": 5.84
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "伪恋-橘万里花",
+            "vote": 69,
+            "rate_global": 31.65,
+            "rate_group": 5.84
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "吹响！上低音号-塚本秀一",
+            "vote": 68,
+            "rate_global": 31.19,
+            "rate_group": 5.76
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "街角魔族-吉田优子",
+            "vote": 65,
+            "rate_global": 29.82,
+            "rate_group": 5.5
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "街角魔族-莉莉丝",
+            "vote": 50,
+            "rate_global": 22.94,
+            "rate_group": 4.23
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "月影特工-相模枫",
+            "vote": 44,
+            "rate_global": 20.18,
+            "rate_group": 3.73
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "恋爱小行星-猪濑舞",
+            "vote": 43,
+            "rate_global": 19.72,
+            "rate_group": 3.64
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "22/7-泷川美羽",
+            "vote": 39,
+            "rate_global": 17.89,
+            "rate_group": 3.3
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "一个人的OO小日子-本庄阿鲁",
+            "vote": 37,
+            "rate_global": 16.97,
+            "rate_group": 3.13
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "黄金拼图-九条可怜",
+            "vote": 34,
+            "rate_global": 15.6,
+            "rate_group": 2.88
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "CLANNAD-春原阳平",
+            "vote": 30,
+            "rate_global": 13.76,
+            "rate_group": 2.54
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "恋爱小行星-真中苍",
+            "vote": 30,
+            "rate_global": 13.76,
+            "rate_group": 2.54
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "因为太怕痛就全点防御力了-梅普露",
+            "vote": 20,
+            "rate_global": 9.17,
+            "rate_group": 1.69
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "公主连结Re Dive-佩可莉姆",
+            "vote": 17,
+            "rate_global": 7.8,
+            "rate_group": 1.44
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "街角魔族-佐田杏里",
+            "vote": 17,
+            "rate_global": 7.8,
+            "rate_group": 1.44
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "CODEGEASS-尤菲米娅.Li.布里塔尼亚",
+            "vote": 15,
+            "rate_global": 6.88,
+            "rate_group": 1.27
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "Ef系列-雨宫优子",
+            "vote": 15,
+            "rate_global": 6.88,
+            "rate_group": 1.27
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "WIXOSS-苍井晶",
+            "vote": 15,
+            "rate_global": 6.88,
+            "rate_group": 1.27
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "街角魔族-小仓诗音",
+            "vote": 14,
+            "rate_global": 6.42,
+            "rate_group": 1.19
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "异度侵入-鸣瓢秋人",
+            "vote": 13,
+            "rate_global": 5.96,
+            "rate_group": 1.1
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "黄金拼图-猪熊阳子",
+            "vote": 12,
+            "rate_global": 5.5,
+            "rate_group": 1.02
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "洲崎西-内山夕实",
+            "vote": 9,
+            "rate_global": 4.13,
+            "rate_group": 0.76
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "某魔法的禁书目录-月咏小萌",
+            "vote": 8,
+            "rate_global": 3.67,
+            "rate_group": 0.68
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "SHUFFLE-芙蓉枫",
+            "vote": 6,
+            "rate_global": 2.75,
+            "rate_group": 0.51
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "恋与制作人-我",
+            "vote": 6,
+            "rate_global": 2.75,
+            "rate_group": 0.51
+        },
+        {
+            "group": 1,
+            "rank": 30,
+            "name": "BanG Dream!-桐谷透子",
+            "vote": 5,
+            "rate_global": 2.29,
+            "rate_group": 0.42
+        },
+        {
+            "group": 1,
+            "rank": 31,
+            "name": "公主连结Re Dive-石桥步未",
+            "vote": 4,
+            "rate_global": 1.83,
+            "rate_group": 0.34
+        },
+        {
+            "group": 1,
+            "rank": 32,
+            "name": "迦南-梁琪",
+            "vote": 4,
+            "rate_global": 1.83,
+            "rate_group": 0.34
+        },
+        {
+            "group": 1,
+            "rank": 33,
+            "name": "斯特拉的魔法-关菖蒲",
+            "vote": 4,
+            "rate_global": 1.83,
+            "rate_group": 0.34
+        },
+        {
+            "group": 1,
+            "rank": 34,
+            "name": "无彩限的怪灵世界-川神舞",
+            "vote": 4,
+            "rate_global": 1.83,
+            "rate_group": 0.34
+        },
+        {
+            "group": 1,
+            "rank": 35,
+            "name": "Ange Vierge-彩城天音",
+            "vote": 3,
+            "rate_global": 1.38,
+            "rate_group": 0.25
+        },
+        {
+            "group": 1,
+            "rank": 36,
+            "name": "HELLO WORLD-坚书直实",
+            "vote": 3,
+            "rate_global": 1.38,
+            "rate_group": 0.25
+        },
+        {
+            "group": 1,
+            "rank": 37,
+            "name": "普通女高中生要做当地偶像-柏叶五月",
+            "vote": 3,
+            "rate_global": 1.38,
+            "rate_group": 0.25
+        },
+        {
+            "group": 1,
+            "rank": 38,
+            "name": "Little Busters!-直枝理树",
+            "vote": 1,
+            "rate_global": 0.46,
+            "rate_group": 0.08
+        },
+        {
+            "group": 1,
+            "rank": 39,
+            "name": "公主连结Re Dive-森近铃",
+            "vote": 1,
+            "rate_global": 0.46,
+            "rate_group": 0.08
+        },
+        {
+            "group": 1,
+            "rank": 40,
+            "name": "恋与制作人-周棋洛",
+            "vote": 1,
+            "rate_global": 0.46,
+            "rate_group": 0.08
+        },
+        {
+            "group": 1,
+            "rank": 41,
+            "name": "擅长捉弄的高木同学-西片",
+            "vote": 1,
+            "rate_global": 0.46,
+            "rate_group": 0.08
+        }
+    ]
+}

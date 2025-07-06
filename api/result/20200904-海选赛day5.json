@@ -1,0 +1,337 @@
+{
+    "name": "海选赛day5",
+    "time": "2020-09-04 23:00:00",
+    "voter": 177,
+    "last_time": "2020-09-04 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "天使降临我身边-姬坂乃爱",
+            "vote": 115,
+            "rate_global": 64.97,
+            "rate_group": 14.86
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "魔法纪录-七海八千代",
+            "vote": 98,
+            "rate_global": 55.37,
+            "rate_group": 12.66
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "结城友奈是勇者-乃木园子",
+            "vote": 95,
+            "rate_global": 53.67,
+            "rate_group": 12.27
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "少女歌剧-大场奈奈",
+            "vote": 92,
+            "rate_global": 51.98,
+            "rate_group": 11.89
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "某科学的超电磁炮-食蜂操祈",
+            "vote": 70,
+            "rate_global": 39.55,
+            "rate_group": 9.04
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "龙与虎-川岛亚美",
+            "vote": 46,
+            "rate_global": 25.99,
+            "rate_group": 5.94
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "宝石幻想光芒重现-缇亚拉",
+            "vote": 31,
+            "rate_global": 17.51,
+            "rate_group": 4.01
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "黄金拼图-爱丽丝，卡塔雷特",
+            "vote": 30,
+            "rate_global": 16.95,
+            "rate_group": 3.88
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "因为太怕痛就全点防御力了-莎莉",
+            "vote": 27,
+            "rate_global": 15.25,
+            "rate_group": 3.49
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "CLANNAD-宫泽有纪宁",
+            "vote": 11,
+            "rate_global": 6.21,
+            "rate_group": 1.42
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "知晓天空之蓝的人啊-相生茜",
+            "vote": 11,
+            "rate_global": 6.21,
+            "rate_group": 1.42
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "租借女友-水原千鹤",
+            "vote": 11,
+            "rate_global": 6.21,
+            "rate_group": 1.42
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "BEASTARS-春",
+            "vote": 9,
+            "rate_global": 5.08,
+            "rate_group": 1.16
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "异度侵入-富久田保津",
+            "vote": 9,
+            "rate_global": 5.08,
+            "rate_group": 1.16
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "昨日之歌-鱼住陆生",
+            "vote": 9,
+            "rate_global": 5.08,
+            "rate_group": 1.16
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "Little Busters!-枣恭介",
+            "vote": 8,
+            "rate_global": 4.52,
+            "rate_group": 1.03
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "花开伊吕波-鹤来民子",
+            "vote": 8,
+            "rate_global": 4.52,
+            "rate_group": 1.03
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "BanG Dream!-仓田真白",
+            "vote": 7,
+            "rate_global": 3.95,
+            "rate_group": 0.9
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "CLANNAD-志麻贺津纪",
+            "vote": 7,
+            "rate_global": 3.95,
+            "rate_group": 0.9
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "公主连结Re Dive-柏崎初音",
+            "vote": 7,
+            "rate_global": 3.95,
+            "rate_group": 0.9
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "公主连结Re Dive-佑树",
+            "vote": 7,
+            "rate_global": 3.95,
+            "rate_group": 0.9
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "向阳素描-沙英",
+            "vote": 7,
+            "rate_global": 3.95,
+            "rate_group": 0.9
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "CLANNAD-春原芽衣",
+            "vote": 6,
+            "rate_global": 3.39,
+            "rate_group": 0.78
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "公主连结Re Dive-莉玛",
+            "vote": 6,
+            "rate_global": 3.39,
+            "rate_group": 0.78
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "某魔法的禁书目录-最后之作",
+            "vote": 6,
+            "rate_global": 3.39,
+            "rate_group": 0.78
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "目隐都市的演绎者-楯山文乃",
+            "vote": 6,
+            "rate_global": 3.39,
+            "rate_group": 0.78
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "街角魔族-吉田清子",
+            "vote": 5,
+            "rate_global": 2.82,
+            "rate_group": 0.65
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "普通女高中生要做当地偶像-宇佐美奈奈子",
+            "vote": 5,
+            "rate_global": 2.82,
+            "rate_group": 0.65
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "洲崎西-西明日香",
+            "vote": 5,
+            "rate_global": 2.82,
+            "rate_group": 0.65
+        },
+        {
+            "group": 1,
+            "rank": 30,
+            "name": "FRAME ARMS GIRL-短剑",
+            "vote": 4,
+            "rate_global": 2.26,
+            "rate_group": 0.52
+        },
+        {
+            "group": 1,
+            "rank": 31,
+            "name": "魔法少女什么的已经够了啦-篠木真冬",
+            "vote": 3,
+            "rate_global": 1.69,
+            "rate_group": 0.39
+        },
+        {
+            "group": 1,
+            "rank": 32,
+            "name": "玉子市场-梅查·莫奇马兹",
+            "vote": 3,
+            "rate_global": 1.69,
+            "rate_group": 0.39
+        },
+        {
+            "group": 1,
+            "rank": 33,
+            "name": "宅男腐女恋爱真难-小柳花子",
+            "vote": 3,
+            "rate_global": 1.69,
+            "rate_group": 0.39
+        },
+        {
+            "group": 1,
+            "rank": 34,
+            "name": "没落要塞-枣",
+            "vote": 2,
+            "rate_global": 1.13,
+            "rate_group": 0.26
+        },
+        {
+            "group": 1,
+            "rank": 35,
+            "name": "赛马娘-艾尼斯风神",
+            "vote": 2,
+            "rate_global": 1.13,
+            "rate_group": 0.26
+        },
+        {
+            "group": 1,
+            "rank": 36,
+            "name": "Ange Vierge-蕾米艾露",
+            "vote": 1,
+            "rate_global": 0.56,
+            "rate_group": 0.13
+        },
+        {
+            "group": 1,
+            "rank": 37,
+            "name": "Little Busters!-川越令",
+            "vote": 1,
+            "rate_global": 0.56,
+            "rate_group": 0.13
+        },
+        {
+            "group": 1,
+            "rank": 38,
+            "name": "拳皇-拉尔夫·琼斯",
+            "vote": 1,
+            "rate_global": 0.56,
+            "rate_group": 0.13
+        },
+        {
+            "group": 1,
+            "rank": 39,
+            "name": "Ange Vierge-艾露艾露",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 40,
+            "name": "Ange Vierge-日向美海",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 41,
+            "name": "花开伊吕波-四十万缘",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        }
+    ]
+}

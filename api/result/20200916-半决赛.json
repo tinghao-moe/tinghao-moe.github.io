@@ -1,0 +1,41 @@
+{
+    "name": "半决赛",
+    "time": "2020-09-16 23:00:00",
+    "voter": 423,
+    "last_time": "2020-09-16 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "魔法纪录-由比鹤乃",
+            "vote": 197,
+            "rate_global": 46.57,
+            "rate_group": 50.77
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "利兹与青鸟-伞木希美",
+            "vote": 191,
+            "rate_global": 45.15,
+            "rate_group": 49.23
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "赛马娘-草上飞",
+            "vote": 213,
+            "rate_global": 50.35,
+            "rate_group": 60.0
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "满月之战-小日向满月",
+            "vote": 142,
+            "rate_global": 33.57,
+            "rate_group": 40.0
+        }
+    ]
+}

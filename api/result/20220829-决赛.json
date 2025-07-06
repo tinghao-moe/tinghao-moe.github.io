@@ -1,0 +1,41 @@
+{
+    "name": "决赛",
+    "time": "2022-08-29 23:00:00",
+    "voter": 876,
+    "last_time": "2022-08-29 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "少女歌剧-爱城华恋",
+            "vote": 475,
+            "rate_global": 54.22,
+            "rate_group": 55.36
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "魔法纪录-梓美冬",
+            "vote": 383,
+            "rate_global": 43.72,
+            "rate_group": 44.64
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "处刑少女的生存之道-茉茉",
+            "vote": 438,
+            "rate_global": 50.0,
+            "rate_group": 56.88
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "Love Live 虹咲-钟岚珠",
+            "vote": 332,
+            "rate_global": 37.9,
+            "rate_group": 43.12
+        }
+    ]
+}

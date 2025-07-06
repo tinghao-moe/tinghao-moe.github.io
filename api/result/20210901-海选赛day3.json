@@ -1,0 +1,409 @@
+{
+    "name": "海选赛day3",
+    "time": "2021-09-01 23:00:00",
+    "voter": 334,
+    "last_time": "2021-09-01 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "魔法纪录-梓美冬",
+            "vote": 216,
+            "rate_global": 64.67,
+            "rate_group": 10.65
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "突击莉莉-枫·J·努韦尔",
+            "vote": 203,
+            "rate_global": 60.78,
+            "rate_group": 10.0
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "Love Live 虹咲-高咲侑",
+            "vote": 194,
+            "rate_global": 58.08,
+            "rate_group": 9.56
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "街角魔族-阳夏木蜜柑",
+            "vote": 164,
+            "rate_global": 49.1,
+            "rate_group": 8.08
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "安达与岛村-樽见",
+            "vote": 142,
+            "rate_global": 42.51,
+            "rate_group": 7.0
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "Love Live 虹咲-樱坂雫",
+            "vote": 133,
+            "rate_global": 39.82,
+            "rate_group": 6.55
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "Love Live-南小鸟",
+            "vote": 114,
+            "rate_global": 34.13,
+            "rate_group": 5.62
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "刀使巫女-燕结芽",
+            "vote": 101,
+            "rate_global": 30.24,
+            "rate_group": 4.98
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "摇曳百合-赤座灯里",
+            "vote": 80,
+            "rate_global": 23.95,
+            "rate_group": 3.94
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "Love Live 虹咲-天王寺璃奈",
+            "vote": 75,
+            "rate_global": 22.46,
+            "rate_group": 3.7
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "赛马娘-米浴",
+            "vote": 73,
+            "rate_global": 21.86,
+            "rate_group": 3.6
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "来自风平浪静的明天-潮留美海",
+            "vote": 67,
+            "rate_global": 20.06,
+            "rate_group": 3.3
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "摇曳百合-杉浦绫乃",
+            "vote": 61,
+            "rate_global": 18.26,
+            "rate_group": 3.01
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "Love Live 虹咲-艾玛·维尔德",
+            "vote": 60,
+            "rate_global": 17.96,
+            "rate_group": 2.96
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "Love Live 虹咲-近江彼方",
+            "vote": 57,
+            "rate_global": 17.07,
+            "rate_group": 2.81
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "剧偶像-榊原薰",
+            "vote": 42,
+            "rate_global": 12.57,
+            "rate_group": 2.07
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "电玩咖-星之守千秋",
+            "vote": 27,
+            "rate_global": 8.08,
+            "rate_group": 1.33
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "高校舰队-知床铃",
+            "vote": 22,
+            "rate_global": 6.59,
+            "rate_group": 1.08
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "佐贺偶像是传奇-二阶堂咲",
+            "vote": 22,
+            "rate_global": 6.59,
+            "rate_group": 1.08
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "战姬绝唱-立花响",
+            "vote": 20,
+            "rate_global": 5.99,
+            "rate_group": 0.99
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "DARLING in the FRANXX-五郎",
+            "vote": 19,
+            "rate_global": 5.69,
+            "rate_group": 0.94
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "弱势角色友崎君-七海深奈实",
+            "vote": 19,
+            "rate_global": 5.69,
+            "rate_group": 0.94
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "Tropical Rouge光之美少女-凉村珊瑚",
+            "vote": 12,
+            "rate_global": 3.59,
+            "rate_group": 0.59
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "SSSS.DYNAZENON-貉",
+            "vote": 11,
+            "rate_global": 3.29,
+            "rate_group": 0.54
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "摇曳百合-岁纳京子",
+            "vote": 9,
+            "rate_global": 2.69,
+            "rate_group": 0.44
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "突击莉莉-米莉亚姆",
+            "vote": 8,
+            "rate_global": 2.4,
+            "rate_group": 0.39
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "奇巧计程车-市村志帆",
+            "vote": 7,
+            "rate_global": 2.1,
+            "rate_group": 0.34
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "赛马娘-南坂",
+            "vote": 7,
+            "rate_global": 2.1,
+            "rate_group": 0.34
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "突击莉莉-宫川高岭",
+            "vote": 7,
+            "rate_global": 2.1,
+            "rate_group": 0.34
+        },
+        {
+            "group": 1,
+            "rank": 30,
+            "name": "斯特拉的魔法-布田裕美音",
+            "vote": 6,
+            "rate_global": 1.8,
+            "rate_group": 0.3
+        },
+        {
+            "group": 1,
+            "rank": 31,
+            "name": "总之就是非常可爱-有栖川要",
+            "vote": 6,
+            "rate_global": 1.8,
+            "rate_group": 0.3
+        },
+        {
+            "group": 1,
+            "rank": 32,
+            "name": "SHOW BY ROCK-希安",
+            "vote": 5,
+            "rate_global": 1.5,
+            "rate_group": 0.25
+        },
+        {
+            "group": 1,
+            "rank": 33,
+            "name": "来自风平浪静的明天-木原纺",
+            "vote": 5,
+            "rate_global": 1.5,
+            "rate_group": 0.25
+        },
+        {
+            "group": 1,
+            "rank": 34,
+            "name": "弱势角色友崎君-日南葵",
+            "vote": 4,
+            "rate_global": 1.2,
+            "rate_group": 0.2
+        },
+        {
+            "group": 1,
+            "rank": 35,
+            "name": "幸运星-黑井奈那子",
+            "vote": 4,
+            "rate_global": 1.2,
+            "rate_group": 0.2
+        },
+        {
+            "group": 1,
+            "rank": 36,
+            "name": "咒术回战-吉野顺平",
+            "vote": 4,
+            "rate_global": 1.2,
+            "rate_group": 0.2
+        },
+        {
+            "group": 1,
+            "rank": 37,
+            "name": "开挂药师的奇幻世界悠闲生活-米娜",
+            "vote": 3,
+            "rate_global": 0.9,
+            "rate_group": 0.15
+        },
+        {
+            "group": 1,
+            "rank": 38,
+            "name": "漂流少年-希",
+            "vote": 3,
+            "rate_global": 0.9,
+            "rate_group": 0.15
+        },
+        {
+            "group": 1,
+            "rank": 39,
+            "name": "转生史莱姆-利姆鲁",
+            "vote": 3,
+            "rate_global": 0.9,
+            "rate_group": 0.15
+        },
+        {
+            "group": 1,
+            "rank": 40,
+            "name": "平稳世代的韦驮天们-未来",
+            "vote": 2,
+            "rate_global": 0.6,
+            "rate_group": 0.1
+        },
+        {
+            "group": 1,
+            "rank": 41,
+            "name": "奇蛋物语-川井千秋",
+            "vote": 2,
+            "rate_global": 0.6,
+            "rate_group": 0.1
+        },
+        {
+            "group": 1,
+            "rank": 42,
+            "name": "游戏王SEVENS-雾岛露亚",
+            "vote": 2,
+            "rate_global": 0.6,
+            "rate_group": 0.1
+        },
+        {
+            "group": 1,
+            "rank": 43,
+            "name": "Kanon-北川润",
+            "vote": 1,
+            "rate_global": 0.3,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 44,
+            "name": "SSSS.DYNAZENON-阿诺西拉斯",
+            "vote": 1,
+            "rate_global": 0.3,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 45,
+            "name": "回转企鹅罐-渡濑真悧",
+            "vote": 1,
+            "rate_global": 0.3,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 46,
+            "name": "交响诗篇-大熊博士",
+            "vote": 1,
+            "rate_global": 0.3,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 47,
+            "name": "堀与宫村-堀百合子",
+            "vote": 1,
+            "rate_global": 0.3,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 48,
+            "name": "来自风平浪静的明天-先岛明里",
+            "vote": 1,
+            "rate_global": 0.3,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 49,
+            "name": "偶像大师 灰姑娘女孩-三村加奈子",
+            "vote": 1,
+            "rate_global": 0.3,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 50,
+            "name": "死神少爷与黑女仆-维奥拉",
+            "vote": 1,
+            "rate_global": 0.3,
+            "rate_group": 0.05
+        }
+    ]
+}

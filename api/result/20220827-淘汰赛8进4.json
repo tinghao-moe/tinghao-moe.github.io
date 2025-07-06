@@ -1,0 +1,73 @@
+{
+    "name": "淘汰赛8进4",
+    "time": "2022-08-27 23:00:00",
+    "voter": 551,
+    "last_time": "2022-08-27 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "少女歌剧-爱城华恋",
+            "vote": 381,
+            "rate_global": 69.2,
+            "rate_group": 74.41
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "魔法纪录-黑江",
+            "vote": 131,
+            "rate_global": 23.8,
+            "rate_group": 25.59
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "Love Live 虹咲-钟岚珠",
+            "vote": 261,
+            "rate_global": 47.4,
+            "rate_group": 52.52
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "安达与岛村-樽见",
+            "vote": 236,
+            "rate_global": 42.9,
+            "rate_group": 47.48
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "魔法纪录-梓美冬",
+            "vote": 251,
+            "rate_global": 45.6,
+            "rate_group": 50.4
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "结城友奈是勇者-高岛友奈",
+            "vote": 247,
+            "rate_global": 44.9,
+            "rate_group": 49.6
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "处刑少女的生存之道-茉茉",
+            "vote": 311,
+            "rate_global": 56.5,
+            "rate_group": 62.32
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "Love Live 虹咲-樱坂雫",
+            "vote": 188,
+            "rate_global": 34.1,
+            "rate_group": 37.68
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "name": "淘汰赛48进16 Day4",
+    "time": "2021-09-12 23:00:00",
+    "voter": 468,
+    "last_time": "2021-09-12 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "Love Live 虹咲-优木雪菜",
+            "vote": 327,
+            "rate_global": 69.87,
+            "rate_group": 77.49
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "满月之战-小日向满月",
+            "vote": 66,
+            "rate_global": 14.1,
+            "rate_group": 15.64
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "突击莉莉-—柳梨璃",
+            "vote": 29,
+            "rate_global": 6.2,
+            "rate_group": 6.87
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "魔法纪录-环彩羽",
+            "vote": 207,
+            "rate_global": 44.23,
+            "rate_group": 56.71
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "魔法少女小圆-鹿目圆",
+            "vote": 107,
+            "rate_global": 22.86,
+            "rate_group": 29.32
+        },
+        {
+            "group": 2,
+            "rank": 3,
+            "name": "青春猪头少年-古贺朋绘",
+            "vote": 51,
+            "rate_global": 10.9,
+            "rate_group": 13.97
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "Love Live 虹咲-高咲侑",
+            "vote": 293,
+            "rate_global": 62.61,
+            "rate_group": 68.62
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "刀使巫女-柳濑舞衣",
+            "vote": 68,
+            "rate_global": 14.53,
+            "rate_group": 15.93
+        },
+        {
+            "group": 3,
+            "rank": 3,
+            "name": "结城友奈是勇者-乃木园子",
+            "vote": 66,
+            "rate_global": 14.1,
+            "rate_group": 15.46
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "Love Live 虹咲-上原步梦",
+            "vote": 399,
+            "rate_global": 85.26,
+            "rate_group": 88.08
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "安达与岛村-安达樱",
+            "vote": 32,
+            "rate_global": 6.84,
+            "rate_group": 7.06
+        },
+        {
+            "group": 4,
+            "rank": 3,
+            "name": "魔法少女小圆-巴麻美",
+            "vote": 22,
+            "rate_global": 4.7,
+            "rate_group": 4.86
+        }
+    ]
+}

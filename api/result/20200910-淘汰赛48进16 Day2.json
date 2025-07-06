@@ -1,0 +1,105 @@
+{
+    "name": "淘汰赛48进16 Day2",
+    "time": "2020-09-10 23:00:00",
+    "voter": 242,
+    "last_time": "2020-09-10 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "利兹与青鸟-伞木希美",
+            "vote": 130,
+            "rate_global": 53.72,
+            "rate_group": 61.03
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "魔法少女小圆-鹿目圆",
+            "vote": 46,
+            "rate_global": 19.01,
+            "rate_group": 21.6
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "魔法少女小圆-巴麻美",
+            "vote": 37,
+            "rate_global": 15.29,
+            "rate_group": 17.37
+        },
+        {
+            "group": 2,
+            "rank": 4,
+            "name": "结城友奈是勇者-乃木园子",
+            "vote": 90,
+            "rate_global": 37.19,
+            "rate_group": 44.78
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "邻家索菲-夏木日向",
+            "vote": 68,
+            "rate_global": 28.1,
+            "rate_group": 33.83
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "CLANNAD-藤林杏",
+            "vote": 43,
+            "rate_global": 17.77,
+            "rate_group": 21.39
+        },
+        {
+            "group": 3,
+            "rank": 3,
+            "name": "魔法纪录-梓美冬",
+            "vote": 138,
+            "rate_global": 57.02,
+            "rate_group": 63.59
+        },
+        {
+            "group": 3,
+            "rank": 4,
+            "name": "刀使巫女-燕结芽",
+            "vote": 45,
+            "rate_global": 18.6,
+            "rate_group": 20.74
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "白色相簿2-小木曾雪菜",
+            "vote": 34,
+            "rate_global": 14.05,
+            "rate_group": 15.67
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "魔法纪录-环彩羽",
+            "vote": 121,
+            "rate_global": 50.0,
+            "rate_group": 55.25
+        },
+        {
+            "group": 4,
+            "rank": 3,
+            "name": "天使降临我身边-星野日向",
+            "vote": 64,
+            "rate_global": 26.45,
+            "rate_group": 29.22
+        },
+        {
+            "group": 4,
+            "rank": 4,
+            "name": "结城友奈是勇者-三之轮银",
+            "vote": 34,
+            "rate_global": 14.05,
+            "rate_group": 15.53
+        }
+    ]
+}

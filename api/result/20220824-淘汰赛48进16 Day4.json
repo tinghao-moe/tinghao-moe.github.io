@@ -1,0 +1,105 @@
+{
+    "name": "淘汰赛48进16 Day4",
+    "time": "2022-08-24 23:00:00",
+    "voter": 390,
+    "last_time": "2022-08-24 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "Love Live 虹咲-钟岚珠",
+            "vote": 216,
+            "rate_global": 55.5,
+            "rate_group": 59.34
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "安达与岛村-安达樱",
+            "vote": 127,
+            "rate_global": 32.6,
+            "rate_group": 34.89
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "魔法少女小圆-巴麻美",
+            "vote": 21,
+            "rate_global": 5.4,
+            "rate_group": 5.77
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "slow loop-吉永恋",
+            "vote": 137,
+            "rate_global": 35.2,
+            "rate_group": 39.37
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "辉夜大小姐想让我告白-四条真妃",
+            "vote": 120,
+            "rate_global": 30.8,
+            "rate_group": 34.48
+        },
+        {
+            "group": 2,
+            "rank": 3,
+            "name": "契约之吻-木更",
+            "vote": 91,
+            "rate_global": 23.3,
+            "rate_group": 26.15
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "Love Live 虹咲-樱坂雫",
+            "vote": 207,
+            "rate_global": 53.2,
+            "rate_group": 66.35
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "Love Live 虹咲-中须霞",
+            "vote": 84,
+            "rate_global": 21.5,
+            "rate_group": 26.92
+        },
+        {
+            "group": 3,
+            "rank": 3,
+            "name": "Love Live 虹咲-艾玛·维尔德",
+            "vote": 21,
+            "rate_global": 5.4,
+            "rate_group": 6.73
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "街角魔族-吉田优子",
+            "vote": 143,
+            "rate_global": 36.7,
+            "rate_group": 45.25
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "Lycoris Recoil-井之上泷奈",
+            "vote": 112,
+            "rate_global": 28.7,
+            "rate_group": 35.44
+        },
+        {
+            "group": 4,
+            "rank": 3,
+            "name": "Love Live-南小鸟",
+            "vote": 61,
+            "rate_global": 15.6,
+            "rate_group": 19.3
+        }
+    ]
+}

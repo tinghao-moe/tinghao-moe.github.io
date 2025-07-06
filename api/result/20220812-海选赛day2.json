@@ -1,0 +1,441 @@
+{
+    "name": "海选赛day2",
+    "time": "2022-08-12 23:00:00",
+    "voter": 355,
+    "last_time": "2022-08-12 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "Love Live 虹咲-优木雪菜",
+            "vote": 252,
+            "rate_global": 70.99,
+            "rate_group": 13.27
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "Love Live 虹咲-三船栞子",
+            "vote": 229,
+            "rate_global": 64.51,
+            "rate_group": 12.06
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "少女歌剧-大场奈奈",
+            "vote": 206,
+            "rate_global": 58.03,
+            "rate_group": 10.85
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "Love Live 虹咲-副会长",
+            "vote": 184,
+            "rate_global": 51.83,
+            "rate_group": 9.69
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "结城友奈是勇者-三好夏凛",
+            "vote": 179,
+            "rate_global": 50.42,
+            "rate_group": 9.43
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "悠哉日常大王-蜜柑",
+            "vote": 134,
+            "rate_global": 37.75,
+            "rate_group": 7.06
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "少女歌剧-星见纯那",
+            "vote": 109,
+            "rate_global": 30.7,
+            "rate_group": 5.74
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "Love Live 虹咲-艾玛·维尔德",
+            "vote": 106,
+            "rate_global": 29.86,
+            "rate_group": 5.58
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "少女歌剧-西条克洛迪娜",
+            "vote": 76,
+            "rate_global": 21.41,
+            "rate_group": 4.0
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "BanG Dream!-户山香澄",
+            "vote": 54,
+            "rate_global": 15.21,
+            "rate_group": 2.84
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "寒蝉鸣泣之时-园崎魅音",
+            "vote": 53,
+            "rate_global": 14.93,
+            "rate_group": 2.79
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "突击莉莉-吉村·Thi·梅",
+            "vote": 39,
+            "rate_global": 10.99,
+            "rate_group": 2.05
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "辉夜大小姐想让我告白-子安燕",
+            "vote": 38,
+            "rate_global": 10.7,
+            "rate_group": 2.0
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "小鸟之翼-新庄雨音",
+            "vote": 35,
+            "rate_global": 9.86,
+            "rate_group": 1.84
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "打工吧!魔王大人-游佐惠美",
+            "vote": 29,
+            "rate_global": 8.17,
+            "rate_group": 1.53
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "摇曳百合-古谷向日葵",
+            "vote": 29,
+            "rate_global": 8.17,
+            "rate_group": 1.53
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "继母的拖油瓶是我的前女友-伊理户结女",
+            "vote": 13,
+            "rate_global": 3.66,
+            "rate_group": 0.68
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "女友成双-佐木咲",
+            "vote": 12,
+            "rate_global": 3.38,
+            "rate_group": 0.63
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "女友成双-星崎理香",
+            "vote": 11,
+            "rate_global": 3.1,
+            "rate_group": 0.58
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "Love Live Superstar-圣泽悠奈",
+            "vote": 10,
+            "rate_global": 2.82,
+            "rate_group": 0.53
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "公主连结Re Dive-士条怜",
+            "vote": 9,
+            "rate_global": 2.54,
+            "rate_group": 0.47
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "打工吧!魔王大人-佐佐木千穗",
+            "vote": 9,
+            "rate_global": 2.54,
+            "rate_group": 0.47
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "碧蓝航线-标枪",
+            "vote": 8,
+            "rate_global": 2.25,
+            "rate_group": 0.42
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "回复术士的重启人生-芙列雅",
+            "vote": 8,
+            "rate_global": 2.25,
+            "rate_group": 0.42
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "我们的重制人生-御法彩花",
+            "vote": 8,
+            "rate_global": 2.25,
+            "rate_group": 0.42
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "橘色荣耀！-水泽爱佳",
+            "vote": 6,
+            "rate_global": 1.69,
+            "rate_group": 0.32
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "约会大作战-狼",
+            "vote": 6,
+            "rate_global": 1.69,
+            "rate_group": 0.32
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "公主连结Re Dive-雾原霞",
+            "vote": 5,
+            "rate_global": 1.41,
+            "rate_group": 0.26
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "天籁人偶-帚星",
+            "vote": 5,
+            "rate_global": 1.41,
+            "rate_group": 0.26
+        },
+        {
+            "group": 1,
+            "rank": 30,
+            "name": "宿命回响-安娜·施耐德",
+            "vote": 5,
+            "rate_global": 1.41,
+            "rate_group": 0.26
+        },
+        {
+            "group": 1,
+            "rank": 31,
+            "name": "狂赌之渊双-户隐雪见",
+            "vote": 4,
+            "rate_global": 1.13,
+            "rate_group": 0.21
+        },
+        {
+            "group": 1,
+            "rank": 32,
+            "name": "圣诞之吻-上崎里沙",
+            "vote": 4,
+            "rate_global": 1.13,
+            "rate_group": 0.21
+        },
+        {
+            "group": 1,
+            "rank": 33,
+            "name": "CUE-神室绚",
+            "vote": 3,
+            "rate_global": 0.85,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 34,
+            "name": "守护甜心-藤咲抚子",
+            "vote": 3,
+            "rate_global": 0.85,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 35,
+            "name": "月与莱卡与吸血公主-阿妮雅·西蒙尼扬",
+            "vote": 3,
+            "rate_global": 0.85,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 36,
+            "name": "女忍者椿的心事-雏菊",
+            "vote": 2,
+            "rate_global": 0.56,
+            "rate_group": 0.11
+        },
+        {
+            "group": 1,
+            "rank": 37,
+            "name": "公主连结Re Dive-远见空花",
+            "vote": 2,
+            "rate_global": 0.56,
+            "rate_group": 0.11
+        },
+        {
+            "group": 1,
+            "rank": 38,
+            "name": "无职转生-蜜妮托娜·泰德路迪亚",
+            "vote": 2,
+            "rate_global": 0.56,
+            "rate_group": 0.11
+        },
+        {
+            "group": 1,
+            "rank": 39,
+            "name": "瓦尼塔斯的手记-诺亚",
+            "vote": 2,
+            "rate_global": 0.56,
+            "rate_group": 0.11
+        },
+        {
+            "group": 1,
+            "rank": 40,
+            "name": "普通攻击是全体...妈妈你喜欢吗？-波塔",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 41,
+            "name": "堀与宫村-仙石翔",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 42,
+            "name": "群聚一堂！西顿学园-兽生美尤妃",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 43,
+            "name": "死神少爷与黑女仆-莎朗",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 44,
+            "name": "约会大作战-八舞耶俱矢",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 45,
+            "name": "喜欢本大爷的竟然就你一个?-秋野樱",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 46,
+            "name": "群聚一堂！西顿学园-镜玛娜可",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 47,
+            "name": "女忍者椿的心事-蒲公英",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 48,
+            "name": "恋途未卜-市原由奈",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 49,
+            "name": "公主连结Re Dive-喜屋武香织",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 50,
+            "name": "因为不是真正的..境展开慢活人生-梅格莉雅",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 51,
+            "name": "贤惠仙狐小姐-中野玄人",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 52,
+            "name": "群居姐妹-仲野晴辉",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 53,
+            "name": "圣诞之吻-高桥麻耶",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 54,
+            "name": "圣诞之吻-黑泽典子",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        }
+    ]
+}

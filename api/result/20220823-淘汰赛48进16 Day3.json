@@ -1,0 +1,105 @@
+{
+    "name": "淘汰赛48进16 Day3",
+    "time": "2022-08-23 23:00:00",
+    "voter": 421,
+    "last_time": "2022-08-23 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "安达与岛村-樽见",
+            "vote": 172,
+            "rate_global": 40.71,
+            "rate_group": 45.99
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "魔法纪录-环彩羽",
+            "vote": 110,
+            "rate_global": 26.19,
+            "rate_group": 29.41
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "结城友奈是勇者-乃木园子",
+            "vote": 92,
+            "rate_global": 21.9,
+            "rate_group": 24.6
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "突击莉莉-枫·J·努韦尔",
+            "vote": 167,
+            "rate_global": 39.52,
+            "rate_group": 42.6
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "Love Live 虹咲-高咲侑",
+            "vote": 121,
+            "rate_global": 28.81,
+            "rate_group": 30.87
+        },
+        {
+            "group": 2,
+            "rank": 3,
+            "name": "少女歌剧-神乐光",
+            "vote": 104,
+            "rate_global": 24.76,
+            "rate_group": 26.53
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "处刑少女的生存之道-茉茉",
+            "vote": 245,
+            "rate_global": 58.33,
+            "rate_group": 64.47
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "街角魔族-千代田桃",
+            "vote": 94,
+            "rate_global": 22.14,
+            "rate_group": 24.74
+        },
+        {
+            "group": 3,
+            "rank": 3,
+            "name": "Love Live-园田海未",
+            "vote": 41,
+            "rate_global": 9.76,
+            "rate_group": 10.79
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "Love Live 虹咲-米娅泰勒",
+            "vote": 146,
+            "rate_global": 34.52,
+            "rate_group": 41.36
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "魔法少女小圆-鹿目圆",
+            "vote": 140,
+            "rate_global": 33.33,
+            "rate_group": 39.66
+        },
+        {
+            "group": 4,
+            "rank": 3,
+            "name": "终将成为你-七海灯子",
+            "vote": 67,
+            "rate_global": 15.95,
+            "rate_group": 18.98
+        }
+    ]
+}

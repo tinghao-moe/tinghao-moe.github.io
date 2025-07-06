@@ -1,0 +1,409 @@
+{
+    "name": "海选赛day1",
+    "time": "2021-08-30 23:00:00",
+    "voter": 337,
+    "last_time": "2021-08-30 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "赛马娘-优秀素质",
+            "vote": 237,
+            "rate_global": 70.33,
+            "rate_group": 12.74
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "少女歌剧-土豆",
+            "vote": 196,
+            "rate_global": 58.16,
+            "rate_group": 10.54
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "Love Live Superstar-唐可可",
+            "vote": 161,
+            "rate_global": 47.77,
+            "rate_group": 8.66
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "利兹与青鸟-伞木希美",
+            "vote": 151,
+            "rate_global": 44.81,
+            "rate_group": 8.12
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "结城友奈是勇者-三好夏凛",
+            "vote": 126,
+            "rate_global": 37.39,
+            "rate_group": 6.77
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "魔法纪录-二叶莎奈",
+            "vote": 90,
+            "rate_global": 26.71,
+            "rate_group": 4.84
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "Love Live 虹咲-朝香果林",
+            "vote": 78,
+            "rate_global": 23.15,
+            "rate_group": 4.19
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "悠哉日常大王-杯子",
+            "vote": 69,
+            "rate_global": 20.47,
+            "rate_group": 3.71
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "结城友奈是勇者-三之轮银",
+            "vote": 62,
+            "rate_global": 18.4,
+            "rate_group": 3.33
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "佐贺偶像是传奇-绀野纯子",
+            "vote": 62,
+            "rate_global": 18.4,
+            "rate_group": 3.33
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "皿三昧-阵内燕太",
+            "vote": 60,
+            "rate_global": 17.8,
+            "rate_group": 3.23
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "高校舰队-宗谷真白",
+            "vote": 57,
+            "rate_global": 16.91,
+            "rate_group": 3.06
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "CLANNAD-藤林杏",
+            "vote": 51,
+            "rate_global": 15.13,
+            "rate_group": 2.74
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "奇蛋物语-青沼宁瑠",
+            "vote": 43,
+            "rate_global": 12.76,
+            "rate_group": 2.31
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "Princess Principal-Princess",
+            "vote": 40,
+            "rate_global": 11.87,
+            "rate_group": 2.15
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "我们的重制人生-小慕奈奈子",
+            "vote": 31,
+            "rate_global": 9.2,
+            "rate_group": 1.67
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "成神之日-伊座并杏子",
+            "vote": 28,
+            "rate_global": 8.31,
+            "rate_group": 1.51
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "Princess Principal-多萝西",
+            "vote": 27,
+            "rate_global": 8.01,
+            "rate_group": 1.45
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "宝石幻想光芒重现-伊莉莎",
+            "vote": 22,
+            "rate_global": 6.53,
+            "rate_group": 1.18
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "Love Live Superstar-涩谷亚里亚",
+            "vote": 21,
+            "rate_global": 6.23,
+            "rate_group": 1.13
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "白色相簿-森川由绮",
+            "vote": 21,
+            "rate_global": 6.23,
+            "rate_group": 1.13
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "魔法少女奈叶-高町奈叶",
+            "vote": 20,
+            "rate_global": 5.93,
+            "rate_group": 1.08
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "回转企鹅罐-高仓阳毬",
+            "vote": 19,
+            "rate_global": 5.64,
+            "rate_group": 1.02
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "BEASTARS-茱诺",
+            "vote": 15,
+            "rate_global": 4.45,
+            "rate_group": 0.81
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "刀使巫女-安樱美炎",
+            "vote": 15,
+            "rate_global": 4.45,
+            "rate_group": 0.81
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "SSSS.DYNAZENON-南梦芽",
+            "vote": 13,
+            "rate_global": 3.86,
+            "rate_group": 0.7
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "魔女之旅-芙兰",
+            "vote": 13,
+            "rate_global": 3.86,
+            "rate_group": 0.7
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "Kanon-仓田佐佑理",
+            "vote": 12,
+            "rate_global": 3.56,
+            "rate_group": 0.65
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "满溢的水果挞-贯井羽优",
+            "vote": 12,
+            "rate_global": 3.56,
+            "rate_group": 0.65
+        },
+        {
+            "group": 1,
+            "rank": 30,
+            "name": "魔女之旅-艾丝黛尔",
+            "vote": 12,
+            "rate_global": 3.56,
+            "rate_group": 0.65
+        },
+        {
+            "group": 1,
+            "rank": 31,
+            "name": "Angel Beats-由依",
+            "vote": 10,
+            "rate_global": 2.97,
+            "rate_group": 0.54
+        },
+        {
+            "group": 1,
+            "rank": 32,
+            "name": "三月的狮子-桐山零",
+            "vote": 10,
+            "rate_global": 2.97,
+            "rate_group": 0.54
+        },
+        {
+            "group": 1,
+            "rank": 33,
+            "name": "JOJO的奇妙冒险-花京院典明",
+            "vote": 9,
+            "rate_global": 2.67,
+            "rate_group": 0.48
+        },
+        {
+            "group": 1,
+            "rank": 34,
+            "name": "魔女之旅-美奈",
+            "vote": 8,
+            "rate_global": 2.37,
+            "rate_group": 0.43
+        },
+        {
+            "group": 1,
+            "rank": 35,
+            "name": "突击莉莉-今叶星",
+            "vote": 8,
+            "rate_global": 2.37,
+            "rate_group": 0.43
+        },
+        {
+            "group": 1,
+            "rank": 36,
+            "name": "突击莉莉-芹泽千香瑠",
+            "vote": 7,
+            "rate_global": 2.08,
+            "rate_group": 0.38
+        },
+        {
+            "group": 1,
+            "rank": 37,
+            "name": "BEASTARS-雷格西",
+            "vote": 6,
+            "rate_global": 1.78,
+            "rate_group": 0.32
+        },
+        {
+            "group": 1,
+            "rank": 38,
+            "name": "朝花夕誓-玛奇亚",
+            "vote": 6,
+            "rate_global": 1.78,
+            "rate_group": 0.32
+        },
+        {
+            "group": 1,
+            "rank": 39,
+            "name": "满溢的水果挞-前原仁菜",
+            "vote": 6,
+            "rate_global": 1.78,
+            "rate_group": 0.32
+        },
+        {
+            "group": 1,
+            "rank": 40,
+            "name": "Angel Beats-日向秀树",
+            "vote": 4,
+            "rate_global": 1.19,
+            "rate_group": 0.22
+        },
+        {
+            "group": 1,
+            "rank": 41,
+            "name": "Angel Beats-音无结弦",
+            "vote": 4,
+            "rate_global": 1.19,
+            "rate_group": 0.22
+        },
+        {
+            "group": 1,
+            "rank": 42,
+            "name": "公主连结Re Dive-宫坂珠希",
+            "vote": 4,
+            "rate_global": 1.19,
+            "rate_group": 0.22
+        },
+        {
+            "group": 1,
+            "rank": 43,
+            "name": "弱势角色友崎君-菊池风香",
+            "vote": 4,
+            "rate_global": 1.19,
+            "rate_group": 0.22
+        },
+        {
+            "group": 1,
+            "rank": 44,
+            "name": "弱势角色友崎君-友崎文也",
+            "vote": 3,
+            "rate_global": 0.89,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 45,
+            "name": "奇蛋物语-保科梓",
+            "vote": 2,
+            "rate_global": 0.59,
+            "rate_group": 0.11
+        },
+        {
+            "group": 1,
+            "rank": 46,
+            "name": "AIR-雾岛佳乃",
+            "vote": 1,
+            "rate_global": 0.3,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 47,
+            "name": "Kanon-相泽祐一",
+            "vote": 1,
+            "rate_global": 0.3,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 48,
+            "name": "苍之骑士团-玛丽",
+            "vote": 1,
+            "rate_global": 0.3,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 49,
+            "name": "甘城光辉游乐园-三角仔",
+            "vote": 1,
+            "rate_global": 0.3,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 50,
+            "name": "交响诗篇-塔尔荷",
+            "vote": 1,
+            "rate_global": 0.3,
+            "rate_group": 0.05
+        }
+    ]
+}

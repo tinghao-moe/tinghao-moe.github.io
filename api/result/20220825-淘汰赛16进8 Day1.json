@@ -1,0 +1,73 @@
+{
+    "name": "淘汰赛16进8 Day1",
+    "time": "2022-08-25 23:00:00",
+    "voter": 516,
+    "last_time": "2022-08-25 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "少女歌剧-爱城华恋",
+            "vote": 322,
+            "rate_global": 62.4,
+            "rate_group": 66.67
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "赛马娘-优秀素质",
+            "vote": 161,
+            "rate_global": 31.2,
+            "rate_group": 33.33
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "魔法纪录-黑江",
+            "vote": 282,
+            "rate_global": 54.6,
+            "rate_group": 64.83
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "寒蝉鸣泣之时-北条沙都子",
+            "vote": 153,
+            "rate_global": 29.6,
+            "rate_group": 35.17
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "魔法纪录-梓美冬",
+            "vote": 255,
+            "rate_global": 49.4,
+            "rate_group": 53.8
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "少女歌剧-大场奈奈",
+            "vote": 219,
+            "rate_global": 42.4,
+            "rate_group": 46.2
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "结城友奈是勇者-高岛友奈",
+            "vote": 241,
+            "rate_global": 46.7,
+            "rate_group": 50.31
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "Love Live 虹咲-优木雪菜",
+            "vote": 238,
+            "rate_global": 46.1,
+            "rate_group": 49.69
+        }
+    ]
+}

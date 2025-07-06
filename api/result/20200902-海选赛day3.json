@@ -1,0 +1,337 @@
+{
+    "name": "海选赛day3",
+    "time": "2020-09-02 23:00:00",
+    "voter": 221,
+    "last_time": "2020-09-02 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "街角魔族-阳夏木蜜柑",
+            "vote": 119,
+            "rate_global": 53.85,
+            "rate_group": 9.55
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "魔法纪录-环彩羽",
+            "vote": 111,
+            "rate_global": 50.23,
+            "rate_group": 8.91
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "路人女主的养成方法-泽村.史宾瑟，英梨梨",
+            "vote": 101,
+            "rate_global": 45.7,
+            "rate_group": 8.11
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "利兹与青鸟-伞木希美",
+            "vote": 100,
+            "rate_global": 45.25,
+            "rate_group": 8.03
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "樱花庄的宠物女孩-青山七海",
+            "vote": 86,
+            "rate_global": 38.91,
+            "rate_group": 6.9
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "邻家索菲-夏木日向",
+            "vote": 79,
+            "rate_global": 35.75,
+            "rate_group": 6.34
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "结城友奈是勇者-三好夏凛",
+            "vote": 77,
+            "rate_global": 34.84,
+            "rate_group": 6.18
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "满月之战-安娜·胡戈",
+            "vote": 74,
+            "rate_global": 33.48,
+            "rate_group": 5.94
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "向山进发-仓上日向",
+            "vote": 73,
+            "rate_global": 33.03,
+            "rate_group": 5.86
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "物语系列-羽川翼",
+            "vote": 69,
+            "rate_global": 31.22,
+            "rate_group": 5.54
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "我的青春恋爱物语果然有问题-一色彩羽",
+            "vote": 65,
+            "rate_global": 29.41,
+            "rate_group": 5.22
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "22/7-藤间樱",
+            "vote": 60,
+            "rate_global": 27.15,
+            "rate_group": 4.82
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "吹响！上低音号-中世古香织",
+            "vote": 45,
+            "rate_global": 20.36,
+            "rate_group": 3.61
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "宝石之国-钻石",
+            "vote": 40,
+            "rate_global": 18.1,
+            "rate_group": 3.21
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "SSSS.GRIDMAN-响裕太",
+            "vote": 27,
+            "rate_global": 12.22,
+            "rate_group": 2.17
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "神推偶像登上武道馆我就死而无憾-绘里飘",
+            "vote": 25,
+            "rate_global": 11.31,
+            "rate_group": 2.01
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "学生会的一己之见-红叶知弦",
+            "vote": 13,
+            "rate_global": 5.88,
+            "rate_group": 1.04
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "魔法纪录-阿莉娜，格雷",
+            "vote": 12,
+            "rate_global": 5.43,
+            "rate_group": 0.96
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "WIXOSS-红林游月",
+            "vote": 11,
+            "rate_global": 4.98,
+            "rate_group": 0.88
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "宝石幻想光芒重现-艾什莉",
+            "vote": 11,
+            "rate_global": 4.98,
+            "rate_group": 0.88
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "白色相簿2-小木曾秋菜",
+            "vote": 7,
+            "rate_global": 3.17,
+            "rate_group": 0.56
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "WIXOSS-小凑露子",
+            "vote": 6,
+            "rate_global": 2.71,
+            "rate_group": 0.48
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "魔法少女小圆-志筑仁美",
+            "vote": 6,
+            "rate_global": 2.71,
+            "rate_group": 0.48
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "放学后海堤日记-帆高夏海",
+            "vote": 5,
+            "rate_global": 2.26,
+            "rate_group": 0.4
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "恋爱小行星-远藤幸",
+            "vote": 5,
+            "rate_global": 2.26,
+            "rate_group": 0.4
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "花开伊吕波-和仓结名",
+            "vote": 3,
+            "rate_global": 1.36,
+            "rate_group": 0.24
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "我们的七日战争-铃原守",
+            "vote": 3,
+            "rate_global": 1.36,
+            "rate_group": 0.24
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "Little Busters!-笹濑川佐佐美",
+            "vote": 2,
+            "rate_global": 0.9,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "宝石幻想光芒重现-米露菲",
+            "vote": 2,
+            "rate_global": 0.9,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 30,
+            "name": "公主连结Re Dive-天野铃莓",
+            "vote": 2,
+            "rate_global": 0.9,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 31,
+            "name": "球咏-中村希",
+            "vote": 2,
+            "rate_global": 0.9,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 32,
+            "name": "Slow Start-大谷周",
+            "vote": 1,
+            "rate_global": 0.45,
+            "rate_group": 0.08
+        },
+        {
+            "group": 1,
+            "rank": 33,
+            "name": "白色相簿2-饭冢武也",
+            "vote": 1,
+            "rate_global": 0.45,
+            "rate_group": 0.08
+        },
+        {
+            "group": 1,
+            "rank": 34,
+            "name": "怪兽娘-平贺五月",
+            "vote": 1,
+            "rate_global": 0.45,
+            "rate_group": 0.08
+        },
+        {
+            "group": 1,
+            "rank": 35,
+            "name": "无彩限的怪灵世界-露露",
+            "vote": 1,
+            "rate_global": 0.45,
+            "rate_group": 0.08
+        },
+        {
+            "group": 1,
+            "rank": 36,
+            "name": "无彩限的怪灵世界-一条晴彦",
+            "vote": 1,
+            "rate_global": 0.45,
+            "rate_group": 0.08
+        },
+        {
+            "group": 1,
+            "rank": 37,
+            "name": "半兽人的烦恼-紫乃",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 38,
+            "name": "魔法少女什么的已经够了啦-叶波柚香",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 39,
+            "name": "普通女高中生要做当地偶像-野田硝子",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 40,
+            "name": "甜梦猫-日向梦",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 41,
+            "name": "无彩限的怪灵世界-熊枕久瑠美",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        }
+    ]
+}

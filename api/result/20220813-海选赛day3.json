@@ -1,0 +1,441 @@
+{
+    "name": "海选赛day3",
+    "time": "2022-08-13 23:00:00",
+    "voter": 353,
+    "last_time": "2022-08-13 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "Love Live 虹咲-高咲侑",
+            "vote": 250,
+            "rate_global": 70.82,
+            "rate_group": 13.46
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "街角魔族-阳夏木蜜柑",
+            "vote": 232,
+            "rate_global": 65.72,
+            "rate_group": 12.49
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "魔法纪录-环彩羽",
+            "vote": 209,
+            "rate_global": 59.21,
+            "rate_group": 11.25
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "Lycoris Recoil-锦木千束",
+            "vote": 174,
+            "rate_global": 49.29,
+            "rate_group": 9.37
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "Love Live 虹咲-近江彼方",
+            "vote": 147,
+            "rate_global": 41.64,
+            "rate_group": 7.92
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "摇曳百合-赤座灯里",
+            "vote": 146,
+            "rate_global": 41.36,
+            "rate_group": 7.86
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "赛马娘-里见光钻",
+            "vote": 141,
+            "rate_global": 39.94,
+            "rate_group": 7.59
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "赛马娘-目白麦昆",
+            "vote": 96,
+            "rate_global": 27.2,
+            "rate_group": 5.17
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "公主连结Re Dive-草野优衣",
+            "vote": 57,
+            "rate_global": 16.15,
+            "rate_group": 3.07
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "结城友奈是勇者-土居球子",
+            "vote": 53,
+            "rate_global": 15.01,
+            "rate_group": 2.85
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "slow loop-海凪日和",
+            "vote": 45,
+            "rate_global": 12.75,
+            "rate_group": 2.42
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "天才麻将少女-宫永咲",
+            "vote": 40,
+            "rate_global": 11.33,
+            "rate_group": 2.15
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "RPG不动产-风色琴音",
+            "vote": 22,
+            "rate_global": 6.23,
+            "rate_group": 1.18
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "更衣人偶坠入爱河-乾纱寿叶",
+            "vote": 20,
+            "rate_global": 5.67,
+            "rate_group": 1.08
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "约会大作战-时崎狂三",
+            "vote": 19,
+            "rate_global": 5.38,
+            "rate_group": 1.02
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "契约之吻-绪方修",
+            "vote": 19,
+            "rate_global": 5.38,
+            "rate_group": 1.02
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "slow loop-福元一花",
+            "vote": 17,
+            "rate_global": 4.82,
+            "rate_group": 0.92
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "我们的重制人生-志野亚贵",
+            "vote": 16,
+            "rate_global": 4.53,
+            "rate_group": 0.86
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "小林家的龙女仆-小林",
+            "vote": 15,
+            "rate_global": 4.25,
+            "rate_group": 0.81
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "顶点！！！-六香亭唯菜",
+            "vote": 14,
+            "rate_global": 3.97,
+            "rate_group": 0.75
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "公主连结Re Dive-三角千歌",
+            "vote": 11,
+            "rate_global": 3.12,
+            "rate_group": 0.59
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "摇曳百合-小魔女米拉库",
+            "vote": 10,
+            "rate_global": 2.83,
+            "rate_group": 0.54
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "女友成双-桐生紫乃",
+            "vote": 10,
+            "rate_global": 2.83,
+            "rate_group": 0.54
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "约会大作战-诱宵美九",
+            "vote": 10,
+            "rate_global": 2.83,
+            "rate_group": 0.54
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "异种族风俗娘评鉴指南-可利姆维儿",
+            "vote": 9,
+            "rate_global": 2.55,
+            "rate_group": 0.48
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "小鸟之翼-莉莉·李普曼",
+            "vote": 9,
+            "rate_global": 2.55,
+            "rate_group": 0.48
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "小小世界-日野森雫",
+            "vote": 8,
+            "rate_global": 2.27,
+            "rate_group": 0.43
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "金装的维尔梅-莉莉娅",
+            "vote": 8,
+            "rate_global": 2.27,
+            "rate_group": 0.43
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "斯特拉的魔法-藤川歌夜",
+            "vote": 8,
+            "rate_global": 2.27,
+            "rate_group": 0.43
+        },
+        {
+            "group": 1,
+            "rank": 30,
+            "name": "CUE-六石阳菜",
+            "vote": 7,
+            "rate_global": 1.98,
+            "rate_group": 0.38
+        },
+        {
+            "group": 1,
+            "rank": 31,
+            "name": "鬼灭之刃-蝴蝶香奈惠",
+            "vote": 5,
+            "rate_global": 1.42,
+            "rate_group": 0.27
+        },
+        {
+            "group": 1,
+            "rank": 32,
+            "name": "五等分的花嫁-竹林",
+            "vote": 5,
+            "rate_global": 1.42,
+            "rate_group": 0.27
+        },
+        {
+            "group": 1,
+            "rank": 33,
+            "name": "歌愈少女-藤井奏",
+            "vote": 4,
+            "rate_global": 1.13,
+            "rate_group": 0.22
+        },
+        {
+            "group": 1,
+            "rank": 34,
+            "name": "CUE-夜峰美晴",
+            "vote": 3,
+            "rate_global": 0.85,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 35,
+            "name": "紫罗兰永恒花园-克劳迪亚·霍金斯",
+            "vote": 3,
+            "rate_global": 0.85,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 36,
+            "name": "未闻花名-久川铁道",
+            "vote": 2,
+            "rate_global": 0.57,
+            "rate_group": 0.11
+        },
+        {
+            "group": 1,
+            "rank": 37,
+            "name": "骸骨骑士大人异世界冒险中-阿里安",
+            "vote": 2,
+            "rate_global": 0.57,
+            "rate_group": 0.11
+        },
+        {
+            "group": 1,
+            "rank": 38,
+            "name": "可塑性记忆-水柿司",
+            "vote": 2,
+            "rate_global": 0.57,
+            "rate_group": 0.11
+        },
+        {
+            "group": 1,
+            "rank": 39,
+            "name": "卡片战斗先导者will+Dress-御药袋美玲",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 40,
+            "name": "普通攻击是全体...妈妈你喜欢吗？-大好真人",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 41,
+            "name": "春-春",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 42,
+            "name": "式守同学不只可爱而已-和泉",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 43,
+            "name": "可塑性记忆-桑乃实香月",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 44,
+            "name": "四叠半神话大系-城崎",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 45,
+            "name": "异世界药局-法马·德·麦第奇",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 46,
+            "name": "约会大作战-尼别科尔",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 47,
+            "name": "女忍者椿的心事-虎杖",
+            "vote": 1,
+            "rate_global": 0.28,
+            "rate_group": 0.05
+        },
+        {
+            "group": 1,
+            "rank": 48,
+            "name": "圣诞之吻-橘纯一",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 49,
+            "name": "织田信奈的野望-松平元康",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 50,
+            "name": "鬼灭之刃-宇髄天元",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 51,
+            "name": "可塑性记忆-缥康隆",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 52,
+            "name": "战斗员派遣中-雪诺",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 53,
+            "name": "群聚一堂！西顿学园-白海奏",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        },
+        {
+            "group": 1,
+            "rank": 54,
+            "name": "圣诞之吻-伊藤香苗",
+            "vote": 0,
+            "rate_global": 0.0,
+            "rate_group": 0.0
+        }
+    ]
+}
