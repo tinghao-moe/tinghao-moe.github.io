@@ -1,0 +1,105 @@
+{
+    "name": "淘汰赛48进16 Day3",
+    "time": "2023-08-20 23:00:00",
+    "voter": -1,
+    "last_time": "2023-08-20 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "BanG Dream! It's MyGO!!!!!-长崎爽世",
+            "vote": 797,
+            "rate_global": "-",
+            "rate_group": 91.5
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "Love Live 虹咲-樱坂雫",
+            "vote": 46,
+            "rate_global": "-",
+            "rate_group": 5.28
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "赛马娘-成田路",
+            "vote": 28,
+            "rate_global": "-",
+            "rate_group": 3.21
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "BanG Dream! It's MyGO!!!!!-椎名立希",
+            "vote": 645,
+            "rate_global": "-",
+            "rate_group": 74.22
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "闪耀路标-黑金莲",
+            "vote": 190,
+            "rate_global": "-",
+            "rate_group": 21.86
+        },
+        {
+            "group": 2,
+            "rank": 3,
+            "name": "魔法纪录-由比鹤乃",
+            "vote": 34,
+            "rate_global": "-",
+            "rate_group": 3.91
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "利兹与青鸟-伞木希美",
+            "vote": 496,
+            "rate_global": "-",
+            "rate_group": 60.71
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "Love Live 虹咲-钟岚珠",
+            "vote": 219,
+            "rate_global": "-",
+            "rate_group": 26.81
+        },
+        {
+            "group": 3,
+            "rank": 3,
+            "name": "Love Live 虹咲-高咲侑",
+            "vote": 102,
+            "rate_global": "-",
+            "rate_group": 12.48
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "魔法少女小圆-巴麻美",
+            "vote": 291,
+            "rate_global": "-",
+            "rate_group": 36.7
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "孤独摇滚-喜多郁代",
+            "vote": 282,
+            "rate_global": "-",
+            "rate_group": 35.56
+        },
+        {
+            "group": 4,
+            "rank": 3,
+            "name": "摇曳百合-赤座灯里",
+            "vote": 220,
+            "rate_global": "-",
+            "rate_group": 27.74
+        }
+    ]
+}

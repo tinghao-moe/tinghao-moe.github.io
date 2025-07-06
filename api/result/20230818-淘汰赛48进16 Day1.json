@@ -1,0 +1,105 @@
+{
+    "name": "淘汰赛48进16 Day1",
+    "time": "2023-08-18 23:00:00",
+    "voter": -1,
+    "last_time": "2023-08-18 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "突击莉莉-枫·J·努韦尔",
+            "vote": 306,
+            "rate_global": "-",
+            "rate_group": 51.6
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "World Dai Star-卡特莉娜",
+            "vote": 175,
+            "rate_global": "-",
+            "rate_group": 29.51
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "Love Live-园田海未",
+            "vote": 112,
+            "rate_global": "-",
+            "rate_group": 18.89
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "幻日的夜羽-曜",
+            "vote": 209,
+            "rate_global": "-",
+            "rate_group": 35.79
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "魔法纪录-七海八千代",
+            "vote": 217,
+            "rate_global": "-",
+            "rate_group": 37.16
+        },
+        {
+            "group": 2,
+            "rank": 3,
+            "name": "街角魔族-吉田优子",
+            "vote": 158,
+            "rate_global": "-",
+            "rate_group": 27.05
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "BanG Dream! It's MyGO!!!!!-丰川祥子",
+            "vote": 458,
+            "rate_global": "-",
+            "rate_group": 70.35
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "Do It Yourself!!-须理出未来",
+            "vote": 103,
+            "rate_global": "-",
+            "rate_group": 15.82
+        },
+        {
+            "group": 3,
+            "rank": 3,
+            "name": "结城友奈是勇者-高岛友奈",
+            "vote": 90,
+            "rate_global": "-",
+            "rate_group": 13.82
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "孤独摇滚-伊地知虹夏",
+            "vote": 316,
+            "rate_global": "-",
+            "rate_group": 56.33
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "Love Live Superstar-平安名堇",
+            "vote": 162,
+            "rate_global": "-",
+            "rate_group": 28.88
+        },
+        {
+            "group": 4,
+            "rank": 3,
+            "name": "赛马娘-目白麦昆",
+            "vote": 83,
+            "rate_global": "-",
+            "rate_group": 14.8
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "name": "淘汰赛48进16 Day4",
+    "time": "2023-08-21 23:00:00",
+    "voter": -1,
+    "last_time": "2023-08-21 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "少女歌剧-神乐光",
+            "vote": 331,
+            "rate_global": "-",
+            "rate_group": 54.0
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "机动战士高达 水星的魔女-沙迪克",
+            "vote": 144,
+            "rate_global": "-",
+            "rate_group": 23.49
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "向山进发-仓上日向",
+            "vote": 138,
+            "rate_global": "-",
+            "rate_group": 22.51
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "安达与岛村-安达樱",
+            "vote": 345,
+            "rate_global": "-",
+            "rate_group": 57.31
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "辉夜大小姐想让我告白-四条真妃",
+            "vote": 223,
+            "rate_global": "-",
+            "rate_group": 37.04
+        },
+        {
+            "group": 2,
+            "rank": 3,
+            "name": "转生王女与天才千金的魔法革命-尤菲莉亚",
+            "vote": 34,
+            "rate_global": "-",
+            "rate_group": 5.65
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "安达与岛村-樽见",
+            "vote": 268,
+            "rate_global": "-",
+            "rate_group": 44.22
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "我的百合乃工作是也!-间宫果乃子",
+            "vote": 183,
+            "rate_global": "-",
+            "rate_group": 30.2
+        },
+        {
+            "group": 3,
+            "rank": 3,
+            "name": "契约之吻-木更",
+            "vote": 155,
+            "rate_global": "-",
+            "rate_group": 25.58
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "处刑少女的生存之道-茉茉",
+            "vote": 335,
+            "rate_global": "-",
+            "rate_group": 53.43
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "Love Live 虹咲-优木雪菜",
+            "vote": 275,
+            "rate_global": "-",
+            "rate_group": 43.86
+        },
+        {
+            "group": 4,
+            "rank": 3,
+            "name": "Love Live 虹咲-中须霞",
+            "vote": 17,
+            "rate_global": "-",
+            "rate_group": 2.71
+        }
+    ]
+}

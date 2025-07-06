@@ -1,0 +1,105 @@
+{
+    "name": "淘汰赛48进16 Day2",
+    "time": "2023-08-19 23:00:00",
+    "voter": -1,
+    "last_time": "2023-08-19 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "Love Live 虹咲-三船栞子",
+            "vote": 237,
+            "rate_global": "-",
+            "rate_group": 35.75
+        },
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "结城友奈是勇者-郡千景",
+            "vote": 264,
+            "rate_global": "-",
+            "rate_group": 39.82
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "安达与岛村-岛村抱月",
+            "vote": 162,
+            "rate_global": "-",
+            "rate_group": 24.43
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "BanG Dream! It's MyGO!!!!!-千早爱音",
+            "vote": 596,
+            "rate_global": "-",
+            "rate_group": 83.12
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "BanG Dream!-丸山彩",
+            "vote": 72,
+            "rate_global": "-",
+            "rate_group": 10.04
+        },
+        {
+            "group": 2,
+            "rank": 3,
+            "name": "寒蝉鸣泣之时-北条沙都子",
+            "vote": 49,
+            "rate_global": "-",
+            "rate_group": 6.83
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "BanG Dream! It's MyGO!!!!!-三角初华",
+            "vote": 412,
+            "rate_global": "-",
+            "rate_group": 58.27
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "赛马娘-优秀素质",
+            "vote": 216,
+            "rate_global": "-",
+            "rate_group": 30.55
+        },
+        {
+            "group": 3,
+            "rank": 3,
+            "name": "Lycoris Recoil-井之上泷奈",
+            "vote": 79,
+            "rate_global": "-",
+            "rate_group": 11.17
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "BanG Dream! It's MyGO!!!!!-高松灯",
+            "vote": 523,
+            "rate_global": "-",
+            "rate_group": 73.77
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "我推的孩子-有马加奈",
+            "vote": 111,
+            "rate_global": "-",
+            "rate_group": 15.66
+        },
+        {
+            "group": 4,
+            "rank": 3,
+            "name": "天使降临我身边-姬坂乃爱",
+            "vote": 75,
+            "rate_global": "-",
+            "rate_group": 10.58
+        }
+    ]
+}
