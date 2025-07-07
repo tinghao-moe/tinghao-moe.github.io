@@ -1,0 +1,241 @@
+{
+    "name": "海选赛day2",
+    "time": "2018-08-27 23:00:00",
+    "voter": 286,
+    "last_time": "2018-08-27 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "DARLING in the FRANXX-莓",
+            "vote": 186,
+            "rate_global": 65.03,
+            "rate_group": 15.49
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "伪恋-小野寺小咲",
+            "vote": 137,
+            "rate_global": 47.9,
+            "rate_group": 11.41
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "宝石之国-钻石",
+            "vote": 119,
+            "rate_global": 41.61,
+            "rate_group": 9.91
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "末日时在做什么？-珂朵莉·诺塔·瑟尼欧里斯",
+            "vote": 74,
+            "rate_global": 25.87,
+            "rate_group": 6.16
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "Princess Principal-多萝西",
+            "vote": 72,
+            "rate_global": 25.17,
+            "rate_group": 6.0
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "变态王子与不笑猫-小豆梓",
+            "vote": 69,
+            "rate_global": 24.13,
+            "rate_group": 5.75
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "Love Live-园田海未",
+            "vote": 65,
+            "rate_global": 22.73,
+            "rate_group": 5.41
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "来自风平浪静的明天-比良平千咲",
+            "vote": 64,
+            "rate_global": 22.38,
+            "rate_group": 5.33
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "命运石之门0-比屋定真帆",
+            "vote": 60,
+            "rate_global": 20.98,
+            "rate_group": 5.0
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "赛马娘-东海帝皇",
+            "vote": 48,
+            "rate_global": 16.78,
+            "rate_group": 4.0
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "少女编号-乌丸千岁",
+            "vote": 46,
+            "rate_global": 16.08,
+            "rate_group": 3.83
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "命运石之门0-阿万音铃羽",
+            "vote": 45,
+            "rate_global": 15.73,
+            "rate_group": 3.75
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "我的妹妹不可能那么可爱-田村麻奈实",
+            "vote": 33,
+            "rate_global": 11.54,
+            "rate_group": 2.75
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "玉子市场-北白川馅子",
+            "vote": 28,
+            "rate_global": 9.79,
+            "rate_group": 2.33
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "命运石之门-漆原琉华",
+            "vote": 27,
+            "rate_global": 9.44,
+            "rate_group": 2.25
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "食灵零-谏山黄泉",
+            "vote": 19,
+            "rate_global": 6.64,
+            "rate_group": 1.58
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "某科学的超电磁炮-初春饰利",
+            "vote": 18,
+            "rate_global": 6.29,
+            "rate_group": 1.5
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "DARLING in the FRANXX-广",
+            "vote": 14,
+            "rate_global": 4.9,
+            "rate_group": 1.17
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "吹响！上低音号-长濑梨子",
+            "vote": 13,
+            "rate_global": 4.55,
+            "rate_group": 1.08
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "调教咖啡厅-樱之宫莓香",
+            "vote": 12,
+            "rate_global": 4.2,
+            "rate_group": 1.0
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "One Room-花坂结衣",
+            "vote": 11,
+            "rate_global": 3.85,
+            "rate_group": 0.92
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "在盛夏等待-北原美樱",
+            "vote": 9,
+            "rate_global": 3.15,
+            "rate_group": 0.75
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "Just Because!-相马阳斗",
+            "vote": 8,
+            "rate_global": 2.8,
+            "rate_group": 0.67
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "妄想学生会-森希",
+            "vote": 7,
+            "rate_global": 2.45,
+            "rate_group": 0.58
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "舞动青春-富士田多多良",
+            "vote": 5,
+            "rate_global": 1.75,
+            "rate_group": 0.42
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "昴宿七星-空闲旭姬",
+            "vote": 4,
+            "rate_global": 1.4,
+            "rate_group": 0.33
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "吸血姬美夕-柳原麻巳子",
+            "vote": 4,
+            "rate_global": 1.4,
+            "rate_group": 0.33
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "在盛夏等待-雾岛海人",
+            "vote": 3,
+            "rate_global": 1.05,
+            "rate_group": 0.25
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "摇曳庄的幽奈小姐-荒霸吐吞子",
+            "vote": 1,
+            "rate_global": 0.35,
+            "rate_group": 0.08
+        }
+    ]
+}

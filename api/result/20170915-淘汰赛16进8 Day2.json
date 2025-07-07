@@ -1,0 +1,73 @@
+{
+    "name": "淘汰赛16进8 Day2",
+    "time": "2017-09-15 23:00:00",
+    "voter": 401,
+    "last_time": "2017-09-15 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "樱花庄的宠物女孩-青山七海",
+            "vote": 206,
+            "rate_global": 51.37,
+            "rate_group": 76.3
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "结城友奈是勇者-三好夏凛",
+            "vote": 64,
+            "rate_global": 15.96,
+            "rate_group": 23.7
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "中二病也要谈恋爱-七宫智音",
+            "vote": 152,
+            "rate_global": 37.91,
+            "rate_group": 53.9
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "龙与虎-栉枝实乃梨",
+            "vote": 130,
+            "rate_global": 32.42,
+            "rate_group": 46.1
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "Rewrite-神户小鸟",
+            "vote": 186,
+            "rate_global": 46.38,
+            "rate_group": 54.07
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "Re:从零开始的异世界生活-艾米莉亚",
+            "vote": 158,
+            "rate_global": 39.4,
+            "rate_group": 45.93
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "Re:从零开始的异世界生活-蕾姆",
+            "vote": 167,
+            "rate_global": 41.65,
+            "rate_group": 50.61
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "我的妹妹不可能那么可爱-新垣绫濑",
+            "vote": 163,
+            "rate_global": 40.65,
+            "rate_group": 49.39
+        }
+    ]
+}

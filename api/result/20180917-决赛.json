@@ -1,0 +1,41 @@
+{
+    "name": "决赛",
+    "time": "2018-09-17 23:00:00",
+    "voter": 540,
+    "last_time": "2018-09-17 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "少女歌剧-露崎真昼",
+            "vote": 286,
+            "rate_global": 52.96,
+            "rate_group": 54.17
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "赛马娘-草上飞",
+            "vote": 242,
+            "rate_global": 44.81,
+            "rate_group": 45.83
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "少女歌剧-土豆",
+            "vote": 295,
+            "rate_global": 54.63,
+            "rate_group": 71.95
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "魔法少女小圆-美树沙耶香",
+            "vote": 115,
+            "rate_global": 21.3,
+            "rate_group": 28.05
+        }
+    ]
+}

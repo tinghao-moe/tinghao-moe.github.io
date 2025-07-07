@@ -31,7 +31,7 @@
         },
         {
             "group": 2,
-            "rank": 4,
+            "rank": 1,
             "name": "魔法纪录-由比鹤乃",
             "vote": 71,
             "rate_global": 37.17,
@@ -39,7 +39,7 @@
         },
         {
             "group": 2,
-            "rank": 1,
+            "rank": 2,
             "name": "NG-远山伦",
             "vote": 40,
             "rate_global": 20.94,
@@ -47,7 +47,7 @@
         },
         {
             "group": 2,
-            "rank": 2,
+            "rank": 3,
             "name": "魔法纪录-十咎桃子",
             "vote": 39,
             "rate_global": 20.42,
@@ -55,7 +55,7 @@
         },
         {
             "group": 3,
-            "rank": 3,
+            "rank": 1,
             "name": "街角魔族-千代田桃",
             "vote": 58,
             "rate_global": 30.37,
@@ -63,7 +63,7 @@
         },
         {
             "group": 3,
-            "rank": 4,
+            "rank": 2,
             "name": "玉子市场-常盘绿",
             "vote": 56,
             "rate_global": 29.32,
@@ -71,7 +71,7 @@
         },
         {
             "group": 3,
-            "rank": 1,
+            "rank": 3,
             "name": "CLANNAD-坂上智代",
             "vote": 35,
             "rate_global": 18.32,
@@ -79,7 +79,7 @@
         },
         {
             "group": 4,
-            "rank": 2,
+            "rank": 1,
             "name": "惊爆草莓-凉水玉青",
             "vote": 67,
             "rate_global": 35.08,
@@ -87,7 +87,7 @@
         },
         {
             "group": 4,
-            "rank": 3,
+            "rank": 2,
             "name": "命运石之门-椎名真由理",
             "vote": 40,
             "rate_global": 20.94,
@@ -95,7 +95,7 @@
         },
         {
             "group": 4,
-            "rank": 4,
+            "rank": 3,
             "name": "结城友奈是勇者-郡千景",
             "vote": 33,
             "rate_global": 17.28,

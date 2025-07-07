@@ -1,0 +1,241 @@
+{
+    "name": "海选赛day3",
+    "time": "2018-08-28 23:00:00",
+    "voter": 315,
+    "last_time": "2018-08-28 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "魔法少女小圆-美树沙耶香",
+            "vote": 207,
+            "rate_global": 65.71,
+            "rate_group": 19.35
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "拥抱！光之美少女-药师寺纱绫",
+            "vote": 110,
+            "rate_global": 34.92,
+            "rate_group": 10.28
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "玉子市场-常盘绿",
+            "vote": 92,
+            "rate_global": 29.21,
+            "rate_group": 8.6
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "旋风管家-桂雏菊",
+            "vote": 88,
+            "rate_global": 27.94,
+            "rate_group": 8.22
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "DARLING in the FRANXX-五郎",
+            "vote": 79,
+            "rate_global": 25.08,
+            "rate_group": 7.38
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "吹响！上低音号-伞木希美",
+            "vote": 64,
+            "rate_global": 20.32,
+            "rate_group": 5.98
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "月刊少女野崎君-佐仓千代",
+            "vote": 59,
+            "rate_global": 18.73,
+            "rate_group": 5.51
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "Kanon-水濑名雪",
+            "vote": 54,
+            "rate_global": 17.14,
+            "rate_group": 5.05
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "龙王的工作-清泷桂香",
+            "vote": 44,
+            "rate_global": 13.97,
+            "rate_group": 4.11
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "擅长捉弄的高木同学-高木同学",
+            "vote": 40,
+            "rate_global": 12.7,
+            "rate_group": 3.74
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "Love Live-绚濑绘里",
+            "vote": 37,
+            "rate_global": 11.75,
+            "rate_group": 3.46
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "Slow Start-十仓荣依子",
+            "vote": 36,
+            "rate_global": 11.43,
+            "rate_group": 3.36
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "LOST SONG-琳",
+            "vote": 33,
+            "rate_global": 10.48,
+            "rate_group": 3.08
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "魔卡少女樱-大道寺園美",
+            "vote": 30,
+            "rate_global": 9.52,
+            "rate_group": 2.8
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "珈百璃的堕落-天真·珈百璃·怀特",
+            "vote": 20,
+            "rate_global": 6.35,
+            "rate_group": 1.87
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "Little Busters!-三枝叶留佳",
+            "vote": 19,
+            "rate_global": 6.03,
+            "rate_group": 1.78
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "摇曳百合-大室樱子",
+            "vote": 13,
+            "rate_global": 4.13,
+            "rate_group": 1.21
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "魔卡少女樱-木之本抚子",
+            "vote": 11,
+            "rate_global": 3.49,
+            "rate_group": 1.03
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "摇曳百合-西垣奈奈",
+            "vote": 7,
+            "rate_global": 2.22,
+            "rate_group": 0.65
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "A Channel-西由宇子",
+            "vote": 6,
+            "rate_global": 1.9,
+            "rate_group": 0.56
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "在盛夏等待-树下佳织",
+            "vote": 4,
+            "rate_global": 1.27,
+            "rate_group": 0.37
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "蜡笔小新-行田德郎",
+            "vote": 3,
+            "rate_global": 0.95,
+            "rate_group": 0.28
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "蜡笔小新-佐藤正男",
+            "vote": 3,
+            "rate_global": 0.95,
+            "rate_group": 0.28
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "寻找满月-梅洛蔻",
+            "vote": 3,
+            "rate_global": 0.95,
+            "rate_group": 0.28
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "春原庄的管理人-春原彩花",
+            "vote": 2,
+            "rate_global": 0.63,
+            "rate_group": 0.19
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "寻找满月-神山满月",
+            "vote": 2,
+            "rate_global": 0.63,
+            "rate_group": 0.19
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "在盛夏等待-贵月一花",
+            "vote": 2,
+            "rate_global": 0.63,
+            "rate_group": 0.19
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "蜡笔小新-樱田萌子",
+            "vote": 1,
+            "rate_global": 0.32,
+            "rate_group": 0.09
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "战国鬼才传-古田左介",
+            "vote": 1,
+            "rate_global": 0.32,
+            "rate_group": 0.09
+        }
+    ]
+}

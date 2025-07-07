@@ -1,0 +1,249 @@
+{
+    "name": "复活赛",
+    "time": "2018-09-05 23:00:00",
+    "voter": 231,
+    "last_time": "2018-09-05 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "结城友奈是勇者-乃木园子",
+            "vote": 76,
+            "rate_global": 32.9,
+            "rate_group": 6.93
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "向山进发-仓上日向",
+            "vote": 75,
+            "rate_global": 32.47,
+            "rate_group": 6.84
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "我的妹妹不可能那么可爱-新垣绫濑",
+            "vote": 61,
+            "rate_global": 26.41,
+            "rate_group": 5.57
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "惊爆草莓-凉水玉青",
+            "vote": 60,
+            "rate_global": 25.97,
+            "rate_group": 5.47
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "Re:从零开始的异世界生活-蕾姆",
+            "vote": 57,
+            "rate_global": 24.68,
+            "rate_group": 5.2
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "少女歌剧-西条克洛迪娜",
+            "vote": 55,
+            "rate_global": 23.81,
+            "rate_group": 5.02
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "摇曳百合-赤座灯里",
+            "vote": 54,
+            "rate_global": 23.38,
+            "rate_group": 4.93
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "CLANNAD-藤林椋",
+            "vote": 49,
+            "rate_global": 21.21,
+            "rate_group": 4.47
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "Rewrite-神户小鸟",
+            "vote": 48,
+            "rate_global": 20.78,
+            "rate_group": 4.38
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "四月是你的谎言-泽部椿",
+            "vote": 41,
+            "rate_global": 17.75,
+            "rate_group": 3.74
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "变态王子与不笑猫-小豆梓",
+            "vote": 39,
+            "rate_global": 16.88,
+            "rate_group": 3.56
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "Princess Principal-安洁",
+            "vote": 38,
+            "rate_global": 16.45,
+            "rate_group": 3.47
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "电玩咖-星之守千秋",
+            "vote": 36,
+            "rate_global": 15.58,
+            "rate_group": 3.28
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "魔法少女小圆-巴麻美",
+            "vote": 33,
+            "rate_global": 14.29,
+            "rate_group": 3.01
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "吹响！上低音号-加藤叶月",
+            "vote": 32,
+            "rate_global": 13.85,
+            "rate_group": 2.92
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "如果有妹妹就好了-白川京",
+            "vote": 31,
+            "rate_global": 13.42,
+            "rate_group": 2.83
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "DARLING in the FRANXX-五郎",
+            "vote": 30,
+            "rate_global": 12.99,
+            "rate_group": 2.74
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "中二病也要谈恋爱-丹生谷森夏",
+            "vote": 28,
+            "rate_global": 12.12,
+            "rate_group": 2.55
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "捏造陷阱-武田",
+            "vote": 27,
+            "rate_global": 11.69,
+            "rate_group": 2.46
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "天才麻将少女-新子憧",
+            "vote": 25,
+            "rate_global": 10.82,
+            "rate_group": 2.28
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "Princess Principal-多萝西",
+            "vote": 24,
+            "rate_global": 10.39,
+            "rate_group": 2.19
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "月刊少女野崎君-佐仓千代",
+            "vote": 24,
+            "rate_global": 10.39,
+            "rate_group": 2.19
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "吹响！上低音号-田中明日香",
+            "vote": 23,
+            "rate_global": 9.96,
+            "rate_group": 2.1
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "Love Live-园田海未",
+            "vote": 22,
+            "rate_global": 9.52,
+            "rate_group": 2.01
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "电玩咖-天道花怜",
+            "vote": 20,
+            "rate_global": 8.66,
+            "rate_group": 1.82
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "魔法少女小圆-鹿目圆",
+            "vote": 20,
+            "rate_global": 8.66,
+            "rate_group": 1.82
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "NEW GAME-泷本日富美",
+            "vote": 19,
+            "rate_global": 8.23,
+            "rate_group": 1.73
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "Love Live-南小鸟",
+            "vote": 18,
+            "rate_global": 7.79,
+            "rate_group": 1.64
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "吹响！上低音号-伞木希美",
+            "vote": 18,
+            "rate_global": 7.79,
+            "rate_group": 1.64
+        },
+        {
+            "group": 1,
+            "rank": 30,
+            "name": "Love Live-东条希",
+            "vote": 13,
+            "rate_global": 5.63,
+            "rate_group": 1.19
+        }
+    ]
+}

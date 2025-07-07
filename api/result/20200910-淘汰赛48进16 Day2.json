@@ -31,7 +31,7 @@
         },
         {
             "group": 2,
-            "rank": 4,
+            "rank": 1,
             "name": "结城友奈是勇者-乃木园子",
             "vote": 90,
             "rate_global": 37.19,
@@ -39,7 +39,7 @@
         },
         {
             "group": 2,
-            "rank": 1,
+            "rank": 2,
             "name": "邻家索菲-夏木日向",
             "vote": 68,
             "rate_global": 28.1,
@@ -47,7 +47,7 @@
         },
         {
             "group": 2,
-            "rank": 2,
+            "rank": 3,
             "name": "CLANNAD-藤林杏",
             "vote": 43,
             "rate_global": 17.77,
@@ -55,7 +55,7 @@
         },
         {
             "group": 3,
-            "rank": 3,
+            "rank": 1,
             "name": "魔法纪录-梓美冬",
             "vote": 138,
             "rate_global": 57.02,
@@ -63,7 +63,7 @@
         },
         {
             "group": 3,
-            "rank": 4,
+            "rank": 2,
             "name": "刀使巫女-燕结芽",
             "vote": 45,
             "rate_global": 18.6,
@@ -71,7 +71,7 @@
         },
         {
             "group": 3,
-            "rank": 1,
+            "rank": 3,
             "name": "白色相簿2-小木曾雪菜",
             "vote": 34,
             "rate_global": 14.05,
@@ -79,7 +79,7 @@
         },
         {
             "group": 4,
-            "rank": 2,
+            "rank": 1,
             "name": "魔法纪录-环彩羽",
             "vote": 121,
             "rate_global": 50.0,
@@ -87,7 +87,7 @@
         },
         {
             "group": 4,
-            "rank": 3,
+            "rank": 2,
             "name": "天使降临我身边-星野日向",
             "vote": 64,
             "rate_global": 26.45,
@@ -95,7 +95,7 @@
         },
         {
             "group": 4,
-            "rank": 4,
+            "rank": 3,
             "name": "结城友奈是勇者-三之轮银",
             "vote": 34,
             "rate_global": 14.05,

@@ -1,0 +1,41 @@
+{
+    "name": "半决赛",
+    "time": "2019-09-18 23:00:00",
+    "voter": 334,
+    "last_time": "2019-09-18 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "天使降临我身边-姬坂乃爱",
+            "vote": 166,
+            "rate_global": 49.7,
+            "rate_group": 59.93
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "向山进发-仓上日向",
+            "vote": 111,
+            "rate_global": 33.23,
+            "rate_group": 40.07
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "终将成为你-佐伯沙弥香",
+            "vote": 193,
+            "rate_global": 57.78,
+            "rate_group": 60.88
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "魔卡少女樱-大道寺知世",
+            "vote": 124,
+            "rate_global": 37.13,
+            "rate_group": 39.12
+        }
+    ]
+}

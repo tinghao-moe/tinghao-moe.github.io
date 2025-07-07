@@ -2,8 +2,8 @@
     "name": "海选赛day3",
     "time": "2023-08-10 23:00:00",
     "voter": 881,
-    "last_time": "2023-08-10 23:00:00",
-    "last_floor": -1,
+    "last_time": "2023-08-10 22:58",
+    "last_floor": 1239,
     "votes": [
         {
             "group": 1,
@@ -208,7 +208,7 @@
         {
             "group": 1,
             "rank": 26,
-            "name": "Smile光之美少女!-青木丽华",
+            "name": "Smile光之美少女！-青木丽华",
             "vote": 13,
             "rate_global": 1.48,
             "rate_group": 0.36

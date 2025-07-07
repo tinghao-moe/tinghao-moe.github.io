@@ -1,0 +1,281 @@
+{
+    "name": "海选赛day7",
+    "time": "2019-09-07 23:00:00",
+    "voter": 187,
+    "last_time": "2019-09-07 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "魔卡少女樱-大道寺知世",
+            "vote": 103,
+            "rate_global": 55.08,
+            "rate_group": 11.85
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "刀使巫女-燕结芽",
+            "vote": 90,
+            "rate_global": 48.13,
+            "rate_group": 10.36
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "少女歌剧-大场奈奈",
+            "vote": 85,
+            "rate_global": 45.45,
+            "rate_group": 9.78
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "樱花庄的宠物女孩-青山七海",
+            "vote": 77,
+            "rate_global": 41.18,
+            "rate_group": 8.86
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "白色相簿2-小木曾雪菜",
+            "vote": 75,
+            "rate_global": 40.11,
+            "rate_group": 8.63
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "五等分的花嫁-中野四叶",
+            "vote": 49,
+            "rate_global": 26.2,
+            "rate_group": 5.64
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "少女歌剧-西条克洛迪娜",
+            "vote": 48,
+            "rate_global": 25.67,
+            "rate_group": 5.52
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "青春猪头少年-梓川枫",
+            "vote": 46,
+            "rate_global": 24.6,
+            "rate_group": 5.29
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "Anima Yell-猿渡宇希",
+            "vote": 45,
+            "rate_global": 24.06,
+            "rate_group": 5.18
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "吹响！上低音号-高坂丽奈",
+            "vote": 42,
+            "rate_global": 22.46,
+            "rate_group": 4.83
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "CLANNAD-藤林椋",
+            "vote": 41,
+            "rate_global": 21.93,
+            "rate_group": 4.72
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "吹响！上低音号-田中明日香",
+            "vote": 32,
+            "rate_global": 17.11,
+            "rate_group": 3.68
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "茜色少女-明日架",
+            "vote": 21,
+            "rate_global": 11.23,
+            "rate_group": 2.42
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "哥布林杀手-女神官",
+            "vote": 18,
+            "rate_global": 9.63,
+            "rate_group": 2.07
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "向山进发-青羽心夏",
+            "vote": 14,
+            "rate_global": 7.49,
+            "rate_group": 1.61
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "强袭魔女-宮藤芳佳",
+            "vote": 10,
+            "rate_global": 5.35,
+            "rate_group": 1.15
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "FLIP FLAPPERS-帕比卡",
+            "vote": 10,
+            "rate_global": 5.35,
+            "rate_group": 1.15
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "Urara迷路帖-巽绀",
+            "vote": 10,
+            "rate_global": 5.35,
+            "rate_group": 1.15
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "约定的梦幻岛-艾玛",
+            "vote": 9,
+            "rate_global": 4.81,
+            "rate_group": 1.04
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "我家的女仆有够烦！-米夏",
+            "vote": 7,
+            "rate_global": 3.74,
+            "rate_group": 0.81
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "Re:Stage!-月坂纱由",
+            "vote": 7,
+            "rate_global": 3.74,
+            "rate_group": 0.81
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "命运石之门-阿万音由季",
+            "vote": 6,
+            "rate_global": 3.21,
+            "rate_group": 0.69
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "叛逆性百万亚瑟王-伯达克",
+            "vote": 4,
+            "rate_global": 2.14,
+            "rate_group": 0.46
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "终将成为你-柚木千枝",
+            "vote": 4,
+            "rate_global": 2.14,
+            "rate_group": 0.46
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "约会大作战-冈峰珠惠",
+            "vote": 4,
+            "rate_global": 2.14,
+            "rate_group": 0.46
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "调教咖啡厅-天野美雨",
+            "vote": 3,
+            "rate_global": 1.6,
+            "rate_group": 0.35
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "绝灭危愚少女-AYA",
+            "vote": 2,
+            "rate_global": 1.07,
+            "rate_group": 0.23
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "普通攻击是全体攻击而且能二次攻击的妈妈你喜欢吗？-梅迪",
+            "vote": 1,
+            "rate_global": 0.53,
+            "rate_group": 0.12
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "贤者之孙-西恩·沃夫特",
+            "vote": 1,
+            "rate_global": 0.53,
+            "rate_group": 0.12
+        },
+        {
+            "group": 1,
+            "rank": 30,
+            "name": "百变之星-王梅",
+            "vote": 1,
+            "rate_global": 0.53,
+            "rate_group": 0.12
+        },
+        {
+            "group": 1,
+            "rank": 31,
+            "name": "流汗吧！健身少女-爱菜瑠美佳",
+            "vote": 1,
+            "rate_global": 0.53,
+            "rate_group": 0.12
+        },
+        {
+            "group": 1,
+            "rank": 32,
+            "name": "W'Z-土佐堀遥",
+            "vote": 1,
+            "rate_global": 0.53,
+            "rate_group": 0.12
+        },
+        {
+            "group": 1,
+            "rank": 33,
+            "name": "微笑的闪士-红橘",
+            "vote": 1,
+            "rate_global": 0.53,
+            "rate_group": 0.12
+        },
+        {
+            "group": 1,
+            "rank": 34,
+            "name": "海物语-乌琳",
+            "vote": 1,
+            "rate_global": 0.53,
+            "rate_group": 0.12
+        }
+    ]
+}

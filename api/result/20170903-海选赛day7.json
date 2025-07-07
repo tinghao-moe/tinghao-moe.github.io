@@ -1,0 +1,217 @@
+{
+    "name": "海选赛day7",
+    "time": "2017-09-03 23:00:00",
+    "voter": 341,
+    "last_time": "2017-09-03 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "樱花庄的宠物女孩-青山七海",
+            "vote": 225,
+            "rate_global": 65.98,
+            "rate_group": 17.79
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "我的妹妹不可能那么可爱-新垣绫濑",
+            "vote": 194,
+            "rate_global": 56.89,
+            "rate_group": 15.34
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "龙与虎-栉枝实乃梨",
+            "vote": 171,
+            "rate_global": 50.15,
+            "rate_group": 13.52
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "电玩咖-星之守千秋",
+            "vote": 105,
+            "rate_global": 30.79,
+            "rate_group": 8.3
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "青春波纹-知名萌香",
+            "vote": 83,
+            "rate_global": 24.34,
+            "rate_group": 6.56
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "吹响！上低音号-中川夏纪",
+            "vote": 73,
+            "rate_global": 21.41,
+            "rate_group": 5.77
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "樱花任务-四之宫诗织",
+            "vote": 67,
+            "rate_global": 19.65,
+            "rate_group": 5.3
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "纯白交响曲-乾纱凪",
+            "vote": 48,
+            "rate_global": 14.08,
+            "rate_group": 3.79
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "Love Live Sunshine-高海千歌",
+            "vote": 47,
+            "rate_global": 13.78,
+            "rate_group": 3.72
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "甘城光辉游乐园-拉媞珐·芙尔兰札",
+            "vote": 44,
+            "rate_global": 12.9,
+            "rate_group": 3.48
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "可塑性记忆-艾拉",
+            "vote": 43,
+            "rate_global": 12.61,
+            "rate_group": 3.4
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "超次元游戏海王星-涅普基雅",
+            "vote": 28,
+            "rate_global": 8.21,
+            "rate_group": 2.21
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "Love Live Sunshine-小原鞠莉",
+            "vote": 25,
+            "rate_global": 7.33,
+            "rate_group": 1.98
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "野良神-夜斗",
+            "vote": 25,
+            "rate_global": 7.33,
+            "rate_group": 1.98
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "CHAOS;CHILD-来栖乃乃",
+            "vote": 18,
+            "rate_global": 5.28,
+            "rate_group": 1.42
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "数码宝贝tri-太刀川美美",
+            "vote": 15,
+            "rate_global": 4.4,
+            "rate_group": 1.19
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "偶像大师 灰姑娘女孩-高垣枫",
+            "vote": 13,
+            "rate_global": 3.81,
+            "rate_group": 1.03
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "Ange Vierge-苍月纱夜",
+            "vote": 10,
+            "rate_global": 2.93,
+            "rate_group": 0.79
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "加速世界-有田春雪",
+            "vote": 8,
+            "rate_global": 2.35,
+            "rate_group": 0.63
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "FRESH光之美少女！-桃园爱",
+            "vote": 4,
+            "rate_global": 1.17,
+            "rate_group": 0.32
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "恶魔高校DxD-木场祐斗",
+            "vote": 4,
+            "rate_global": 1.17,
+            "rate_group": 0.32
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "偶像大师 灰姑娘剧场-北条加莲",
+            "vote": 4,
+            "rate_global": 1.17,
+            "rate_group": 0.32
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "始源蓝宝石-祐树",
+            "vote": 4,
+            "rate_global": 1.17,
+            "rate_group": 0.32
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "Happiness Charge光之美少女！-大森悠子",
+            "vote": 3,
+            "rate_global": 0.88,
+            "rate_group": 0.24
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "光之美少女-绿川直",
+            "vote": 2,
+            "rate_global": 0.59,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "温泉物语-白羽百合",
+            "vote": 2,
+            "rate_global": 0.59,
+            "rate_group": 0.16
+        }
+    ]
+}

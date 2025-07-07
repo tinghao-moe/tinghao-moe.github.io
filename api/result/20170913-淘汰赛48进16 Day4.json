@@ -1,0 +1,105 @@
+{
+    "name": "淘汰赛48进16 Day4",
+    "time": "2017-09-13 23:00:00",
+    "voter": 344,
+    "last_time": "2017-09-13 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "Re:从零开始的异世界生活-艾米莉亚",
+            "vote": 142,
+            "rate_global": 41.28,
+            "rate_group": 52.59
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "吹响！上低音号-高坂丽奈",
+            "vote": 64,
+            "rate_global": 18.6,
+            "rate_group": 23.7
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "樱花任务-木春由乃",
+            "vote": 64,
+            "rate_global": 18.6,
+            "rate_group": 23.7
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "Rewrite-神户小鸟",
+            "vote": 102,
+            "rate_global": 29.65,
+            "rate_group": 38.49
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "Princess Principal-安洁",
+            "vote": 88,
+            "rate_global": 25.58,
+            "rate_group": 33.21
+        },
+        {
+            "group": 2,
+            "rank": 3,
+            "name": "某科学的超电磁炮-御坂美琴",
+            "vote": 75,
+            "rate_global": 21.8,
+            "rate_group": 28.3
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "我的妹妹不可能那么可爱-新垣绫濑",
+            "vote": 139,
+            "rate_global": 40.41,
+            "rate_group": 59.66
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "心跳！光之美少女-剑崎真琴",
+            "vote": 65,
+            "rate_global": 18.9,
+            "rate_group": 27.9
+        },
+        {
+            "group": 3,
+            "rank": 3,
+            "name": "食灵零-谏山黄泉",
+            "vote": 29,
+            "rate_global": 8.43,
+            "rate_group": 12.45
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "Re:从零开始的异世界生活-蕾姆",
+            "vote": 151,
+            "rate_global": 43.9,
+            "rate_group": 51.36
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "魔法少女小圆-晓美焰",
+            "vote": 114,
+            "rate_global": 33.14,
+            "rate_group": 38.78
+        },
+        {
+            "group": 4,
+            "rank": 3,
+            "name": "电玩咖-亚玖璃",
+            "vote": 29,
+            "rate_global": 8.43,
+            "rate_group": 9.86
+        }
+    ]
+}

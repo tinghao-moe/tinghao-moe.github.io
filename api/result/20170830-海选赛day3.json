@@ -1,0 +1,217 @@
+{
+    "name": "海选赛day3",
+    "time": "2017-08-30 23:00:00",
+    "voter": 443,
+    "last_time": "2017-08-30 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "Re:从零开始的异世界生活-艾米莉亚",
+            "vote": 197,
+            "rate_global": 44.47,
+            "rate_group": 12.42
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "魔法少女小圆-鹿目圆",
+            "vote": 149,
+            "rate_global": 33.63,
+            "rate_group": 9.39
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "刀剑神域-莉法",
+            "vote": 135,
+            "rate_global": 30.47,
+            "rate_group": 8.51
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "NEW GAME-凉风青叶",
+            "vote": 133,
+            "rate_global": 30.02,
+            "rate_group": 8.39
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "Love Live-南小鸟",
+            "vote": 130,
+            "rate_global": 29.35,
+            "rate_group": 8.2
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "精灵宝可梦-皮卡丘",
+            "vote": 124,
+            "rate_global": 27.99,
+            "rate_group": 7.82
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "魔法少女☆伊莉雅 3rei!!-伊莉雅斯菲尔.冯.爱因兹贝伦",
+            "vote": 84,
+            "rate_global": 18.96,
+            "rate_group": 5.3
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "白箱-露西威勒",
+            "vote": 82,
+            "rate_global": 18.51,
+            "rate_group": 5.17
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "食戟之灵-田所惠",
+            "vote": 76,
+            "rate_global": 17.16,
+            "rate_group": 4.79
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "结城友奈是勇者-东乡美森",
+            "vote": 67,
+            "rate_global": 15.12,
+            "rate_group": 4.22
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "幸运星-柊司",
+            "vote": 56,
+            "rate_global": 12.64,
+            "rate_group": 3.53
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "精灵宝可梦日月-小智",
+            "vote": 54,
+            "rate_global": 12.19,
+            "rate_group": 3.4
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "吹响！上低音号-黄前麻美子",
+            "vote": 47,
+            "rate_global": 10.61,
+            "rate_group": 2.96
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "幸运星-柊镜",
+            "vote": 45,
+            "rate_global": 10.16,
+            "rate_group": 2.84
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "AIR-神尾观铃",
+            "vote": 44,
+            "rate_global": 9.93,
+            "rate_group": 2.77
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "凉宫春日的忧郁-古泉一树",
+            "vote": 38,
+            "rate_global": 8.58,
+            "rate_group": 2.4
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "欢迎来到实力至上主义教室-栉田桔梗",
+            "vote": 31,
+            "rate_global": 7.0,
+            "rate_group": 1.95
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "恋爱禁止的世界-高崎美咲",
+            "vote": 29,
+            "rate_global": 6.55,
+            "rate_group": 1.83
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "珈百璃的堕落-白羽·菈菲尔·恩兹沃斯",
+            "vote": 18,
+            "rate_global": 4.06,
+            "rate_group": 1.13
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "学院孤岛-若狭悠里",
+            "vote": 18,
+            "rate_global": 4.06,
+            "rate_group": 1.13
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "HeartCatch光之美少女-花咲蕾",
+            "vote": 12,
+            "rate_global": 2.71,
+            "rate_group": 0.76
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "动作女主 水果应援团-城根御前",
+            "vote": 7,
+            "rate_global": 1.58,
+            "rate_group": 0.44
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "WW.Working-榊研一郎",
+            "vote": 3,
+            "rate_global": 0.68,
+            "rate_group": 0.19
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "名侦探柯南-铃木绫子",
+            "vote": 3,
+            "rate_global": 0.68,
+            "rate_group": 0.19
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "偶像活动-新条雏姬",
+            "vote": 3,
+            "rate_global": 0.68,
+            "rate_group": 0.19
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "甜心战士F-圣罗甜心",
+            "vote": 1,
+            "rate_global": 0.23,
+            "rate_group": 0.06
+        }
+    ]
+}

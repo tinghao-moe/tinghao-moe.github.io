@@ -1,0 +1,289 @@
+{
+    "name": "海选赛day1",
+    "time": "2019-09-01 23:00:00",
+    "voter": 296,
+    "last_time": "2019-09-01 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "路人女主的养成方法-英梨梨",
+            "vote": 181,
+            "rate_global": 61.15,
+            "rate_group": 12.79
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "DARLING in the FRANXX-莓",
+            "vote": 181,
+            "rate_global": 61.15,
+            "rate_group": 12.79
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "中二病也要谈恋爱-七宫智音",
+            "vote": 139,
+            "rate_global": 46.96,
+            "rate_group": 9.82
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "伪恋-小野寺小咲",
+            "vote": 113,
+            "rate_global": 38.18,
+            "rate_group": 7.99
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "街角魔族-阳夏木蜜柑",
+            "vote": 93,
+            "rate_global": 31.42,
+            "rate_group": 6.57
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "宝石之国-钻石",
+            "vote": 83,
+            "rate_global": 28.04,
+            "rate_group": 5.87
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "Rewrite-神户小鸟",
+            "vote": 76,
+            "rate_global": 25.68,
+            "rate_group": 5.37
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "SSSS.GRIDMAN-响裕太",
+            "vote": 72,
+            "rate_global": 24.32,
+            "rate_group": 5.09
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "旋风管家-桂雏菊",
+            "vote": 69,
+            "rate_global": 23.31,
+            "rate_group": 4.88
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "骚动时节的少女们啊-小野寺和纱",
+            "vote": 54,
+            "rate_global": 18.24,
+            "rate_group": 3.82
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "辉夜大小姐想让我告白-藤原千花",
+            "vote": 47,
+            "rate_global": 15.88,
+            "rate_group": 3.32
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "BanG Dream!-松原花音",
+            "vote": 42,
+            "rate_global": 14.19,
+            "rate_group": 2.97
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "来自多彩世界的明天-月白琥珀",
+            "vote": 32,
+            "rate_global": 10.81,
+            "rate_group": 2.26
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "终将成为你-小糸怜",
+            "vote": 28,
+            "rate_global": 9.46,
+            "rate_group": 1.98
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "命运石之门-牧濑红莉栖",
+            "vote": 26,
+            "rate_global": 8.78,
+            "rate_group": 1.84
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "To LOVE-梦梦",
+            "vote": 26,
+            "rate_global": 8.78,
+            "rate_group": 1.84
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "白箱-藤堂美沙",
+            "vote": 20,
+            "rate_global": 6.76,
+            "rate_group": 1.41
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "Star Twinkle光之美少女-香久矢圆香",
+            "vote": 17,
+            "rate_global": 5.74,
+            "rate_group": 1.2
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "日常-博士",
+            "vote": 15,
+            "rate_global": 5.07,
+            "rate_group": 1.06
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "三颗星彩色冒险-结衣",
+            "vote": 13,
+            "rate_global": 4.39,
+            "rate_group": 0.92
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "魔卡少女樱-月城雪兔",
+            "vote": 12,
+            "rate_global": 4.05,
+            "rate_group": 0.85
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "赛马娘-胜利奖券",
+            "vote": 12,
+            "rate_global": 4.05,
+            "rate_group": 0.85
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "强袭魔女-山川美千子",
+            "vote": 9,
+            "rate_global": 3.04,
+            "rate_group": 0.64
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "我喜欢的是妹妹但不是妹妹-永见凉花",
+            "vote": 8,
+            "rate_global": 2.7,
+            "rate_group": 0.57
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "你遭难了吗-天谷睦",
+            "vote": 8,
+            "rate_global": 2.7,
+            "rate_group": 0.57
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "约会大作战-夜刀神十香",
+            "vote": 7,
+            "rate_global": 2.36,
+            "rate_group": 0.49
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "你遭难了吗-铃森明日香",
+            "vote": 7,
+            "rate_global": 2.36,
+            "rate_group": 0.49
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "名侦探柯南-仓木麻衣",
+            "vote": 6,
+            "rate_global": 2.03,
+            "rate_group": 0.42
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "光之美少女-美墨渚",
+            "vote": 5,
+            "rate_global": 1.69,
+            "rate_group": 0.35
+        },
+        {
+            "group": 1,
+            "rank": 30,
+            "name": "为了女儿，我说不定连魔王都能干掉-拉缇娜",
+            "vote": 4,
+            "rate_global": 1.35,
+            "rate_group": 0.28
+        },
+        {
+            "group": 1,
+            "rank": 31,
+            "name": "擅长捉弄的高木同学-友加里",
+            "vote": 3,
+            "rate_global": 1.01,
+            "rate_group": 0.21
+        },
+        {
+            "group": 1,
+            "rank": 32,
+            "name": "信长老师的年幼妻子-枇杷岛万结",
+            "vote": 2,
+            "rate_global": 0.68,
+            "rate_group": 0.14
+        },
+        {
+            "group": 1,
+            "rank": 33,
+            "name": "偶像活动Friends-艾莉西亚·夏洛特",
+            "vote": 2,
+            "rate_global": 0.68,
+            "rate_group": 0.14
+        },
+        {
+            "group": 1,
+            "rank": 34,
+            "name": "普通攻击是全体攻击而且能二次攻击的妈妈你喜欢吗？-华兹",
+            "vote": 2,
+            "rate_global": 0.68,
+            "rate_group": 0.14
+        },
+        {
+            "group": 1,
+            "rank": 35,
+            "name": "微笑的闪士-天道琉朱菜",
+            "vote": 1,
+            "rate_global": 0.34,
+            "rate_group": 0.07
+        }
+    ]
+}

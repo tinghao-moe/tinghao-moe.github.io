@@ -1,16 +1,16 @@
 {
     "name": "淘汰赛16进8 Day2",
     "time": "2023-08-23 23:00:00",
-    "voter": -1,
-    "last_time": "2023-08-23 23:00:00",
-    "last_floor": -1,
+    "voter": 1208,
+    "last_time": "2023-08-23 22:59",
+    "last_floor": 1863,
     "votes": [
         {
             "group": 1,
             "rank": 1,
             "name": "BanG Dream! It's MyGO!!!!!-长崎爽世",
             "vote": 823,
-            "rate_global": "-",
+            "rate_global": 68.13,
             "rate_group": 70.95
         },
         {
@@ -18,7 +18,7 @@
             "rank": 2,
             "name": "BanG Dream! It's MyGO!!!!!-椎名立希",
             "vote": 337,
-            "rate_global": "-",
+            "rate_global": 27.9,
             "rate_group": 29.05
         },
         {
@@ -26,7 +26,7 @@
             "rank": 1,
             "name": "利兹与青鸟-伞木希美",
             "vote": 817,
-            "rate_global": "-",
+            "rate_global": 67.63,
             "rate_group": 77.74
         },
         {
@@ -34,7 +34,7 @@
             "rank": 2,
             "name": "魔法少女小圆-巴麻美",
             "vote": 234,
-            "rate_global": "-",
+            "rate_global": 19.37,
             "rate_group": 22.26
         },
         {
@@ -42,7 +42,7 @@
             "rank": 1,
             "name": "安达与岛村-安达樱",
             "vote": 546,
-            "rate_global": "-",
+            "rate_global": 45.2,
             "rate_group": 50.56
         },
         {
@@ -50,7 +50,7 @@
             "rank": 2,
             "name": "少女歌剧-神乐光",
             "vote": 534,
-            "rate_global": "-",
+            "rate_global": 44.21,
             "rate_group": 49.44
         },
         {
@@ -58,7 +58,7 @@
             "rank": 1,
             "name": "安达与岛村-樽见",
             "vote": 514,
-            "rate_global": "-",
+            "rate_global": 42.55,
             "rate_group": 50.1
         },
         {
@@ -66,7 +66,7 @@
             "rank": 2,
             "name": "处刑少女的生存之道-茉茉",
             "vote": 512,
-            "rate_global": "-",
+            "rate_global": 42.38,
             "rate_group": 49.9
         }
     ]

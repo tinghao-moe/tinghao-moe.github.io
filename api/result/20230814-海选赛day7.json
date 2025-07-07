@@ -2,8 +2,8 @@
     "name": "海选赛day7",
     "time": "2023-08-14 23:00:00",
     "voter": 421,
-    "last_time": "2023-08-14 23:00:00",
-    "last_floor": -1,
+    "last_time": "2023-08-14 22:59",
+    "last_floor": 505,
     "votes": [
         {
             "group": 1,
@@ -136,7 +136,7 @@
         {
             "group": 1,
             "rank": 17,
-            "name": "我的百合乃工作是也!-小柴舞",
+            "name": "我的百合乃工作是也！-小柴舞",
             "vote": 43,
             "rate_global": 10.21,
             "rate_group": 1.97

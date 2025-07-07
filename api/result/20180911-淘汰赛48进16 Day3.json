@@ -1,0 +1,105 @@
+{
+    "name": "淘汰赛48进16 Day3",
+    "time": "2018-09-11 23:00:00",
+    "voter": 257,
+    "last_time": "2018-09-11 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "魔卡少女樱-大道寺知世",
+            "vote": 122,
+            "rate_global": 47.47,
+            "rate_group": 55.2
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "白色相簿2-小木曾雪菜",
+            "vote": 67,
+            "rate_global": 26.07,
+            "rate_group": 30.32
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "CLANNAD-坂上智代",
+            "vote": 32,
+            "rate_global": 12.45,
+            "rate_group": 14.48
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "刀使巫女-燕结芽",
+            "vote": 104,
+            "rate_global": 40.47,
+            "rate_group": 52.79
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "Just Because!-小宫惠那",
+            "vote": 53,
+            "rate_global": 20.62,
+            "rate_group": 26.9
+        },
+        {
+            "group": 2,
+            "rank": 3,
+            "name": "赛马娘-无声铃鹿",
+            "vote": 40,
+            "rate_global": 15.56,
+            "rate_group": 20.3
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "DARLING in the FRANXX-莓",
+            "vote": 103,
+            "rate_global": 40.08,
+            "rate_group": 47.47
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "结城友奈是勇者-三好夏凛",
+            "vote": 63,
+            "rate_global": 24.51,
+            "rate_group": 29.03
+        },
+        {
+            "group": 3,
+            "rank": 3,
+            "name": "命运石之门-椎名真由理",
+            "vote": 51,
+            "rate_global": 19.84,
+            "rate_group": 23.5
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "结城友奈是勇者-乃木园子",
+            "vote": 123,
+            "rate_global": 47.86,
+            "rate_group": 63.08
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "少女歌剧-西条克洛迪娜",
+            "vote": 41,
+            "rate_global": 15.95,
+            "rate_group": 21.03
+        },
+        {
+            "group": 4,
+            "rank": 3,
+            "name": "少女歌剧-爱城华恋",
+            "vote": 31,
+            "rate_global": 12.06,
+            "rate_group": 15.9
+        }
+    ]
+}

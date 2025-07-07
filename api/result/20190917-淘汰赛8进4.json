@@ -1,0 +1,73 @@
+{
+    "name": "淘汰赛8进4",
+    "time": "2019-09-17 23:00:00",
+    "voter": 348,
+    "last_time": "2019-09-17 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "天使降临我身边-姬坂乃爱",
+            "vote": 161,
+            "rate_global": 46.26,
+            "rate_group": 56.29
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "来自风平浪静的明天-潮留美海",
+            "vote": 125,
+            "rate_global": 35.92,
+            "rate_group": 43.71
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "魔卡少女樱-大道寺知世",
+            "vote": 163,
+            "rate_global": 46.84,
+            "rate_group": 56.21
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "皿三昧-阵内燕太",
+            "vote": 127,
+            "rate_global": 36.49,
+            "rate_group": 43.79
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "向山进发-仓上日向",
+            "vote": 159,
+            "rate_global": 45.69,
+            "rate_group": 63.6
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "街角魔族-吉田优子",
+            "vote": 91,
+            "rate_global": 26.15,
+            "rate_group": 36.4
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "终将成为你-佐伯沙弥香",
+            "vote": 214,
+            "rate_global": 61.49,
+            "rate_group": 71.57
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "天使降临我身边-星野日向",
+            "vote": 85,
+            "rate_global": 24.43,
+            "rate_group": 28.43
+        }
+    ]
+}

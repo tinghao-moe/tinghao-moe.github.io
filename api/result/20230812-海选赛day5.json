@@ -2,8 +2,8 @@
     "name": "海选赛day5",
     "time": "2023-08-12 23:00:00",
     "voter": 677,
-    "last_time": "2023-08-12 23:00:00",
-    "last_floor": -1,
+    "last_time": "2023-08-12 22:57",
+    "last_floor": 826,
     "votes": [
         {
             "group": 1,
@@ -88,7 +88,7 @@
         {
             "group": 1,
             "rank": 11,
-            "name": "Love Live虹咲-虹咲学园学生会副会长",
+            "name": "Love Live 虹咲-副会长",
             "vote": 141,
             "rate_global": 20.83,
             "rate_group": 3.39
@@ -208,7 +208,7 @@
         {
             "group": 1,
             "rank": 26,
-            "name": "广阔天空!光之美少女-圣扬羽",
+            "name": "广阔天空！光之美少女-圣扬羽",
             "vote": 14,
             "rate_global": 2.07,
             "rate_group": 0.34

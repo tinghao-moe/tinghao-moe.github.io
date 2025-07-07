@@ -1,0 +1,217 @@
+{
+    "name": "海选赛day6",
+    "time": "2017-09-02 23:00:00",
+    "voter": 387,
+    "last_time": "2017-09-02 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "路人女主的养成方法-英梨梨",
+            "vote": 245,
+            "rate_global": 63.31,
+            "rate_group": 18.99
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "魔卡少女樱-大道寺知世",
+            "vote": 199,
+            "rate_global": 51.42,
+            "rate_group": 15.43
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "惊爆草莓-凉水玉青",
+            "vote": 104,
+            "rate_global": 26.87,
+            "rate_group": 8.06
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "Love Live-园田海未",
+            "vote": 100,
+            "rate_global": 25.84,
+            "rate_group": 7.75
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "吹响！上低音号-中世古香织",
+            "vote": 89,
+            "rate_global": 23.0,
+            "rate_group": 6.9
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "风夏-冰无小雪",
+            "vote": 84,
+            "rate_global": 21.71,
+            "rate_group": 6.51
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "魔法少女奈叶-菲特·泰斯特罗莎",
+            "vote": 79,
+            "rate_global": 20.41,
+            "rate_group": 6.12
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "MACROSS DELTA-芙蕾雅·薇恩",
+            "vote": 70,
+            "rate_global": 18.09,
+            "rate_group": 5.43
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "结城友奈是勇者-结城友奈",
+            "vote": 56,
+            "rate_global": 14.47,
+            "rate_group": 4.34
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "不正经的魔术讲师与禁忌教典-希丝缇娜·菲伊贝尔",
+            "vote": 42,
+            "rate_global": 10.85,
+            "rate_group": 3.26
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "Rewrite-千里朱音",
+            "vote": 40,
+            "rate_global": 10.34,
+            "rate_group": 3.1
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "心跳！光之美少女-相田爱",
+            "vote": 31,
+            "rate_global": 8.01,
+            "rate_group": 2.4
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "Vivid Strike-高町薇维欧",
+            "vote": 30,
+            "rate_global": 7.75,
+            "rate_group": 2.33
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "弹丸论破3-狛枝凪斗",
+            "vote": 25,
+            "rate_global": 6.46,
+            "rate_group": 1.94
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "旋风管家-绫崎飒",
+            "vote": 16,
+            "rate_global": 4.13,
+            "rate_group": 1.24
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "东方妖妖梦-十六夜咲夜",
+            "vote": 15,
+            "rate_global": 3.88,
+            "rate_group": 1.16
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "迦南-大泽玛利亚",
+            "vote": 12,
+            "rate_global": 3.1,
+            "rate_group": 0.93
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "Re:CREATORS-筑城院真鉴",
+            "vote": 11,
+            "rate_global": 2.84,
+            "rate_group": 0.85
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "初音岛-朝仓音梦",
+            "vote": 11,
+            "rate_global": 2.84,
+            "rate_group": 0.85
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "NEW GAME-叶月雫",
+            "vote": 10,
+            "rate_global": 2.58,
+            "rate_group": 0.78
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "FRAME ARMS GIRL-源内苍",
+            "vote": 9,
+            "rate_global": 2.33,
+            "rate_group": 0.7
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "偶像活动-大空明",
+            "vote": 4,
+            "rate_global": 1.03,
+            "rate_group": 0.31
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "偶像活动-有栖川乙女",
+            "vote": 4,
+            "rate_global": 1.03,
+            "rate_group": 0.31
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "偶像活动-红林珠璃",
+            "vote": 2,
+            "rate_global": 0.52,
+            "rate_group": 0.16
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "Go!Princess光之美少女-海藤南",
+            "vote": 1,
+            "rate_global": 0.26,
+            "rate_group": 0.08
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "Hand Shakers-三津寺千鹤",
+            "vote": 1,
+            "rate_global": 0.26,
+            "rate_group": 0.08
+        }
+    ]
+}

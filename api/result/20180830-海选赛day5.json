@@ -1,0 +1,233 @@
+{
+    "name": "海选赛day5",
+    "time": "2018-08-30 23:00:00",
+    "voter": 344,
+    "last_time": "2018-08-30 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "路人女主的养成方法-英梨梨",
+            "vote": 199,
+            "rate_global": 57.85,
+            "rate_group": 12.43
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "刀使巫女-柳濑舞衣",
+            "vote": 177,
+            "rate_global": 51.45,
+            "rate_group": 11.06
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "白色相簿2-小木曾雪菜",
+            "vote": 149,
+            "rate_global": 43.31,
+            "rate_group": 9.31
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "命运石之门-椎名真由理",
+            "vote": 145,
+            "rate_global": 42.15,
+            "rate_group": 9.06
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "Re:从零开始的异世界生活-蕾姆",
+            "vote": 122,
+            "rate_global": 35.47,
+            "rate_group": 7.62
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "结城友奈是勇者-乃木园子",
+            "vote": 122,
+            "rate_global": 35.47,
+            "rate_group": 7.62
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "我的妹妹不可能那么可爱-新垣绫濑",
+            "vote": 122,
+            "rate_global": 35.47,
+            "rate_group": 7.62
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "我的青春恋爱物语果然有问题-一色彩羽",
+            "vote": 119,
+            "rate_global": 34.59,
+            "rate_group": 7.43
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "魔法少女小圆-晓美焰",
+            "vote": 98,
+            "rate_global": 28.49,
+            "rate_group": 6.12
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "政宗君的复仇-藤之宫宁子",
+            "vote": 58,
+            "rate_global": 16.86,
+            "rate_group": 3.62
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "Princess Principal-比阿特丽斯",
+            "vote": 55,
+            "rate_global": 15.99,
+            "rate_group": 3.44
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "多田君不恋爱-查尔斯·德·卢瓦尔",
+            "vote": 47,
+            "rate_global": 13.66,
+            "rate_group": 2.94
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "宝石之国-磷叶石",
+            "vote": 37,
+            "rate_global": 10.76,
+            "rate_group": 2.31
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "魔卡少女樱-木之本樱",
+            "vote": 36,
+            "rate_global": 10.47,
+            "rate_group": 2.25
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "Fate EXTRA Last Encore-远坂凛",
+            "vote": 22,
+            "rate_global": 6.4,
+            "rate_group": 1.37
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "玉子市场-北白川玉子",
+            "vote": 19,
+            "rate_global": 5.52,
+            "rate_group": 1.19
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "NEW GAME-鸣海燕",
+            "vote": 15,
+            "rate_global": 4.36,
+            "rate_group": 0.94
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "Re:从零开始的异世界生活-菜月昴",
+            "vote": 11,
+            "rate_global": 3.2,
+            "rate_group": 0.69
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "偶像大师-音无小鸟",
+            "vote": 8,
+            "rate_global": 2.33,
+            "rate_group": 0.5
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "宝石之国-蓝柱石",
+            "vote": 7,
+            "rate_global": 2.03,
+            "rate_group": 0.44
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "数码宝贝tri-高石岳",
+            "vote": 7,
+            "rate_global": 2.03,
+            "rate_group": 0.44
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "天狼-直江凉子",
+            "vote": 6,
+            "rate_global": 1.74,
+            "rate_group": 0.37
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "白色相簿2-水泽依绪",
+            "vote": 5,
+            "rate_global": 1.45,
+            "rate_group": 0.31
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "蜡笔小新-风间彻",
+            "vote": 5,
+            "rate_global": 1.45,
+            "rate_group": 0.31
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "高校舰队-杵崎誉",
+            "vote": 3,
+            "rate_global": 0.87,
+            "rate_group": 0.19
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "蜡笔小新-樱田妮妮",
+            "vote": 3,
+            "rate_global": 0.87,
+            "rate_group": 0.19
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "高达创形者-三上陆",
+            "vote": 2,
+            "rate_global": 0.58,
+            "rate_group": 0.12
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "黑子的篮球-木吉铁平",
+            "vote": 2,
+            "rate_global": 0.58,
+            "rate_group": 0.12
+        }
+    ]
+}

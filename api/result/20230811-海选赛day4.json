@@ -2,8 +2,8 @@
     "name": "海选赛day4",
     "time": "2023-08-11 23:00:00",
     "voter": 551,
-    "last_time": "2023-08-11 23:00:00",
-    "last_floor": -1,
+    "last_time": "2023-08-11 22:58",
+    "last_floor": 662,
     "votes": [
         {
             "group": 1,
@@ -64,7 +64,7 @@
         {
             "group": 1,
             "rank": 8,
-            "name": "我的百合乃工作是也!-知花纯加",
+            "name": "我的百合乃工作是也！-知花纯加",
             "vote": 146,
             "rate_global": 26.5,
             "rate_group": 4.6
@@ -88,7 +88,7 @@
         {
             "group": 1,
             "rank": 11,
-            "name": "机动战士高达水星的魔女-尼卡·七浦",
+            "name": "机动战士高达 水星的魔女-尼卡·七浦",
             "vote": 86,
             "rate_global": 15.61,
             "rate_group": 2.71
@@ -112,7 +112,7 @@
         {
             "group": 1,
             "rank": 14,
-            "name": "NEWGAME!-樱宁宁",
+            "name": "NEW GAME-樱宁宁",
             "vote": 59,
             "rate_global": 10.71,
             "rate_group": 1.86

@@ -1,16 +1,16 @@
 {
     "name": "决赛",
     "time": "2023-08-26 23:00:00",
-    "voter": -1,
-    "last_time": "2023-08-26 23:00:00",
-    "last_floor": -1,
+    "voter": 1714,
+    "last_time": "2023-08-26 22:59",
+    "last_floor": 2602,
     "votes": [
         {
             "group": 1,
             "rank": 1,
             "name": "BanG Dream! It's MyGO!!!!!-长崎爽世",
             "vote": 1562,
-            "rate_global": "-",
+            "rate_global": 91.13,
             "rate_group": 93.7
         },
         {
@@ -18,7 +18,7 @@
             "rank": 2,
             "name": "BanG Dream! It's MyGO!!!!!-丰川祥子",
             "vote": 105,
-            "rate_global": "-",
+            "rate_global": 6.13,
             "rate_group": 6.3
         },
         {
@@ -26,7 +26,7 @@
             "rank": 1,
             "name": "BanG Dream! It's MyGO!!!!!-千早爱音",
             "vote": 890,
-            "rate_global": "-",
+            "rate_global": 51.93,
             "rate_group": 54.33
         },
         {
@@ -34,7 +34,7 @@
             "rank": 2,
             "name": "利兹与青鸟-伞木希美",
             "vote": 748,
-            "rate_global": "-",
+            "rate_global": 43.64,
             "rate_group": 45.67
         }
     ]

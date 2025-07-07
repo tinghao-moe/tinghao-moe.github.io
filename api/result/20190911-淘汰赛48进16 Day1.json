@@ -1,0 +1,105 @@
+{
+    "name": "淘汰赛48进16 Day1",
+    "time": "2019-09-11 23:00:00",
+    "voter": 283,
+    "last_time": "2019-09-11 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "来自风平浪静的明天-潮留美海",
+            "vote": 97,
+            "rate_global": 34.28,
+            "rate_group": 43.11
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "我的青春恋爱物语果然有问题-一色彩羽",
+            "vote": 67,
+            "rate_global": 23.67,
+            "rate_group": 29.78
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "拥抱！光之美少女-药师寺纱绫",
+            "vote": 61,
+            "rate_global": 21.55,
+            "rate_group": 27.11
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "龙与虎-栉枝实乃梨",
+            "vote": 104,
+            "rate_global": 36.75,
+            "rate_group": 49.76
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "一个人的OO小日子-本庄阿鲁",
+            "vote": 63,
+            "rate_global": 22.26,
+            "rate_group": 30.14
+        },
+        {
+            "group": 2,
+            "rank": 3,
+            "name": "全金属狂潮-泰蕾莎·泰斯塔罗莎",
+            "vote": 42,
+            "rate_global": 14.84,
+            "rate_group": 20.1
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "天使降临我身边-姬坂乃爱",
+            "vote": 127,
+            "rate_global": 44.88,
+            "rate_group": 50.4
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "满月之战-小日向满月",
+            "vote": 71,
+            "rate_global": 25.09,
+            "rate_group": 28.17
+        },
+        {
+            "group": 3,
+            "rank": 3,
+            "name": "CLANNAD-坂上智代",
+            "vote": 54,
+            "rate_global": 19.08,
+            "rate_group": 21.43
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "DARLING in the FRANXX-莓",
+            "vote": 113,
+            "rate_global": 39.93,
+            "rate_group": 42.32
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "刀使巫女-柳濑舞衣",
+            "vote": 109,
+            "rate_global": 38.52,
+            "rate_group": 40.82
+        },
+        {
+            "group": 4,
+            "rank": 3,
+            "name": "玉子市场-常盘绿",
+            "vote": 45,
+            "rate_global": 15.9,
+            "rate_group": 16.85
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "name": "海选赛day2",
+    "time": "2017-08-29 23:00:00",
+    "voter": 609,
+    "last_time": "2017-08-29 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "Re:从零开始的异世界生活-蕾姆",
+            "vote": 328,
+            "rate_global": 53.86,
+            "rate_group": 17.25
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "某科学的超电磁炮-御坂美琴",
+            "vote": 211,
+            "rate_global": 34.65,
+            "rate_group": 11.1
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "末日时在做什么？-珂朵莉·诺塔·瑟尼欧里斯",
+            "vote": 206,
+            "rate_global": 33.83,
+            "rate_group": 10.84
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "樱花任务-木春由乃",
+            "vote": 197,
+            "rate_global": 32.35,
+            "rate_group": 10.36
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "路人女主的养成方法-加藤惠",
+            "vote": 144,
+            "rate_global": 23.65,
+            "rate_group": 7.57
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "少女编号-乌丸千岁",
+            "vote": 119,
+            "rate_global": 19.54,
+            "rate_group": 6.26
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "魔法少女奈叶-八神疾风",
+            "vote": 84,
+            "rate_global": 13.79,
+            "rate_group": 4.42
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "那朵花-本间芽衣子",
+            "vote": 76,
+            "rate_global": 12.48,
+            "rate_group": 4.0
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "心跳！光之美少女-菱川亮子",
+            "vote": 73,
+            "rate_global": 11.99,
+            "rate_group": 3.84
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "数码宝贝tri-八神太一",
+            "vote": 68,
+            "rate_global": 11.17,
+            "rate_group": 3.58
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "笨女孩-隅野沙耶香",
+            "vote": 65,
+            "rate_global": 10.67,
+            "rate_group": 3.42
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "我的妹妹是黄漫老师-和泉纱雾",
+            "vote": 63,
+            "rate_global": 10.34,
+            "rate_group": 3.31
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "BanG Dream!-山吹纱绫",
+            "vote": 48,
+            "rate_global": 7.88,
+            "rate_group": 2.52
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "Fate Apocrypha-阿斯托尔福",
+            "vote": 48,
+            "rate_global": 7.88,
+            "rate_group": 2.52
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "境界的彼方-栗山未来",
+            "vote": 40,
+            "rate_global": 6.57,
+            "rate_group": 2.1
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "天使的3P-五岛润",
+            "vote": 29,
+            "rate_global": 4.76,
+            "rate_group": 1.53
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "天降之物-见月楚原",
+            "vote": 27,
+            "rate_global": 4.43,
+            "rate_group": 1.42
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "Re:CREATORS-水筱飒太",
+            "vote": 19,
+            "rate_global": 3.12,
+            "rate_group": 1.0
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "关于完全听不懂老公在说什么的事-佐村薰",
+            "vote": 15,
+            "rate_global": 2.46,
+            "rate_group": 0.79
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "三者三叶-西山芹奈",
+            "vote": 13,
+            "rate_global": 2.13,
+            "rate_group": 0.68
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "YES！光之美少女5-梦原希",
+            "vote": 12,
+            "rate_global": 1.97,
+            "rate_group": 0.63
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "精灵宝可梦-小狮狮",
+            "vote": 8,
+            "rate_global": 1.31,
+            "rate_group": 0.42
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "锁链战记-露依洁",
+            "vote": 5,
+            "rate_global": 0.82,
+            "rate_group": 0.26
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "碧蓝幻想-娜露梅亚",
+            "vote": 2,
+            "rate_global": 0.33,
+            "rate_group": 0.11
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "第一次的辣妹-小早川稔",
+            "vote": 1,
+            "rate_global": 0.16,
+            "rate_group": 0.05
+        }
+    ]
+}

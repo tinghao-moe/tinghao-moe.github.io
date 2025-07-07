@@ -1,0 +1,281 @@
+{
+    "name": "海选赛day8",
+    "time": "2019-09-08 23:00:00",
+    "voter": 163,
+    "last_time": "2019-09-08 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "吹响！上低音号-塚本秀一",
+            "vote": 58,
+            "rate_global": 35.58,
+            "rate_group": 10.32
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "吹响！上低音号-铠冢霙",
+            "vote": 57,
+            "rate_global": 34.97,
+            "rate_group": 10.14
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "拥抱！光之美少女-药师寺纱绫",
+            "vote": 57,
+            "rate_global": 34.97,
+            "rate_group": 10.14
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "一个人的OO小日子-本庄阿鲁",
+            "vote": 46,
+            "rate_global": 28.22,
+            "rate_group": 8.19
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "全金属狂潮-泰蕾莎·泰斯塔罗莎",
+            "vote": 44,
+            "rate_global": 26.99,
+            "rate_group": 7.83
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "终将成为你-七海灯子",
+            "vote": 40,
+            "rate_global": 24.54,
+            "rate_group": 7.12
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "佐贺偶像是传奇-源樱",
+            "vote": 38,
+            "rate_global": 23.31,
+            "rate_group": 6.76
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "五等分的花嫁-中野二乃",
+            "vote": 30,
+            "rate_global": 18.4,
+            "rate_group": 5.34
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "白箱-今井绿",
+            "vote": 26,
+            "rate_global": 15.95,
+            "rate_group": 4.63
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "BanG Dream!-宇田川亚子",
+            "vote": 16,
+            "rate_global": 9.82,
+            "rate_group": 2.85
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "变形金刚 领袖的挑战-大黄蜂",
+            "vote": 15,
+            "rate_global": 9.2,
+            "rate_group": 2.67
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "Fate stay night-藤村大河",
+            "vote": 12,
+            "rate_global": 7.36,
+            "rate_group": 2.14
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "碧蓝之海-吉原爱菜",
+            "vote": 12,
+            "rate_global": 7.36,
+            "rate_group": 2.14
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "八月的棒球甜心-有原翼",
+            "vote": 12,
+            "rate_global": 7.36,
+            "rate_group": 2.14
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "Re:Stage!-式宫舞菜",
+            "vote": 11,
+            "rate_global": 6.75,
+            "rate_group": 1.96
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "女高中生的虚度日常-九条翡翠",
+            "vote": 11,
+            "rate_global": 6.75,
+            "rate_group": 1.96
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "精灵宝可梦-小次郎",
+            "vote": 8,
+            "rate_global": 4.91,
+            "rate_group": 1.42
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "青春猪头少年-梓川咲太",
+            "vote": 8,
+            "rate_global": 4.91,
+            "rate_group": 1.42
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "约会大作战-五河士道",
+            "vote": 8,
+            "rate_global": 4.91,
+            "rate_group": 1.42
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "Re:Stage!-市杵岛瑞叶",
+            "vote": 7,
+            "rate_global": 4.29,
+            "rate_group": 1.25
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "水果篮子-本田透",
+            "vote": 7,
+            "rate_global": 4.29,
+            "rate_group": 1.25
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "架向星空之桥-神本圆佳",
+            "vote": 6,
+            "rate_global": 3.68,
+            "rate_group": 1.07
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "流汗吧！健身少女-纱仓响",
+            "vote": 5,
+            "rate_global": 3.07,
+            "rate_group": 0.89
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "流汗吧！健身少女-奏流院朱美",
+            "vote": 5,
+            "rate_global": 3.07,
+            "rate_group": 0.89
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "叛逆性百万亚瑟王-团长",
+            "vote": 4,
+            "rate_global": 2.45,
+            "rate_group": 0.71
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "叛逆性百万亚瑟王-丘比",
+            "vote": 4,
+            "rate_global": 2.45,
+            "rate_group": 0.71
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "恋爱禁止的世界-高崎美咲",
+            "vote": 4,
+            "rate_global": 2.45,
+            "rate_group": 0.71
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "蓝海少女-二宫爱",
+            "vote": 3,
+            "rate_global": 1.84,
+            "rate_group": 0.53
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "水果篮子-草摩佳菜",
+            "vote": 2,
+            "rate_global": 1.23,
+            "rate_group": 0.36
+        },
+        {
+            "group": 1,
+            "rank": 30,
+            "name": "美少女死神还我H之魂-大仓美菜",
+            "vote": 2,
+            "rate_global": 1.23,
+            "rate_group": 0.36
+        },
+        {
+            "group": 1,
+            "rank": 31,
+            "name": "五等分的花嫁-本乡",
+            "vote": 1,
+            "rate_global": 0.61,
+            "rate_group": 0.18
+        },
+        {
+            "group": 1,
+            "rank": 32,
+            "name": "水果篮子-草摩利津",
+            "vote": 1,
+            "rate_global": 0.61,
+            "rate_group": 0.18
+        },
+        {
+            "group": 1,
+            "rank": 33,
+            "name": "恋爱禁止的世界-根岛由佳吏",
+            "vote": 1,
+            "rate_global": 0.61,
+            "rate_group": 0.18
+        },
+        {
+            "group": 1,
+            "rank": 34,
+            "name": "家有女友-藤井夏生",
+            "vote": 1,
+            "rate_global": 0.61,
+            "rate_group": 0.18
+        }
+    ]
+}

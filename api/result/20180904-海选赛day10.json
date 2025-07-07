@@ -1,0 +1,233 @@
+{
+    "name": "海选赛day10",
+    "time": "2018-09-04 23:00:00",
+    "voter": 233,
+    "last_time": "2018-09-04 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "少女歌剧-大场奈奈",
+            "vote": 133,
+            "rate_global": 57.08,
+            "rate_group": 15.41
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "结城友奈是勇者-三好夏凛",
+            "vote": 90,
+            "rate_global": 38.63,
+            "rate_group": 10.43
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "吹响！上低音号-高坂丽奈",
+            "vote": 85,
+            "rate_global": 36.48,
+            "rate_group": 9.85
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "Re:从零开始的异世界生活-艾米莉亚",
+            "vote": 78,
+            "rate_global": 33.48,
+            "rate_group": 9.04
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "摇曳百合-赤座灯里",
+            "vote": 76,
+            "rate_global": 32.62,
+            "rate_group": 8.81
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "Princess Principal-安洁",
+            "vote": 64,
+            "rate_global": 27.47,
+            "rate_group": 7.42
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "魔法少女小圆-鹿目圆",
+            "vote": 61,
+            "rate_global": 26.18,
+            "rate_group": 7.07
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "约会大作战-五河琴里",
+            "vote": 31,
+            "rate_global": 13.3,
+            "rate_group": 3.59
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "请问您今天要来点兔子吗-香风智乃",
+            "vote": 29,
+            "rate_global": 12.45,
+            "rate_group": 3.36
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "高分少女-日高小春",
+            "vote": 28,
+            "rate_global": 12.02,
+            "rate_group": 3.24
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "向山进发-雪村葵",
+            "vote": 24,
+            "rate_global": 10.3,
+            "rate_group": 2.78
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "摇曳露营-志摩凛",
+            "vote": 23,
+            "rate_global": 9.87,
+            "rate_group": 2.67
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "吹响！上低音号-川岛绿辉",
+            "vote": 19,
+            "rate_global": 8.15,
+            "rate_group": 2.2
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "多田君不恋爱-亚历",
+            "vote": 18,
+            "rate_global": 7.73,
+            "rate_group": 2.09
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "凉宫春日的忧郁-凉宫春日",
+            "vote": 18,
+            "rate_global": 7.73,
+            "rate_group": 2.09
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "天才麻將少女-鹤田姬子",
+            "vote": 18,
+            "rate_global": 7.73,
+            "rate_group": 2.09
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "Little Busters!-神北小毬",
+            "vote": 17,
+            "rate_global": 7.3,
+            "rate_group": 1.97
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "游戏人生ZERO-里克",
+            "vote": 13,
+            "rate_global": 5.58,
+            "rate_group": 1.51
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "超自然九人组-相川实优羽",
+            "vote": 9,
+            "rate_global": 3.86,
+            "rate_group": 1.04
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "初音岛2-月岛小恋",
+            "vote": 6,
+            "rate_global": 2.58,
+            "rate_group": 0.7
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "黑子的篮球-黄濑凉太",
+            "vote": 6,
+            "rate_global": 2.58,
+            "rate_group": 0.7
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "YUYU式-日向缘",
+            "vote": 5,
+            "rate_global": 2.15,
+            "rate_group": 0.58
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "电脑线圈-小此木优子",
+            "vote": 3,
+            "rate_global": 1.29,
+            "rate_group": 0.35
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "哆啦A梦-野比玉子",
+            "vote": 3,
+            "rate_global": 1.29,
+            "rate_group": 0.35
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "BEATLESS-村主奥莉佳",
+            "vote": 2,
+            "rate_global": 0.86,
+            "rate_group": 0.23
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "偶像活动Friends-凑美绪",
+            "vote": 2,
+            "rate_global": 0.86,
+            "rate_group": 0.23
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "美妙频道-桃山未来",
+            "vote": 1,
+            "rate_global": 0.43,
+            "rate_group": 0.12
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "摇曳露营-鸟羽美波",
+            "vote": 1,
+            "rate_global": 0.43,
+            "rate_group": 0.12
+        }
+    ]
+}

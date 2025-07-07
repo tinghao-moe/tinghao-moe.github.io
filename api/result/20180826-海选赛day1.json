@@ -1,0 +1,241 @@
+{
+    "name": "海选赛day1",
+    "time": "2018-08-26 23:00:00",
+    "voter": 297,
+    "last_time": "2018-08-26 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "赛马娘-草上飞",
+            "vote": 242,
+            "rate_global": 81.48,
+            "rate_group": 20.86
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "NEW GAME-远山伦",
+            "vote": 103,
+            "rate_global": 34.68,
+            "rate_group": 8.88
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "Just Because!-小宫惠那",
+            "vote": 94,
+            "rate_global": 31.65,
+            "rate_group": 8.1
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "吹响！上低音号-中世古香织",
+            "vote": 86,
+            "rate_global": 28.96,
+            "rate_group": 7.41
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "电玩咖-星之守千秋",
+            "vote": 79,
+            "rate_global": 26.6,
+            "rate_group": 6.81
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "四月是你的谎言-泽部椿",
+            "vote": 59,
+            "rate_global": 19.87,
+            "rate_group": 5.09
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "天才麻将少女-新子憧",
+            "vote": 51,
+            "rate_global": 17.17,
+            "rate_group": 4.4
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "NEW GAME-凉风青叶",
+            "vote": 48,
+            "rate_global": 16.16,
+            "rate_group": 4.14
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "笨蛋测验召唤兽-岛田美波",
+            "vote": 46,
+            "rate_global": 15.49,
+            "rate_group": 3.97
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "吹响！上低音号-中川夏纪",
+            "vote": 46,
+            "rate_global": 15.49,
+            "rate_group": 3.97
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "请问您今天要来点兔子吗-宇治松千夜",
+            "vote": 45,
+            "rate_global": 15.15,
+            "rate_group": 3.88
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "樱花任务-木春由乃",
+            "vote": 40,
+            "rate_global": 13.47,
+            "rate_group": 3.45
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "Love Live-高坂穗乃果",
+            "vote": 39,
+            "rate_global": 13.13,
+            "rate_group": 3.36
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "摇曳露营-齐藤惠那",
+            "vote": 31,
+            "rate_global": 10.44,
+            "rate_group": 2.67
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "龙与虎-逢坂大河",
+            "vote": 25,
+            "rate_global": 8.42,
+            "rate_group": 2.16
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "偶像大师-如月千早",
+            "vote": 24,
+            "rate_global": 8.08,
+            "rate_group": 2.07
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "魔卡少女樱-可鲁贝洛斯",
+            "vote": 22,
+            "rate_global": 7.41,
+            "rate_group": 1.9
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "凉风-樱井萌果",
+            "vote": 14,
+            "rate_global": 4.71,
+            "rate_group": 1.21
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "宝石之国-透绿柱石",
+            "vote": 13,
+            "rate_global": 4.38,
+            "rate_group": 1.12
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "哆啦A梦-刚田武",
+            "vote": 10,
+            "rate_global": 3.37,
+            "rate_group": 0.86
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "异世界魔王与召唤少女的奴隶魔术-雪拉",
+            "vote": 9,
+            "rate_global": 3.03,
+            "rate_group": 0.78
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "笨蛋测验召唤兽-姬路瑞希",
+            "vote": 8,
+            "rate_global": 2.69,
+            "rate_group": 0.69
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "魔法少女网站-穴泽虹海",
+            "vote": 6,
+            "rate_global": 2.02,
+            "rate_group": 0.52
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "Free!-鴫野贵澄",
+            "vote": 5,
+            "rate_global": 1.68,
+            "rate_group": 0.43
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "YUYU式-野野原柚子",
+            "vote": 5,
+            "rate_global": 1.68,
+            "rate_group": 0.43
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "蜡笔小新-石坂绿",
+            "vote": 3,
+            "rate_global": 1.01,
+            "rate_group": 0.26
+        },
+        {
+            "group": 1,
+            "rank": 27,
+            "name": "蜡笔小新-野原美冴",
+            "vote": 3,
+            "rate_global": 1.01,
+            "rate_group": 0.26
+        },
+        {
+            "group": 1,
+            "rank": 28,
+            "name": "向山进发-笹原裕香",
+            "vote": 3,
+            "rate_global": 1.01,
+            "rate_group": 0.26
+        },
+        {
+            "group": 1,
+            "rank": 29,
+            "name": "蜡笔小新-小山义治",
+            "vote": 1,
+            "rate_global": 0.34,
+            "rate_group": 0.09
+        }
+    ]
+}

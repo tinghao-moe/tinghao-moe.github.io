@@ -1,0 +1,105 @@
+{
+    "name": "淘汰赛48进16 Day2",
+    "time": "2017-09-11 23:00:00",
+    "voter": 356,
+    "last_time": "2017-09-11 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "我的青春恋爱物语果然有问题-由比滨结衣",
+            "vote": 115,
+            "rate_global": 32.3,
+            "rate_group": 44.06
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "伪恋-小野寺小咲",
+            "vote": 108,
+            "rate_global": 30.34,
+            "rate_group": 41.38
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "吹响！上低音号-中世古香织",
+            "vote": 38,
+            "rate_global": 10.67,
+            "rate_group": 14.56
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "Love Live Sunshine-渡边曜",
+            "vote": 204,
+            "rate_global": 57.3,
+            "rate_group": 62.39
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "魔卡少女樱-大道寺知世",
+            "vote": 87,
+            "rate_global": 24.44,
+            "rate_group": 26.61
+        },
+        {
+            "group": 2,
+            "rank": 3,
+            "name": "Princess Principal-公主",
+            "vote": 36,
+            "rate_global": 10.11,
+            "rate_group": 11.01
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "高校舰队-纳沙幸子",
+            "vote": 97,
+            "rate_global": 27.25,
+            "rate_group": 45.12
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "NEW GAME-凉风青叶",
+            "vote": 72,
+            "rate_global": 20.22,
+            "rate_group": 33.49
+        },
+        {
+            "group": 3,
+            "rank": 3,
+            "name": "请问您今天要来点兔子吗-保登心爱",
+            "vote": 46,
+            "rate_global": 12.92,
+            "rate_group": 21.4
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "白色相簿2-小木曾雪菜",
+            "vote": 164,
+            "rate_global": 46.07,
+            "rate_group": 61.65
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "末日时在做什么？-珂朵莉·诺塔·瑟尼欧里斯",
+            "vote": 55,
+            "rate_global": 15.45,
+            "rate_group": 20.68
+        },
+        {
+            "group": 4,
+            "rank": 3,
+            "name": "刀剑神域-莉法",
+            "vote": 47,
+            "rate_global": 13.2,
+            "rate_group": 17.67
+        }
+    ]
+}

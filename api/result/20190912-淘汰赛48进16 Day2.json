@@ -1,0 +1,105 @@
+{
+    "name": "淘汰赛48进16 Day2",
+    "time": "2019-09-12 23:00:00",
+    "voter": 295,
+    "last_time": "2019-09-12 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "街角魔族-吉田优子",
+            "vote": 103,
+            "rate_global": 34.92,
+            "rate_group": 43.64
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "我的妹妹是黄漫老师-山田妖精",
+            "vote": 67,
+            "rate_global": 22.71,
+            "rate_group": 28.39
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "刀剑神域-尤吉欧",
+            "vote": 66,
+            "rate_global": 22.37,
+            "rate_group": 27.97
+        },
+        {
+            "group": 2,
+            "rank": 1,
+            "name": "我的妹妹不可能这么可爱-五更琉璃（黑猫）",
+            "vote": 94,
+            "rate_global": 31.86,
+            "rate_group": 39.83
+        },
+        {
+            "group": 2,
+            "rank": 2,
+            "name": "惊爆草莓-凉水玉青",
+            "vote": 73,
+            "rate_global": 24.75,
+            "rate_group": 30.93
+        },
+        {
+            "group": 2,
+            "rank": 3,
+            "name": "街角魔族-千代田桃",
+            "vote": 69,
+            "rate_global": 23.39,
+            "rate_group": 29.24
+        },
+        {
+            "group": 3,
+            "rank": 1,
+            "name": "满月之战-安娜·胡戈",
+            "vote": 113,
+            "rate_global": 38.31,
+            "rate_group": 42.8
+        },
+        {
+            "group": 3,
+            "rank": 2,
+            "name": "中二病也要谈恋爱-七宫智音",
+            "vote": 81,
+            "rate_global": 27.46,
+            "rate_group": 30.68
+        },
+        {
+            "group": 3,
+            "rank": 3,
+            "name": "街角魔族-阳夏木蜜柑",
+            "vote": 70,
+            "rate_global": 23.73,
+            "rate_group": 26.52
+        },
+        {
+            "group": 4,
+            "rank": 1,
+            "name": "向山进发-仓上日向",
+            "vote": 94,
+            "rate_global": 31.86,
+            "rate_group": 38.52
+        },
+        {
+            "group": 4,
+            "rank": 2,
+            "name": "NEW GAME-远山伦",
+            "vote": 78,
+            "rate_global": 26.44,
+            "rate_group": 31.97
+        },
+        {
+            "group": 4,
+            "rank": 3,
+            "name": "少女歌剧-大场奈奈",
+            "vote": 72,
+            "rate_global": 24.41,
+            "rate_group": 29.51
+        }
+    ]
+}

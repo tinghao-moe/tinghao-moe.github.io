@@ -1,0 +1,217 @@
+{
+    "name": "海选赛day9",
+    "time": "2017-09-05 23:00:00",
+    "voter": 285,
+    "last_time": "2017-09-05 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "我的妹妹不可能这么可爱-五更琉璃（黑猫）",
+            "vote": 190,
+            "rate_global": 66.67,
+            "rate_group": 24.97
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "月刊少女野崎君-佐仓千代",
+            "vote": 91,
+            "rate_global": 31.93,
+            "rate_group": 11.96
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "心跳！光之美少女-剑崎真琴",
+            "vote": 61,
+            "rate_global": 21.4,
+            "rate_group": 8.02
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "食灵零-谏山黄泉",
+            "vote": 58,
+            "rate_global": 20.35,
+            "rate_group": 7.62
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "精灵宝可梦日月-莉莉艾",
+            "vote": 44,
+            "rate_global": 15.44,
+            "rate_group": 5.78
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "Free!-橘真琴",
+            "vote": 29,
+            "rate_global": 10.18,
+            "rate_group": 3.81
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "吹响！上低音号-佐佐木梓",
+            "vote": 29,
+            "rate_global": 10.18,
+            "rate_group": 3.81
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "NEW GAME-篠田初",
+            "vote": 25,
+            "rate_global": 8.77,
+            "rate_group": 3.29
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "心跳！光之美少女-圆亚久里",
+            "vote": 23,
+            "rate_global": 8.07,
+            "rate_group": 3.02
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "清恋-常木耀",
+            "vote": 22,
+            "rate_global": 7.72,
+            "rate_group": 2.89
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "月色真美-水野茜",
+            "vote": 21,
+            "rate_global": 7.37,
+            "rate_group": 2.76
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "蜂蜜与四叶草-竹本祐太",
+            "vote": 19,
+            "rate_global": 6.67,
+            "rate_group": 2.5
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "魔法使光之美少女！-朝日奈未来",
+            "vote": 19,
+            "rate_global": 6.67,
+            "rate_group": 2.5
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "游戏王ARC-V-榊游矢",
+            "vote": 19,
+            "rate_global": 6.67,
+            "rate_group": 2.5
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "电玩咖-雨野景太",
+            "vote": 18,
+            "rate_global": 6.32,
+            "rate_group": 2.37
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "战姬绝唱-月读调",
+            "vote": 18,
+            "rate_global": 6.32,
+            "rate_group": 2.37
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "魔法使光之美少女！-十六夜理子",
+            "vote": 17,
+            "rate_global": 5.96,
+            "rate_group": 2.23
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "未确认进行式-三峰真白",
+            "vote": 14,
+            "rate_global": 4.91,
+            "rate_group": 1.84
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "偶像活动-雾矢葵",
+            "vote": 10,
+            "rate_global": 3.51,
+            "rate_group": 1.31
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "我的妹妹是黄漫老师-狮童国光",
+            "vote": 8,
+            "rate_global": 2.81,
+            "rate_group": 1.05
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "偶像活动-星宫莓",
+            "vote": 7,
+            "rate_global": 2.46,
+            "rate_group": 0.92
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "光之美少女-日野茜",
+            "vote": 6,
+            "rate_global": 2.11,
+            "rate_group": 0.79
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "为美好的世界献上祝福！-露娜",
+            "vote": 5,
+            "rate_global": 1.75,
+            "rate_group": 0.66
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "SUITE光之美少女-hummy",
+            "vote": 3,
+            "rate_global": 1.05,
+            "rate_group": 0.39
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "YES！光之美少女5-秋元小町",
+            "vote": 3,
+            "rate_global": 1.05,
+            "rate_group": 0.39
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "亚人将有话要说-高桥铁男",
+            "vote": 2,
+            "rate_global": 0.7,
+            "rate_group": 0.26
+        }
+    ]
+}

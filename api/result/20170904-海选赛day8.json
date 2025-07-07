@@ -1,0 +1,217 @@
+{
+    "name": "海选赛day8",
+    "time": "2017-09-04 23:00:00",
+    "voter": 357,
+    "last_time": "2017-09-04 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "我的青春恋爱物语果然有问题-由比滨结衣",
+            "vote": 186,
+            "rate_global": 52.1,
+            "rate_group": 14.08
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "我的青春恋爱物语果然有问题-一色彩羽",
+            "vote": 148,
+            "rate_global": 41.46,
+            "rate_group": 11.2
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "Rewrite-神户小鸟",
+            "vote": 125,
+            "rate_global": 35.01,
+            "rate_group": 9.46
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "命运石之门-椎名真由理",
+            "vote": 95,
+            "rate_global": 26.61,
+            "rate_group": 7.19
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "结城友奈是勇者-三好夏凛",
+            "vote": 93,
+            "rate_global": 26.05,
+            "rate_group": 7.04
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "Fate/kaleidliner魔法少女☆伊莉雅-间桐樱",
+            "vote": 85,
+            "rate_global": 23.81,
+            "rate_group": 6.43
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "青春波纹-纳沙幸子",
+            "vote": 73,
+            "rate_global": 20.45,
+            "rate_group": 5.53
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "不正经的魔术讲师与禁忌教典-露米娅·廷格尔",
+            "vote": 65,
+            "rate_global": 18.21,
+            "rate_group": 4.92
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "刀剑神域-亚丝娜",
+            "vote": 54,
+            "rate_global": 15.13,
+            "rate_group": 4.09
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "我女友与青梅竹马的惨烈修罗场-夏川真凉",
+            "vote": 53,
+            "rate_global": 14.85,
+            "rate_group": 4.01
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "冰菓-千反田爱瑠",
+            "vote": 45,
+            "rate_global": 12.61,
+            "rate_group": 3.41
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "物语系列-八九寺真宵",
+            "vote": 44,
+            "rate_global": 12.32,
+            "rate_group": 3.33
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "初音岛-白河小鸟",
+            "vote": 41,
+            "rate_global": 11.48,
+            "rate_group": 3.1
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "来自风平浪静的明天-向井户爱花",
+            "vote": 38,
+            "rate_global": 10.64,
+            "rate_group": 2.88
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "少女与战车-西住美穗",
+            "vote": 33,
+            "rate_global": 9.24,
+            "rate_group": 2.5
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "学园孤岛-惠飞须泽胡桃",
+            "vote": 32,
+            "rate_global": 8.96,
+            "rate_group": 2.42
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "数码宝贝tri-八神光（嘉儿）",
+            "vote": 25,
+            "rate_global": 7.0,
+            "rate_group": 1.89
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "野良神-一岐日和",
+            "vote": 23,
+            "rate_global": 6.44,
+            "rate_group": 1.74
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "Re:CREATORS-小松未可子",
+            "vote": 15,
+            "rate_global": 4.2,
+            "rate_group": 1.14
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "精灵宝可梦-小遥",
+            "vote": 11,
+            "rate_global": 3.08,
+            "rate_group": 0.83
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "野良神-小福",
+            "vote": 11,
+            "rate_global": 3.08,
+            "rate_group": 0.83
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "纯白交响曲-天羽美羽",
+            "vote": 10,
+            "rate_global": 2.8,
+            "rate_group": 0.76
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "SUITE光之美少女-北条响",
+            "vote": 6,
+            "rate_global": 1.68,
+            "rate_group": 0.45
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "金色时光-多田万里",
+            "vote": 4,
+            "rate_global": 1.12,
+            "rate_group": 0.3
+        },
+        {
+            "group": 1,
+            "rank": 25,
+            "name": "濑户的花嫁-满潮永澄",
+            "vote": 4,
+            "rate_global": 1.12,
+            "rate_group": 0.3
+        },
+        {
+            "group": 1,
+            "rank": 26,
+            "name": "秋叶原之旅-有纱·阿霍凯宁",
+            "vote": 2,
+            "rate_global": 0.56,
+            "rate_group": 0.15
+        }
+    ]
+}

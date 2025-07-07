@@ -1,0 +1,201 @@
+{
+    "name": "复活赛",
+    "time": "2019-09-09 23:00:00",
+    "voter": 207,
+    "last_time": "2019-09-09 23:00:00",
+    "last_floor": -1,
+    "votes": [
+        {
+            "group": 1,
+            "rank": 1,
+            "name": "街角魔族-千代田桃",
+            "vote": 66,
+            "rate_global": 31.88,
+            "rate_group": 6.59
+        },
+        {
+            "group": 1,
+            "rank": 2,
+            "name": "街角魔族-吉田优子",
+            "vote": 60,
+            "rate_global": 28.99,
+            "rate_group": 5.99
+        },
+        {
+            "group": 1,
+            "rank": 3,
+            "name": "结城友奈是勇者-三之轮银",
+            "vote": 57,
+            "rate_global": 27.54,
+            "rate_group": 5.69
+        },
+        {
+            "group": 1,
+            "rank": 4,
+            "name": "命运石之门-椎名真由理",
+            "vote": 55,
+            "rate_global": 26.57,
+            "rate_group": 5.49
+        },
+        {
+            "group": 1,
+            "rank": 5,
+            "name": "CLANNAD-藤林杏",
+            "vote": 53,
+            "rate_global": 25.6,
+            "rate_group": 5.29
+        },
+        {
+            "group": 1,
+            "rank": 6,
+            "name": "宝石之国-钻石",
+            "vote": 50,
+            "rate_global": 24.15,
+            "rate_group": 4.99
+        },
+        {
+            "group": 1,
+            "rank": 7,
+            "name": "CLANNAD-坂上智代",
+            "vote": 46,
+            "rate_global": 22.22,
+            "rate_group": 4.59
+        },
+        {
+            "group": 1,
+            "rank": 8,
+            "name": "吹响！上低音号-中世古香织",
+            "vote": 45,
+            "rate_global": 21.74,
+            "rate_group": 4.49
+        },
+        {
+            "group": 1,
+            "rank": 9,
+            "name": "我的妹妹不可能那么可爱-新垣绫濑",
+            "vote": 45,
+            "rate_global": 21.74,
+            "rate_group": 4.49
+        },
+        {
+            "group": 1,
+            "rank": 10,
+            "name": "少女歌剧-西条克洛迪娜",
+            "vote": 44,
+            "rate_global": 21.26,
+            "rate_group": 4.39
+        },
+        {
+            "group": 1,
+            "rank": 11,
+            "name": "青春猪头少年-古贺朋绘",
+            "vote": 44,
+            "rate_global": 21.26,
+            "rate_group": 4.39
+        },
+        {
+            "group": 1,
+            "rank": 12,
+            "name": "白箱-坂木静香",
+            "vote": 43,
+            "rate_global": 20.77,
+            "rate_group": 4.29
+        },
+        {
+            "group": 1,
+            "rank": 13,
+            "name": "Re:从零开始的异世界生活-蕾姆",
+            "vote": 41,
+            "rate_global": 19.81,
+            "rate_group": 4.09
+        },
+        {
+            "group": 1,
+            "rank": 14,
+            "name": "Rewrite-神户小鸟",
+            "vote": 38,
+            "rate_global": 18.36,
+            "rate_group": 3.79
+        },
+        {
+            "group": 1,
+            "rank": 15,
+            "name": "终将成为你-七海灯子",
+            "vote": 38,
+            "rate_global": 18.36,
+            "rate_group": 3.79
+        },
+        {
+            "group": 1,
+            "rank": 16,
+            "name": "末日时在做什么？-珂朵莉·诺塔·瑟尼欧里斯",
+            "vote": 37,
+            "rate_global": 17.87,
+            "rate_group": 3.69
+        },
+        {
+            "group": 1,
+            "rank": 17,
+            "name": "少女歌剧-爱城华恋",
+            "vote": 37,
+            "rate_global": 17.87,
+            "rate_group": 3.69
+        },
+        {
+            "group": 1,
+            "rank": 18,
+            "name": "SSSS.GRIDMAN-响裕太",
+            "vote": 35,
+            "rate_global": 16.91,
+            "rate_group": 3.49
+        },
+        {
+            "group": 1,
+            "rank": 19,
+            "name": "五等分的花嫁-中野四叶",
+            "vote": 35,
+            "rate_global": 16.91,
+            "rate_group": 3.49
+        },
+        {
+            "group": 1,
+            "rank": 20,
+            "name": "青春猪头少年-梓川枫",
+            "vote": 34,
+            "rate_global": 16.43,
+            "rate_group": 3.39
+        },
+        {
+            "group": 1,
+            "rank": 21,
+            "name": "电玩咖-星之守千秋",
+            "vote": 32,
+            "rate_global": 15.46,
+            "rate_group": 3.19
+        },
+        {
+            "group": 1,
+            "rank": 22,
+            "name": "白箱-安原绘麻",
+            "vote": 31,
+            "rate_global": 14.98,
+            "rate_group": 3.09
+        },
+        {
+            "group": 1,
+            "rank": 23,
+            "name": "五等分的花嫁-中野二乃",
+            "vote": 18,
+            "rate_global": 8.7,
+            "rate_group": 1.8
+        },
+        {
+            "group": 1,
+            "rank": 24,
+            "name": "佐贺偶像是传奇-源樱",
+            "vote": 18,
+            "rate_global": 8.7,
+            "rate_group": 1.8
+        }
+    ]
+}

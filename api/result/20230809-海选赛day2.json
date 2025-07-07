@@ -1,16 +1,16 @@
 {
     "name": "海选赛day2",
     "time": "2023-08-09 23:00:00",
-    "voter": 601,
-    "last_time": "2023-08-09 23:00:00",
-    "last_floor": -1,
+    "voter": 603,
+    "last_time": "2023-08-09 22:55",
+    "last_floor": 761,
     "votes": [
         {
             "group": 1,
             "rank": 1,
             "name": "BanG Dream! It's MyGO!!!!!-高松灯",
             "vote": 449,
-            "rate_global": 74.71,
+            "rate_global": 74.46,
             "rate_group": 13.34
         },
         {
@@ -18,7 +18,7 @@
             "rank": 2,
             "name": "Love Live 虹咲-樱坂雫",
             "vote": 352,
-            "rate_global": 58.57,
+            "rate_global": 58.37,
             "rate_group": 10.46
         },
         {
@@ -26,7 +26,7 @@
             "rank": 3,
             "name": "孤独摇滚-喜多郁代",
             "vote": 286,
-            "rate_global": 47.59,
+            "rate_global": 47.43,
             "rate_group": 8.5
         },
         {
@@ -34,7 +34,7 @@
             "rank": 4,
             "name": "结城友奈是勇者-郡千景",
             "vote": 259,
-            "rate_global": 43.09,
+            "rate_global": 42.95,
             "rate_group": 7.69
         },
         {
@@ -42,7 +42,7 @@
             "rank": 5,
             "name": "契约之吻-木更",
             "vote": 248,
-            "rate_global": 41.26,
+            "rate_global": 41.13,
             "rate_group": 7.37
         },
         {
@@ -50,7 +50,7 @@
             "rank": 6,
             "name": "Princess Principal-安洁",
             "vote": 210,
-            "rate_global": 34.94,
+            "rate_global": 34.83,
             "rate_group": 6.24
         },
         {
@@ -58,7 +58,7 @@
             "rank": 7,
             "name": "World Dai Star-静香",
             "vote": 190,
-            "rate_global": 31.61,
+            "rate_global": 31.51,
             "rate_group": 5.64
         },
         {
@@ -66,7 +66,7 @@
             "rank": 8,
             "name": "终将成为你-七海灯子",
             "vote": 174,
-            "rate_global": 28.95,
+            "rate_global": 28.86,
             "rate_group": 5.17
         },
         {
@@ -74,7 +74,7 @@
             "rank": 9,
             "name": "BanG Dream!-今井莉莎",
             "vote": 117,
-            "rate_global": 19.47,
+            "rate_global": 19.4,
             "rate_group": 3.48
         },
         {
@@ -82,7 +82,7 @@
             "rank": 10,
             "name": "Rewrite-神户小鸟",
             "vote": 109,
-            "rate_global": 18.14,
+            "rate_global": 18.08,
             "rate_group": 3.24
         },
         {
@@ -90,7 +90,7 @@
             "rank": 11,
             "name": "slow loop-吉永恋",
             "vote": 109,
-            "rate_global": 18.14,
+            "rate_global": 18.08,
             "rate_group": 3.24
         },
         {
@@ -98,7 +98,7 @@
             "rank": 12,
             "name": "魔法纪录-十咎桃子",
             "vote": 104,
-            "rate_global": 17.3,
+            "rate_global": 17.25,
             "rate_group": 3.09
         },
         {
@@ -106,7 +106,7 @@
             "rank": 13,
             "name": "龙与虎-川岛亚美",
             "vote": 103,
-            "rate_global": 17.14,
+            "rate_global": 17.08,
             "rate_group": 3.06
         },
         {
@@ -114,7 +114,7 @@
             "rank": 14,
             "name": "我推的孩子-星野露比",
             "vote": 98,
-            "rate_global": 16.31,
+            "rate_global": 16.25,
             "rate_group": 2.91
         },
         {
@@ -122,7 +122,7 @@
             "rank": 15,
             "name": "Love Live 虹咲-艾拉",
             "vote": 78,
-            "rate_global": 12.98,
+            "rate_global": 12.94,
             "rate_group": 2.32
         },
         {
@@ -130,7 +130,7 @@
             "rank": 16,
             "name": "结城友奈是勇者-楠芽吹",
             "vote": 76,
-            "rate_global": 12.65,
+            "rate_global": 12.6,
             "rate_group": 2.26
         },
         {
@@ -138,7 +138,7 @@
             "rank": 17,
             "name": "某科学的超电磁炮-佐天泪子",
             "vote": 64,
-            "rate_global": 10.65,
+            "rate_global": 10.61,
             "rate_group": 1.9
         },
         {
@@ -146,7 +146,7 @@
             "rank": 18,
             "name": "我推的孩子-星野阿库亚",
             "vote": 35,
-            "rate_global": 5.82,
+            "rate_global": 5.8,
             "rate_group": 1.04
         },
         {
@@ -154,7 +154,7 @@
             "rank": 19,
             "name": "恋爱flops-井泽爱",
             "vote": 34,
-            "rate_global": 5.66,
+            "rate_global": 5.64,
             "rate_group": 1.01
         },
         {
@@ -162,7 +162,7 @@
             "rank": 20,
             "name": "孤独摇滚-后藤美智代",
             "vote": 29,
-            "rate_global": 4.83,
+            "rate_global": 4.81,
             "rate_group": 0.86
         },
         {
@@ -170,7 +170,7 @@
             "rank": 21,
             "name": "无神世界的神明活动-御灵",
             "vote": 23,
-            "rate_global": 3.83,
+            "rate_global": 3.81,
             "rate_group": 0.68
         },
         {
@@ -178,7 +178,7 @@
             "rank": 22,
             "name": "莱莎的炼金工房-莱莎琳·斯托特",
             "vote": 23,
-            "rate_global": 3.83,
+            "rate_global": 3.81,
             "rate_group": 0.68
         },
         {
@@ -186,7 +186,7 @@
             "rank": 23,
             "name": "光辉魔女-柳德米菈",
             "vote": 20,
-            "rate_global": 3.33,
+            "rate_global": 3.32,
             "rate_group": 0.59
         },
         {
@@ -194,7 +194,7 @@
             "rank": 24,
             "name": "四个人各自有着自己的秘密-翼",
             "vote": 17,
-            "rate_global": 2.83,
+            "rate_global": 2.82,
             "rate_group": 0.51
         },
         {
@@ -202,7 +202,7 @@
             "rank": 25,
             "name": "时光沙漏-村上遥",
             "vote": 14,
-            "rate_global": 2.33,
+            "rate_global": 2.32,
             "rate_group": 0.42
         },
         {
@@ -218,7 +218,7 @@
             "rank": 27,
             "name": "我推的孩子-寿美奈美",
             "vote": 12,
-            "rate_global": 2.0,
+            "rate_global": 1.99,
             "rate_group": 0.36
         },
         {
@@ -226,7 +226,7 @@
             "rank": 28,
             "name": "生而为狗，我很幸福-犬饲加恋",
             "vote": 12,
-            "rate_global": 2.0,
+            "rate_global": 1.99,
             "rate_group": 0.36
         },
         {
@@ -234,15 +234,15 @@
             "rank": 29,
             "name": "偶像大师 灰姑娘女孩 U149-桐生司",
             "vote": 11,
-            "rate_global": 1.83,
+            "rate_global": 1.82,
             "rate_group": 0.33
         },
         {
             "group": 1,
             "rank": 30,
-            "name": "Happiness Charge光之美少女!-冰川伊绪奈",
+            "name": "Happiness Charge光之美少女！-冰川伊绪奈",
             "vote": 11,
-            "rate_global": 1.83,
+            "rate_global": 1.82,
             "rate_group": 0.33
         },
         {
@@ -250,7 +250,7 @@
             "rank": 31,
             "name": "无神世界的神明活动-阿尔拉尔",
             "vote": 9,
-            "rate_global": 1.5,
+            "rate_global": 1.49,
             "rate_group": 0.27
         },
         {
