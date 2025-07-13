@@ -1,441 +1,441 @@
 {
-    "name": "海选赛day1",
-    "time": "2022-08-11 23:00:00",
-    "voter": 383,
-    "last_time": "2022-08-11 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "处刑少女的生存之道-茉茉",
-            "vote": 243,
-            "rate_global": 63.45,
-            "rate_group": 11.07
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "突击莉莉-枫·J·努韦尔",
-            "vote": 196,
-            "rate_global": 51.17,
-            "rate_group": 8.93
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "结城友奈是勇者-乃木园子",
-            "vote": 175,
-            "rate_global": 45.69,
-            "rate_group": 7.97
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "Lycoris Recoil-井之上泷奈",
-            "vote": 174,
-            "rate_global": 45.43,
-            "rate_group": 7.92
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "契约之吻-木更",
-            "vote": 165,
-            "rate_global": 43.08,
-            "rate_group": 7.51
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "结城友奈是勇者-郡千景",
-            "vote": 155,
-            "rate_global": 40.47,
-            "rate_group": 7.06
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "Love Live Superstar-唐可可",
-            "vote": 139,
-            "rate_global": 36.29,
-            "rate_group": 6.33
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "魔法少女小圆-巴麻美",
-            "vote": 115,
-            "rate_global": 30.03,
-            "rate_group": 5.24
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "魔法纪录-十咎桃子",
-            "vote": 89,
-            "rate_global": 23.24,
-            "rate_group": 4.05
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "slow loop-吉永恋",
-            "vote": 85,
-            "rate_global": 22.19,
-            "rate_group": 3.87
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "魔法纪录-环忧",
-            "vote": 72,
-            "rate_global": 18.8,
-            "rate_group": 3.28
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "BanG Dream!-丸山彩",
-            "vote": 71,
-            "rate_global": 18.54,
-            "rate_group": 3.23
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "少女寸剧-巴珠绪",
-            "vote": 70,
-            "rate_global": 18.28,
-            "rate_group": 3.19
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "少女寸剧-天堂真矢",
-            "vote": 57,
-            "rate_global": 14.88,
-            "rate_group": 2.6
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "86 不存在的战区-可蕾娜·库克米拉",
-            "vote": 48,
-            "rate_global": 12.53,
-            "rate_group": 2.19
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "Love Live Sunshine-黑泽露比",
-            "vote": 41,
-            "rate_global": 10.7,
-            "rate_group": 1.87
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "无能力者娜娜-犬饲满",
-            "vote": 39,
-            "rate_global": 10.18,
-            "rate_group": 1.78
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "里世界郊游-纸越空鱼",
-            "vote": 35,
-            "rate_global": 9.14,
-            "rate_group": 1.59
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "蔚蓝反射澪-平原美弦",
-            "vote": 26,
-            "rate_global": 6.79,
-            "rate_group": 1.18
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "处刑少女的生存之道-玛瑙",
-            "vote": 23,
-            "rate_global": 6.01,
-            "rate_group": 1.05
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "相合之物-松风佳乃子",
-            "vote": 22,
-            "rate_global": 5.74,
-            "rate_group": 1.0
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "刀剑神域-结城明日奈",
-            "vote": 16,
-            "rate_global": 4.18,
-            "rate_group": 0.73
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "狂赌之渊双-早乙女芽亚里",
-            "vote": 16,
-            "rate_global": 4.18,
-            "rate_group": 0.73
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "恶魔之谜-一之濑晴",
-            "vote": 14,
-            "rate_global": 3.66,
-            "rate_group": 0.64
-        },
-        {
-            "group": 1,
-            "rank": 25,
-            "name": "天籁人偶-灰樱",
-            "vote": 13,
-            "rate_global": 3.39,
-            "rate_group": 0.59
-        },
-        {
-            "group": 1,
-            "rank": 26,
-            "name": "顶点!!!-细野柚子",
-            "vote": 13,
-            "rate_global": 3.39,
-            "rate_group": 0.59
-        },
-        {
-            "group": 1,
-            "rank": 27,
-            "name": "To LOVE-菈菈",
-            "vote": 8,
-            "rate_global": 2.09,
-            "rate_group": 0.36
-        },
-        {
-            "group": 1,
-            "rank": 28,
-            "name": "传颂之物二人的白皇-久远",
-            "vote": 8,
-            "rate_global": 2.09,
-            "rate_group": 0.36
-        },
-        {
-            "group": 1,
-            "rank": 29,
-            "name": "秘密内幕～女警的反击～-藤圣子",
-            "vote": 6,
-            "rate_global": 1.57,
-            "rate_group": 0.27
-        },
-        {
-            "group": 1,
-            "rank": 30,
-            "name": "可塑性记忆-绢岛满",
-            "vote": 6,
-            "rate_global": 1.57,
-            "rate_group": 0.27
-        },
-        {
-            "group": 1,
-            "rank": 31,
-            "name": "影宅-艾米丽可",
-            "vote": 6,
-            "rate_global": 1.57,
-            "rate_group": 0.27
-        },
-        {
-            "group": 1,
-            "rank": 32,
-            "name": "Extreme Hearts-前原纯华",
-            "vote": 5,
-            "rate_global": 1.31,
-            "rate_group": 0.23
-        },
-        {
-            "group": 1,
-            "rank": 33,
-            "name": "因为不是真正的...境展开慢活人生-莉特",
-            "vote": 4,
-            "rate_global": 1.04,
-            "rate_group": 0.18
-        },
-        {
-            "group": 1,
-            "rank": 34,
-            "name": "平家物语-平维盛",
-            "vote": 4,
-            "rate_global": 1.04,
-            "rate_group": 0.18
-        },
-        {
-            "group": 1,
-            "rank": 35,
-            "name": "更衣人偶坠入爱河-乾心寿",
-            "vote": 3,
-            "rate_global": 0.78,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 36,
-            "name": "CUE-鹰取舞花",
-            "vote": 3,
-            "rate_global": 0.78,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 37,
-            "name": "机动战舰抚子号-御统百合香",
-            "vote": 3,
-            "rate_global": 0.78,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 38,
-            "name": "校园迷糊大王-冢本天满",
-            "vote": 3,
-            "rate_global": 0.78,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 39,
-            "name": "可塑性记忆-海松艾露",
-            "vote": 3,
-            "rate_global": 0.78,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 40,
-            "name": "水果篮子-草摩慊人",
-            "vote": 3,
-            "rate_global": 0.78,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 41,
-            "name": "杜鹃的婚约-天野绘里香",
-            "vote": 3,
-            "rate_global": 0.78,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 42,
-            "name": "堀与宫村-柳明音",
-            "vote": 2,
-            "rate_global": 0.52,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 43,
-            "name": "世界顶尖的暗杀者转生为异世界贵族-卢各图哈德",
-            "vote": 2,
-            "rate_global": 0.52,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 44,
-            "name": "相合之物-纳野和",
-            "vote": 2,
-            "rate_global": 0.52,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 45,
-            "name": "杜鹃的婚约-海野凪",
-            "vote": 2,
-            "rate_global": 0.52,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 46,
-            "name": "Extreme Hearts-橘雪乃",
-            "vote": 2,
-            "rate_global": 0.52,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 47,
-            "name": "天籁人偶-远间凪",
-            "vote": 2,
-            "rate_global": 0.52,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 48,
-            "name": "女忍者椿的心事-凤仙",
-            "vote": 2,
-            "rate_global": 0.52,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 49,
-            "name": "薇薇 萤石眼之歌-露克莱尔",
-            "vote": 1,
-            "rate_global": 0.26,
-            "rate_group": 0.05
-        },
-        {
-            "group": 1,
-            "rank": 50,
-            "name": "堀与宫村-绫崎礼美",
-            "vote": 1,
-            "rate_global": 0.26,
-            "rate_group": 0.05
-        },
-        {
-            "group": 1,
-            "rank": 51,
-            "name": "这爱情有点奇怪-益田",
-            "vote": 0,
-            "rate_global": 0.0,
-            "rate_group": 0.0
-        },
-        {
-            "group": 1,
-            "rank": 52,
-            "name": "青春猪头少年-古贺朋绘",
-            "vote": 0,
-            "rate_global": 0.0,
-            "rate_group": 0.0
-        },
-        {
-            "group": 1,
-            "rank": 53,
-            "name": "这爱情有点奇怪-天草亮",
-            "vote": 0,
-            "rate_global": 0.0,
-            "rate_group": 0.0
-        },
-        {
-            "group": 1,
-            "rank": 54,
-            "name": "堀与宫村-进藤晃一",
-            "vote": 0,
-            "rate_global": 0.0,
-            "rate_group": 0.0
-        }
-    ]
+  "name": "海选赛day1",
+  "time": "2022-08-11 23:00:00",
+  "voter": 383,
+  "last_time": "2022-08-11 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "处刑少女的生存之道-茉茉",
+      "vote": 243,
+      "rate_global": 63.45,
+      "rate_group": 11.07
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "突击莉莉-枫·J·努韦尔",
+      "vote": 196,
+      "rate_global": 51.17,
+      "rate_group": 8.93
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "结城友奈是勇者-乃木园子",
+      "vote": 175,
+      "rate_global": 45.69,
+      "rate_group": 7.97
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "Lycoris Recoil-井之上泷奈",
+      "vote": 174,
+      "rate_global": 45.43,
+      "rate_group": 7.92
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "契约之吻-木更",
+      "vote": 165,
+      "rate_global": 43.08,
+      "rate_group": 7.51
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "结城友奈是勇者-郡千景",
+      "vote": 155,
+      "rate_global": 40.47,
+      "rate_group": 7.06
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "Love Live Superstar-唐可可",
+      "vote": 139,
+      "rate_global": 36.29,
+      "rate_group": 6.33
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "魔法少女小圆-巴麻美",
+      "vote": 115,
+      "rate_global": 30.03,
+      "rate_group": 5.24
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "魔法纪录-十咎桃子",
+      "vote": 89,
+      "rate_global": 23.24,
+      "rate_group": 4.05
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "slow loop-吉永恋",
+      "vote": 85,
+      "rate_global": 22.19,
+      "rate_group": 3.87
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "魔法纪录-环忧",
+      "vote": 72,
+      "rate_global": 18.8,
+      "rate_group": 3.28
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "BanG Dream!-丸山彩",
+      "vote": 71,
+      "rate_global": 18.54,
+      "rate_group": 3.23
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "少女寸剧-巴珠绪",
+      "vote": 70,
+      "rate_global": 18.28,
+      "rate_group": 3.19
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "少女寸剧-天堂真矢",
+      "vote": 57,
+      "rate_global": 14.88,
+      "rate_group": 2.6
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "86 不存在的战区-可蕾娜·库克米拉",
+      "vote": 48,
+      "rate_global": 12.53,
+      "rate_group": 2.19
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "Love Live Sunshine-黑泽露比",
+      "vote": 41,
+      "rate_global": 10.7,
+      "rate_group": 1.87
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "无能力者娜娜-犬饲满",
+      "vote": 39,
+      "rate_global": 10.18,
+      "rate_group": 1.78
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "里世界郊游-纸越空鱼",
+      "vote": 35,
+      "rate_global": 9.14,
+      "rate_group": 1.59
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "蔚蓝反射澪-平原美弦",
+      "vote": 26,
+      "rate_global": 6.79,
+      "rate_group": 1.18
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "处刑少女的生存之道-玛瑙",
+      "vote": 23,
+      "rate_global": 6.01,
+      "rate_group": 1.05
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "相合之物-松风佳乃子",
+      "vote": 22,
+      "rate_global": 5.74,
+      "rate_group": 1.0
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "刀剑神域-结城明日奈",
+      "vote": 16,
+      "rate_global": 4.18,
+      "rate_group": 0.73
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "狂赌之渊双-早乙女芽亚里",
+      "vote": 16,
+      "rate_global": 4.18,
+      "rate_group": 0.73
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "恶魔之谜-一之濑晴",
+      "vote": 14,
+      "rate_global": 3.66,
+      "rate_group": 0.64
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "天籁人偶-灰樱",
+      "vote": 13,
+      "rate_global": 3.39,
+      "rate_group": 0.59
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "顶点!!!-细野柚子",
+      "vote": 13,
+      "rate_global": 3.39,
+      "rate_group": 0.59
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "To LOVE-菈菈",
+      "vote": 8,
+      "rate_global": 2.09,
+      "rate_group": 0.36
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "传颂之物二人的白皇-久远",
+      "vote": 8,
+      "rate_global": 2.09,
+      "rate_group": 0.36
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "秘密内幕～女警的反击～-藤圣子",
+      "vote": 6,
+      "rate_global": 1.57,
+      "rate_group": 0.27
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "可塑性记忆-绢岛满",
+      "vote": 6,
+      "rate_global": 1.57,
+      "rate_group": 0.27
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "影宅-艾米丽可",
+      "vote": 6,
+      "rate_global": 1.57,
+      "rate_group": 0.27
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "Extreme Hearts-前原纯华",
+      "vote": 5,
+      "rate_global": 1.31,
+      "rate_group": 0.23
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "因为不是真正的...境展开慢活人生-莉特",
+      "vote": 4,
+      "rate_global": 1.04,
+      "rate_group": 0.18
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "平家物语-平维盛",
+      "vote": 4,
+      "rate_global": 1.04,
+      "rate_group": 0.18
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "更衣人偶坠入爱河-乾心寿",
+      "vote": 3,
+      "rate_global": 0.78,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 36,
+      "name": "CUE-鹰取舞花",
+      "vote": 3,
+      "rate_global": 0.78,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 37,
+      "name": "机动战舰抚子号-御统百合香",
+      "vote": 3,
+      "rate_global": 0.78,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 38,
+      "name": "校园迷糊大王-冢本天满",
+      "vote": 3,
+      "rate_global": 0.78,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 39,
+      "name": "可塑性记忆-海松艾露",
+      "vote": 3,
+      "rate_global": 0.78,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 40,
+      "name": "水果篮子-草摩慊人",
+      "vote": 3,
+      "rate_global": 0.78,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 41,
+      "name": "杜鹃的婚约-天野绘里香",
+      "vote": 3,
+      "rate_global": 0.78,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 42,
+      "name": "堀与宫村-柳明音",
+      "vote": 2,
+      "rate_global": 0.52,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 43,
+      "name": "世界顶尖的暗杀者转生为异世界贵族-卢各图哈德",
+      "vote": 2,
+      "rate_global": 0.52,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 44,
+      "name": "相合之物-纳野和",
+      "vote": 2,
+      "rate_global": 0.52,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 45,
+      "name": "杜鹃的婚约-海野凪",
+      "vote": 2,
+      "rate_global": 0.52,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 46,
+      "name": "Extreme Hearts-橘雪乃",
+      "vote": 2,
+      "rate_global": 0.52,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 47,
+      "name": "天籁人偶-远间凪",
+      "vote": 2,
+      "rate_global": 0.52,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 48,
+      "name": "女忍者椿的心事-凤仙",
+      "vote": 2,
+      "rate_global": 0.52,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 49,
+      "name": "薇薇 萤石眼之歌-露克莱尔",
+      "vote": 1,
+      "rate_global": 0.26,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 50,
+      "name": "堀与宫村-绫崎礼美",
+      "vote": 1,
+      "rate_global": 0.26,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 51,
+      "name": "这爱情有点奇怪-益田",
+      "vote": 0,
+      "rate_global": 0.0,
+      "rate_group": 0.0
+    },
+    {
+      "group": 1,
+      "rank": 52,
+      "name": "青春猪头少年-古贺朋绘",
+      "vote": 0,
+      "rate_global": 0.0,
+      "rate_group": 0.0
+    },
+    {
+      "group": 1,
+      "rank": 53,
+      "name": "这爱情有点奇怪-天草亮",
+      "vote": 0,
+      "rate_global": 0.0,
+      "rate_group": 0.0
+    },
+    {
+      "group": 1,
+      "rank": 54,
+      "name": "堀与宫村-进藤晃一",
+      "vote": 0,
+      "rate_global": 0.0,
+      "rate_group": 0.0
+    }
+  ]
 }

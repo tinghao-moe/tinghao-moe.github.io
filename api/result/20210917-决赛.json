@@ -1,41 +1,41 @@
 {
-    "name": "决赛",
-    "time": "2021-09-17 23:00:00",
-    "voter": 790,
-    "last_time": "2021-09-17 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "Love Live 虹咲-上原步梦",
-            "vote": 590,
-            "rate_global": 74.68,
-            "rate_group": 76.03
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "魔法纪录-梓美冬",
-            "vote": 186,
-            "rate_global": 23.54,
-            "rate_group": 23.97
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "赛马娘-优秀素质",
-            "vote": 534,
-            "rate_global": 67.59,
-            "rate_group": 72.75
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "魔法纪录-环彩羽",
-            "vote": 200,
-            "rate_global": 25.32,
-            "rate_group": 27.25
-        }
-    ]
+  "name": "决赛",
+  "time": "2021-09-17 23:00:00",
+  "voter": 790,
+  "last_time": "2021-09-17 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "Love Live 虹咲-上原步梦",
+      "vote": 590,
+      "rate_global": 74.68,
+      "rate_group": 76.03
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "魔法纪录-梓美冬",
+      "vote": 186,
+      "rate_global": 23.54,
+      "rate_group": 23.97
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "赛马娘-优秀素质",
+      "vote": 534,
+      "rate_global": 67.59,
+      "rate_group": 72.75
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "魔法纪录-环彩羽",
+      "vote": 200,
+      "rate_global": 25.32,
+      "rate_group": 27.25
+    }
+  ]
 }

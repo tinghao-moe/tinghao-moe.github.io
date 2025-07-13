@@ -1,241 +1,241 @@
 {
-    "name": "海选赛day4",
-    "time": "2018-08-29 23:00:00",
-    "voter": 373,
-    "last_time": "2018-08-29 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "少女歌剧-露崎真昼",
-            "vote": 316,
-            "rate_global": 84.72,
-            "rate_group": 22.8
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "我的妹妹哪有这么可爱！-五更琉璃",
-            "vote": 152,
-            "rate_global": 40.75,
-            "rate_group": 10.97
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "我的青春恋爱物语果然有问题-由比滨结衣",
-            "vote": 144,
-            "rate_global": 38.61,
-            "rate_group": 10.39
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "樱花庄的宠物女孩-青山七海",
-            "vote": 140,
-            "rate_global": 37.53,
-            "rate_group": 10.1
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "魔法少女小圆-巴麻美",
-            "vote": 85,
-            "rate_global": 22.79,
-            "rate_group": 6.13
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "中二病也要谈恋爱-丹生谷森夏",
-            "vote": 85,
-            "rate_global": 22.79,
-            "rate_group": 6.13
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "CLANNAD-藤林椋",
-            "vote": 80,
-            "rate_global": 21.45,
-            "rate_group": 5.77
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "高校舰队-纳沙幸子",
-            "vote": 79,
-            "rate_global": 21.18,
-            "rate_group": 5.7
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "刀使巫女-内里步",
-            "vote": 48,
-            "rate_global": 12.87,
-            "rate_group": 3.46
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "精灵宝可梦XY-瑟蕾娜",
-            "vote": 44,
-            "rate_global": 11.8,
-            "rate_group": 3.17
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "寒蝉鸣泣之时-龙宫礼奈",
-            "vote": 34,
-            "rate_global": 9.12,
-            "rate_group": 2.45
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "拥抱！光之美少女-野乃花",
-            "vote": 29,
-            "rate_global": 7.77,
-            "rate_group": 2.09
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "高校舰队-知名萌香",
-            "vote": 25,
-            "rate_global": 6.7,
-            "rate_group": 1.8
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "Cirtrus-橘萨拉",
-            "vote": 22,
-            "rate_global": 5.9,
-            "rate_group": 1.59
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "龙王的工作-雏鹤爱",
-            "vote": 14,
-            "rate_global": 3.75,
-            "rate_group": 1.01
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "游戏王GX-天上院明日香",
-            "vote": 14,
-            "rate_global": 3.75,
-            "rate_group": 1.01
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "昴宿七星-咲月",
-            "vote": 12,
-            "rate_global": 3.22,
-            "rate_group": 0.87
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "摇曳露营-犬山葵",
-            "vote": 12,
-            "rate_global": 3.22,
-            "rate_group": 0.87
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "请问您今天要来点兔子吗-保登摩卡",
-            "vote": 11,
-            "rate_global": 2.95,
-            "rate_group": 0.79
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "食梦者玛丽-橘勇鱼",
-            "vote": 10,
-            "rate_global": 2.68,
-            "rate_group": 0.72
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "樱花庄的宠物女孩-椎名真白",
-            "vote": 10,
-            "rate_global": 2.68,
-            "rate_group": 0.72
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "付丧神出租中-清次",
-            "vote": 4,
-            "rate_global": 1.07,
-            "rate_group": 0.29
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "恋爱研究所-仓桥梨子",
-            "vote": 4,
-            "rate_global": 1.07,
-            "rate_group": 0.29
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "魔卡少女樱-木之本藤隆",
-            "vote": 4,
-            "rate_global": 1.07,
-            "rate_group": 0.29
-        },
-        {
-            "group": 1,
-            "rank": 25,
-            "name": "拥抱！光之美少女-爱崎惠美瑠",
-            "vote": 3,
-            "rate_global": 0.8,
-            "rate_group": 0.22
-        },
-        {
-            "group": 1,
-            "rank": 26,
-            "name": "哆啦A梦-骨川小夫",
-            "vote": 2,
-            "rate_global": 0.54,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 27,
-            "name": "A Channel-野山美步",
-            "vote": 1,
-            "rate_global": 0.27,
-            "rate_group": 0.07
-        },
-        {
-            "group": 1,
-            "rank": 28,
-            "name": "光之美少女-梅普鲁",
-            "vote": 1,
-            "rate_global": 0.27,
-            "rate_group": 0.07
-        },
-        {
-            "group": 1,
-            "rank": 29,
-            "name": "摇曳露营-抚子的爸爸",
-            "vote": 1,
-            "rate_global": 0.27,
-            "rate_group": 0.07
-        }
-    ]
+  "name": "海选赛day4",
+  "time": "2018-08-29 23:00:00",
+  "voter": 373,
+  "last_time": "2018-08-29 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "少女歌剧-露崎真昼",
+      "vote": 316,
+      "rate_global": 84.72,
+      "rate_group": 22.8
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "我的妹妹哪有这么可爱！-五更琉璃",
+      "vote": 152,
+      "rate_global": 40.75,
+      "rate_group": 10.97
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "我的青春恋爱物语果然有问题-由比滨结衣",
+      "vote": 144,
+      "rate_global": 38.61,
+      "rate_group": 10.39
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "樱花庄的宠物女孩-青山七海",
+      "vote": 140,
+      "rate_global": 37.53,
+      "rate_group": 10.1
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "魔法少女小圆-巴麻美",
+      "vote": 85,
+      "rate_global": 22.79,
+      "rate_group": 6.13
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "中二病也要谈恋爱-丹生谷森夏",
+      "vote": 85,
+      "rate_global": 22.79,
+      "rate_group": 6.13
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "CLANNAD-藤林椋",
+      "vote": 80,
+      "rate_global": 21.45,
+      "rate_group": 5.77
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "高校舰队-纳沙幸子",
+      "vote": 79,
+      "rate_global": 21.18,
+      "rate_group": 5.7
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "刀使巫女-内里步",
+      "vote": 48,
+      "rate_global": 12.87,
+      "rate_group": 3.46
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "精灵宝可梦XY-瑟蕾娜",
+      "vote": 44,
+      "rate_global": 11.8,
+      "rate_group": 3.17
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "寒蝉鸣泣之时-龙宫礼奈",
+      "vote": 34,
+      "rate_global": 9.12,
+      "rate_group": 2.45
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "拥抱！光之美少女-野乃花",
+      "vote": 29,
+      "rate_global": 7.77,
+      "rate_group": 2.09
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "高校舰队-知名萌香",
+      "vote": 25,
+      "rate_global": 6.7,
+      "rate_group": 1.8
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "Cirtrus-橘萨拉",
+      "vote": 22,
+      "rate_global": 5.9,
+      "rate_group": 1.59
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "龙王的工作-雏鹤爱",
+      "vote": 14,
+      "rate_global": 3.75,
+      "rate_group": 1.01
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "游戏王GX-天上院明日香",
+      "vote": 14,
+      "rate_global": 3.75,
+      "rate_group": 1.01
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "昴宿七星-咲月",
+      "vote": 12,
+      "rate_global": 3.22,
+      "rate_group": 0.87
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "摇曳露营-犬山葵",
+      "vote": 12,
+      "rate_global": 3.22,
+      "rate_group": 0.87
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "请问您今天要来点兔子吗-保登摩卡",
+      "vote": 11,
+      "rate_global": 2.95,
+      "rate_group": 0.79
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "食梦者玛丽-橘勇鱼",
+      "vote": 10,
+      "rate_global": 2.68,
+      "rate_group": 0.72
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "樱花庄的宠物女孩-椎名真白",
+      "vote": 10,
+      "rate_global": 2.68,
+      "rate_group": 0.72
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "付丧神出租中-清次",
+      "vote": 4,
+      "rate_global": 1.07,
+      "rate_group": 0.29
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "恋爱研究所-仓桥梨子",
+      "vote": 4,
+      "rate_global": 1.07,
+      "rate_group": 0.29
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "魔卡少女樱-木之本藤隆",
+      "vote": 4,
+      "rate_global": 1.07,
+      "rate_group": 0.29
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "拥抱！光之美少女-爱崎惠美瑠",
+      "vote": 3,
+      "rate_global": 0.8,
+      "rate_group": 0.22
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "哆啦A梦-骨川小夫",
+      "vote": 2,
+      "rate_global": 0.54,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "A Channel-野山美步",
+      "vote": 1,
+      "rate_global": 0.27,
+      "rate_group": 0.07
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "光之美少女-梅普鲁",
+      "vote": 1,
+      "rate_global": 0.27,
+      "rate_group": 0.07
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "摇曳露营-抚子的爸爸",
+      "vote": 1,
+      "rate_global": 0.27,
+      "rate_group": 0.07
+    }
+  ]
 }

@@ -1,289 +1,289 @@
 {
-    "name": "海选赛day2",
-    "time": "2019-09-02 23:00:00",
-    "voter": 253,
-    "last_time": "2019-09-02 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "天使降临我身边-姬坂乃爱",
-            "vote": 137,
-            "rate_global": 54.15,
-            "rate_group": 11.56
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "我的青春恋爱物语果然有问题-由比滨结衣",
-            "vote": 115,
-            "rate_global": 45.45,
-            "rate_group": 9.7
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "邻家索菲-夏木日向",
-            "vote": 96,
-            "rate_global": 37.94,
-            "rate_group": 8.1
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "我的妹妹是黄漫老师-山田妖精",
-            "vote": 96,
-            "rate_global": 37.94,
-            "rate_group": 8.1
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "惊爆草莓-凉水玉青",
-            "vote": 83,
-            "rate_global": 32.81,
-            "rate_group": 7.0
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "CLANNAD-藤林杏",
-            "vote": 82,
-            "rate_global": 32.41,
-            "rate_group": 6.92
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "街角魔族-千代田桃",
-            "vote": 78,
-            "rate_global": 30.83,
-            "rate_group": 6.58
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "吹响！上低音号-中世古香织",
-            "vote": 62,
-            "rate_global": 24.51,
-            "rate_group": 5.23
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "青春猪头少年-牧之原翔子",
-            "vote": 60,
-            "rate_global": 23.72,
-            "rate_group": 5.06
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "约会大作战-鸢一折纸",
-            "vote": 49,
-            "rate_global": 19.37,
-            "rate_group": 4.14
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "五等分的花嫁-中野五月",
-            "vote": 42,
-            "rate_global": 16.6,
-            "rate_group": 3.54
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "寄宿学院的朱丽叶-狛井莲季",
-            "vote": 41,
-            "rate_global": 16.21,
-            "rate_group": 3.46
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "家有女友-橘瑠衣",
-            "vote": 35,
-            "rate_global": 13.83,
-            "rate_group": 2.95
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "电玩咖-亚玖璃",
-            "vote": 31,
-            "rate_global": 12.25,
-            "rate_group": 2.62
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "未闻花名-安城鸣子",
-            "vote": 30,
-            "rate_global": 11.86,
-            "rate_group": 2.53
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "邻家索菲-艾莉",
-            "vote": 29,
-            "rate_global": 11.46,
-            "rate_group": 2.45
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "偶像活动Friends-凑美绪",
-            "vote": 17,
-            "rate_global": 6.72,
-            "rate_group": 1.43
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "Anima Yell-馆岛虎彻",
-            "vote": 16,
-            "rate_global": 6.32,
-            "rate_group": 1.35
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "偶像梦幻祭-游木真",
-            "vote": 11,
-            "rate_global": 4.35,
-            "rate_group": 0.93
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "格林笔记-灰姑娘",
-            "vote": 11,
-            "rate_global": 4.35,
-            "rate_group": 0.93
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "Anima Yell-鸠谷小羽",
-            "vote": 9,
-            "rate_global": 3.56,
-            "rate_group": 0.76
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "终将成为你-菜月",
-            "vote": 8,
-            "rate_global": 3.16,
-            "rate_group": 0.68
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "玉响-三次千寻",
-            "vote": 8,
-            "rate_global": 3.16,
-            "rate_group": 0.68
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "BEATLESS-蕾西亚",
-            "vote": 6,
-            "rate_global": 2.37,
-            "rate_group": 0.51
-        },
-        {
-            "group": 1,
-            "rank": 25,
-            "name": "苍之彼方的四重奏-伊莉娜·阿瓦隆",
-            "vote": 6,
-            "rate_global": 2.37,
-            "rate_group": 0.51
-        },
-        {
-            "group": 1,
-            "rank": 26,
-            "name": "叛逆性百万亚瑟王-炼金",
-            "vote": 4,
-            "rate_global": 1.58,
-            "rate_group": 0.34
-        },
-        {
-            "group": 1,
-            "rank": 27,
-            "name": "水果篮子-草摩杞纱",
-            "vote": 4,
-            "rate_global": 1.58,
-            "rate_group": 0.34
-        },
-        {
-            "group": 1,
-            "rank": 28,
-            "name": "Re:Stage!-本城香澄",
-            "vote": 4,
-            "rate_global": 1.58,
-            "rate_group": 0.34
-        },
-        {
-            "group": 1,
-            "rank": 29,
-            "name": "我们无法一起学习-小林阳真",
-            "vote": 4,
-            "rate_global": 1.58,
-            "rate_group": 0.34
-        },
-        {
-            "group": 1,
-            "rank": 30,
-            "name": "青酱不能学习-木岛拓海",
-            "vote": 3,
-            "rate_global": 1.19,
-            "rate_group": 0.25
-        },
-        {
-            "group": 1,
-            "rank": 31,
-            "name": "轮回的拉格朗日-麦波",
-            "vote": 3,
-            "rate_global": 1.19,
-            "rate_group": 0.25
-        },
-        {
-            "group": 1,
-            "rank": 32,
-            "name": "命运石之门-来岛枫",
-            "vote": 2,
-            "rate_global": 0.79,
-            "rate_group": 0.17
-        },
-        {
-            "group": 1,
-            "rank": 33,
-            "name": "BEATLESS-远藤新人",
-            "vote": 1,
-            "rate_global": 0.4,
-            "rate_group": 0.08
-        },
-        {
-            "group": 1,
-            "rank": 34,
-            "name": "我喜欢的是妹妹但不是妹妹-永见祐",
-            "vote": 1,
-            "rate_global": 0.4,
-            "rate_group": 0.08
-        },
-        {
-            "group": 1,
-            "rank": 35,
-            "name": "魔卡少女樱-守田老师",
-            "vote": 1,
-            "rate_global": 0.4,
-            "rate_group": 0.08
-        }
-    ]
+  "name": "海选赛day2",
+  "time": "2019-09-02 23:00:00",
+  "voter": 253,
+  "last_time": "2019-09-02 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "天使降临我身边-姬坂乃爱",
+      "vote": 137,
+      "rate_global": 54.15,
+      "rate_group": 11.56
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "我的青春恋爱物语果然有问题-由比滨结衣",
+      "vote": 115,
+      "rate_global": 45.45,
+      "rate_group": 9.7
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "邻家索菲-夏木日向",
+      "vote": 96,
+      "rate_global": 37.94,
+      "rate_group": 8.1
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "我的妹妹是黄漫老师-山田妖精",
+      "vote": 96,
+      "rate_global": 37.94,
+      "rate_group": 8.1
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "惊爆草莓-凉水玉青",
+      "vote": 83,
+      "rate_global": 32.81,
+      "rate_group": 7.0
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "CLANNAD-藤林杏",
+      "vote": 82,
+      "rate_global": 32.41,
+      "rate_group": 6.92
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "街角魔族-千代田桃",
+      "vote": 78,
+      "rate_global": 30.83,
+      "rate_group": 6.58
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "吹响！上低音号-中世古香织",
+      "vote": 62,
+      "rate_global": 24.51,
+      "rate_group": 5.23
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "青春猪头少年-牧之原翔子",
+      "vote": 60,
+      "rate_global": 23.72,
+      "rate_group": 5.06
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "约会大作战-鸢一折纸",
+      "vote": 49,
+      "rate_global": 19.37,
+      "rate_group": 4.14
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "五等分的花嫁-中野五月",
+      "vote": 42,
+      "rate_global": 16.6,
+      "rate_group": 3.54
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "寄宿学院的朱丽叶-狛井莲季",
+      "vote": 41,
+      "rate_global": 16.21,
+      "rate_group": 3.46
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "家有女友-橘瑠衣",
+      "vote": 35,
+      "rate_global": 13.83,
+      "rate_group": 2.95
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "电玩咖-亚玖璃",
+      "vote": 31,
+      "rate_global": 12.25,
+      "rate_group": 2.62
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "未闻花名-安城鸣子",
+      "vote": 30,
+      "rate_global": 11.86,
+      "rate_group": 2.53
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "邻家索菲-艾莉",
+      "vote": 29,
+      "rate_global": 11.46,
+      "rate_group": 2.45
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "偶像活动Friends-凑美绪",
+      "vote": 17,
+      "rate_global": 6.72,
+      "rate_group": 1.43
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "Anima Yell-馆岛虎彻",
+      "vote": 16,
+      "rate_global": 6.32,
+      "rate_group": 1.35
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "偶像梦幻祭-游木真",
+      "vote": 11,
+      "rate_global": 4.35,
+      "rate_group": 0.93
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "格林笔记-灰姑娘",
+      "vote": 11,
+      "rate_global": 4.35,
+      "rate_group": 0.93
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "Anima Yell-鸠谷小羽",
+      "vote": 9,
+      "rate_global": 3.56,
+      "rate_group": 0.76
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "终将成为你-菜月",
+      "vote": 8,
+      "rate_global": 3.16,
+      "rate_group": 0.68
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "玉响-三次千寻",
+      "vote": 8,
+      "rate_global": 3.16,
+      "rate_group": 0.68
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "BEATLESS-蕾西亚",
+      "vote": 6,
+      "rate_global": 2.37,
+      "rate_group": 0.51
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "苍之彼方的四重奏-伊莉娜·阿瓦隆",
+      "vote": 6,
+      "rate_global": 2.37,
+      "rate_group": 0.51
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "叛逆性百万亚瑟王-炼金",
+      "vote": 4,
+      "rate_global": 1.58,
+      "rate_group": 0.34
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "水果篮子-草摩杞纱",
+      "vote": 4,
+      "rate_global": 1.58,
+      "rate_group": 0.34
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "Re:Stage!-本城香澄",
+      "vote": 4,
+      "rate_global": 1.58,
+      "rate_group": 0.34
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "我们无法一起学习-小林阳真",
+      "vote": 4,
+      "rate_global": 1.58,
+      "rate_group": 0.34
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "青酱不能学习-木岛拓海",
+      "vote": 3,
+      "rate_global": 1.19,
+      "rate_group": 0.25
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "轮回的拉格朗日-麦波",
+      "vote": 3,
+      "rate_global": 1.19,
+      "rate_group": 0.25
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "命运石之门-来岛枫",
+      "vote": 2,
+      "rate_global": 0.79,
+      "rate_group": 0.17
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "BEATLESS-远藤新人",
+      "vote": 1,
+      "rate_global": 0.4,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "我喜欢的是妹妹但不是妹妹-永见祐",
+      "vote": 1,
+      "rate_global": 0.4,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "魔卡少女樱-守田老师",
+      "vote": 1,
+      "rate_global": 0.4,
+      "rate_group": 0.08
+    }
+  ]
 }

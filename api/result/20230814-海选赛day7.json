@@ -1,465 +1,465 @@
 {
-    "name": "海选赛day7",
-    "time": "2023-08-14 23:00:00",
-    "voter": 421,
-    "last_time": "2023-08-14 22:59",
-    "last_floor": 505,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "辉夜大小姐想让我告白-四条真妃",
-            "vote": 218,
-            "rate_global": 51.78,
-            "rate_group": 10.0
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "Love Live 虹咲-中须霞",
-            "vote": 197,
-            "rate_global": 46.79,
-            "rate_group": 9.03
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "Love Live Superstar-平安名堇",
-            "vote": 185,
-            "rate_global": 43.94,
-            "rate_group": 8.48
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "寒蝉鸣泣之时-北条沙都子",
-            "vote": 171,
-            "rate_global": 40.62,
-            "rate_group": 7.84
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "赛马娘-目白麦昆",
-            "vote": 130,
-            "rate_global": 30.88,
-            "rate_group": 5.96
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "转生王女与天才千金的魔法革命-尤菲莉亚",
-            "vote": 112,
-            "rate_global": 26.6,
-            "rate_group": 5.14
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "偶像大师灰姑娘女孩U149-橘爱丽丝",
-            "vote": 106,
-            "rate_global": 25.18,
-            "rate_group": 4.86
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "Love Live 虹咲-朝香果林",
-            "vote": 103,
-            "rate_global": 24.47,
-            "rate_group": 4.72
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "摇曳百合-池田千岁",
-            "vote": 79,
-            "rate_global": 18.76,
-            "rate_group": 3.62
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "魔法少女伊莉雅-伊莉雅斯菲·冯·爱因兹贝伦",
-            "vote": 78,
-            "rate_global": 18.53,
-            "rate_group": 3.58
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "满月之战-安娜·胡戈",
-            "vote": 76,
-            "rate_global": 18.05,
-            "rate_group": 3.48
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "为美好的世界献上爆焰！-悠悠",
-            "vote": 69,
-            "rate_global": 16.39,
-            "rate_group": 3.16
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "名侦探柯南-灰原哀",
-            "vote": 68,
-            "rate_global": 16.15,
-            "rate_group": 3.12
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "别当欧尼酱了-绪山真寻",
-            "vote": 60,
-            "rate_global": 14.25,
-            "rate_group": 2.75
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "无能的奈奈-柊奈奈",
-            "vote": 59,
-            "rate_global": 14.01,
-            "rate_group": 2.71
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "Princess Principal-比阿特丽斯",
-            "vote": 49,
-            "rate_global": 11.64,
-            "rate_group": 2.25
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "我的百合乃工作是也！-小柴舞",
-            "vote": 43,
-            "rate_global": 10.21,
-            "rate_group": 1.97
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "蓝色监狱-御影玲王",
-            "vote": 39,
-            "rate_global": 9.26,
-            "rate_group": 1.79
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "终末的伊泽塔-菲涅",
-            "vote": 31,
-            "rate_global": 7.36,
-            "rate_group": 1.42
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "我推的孩子-斋藤京子",
-            "vote": 30,
-            "rate_global": 7.13,
-            "rate_group": 1.38
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "偶像大师 灰姑娘女孩 U149-佐佐木千枝",
-            "vote": 27,
-            "rate_global": 6.41,
-            "rate_group": 1.24
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "偶像大师 灰姑娘女孩 U149-结城晴",
-            "vote": 23,
-            "rate_global": 5.46,
-            "rate_group": 1.05
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "偶像大师 灰姑娘女孩 U149-古贺小春",
-            "vote": 21,
-            "rate_global": 4.99,
-            "rate_group": 0.96
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "精灵宝可梦地平线-莉可",
-            "vote": 20,
-            "rate_global": 4.75,
-            "rate_group": 0.92
-        },
-        {
-            "group": 1,
-            "rank": 25,
-            "name": "名侦探柯南-宫野明美",
-            "vote": 19,
-            "rate_global": 4.51,
-            "rate_group": 0.87
-        },
-        {
-            "group": 1,
-            "rank": 26,
-            "name": "惊爆草莓-苍井渚砂",
-            "vote": 17,
-            "rate_global": 4.04,
-            "rate_group": 0.78
-        },
-        {
-            "group": 1,
-            "rank": 27,
-            "name": "偶像大师 灰姑娘女孩 U149-市原仁奈",
-            "vote": 14,
-            "rate_global": 3.33,
-            "rate_group": 0.64
-        },
-        {
-            "group": 1,
-            "rank": 28,
-            "name": "邻家的天使同学-椎名真昼",
-            "vote": 14,
-            "rate_global": 3.33,
-            "rate_group": 0.64
-        },
-        {
-            "group": 1,
-            "rank": 29,
-            "name": "牵牛花与加濑同学-加濑友香",
-            "vote": 13,
-            "rate_global": 3.09,
-            "rate_group": 0.6
-        },
-        {
-            "group": 1,
-            "rank": 30,
-            "name": "黑暗集会-宝月咏子",
-            "vote": 13,
-            "rate_global": 3.09,
-            "rate_group": 0.6
-        },
-        {
-            "group": 1,
-            "rank": 31,
-            "name": "别当欧尼酱了-樱花朝日",
-            "vote": 11,
-            "rate_global": 2.61,
-            "rate_group": 0.5
-        },
-        {
-            "group": 1,
-            "rank": 32,
-            "name": "恋爱flops-阿米莉亚·艾尔文",
-            "vote": 11,
-            "rate_global": 2.61,
-            "rate_group": 0.5
-        },
-        {
-            "group": 1,
-            "rank": 33,
-            "name": "魔法少女网站-朝雾彩",
-            "vote": 9,
-            "rate_global": 2.14,
-            "rate_group": 0.41
-        },
-        {
-            "group": 1,
-            "rank": 34,
-            "name": "惊爆草莓-日向绊奈",
-            "vote": 8,
-            "rate_global": 1.9,
-            "rate_group": 0.37
-        },
-        {
-            "group": 1,
-            "rank": 35,
-            "name": "恋爱flops-柏树朝",
-            "vote": 6,
-            "rate_global": 1.43,
-            "rate_group": 0.28
-        },
-        {
-            "group": 1,
-            "rank": 36,
-            "name": "女神的露天咖啡厅-幕泽樱花",
-            "vote": 5,
-            "rate_global": 1.19,
-            "rate_group": 0.23
-        },
-        {
-            "group": 1,
-            "rank": 37,
-            "name": "IDOLY PRIDE-井川葵",
-            "vote": 4,
-            "rate_global": 0.95,
-            "rate_group": 0.18
-        },
-        {
-            "group": 1,
-            "rank": 38,
-            "name": "游戏王GX-天上院吹雪",
-            "vote": 3,
-            "rate_global": 0.71,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 39,
-            "name": "World Dai Star-千寿历",
-            "vote": 3,
-            "rate_global": 0.71,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 40,
-            "name": "海猫鸣泣之时-右代宫让治",
-            "vote": 3,
-            "rate_global": 0.71,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 41,
-            "name": "白圣女与黑牧师-劳伦斯",
-            "vote": 3,
-            "rate_global": 0.71,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 42,
-            "name": "女神的露天咖啡厅-小野白菊",
-            "vote": 3,
-            "rate_global": 0.71,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 43,
-            "name": "海猫鸣泣之时-右代宫雾江",
-            "vote": 3,
-            "rate_global": 0.71,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 44,
-            "name": "异世界悠闲农家-莉亚",
-            "vote": 3,
-            "rate_global": 0.71,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 45,
-            "name": "被解雇的暗黑士兵慢生活的第二人生-玛丽卡",
-            "vote": 2,
-            "rate_global": 0.48,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 46,
-            "name": "满怀美梦的少年是现实主义者-佐城涉",
-            "vote": 2,
-            "rate_global": 0.48,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 47,
-            "name": "恋爱flops-好乃·费曼",
-            "vote": 2,
-            "rate_global": 0.48,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 48,
-            "name": "机战少女 Alice-比良坂夜露",
-            "vote": 2,
-            "rate_global": 0.48,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 49,
-            "name": "平凡职业造就世界最强-畑山爱子",
-            "vote": 2,
-            "rate_global": 0.48,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 50,
-            "name": "带着智能手机闯荡异世界-爱尔泽·希尔艾斯卡",
-            "vote": 2,
-            "rate_global": 0.48,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 51,
-            "name": "为了养老去异界存八万金-山野光波",
-            "vote": 2,
-            "rate_global": 0.48,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 52,
-            "name": "地错-埃伊娜·祖尔",
-            "vote": 2,
-            "rate_global": 0.48,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 53,
-            "name": "雏逻辑-藤崎梨乃",
-            "vote": 2,
-            "rate_global": 0.48,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 54,
-            "name": "第二次被异世界召唤-琉璃",
-            "vote": 1,
-            "rate_global": 0.24,
-            "rate_group": 0.05
-        },
-        {
-            "group": 1,
-            "rank": 55,
-            "name": "江户前精灵-门井云母",
-            "vote": 1,
-            "rate_global": 0.24,
-            "rate_group": 0.05
-        },
-        {
-            "group": 1,
-            "rank": 56,
-            "name": "星掠者-成宫杏华",
-            "vote": 1,
-            "rate_global": 0.24,
-            "rate_group": 0.05
-        },
-        {
-            "group": 1,
-            "rank": 57,
-            "name": "IDOLY PRIDE-小美山爱",
-            "vote": 1,
-            "rate_global": 0.24,
-            "rate_group": 0.05
-        }
-    ]
+  "name": "海选赛day7",
+  "time": "2023-08-14 23:00:00",
+  "voter": 421,
+  "last_time": "2023-08-14 22:59",
+  "last_floor": 505,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "辉夜大小姐想让我告白-四条真妃",
+      "vote": 218,
+      "rate_global": 51.78,
+      "rate_group": 10.0
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "Love Live 虹咲-中须霞",
+      "vote": 197,
+      "rate_global": 46.79,
+      "rate_group": 9.03
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "Love Live Superstar-平安名堇",
+      "vote": 185,
+      "rate_global": 43.94,
+      "rate_group": 8.48
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "寒蝉鸣泣之时-北条沙都子",
+      "vote": 171,
+      "rate_global": 40.62,
+      "rate_group": 7.84
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "赛马娘-目白麦昆",
+      "vote": 130,
+      "rate_global": 30.88,
+      "rate_group": 5.96
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "转生王女与天才千金的魔法革命-尤菲莉亚",
+      "vote": 112,
+      "rate_global": 26.6,
+      "rate_group": 5.14
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "偶像大师灰姑娘女孩U149-橘爱丽丝",
+      "vote": 106,
+      "rate_global": 25.18,
+      "rate_group": 4.86
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "Love Live 虹咲-朝香果林",
+      "vote": 103,
+      "rate_global": 24.47,
+      "rate_group": 4.72
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "摇曳百合-池田千岁",
+      "vote": 79,
+      "rate_global": 18.76,
+      "rate_group": 3.62
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "魔法少女伊莉雅-伊莉雅斯菲·冯·爱因兹贝伦",
+      "vote": 78,
+      "rate_global": 18.53,
+      "rate_group": 3.58
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "满月之战-安娜·胡戈",
+      "vote": 76,
+      "rate_global": 18.05,
+      "rate_group": 3.48
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "为美好的世界献上爆焰！-悠悠",
+      "vote": 69,
+      "rate_global": 16.39,
+      "rate_group": 3.16
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "名侦探柯南-灰原哀",
+      "vote": 68,
+      "rate_global": 16.15,
+      "rate_group": 3.12
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "别当欧尼酱了-绪山真寻",
+      "vote": 60,
+      "rate_global": 14.25,
+      "rate_group": 2.75
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "无能的奈奈-柊奈奈",
+      "vote": 59,
+      "rate_global": 14.01,
+      "rate_group": 2.71
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "Princess Principal-比阿特丽斯",
+      "vote": 49,
+      "rate_global": 11.64,
+      "rate_group": 2.25
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "我的百合乃工作是也！-小柴舞",
+      "vote": 43,
+      "rate_global": 10.21,
+      "rate_group": 1.97
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "蓝色监狱-御影玲王",
+      "vote": 39,
+      "rate_global": 9.26,
+      "rate_group": 1.79
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "终末的伊泽塔-菲涅",
+      "vote": 31,
+      "rate_global": 7.36,
+      "rate_group": 1.42
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "我推的孩子-斋藤京子",
+      "vote": 30,
+      "rate_global": 7.13,
+      "rate_group": 1.38
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "偶像大师 灰姑娘女孩 U149-佐佐木千枝",
+      "vote": 27,
+      "rate_global": 6.41,
+      "rate_group": 1.24
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "偶像大师 灰姑娘女孩 U149-结城晴",
+      "vote": 23,
+      "rate_global": 5.46,
+      "rate_group": 1.05
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "偶像大师 灰姑娘女孩 U149-古贺小春",
+      "vote": 21,
+      "rate_global": 4.99,
+      "rate_group": 0.96
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "精灵宝可梦地平线-莉可",
+      "vote": 20,
+      "rate_global": 4.75,
+      "rate_group": 0.92
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "名侦探柯南-宫野明美",
+      "vote": 19,
+      "rate_global": 4.51,
+      "rate_group": 0.87
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "惊爆草莓-苍井渚砂",
+      "vote": 17,
+      "rate_global": 4.04,
+      "rate_group": 0.78
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "偶像大师 灰姑娘女孩 U149-市原仁奈",
+      "vote": 14,
+      "rate_global": 3.33,
+      "rate_group": 0.64
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "邻家的天使同学-椎名真昼",
+      "vote": 14,
+      "rate_global": 3.33,
+      "rate_group": 0.64
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "牵牛花与加濑同学-加濑友香",
+      "vote": 13,
+      "rate_global": 3.09,
+      "rate_group": 0.6
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "黑暗集会-宝月咏子",
+      "vote": 13,
+      "rate_global": 3.09,
+      "rate_group": 0.6
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "别当欧尼酱了-樱花朝日",
+      "vote": 11,
+      "rate_global": 2.61,
+      "rate_group": 0.5
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "恋爱flops-阿米莉亚·艾尔文",
+      "vote": 11,
+      "rate_global": 2.61,
+      "rate_group": 0.5
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "魔法少女网站-朝雾彩",
+      "vote": 9,
+      "rate_global": 2.14,
+      "rate_group": 0.41
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "惊爆草莓-日向绊奈",
+      "vote": 8,
+      "rate_global": 1.9,
+      "rate_group": 0.37
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "恋爱flops-柏树朝",
+      "vote": 6,
+      "rate_global": 1.43,
+      "rate_group": 0.28
+    },
+    {
+      "group": 1,
+      "rank": 36,
+      "name": "女神的露天咖啡厅-幕泽樱花",
+      "vote": 5,
+      "rate_global": 1.19,
+      "rate_group": 0.23
+    },
+    {
+      "group": 1,
+      "rank": 37,
+      "name": "IDOLY PRIDE-井川葵",
+      "vote": 4,
+      "rate_global": 0.95,
+      "rate_group": 0.18
+    },
+    {
+      "group": 1,
+      "rank": 38,
+      "name": "游戏王GX-天上院吹雪",
+      "vote": 3,
+      "rate_global": 0.71,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 39,
+      "name": "World Dai Star-千寿历",
+      "vote": 3,
+      "rate_global": 0.71,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 40,
+      "name": "海猫鸣泣之时-右代宫让治",
+      "vote": 3,
+      "rate_global": 0.71,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 41,
+      "name": "白圣女与黑牧师-劳伦斯",
+      "vote": 3,
+      "rate_global": 0.71,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 42,
+      "name": "女神的露天咖啡厅-小野白菊",
+      "vote": 3,
+      "rate_global": 0.71,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 43,
+      "name": "海猫鸣泣之时-右代宫雾江",
+      "vote": 3,
+      "rate_global": 0.71,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 44,
+      "name": "异世界悠闲农家-莉亚",
+      "vote": 3,
+      "rate_global": 0.71,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 45,
+      "name": "被解雇的暗黑士兵慢生活的第二人生-玛丽卡",
+      "vote": 2,
+      "rate_global": 0.48,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 46,
+      "name": "满怀美梦的少年是现实主义者-佐城涉",
+      "vote": 2,
+      "rate_global": 0.48,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 47,
+      "name": "恋爱flops-好乃·费曼",
+      "vote": 2,
+      "rate_global": 0.48,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 48,
+      "name": "机战少女 Alice-比良坂夜露",
+      "vote": 2,
+      "rate_global": 0.48,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 49,
+      "name": "平凡职业造就世界最强-畑山爱子",
+      "vote": 2,
+      "rate_global": 0.48,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 50,
+      "name": "带着智能手机闯荡异世界-爱尔泽·希尔艾斯卡",
+      "vote": 2,
+      "rate_global": 0.48,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 51,
+      "name": "为了养老去异界存八万金-山野光波",
+      "vote": 2,
+      "rate_global": 0.48,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 52,
+      "name": "地错-埃伊娜·祖尔",
+      "vote": 2,
+      "rate_global": 0.48,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 53,
+      "name": "雏逻辑-藤崎梨乃",
+      "vote": 2,
+      "rate_global": 0.48,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 54,
+      "name": "第二次被异世界召唤-琉璃",
+      "vote": 1,
+      "rate_global": 0.24,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 55,
+      "name": "江户前精灵-门井云母",
+      "vote": 1,
+      "rate_global": 0.24,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 56,
+      "name": "星掠者-成宫杏华",
+      "vote": 1,
+      "rate_global": 0.24,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 57,
+      "name": "IDOLY PRIDE-小美山爱",
+      "vote": 1,
+      "rate_global": 0.24,
+      "rate_group": 0.05
+    }
+  ]
 }

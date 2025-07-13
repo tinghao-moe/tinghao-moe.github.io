@@ -1,73 +1,73 @@
 {
-    "name": "淘汰赛16进8 Day2",
-    "time": "2020-09-14 23:00:00",
-    "voter": 269,
-    "last_time": "2020-09-14 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "赛马娘-草上飞",
-            "vote": 161,
-            "rate_global": 59.85,
-            "rate_group": 71.56
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "刀使巫女-柳濑舞衣",
-            "vote": 64,
-            "rate_global": 23.79,
-            "rate_group": 28.44
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "魔法纪录-环彩羽",
-            "vote": 117,
-            "rate_global": 43.49,
-            "rate_group": 50.43
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "魔法纪录-梓美冬",
-            "vote": 115,
-            "rate_global": 42.75,
-            "rate_group": 49.57
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "满月之战-小日向满月",
-            "vote": 131,
-            "rate_global": 48.7,
-            "rate_group": 62.38
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "我的青春恋爱物语果然有问题-由比滨结衣",
-            "vote": 79,
-            "rate_global": 29.37,
-            "rate_group": 37.62
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "街角魔族-千代田桃",
-            "vote": 108,
-            "rate_global": 40.15,
-            "rate_group": 50.7
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "惊爆草莓-凉水玉青",
-            "vote": 105,
-            "rate_global": 39.03,
-            "rate_group": 49.3
-        }
-    ]
+  "name": "淘汰赛16进8 Day2",
+  "time": "2020-09-14 23:00:00",
+  "voter": 269,
+  "last_time": "2020-09-14 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "赛马娘-草上飞",
+      "vote": 161,
+      "rate_global": 59.85,
+      "rate_group": 71.56
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "刀使巫女-柳濑舞衣",
+      "vote": 64,
+      "rate_global": 23.79,
+      "rate_group": 28.44
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "魔法纪录-环彩羽",
+      "vote": 117,
+      "rate_global": 43.49,
+      "rate_group": 50.43
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "魔法纪录-梓美冬",
+      "vote": 115,
+      "rate_global": 42.75,
+      "rate_group": 49.57
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "满月之战-小日向满月",
+      "vote": 131,
+      "rate_global": 48.7,
+      "rate_group": 62.38
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "我的青春恋爱物语果然有问题-由比滨结衣",
+      "vote": 79,
+      "rate_global": 29.37,
+      "rate_group": 37.62
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "街角魔族-千代田桃",
+      "vote": 108,
+      "rate_global": 40.15,
+      "rate_group": 50.7
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "惊爆草莓-凉水玉青",
+      "vote": 105,
+      "rate_global": 39.03,
+      "rate_group": 49.3
+    }
+  ]
 }

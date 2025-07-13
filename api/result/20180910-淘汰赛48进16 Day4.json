@@ -1,105 +1,105 @@
 {
-    "name": "淘汰赛48进16 Day4",
-    "time": "2018-09-10 23:00:00",
-    "voter": 273,
-    "last_time": "2018-09-10 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "结城友奈是勇者-三之轮银",
-            "vote": 83,
-            "rate_global": 30.4,
-            "rate_group": 40.89
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "CLANNAD-藤林椋",
-            "vote": 64,
-            "rate_global": 23.44,
-            "rate_group": 31.53
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "玉子市场-常盘绿",
-            "vote": 56,
-            "rate_global": 20.51,
-            "rate_group": 27.59
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "少女歌剧-土豆",
-            "vote": 152,
-            "rate_global": 55.68,
-            "rate_group": 59.84
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "CLANNAD-藤林杏",
-            "vote": 53,
-            "rate_global": 19.41,
-            "rate_group": 20.87
-        },
-        {
-            "group": 2,
-            "rank": 3,
-            "name": "惊爆草莓-凉水玉青",
-            "vote": 49,
-            "rate_global": 17.95,
-            "rate_group": 19.29
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "向山进发-仓上日向",
-            "vote": 97,
-            "rate_global": 35.53,
-            "rate_group": 45.54
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "我的青春恋爱物语果然有问题-由比滨结衣",
-            "vote": 87,
-            "rate_global": 31.87,
-            "rate_group": 40.85
-        },
-        {
-            "group": 3,
-            "rank": 3,
-            "name": "末日时在做什么？-珂朵莉·诺塔·瑟尼欧里斯",
-            "vote": 29,
-            "rate_global": 10.62,
-            "rate_group": 13.62
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "魔法少女小圆-美树沙耶香",
-            "vote": 131,
-            "rate_global": 47.99,
-            "rate_group": 59.28
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "龙与虎-栉枝实乃梨",
-            "vote": 54,
-            "rate_global": 19.78,
-            "rate_group": 24.43
-        },
-        {
-            "group": 4,
-            "rank": 3,
-            "name": "我的妹妹是黄漫老师-山田妖精",
-            "vote": 36,
-            "rate_global": 13.19,
-            "rate_group": 16.29
-        }
-    ]
+  "name": "淘汰赛48进16 Day4",
+  "time": "2018-09-10 23:00:00",
+  "voter": 273,
+  "last_time": "2018-09-10 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "结城友奈是勇者-三之轮银",
+      "vote": 83,
+      "rate_global": 30.4,
+      "rate_group": 40.89
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "CLANNAD-藤林椋",
+      "vote": 64,
+      "rate_global": 23.44,
+      "rate_group": 31.53
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "玉子市场-常盘绿",
+      "vote": 56,
+      "rate_global": 20.51,
+      "rate_group": 27.59
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "少女歌剧-土豆",
+      "vote": 152,
+      "rate_global": 55.68,
+      "rate_group": 59.84
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "CLANNAD-藤林杏",
+      "vote": 53,
+      "rate_global": 19.41,
+      "rate_group": 20.87
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "惊爆草莓-凉水玉青",
+      "vote": 49,
+      "rate_global": 17.95,
+      "rate_group": 19.29
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "向山进发-仓上日向",
+      "vote": 97,
+      "rate_global": 35.53,
+      "rate_group": 45.54
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "我的青春恋爱物语果然有问题-由比滨结衣",
+      "vote": 87,
+      "rate_global": 31.87,
+      "rate_group": 40.85
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "末日时在做什么？-珂朵莉·诺塔·瑟尼欧里斯",
+      "vote": 29,
+      "rate_global": 10.62,
+      "rate_group": 13.62
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "魔法少女小圆-美树沙耶香",
+      "vote": 131,
+      "rate_global": 47.99,
+      "rate_group": 59.28
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "龙与虎-栉枝实乃梨",
+      "vote": 54,
+      "rate_global": 19.78,
+      "rate_group": 24.43
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "我的妹妹是黄漫老师-山田妖精",
+      "vote": 36,
+      "rate_global": 13.19,
+      "rate_group": 16.29
+    }
+  ]
 }

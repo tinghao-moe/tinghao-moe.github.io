@@ -1,105 +1,105 @@
 {
-    "name": "淘汰赛48进16 Day2",
-    "time": "2021-09-10 23:00:00",
-    "voter": 414,
-    "last_time": "2021-09-10 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "魔法纪录-梓美冬",
-            "vote": 272,
-            "rate_global": 65.7,
-            "rate_group": 70.1
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "Love Live 虹咲-樱坂雫",
-            "vote": 85,
-            "rate_global": 20.53,
-            "rate_group": 21.91
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "龙与虎-川岛亚美",
-            "vote": 31,
-            "rate_global": 7.49,
-            "rate_group": 7.99
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "突击莉莉-枫·J·努韦尔",
-            "vote": 262,
-            "rate_global": 63.29,
-            "rate_group": 69.5
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "少女歌剧-星见纯那",
-            "vote": 59,
-            "rate_global": 14.25,
-            "rate_group": 15.65
-        },
-        {
-            "group": 2,
-            "rank": 3,
-            "name": "公主连结Re Dive-草野优衣",
-            "vote": 56,
-            "rate_global": 13.53,
-            "rate_group": 14.85
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "利兹与青鸟-伞木希美",
-            "vote": 169,
-            "rate_global": 40.82,
-            "rate_group": 42.78
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "魔法纪录-由比鹤乃",
-            "vote": 127,
-            "rate_global": 30.68,
-            "rate_group": 32.15
-        },
-        {
-            "group": 3,
-            "rank": 3,
-            "name": "少女歌剧-大场奈奈",
-            "vote": 99,
-            "rate_global": 23.91,
-            "rate_group": 25.06
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "街角魔族-阳夏木蜜柑",
-            "vote": 166,
-            "rate_global": 40.1,
-            "rate_group": 43.57
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "Love Live 虹咲-中须霞",
-            "vote": 130,
-            "rate_global": 31.4,
-            "rate_group": 34.12
-        },
-        {
-            "group": 4,
-            "rank": 3,
-            "name": "魔法纪录-二叶莎奈",
-            "vote": 85,
-            "rate_global": 20.53,
-            "rate_group": 22.31
-        }
-    ]
+  "name": "淘汰赛48进16 Day2",
+  "time": "2021-09-10 23:00:00",
+  "voter": 414,
+  "last_time": "2021-09-10 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "魔法纪录-梓美冬",
+      "vote": 272,
+      "rate_global": 65.7,
+      "rate_group": 70.1
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "Love Live 虹咲-樱坂雫",
+      "vote": 85,
+      "rate_global": 20.53,
+      "rate_group": 21.91
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "龙与虎-川岛亚美",
+      "vote": 31,
+      "rate_global": 7.49,
+      "rate_group": 7.99
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "突击莉莉-枫·J·努韦尔",
+      "vote": 262,
+      "rate_global": 63.29,
+      "rate_group": 69.5
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "少女歌剧-星见纯那",
+      "vote": 59,
+      "rate_global": 14.25,
+      "rate_group": 15.65
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "公主连结Re Dive-草野优衣",
+      "vote": 56,
+      "rate_global": 13.53,
+      "rate_group": 14.85
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "利兹与青鸟-伞木希美",
+      "vote": 169,
+      "rate_global": 40.82,
+      "rate_group": 42.78
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "魔法纪录-由比鹤乃",
+      "vote": 127,
+      "rate_global": 30.68,
+      "rate_group": 32.15
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "少女歌剧-大场奈奈",
+      "vote": 99,
+      "rate_global": 23.91,
+      "rate_group": 25.06
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "街角魔族-阳夏木蜜柑",
+      "vote": 166,
+      "rate_global": 40.1,
+      "rate_group": 43.57
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "Love Live 虹咲-中须霞",
+      "vote": 130,
+      "rate_global": 31.4,
+      "rate_group": 34.12
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "魔法纪录-二叶莎奈",
+      "vote": 85,
+      "rate_global": 20.53,
+      "rate_group": 22.31
+    }
+  ]
 }

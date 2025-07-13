@@ -1,105 +1,105 @@
 {
-    "name": "淘汰赛48进16 Day3",
-    "time": "2021-09-11 23:00:00",
-    "voter": 430,
-    "last_time": "2021-09-11 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "赛马娘-里见光钻",
-            "vote": 148,
-            "rate_global": 34.42,
-            "rate_group": 43.92
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "街角魔族-千代田桃",
-            "vote": 107,
-            "rate_global": 24.88,
-            "rate_group": 31.75
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "BanG Dream!-丸山彩",
-            "vote": 82,
-            "rate_global": 19.07,
-            "rate_group": 24.33
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "魔法纪录-黑江",
-            "vote": 157,
-            "rate_global": 36.51,
-            "rate_group": 42.43
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "小林家的龙女仆-艾露玛",
-            "vote": 143,
-            "rate_global": 33.26,
-            "rate_group": 38.65
-        },
-        {
-            "group": 2,
-            "rank": 3,
-            "name": "结城友奈是勇者-三好夏凛",
-            "vote": 70,
-            "rate_global": 16.28,
-            "rate_group": 18.92
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "寒蝉鸣泣之时-北条沙都子",
-            "vote": 154,
-            "rate_global": 35.81,
-            "rate_group": 41.29
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "魔法纪录-七海八千代",
-            "vote": 144,
-            "rate_global": 33.49,
-            "rate_group": 38.61
-        },
-        {
-            "group": 3,
-            "rank": 3,
-            "name": "刀使巫女-燕结芽",
-            "vote": 75,
-            "rate_global": 17.44,
-            "rate_group": 20.11
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "寒蝉鸣泣之时-古手梨花",
-            "vote": 180,
-            "rate_global": 41.86,
-            "rate_group": 49.86
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "天使降临我身边-星野日向",
-            "vote": 118,
-            "rate_global": 27.44,
-            "rate_group": 32.69
-        },
-        {
-            "group": 4,
-            "rank": 3,
-            "name": "Love Live-园田海未",
-            "vote": 63,
-            "rate_global": 14.65,
-            "rate_group": 17.45
-        }
-    ]
+  "name": "淘汰赛48进16 Day3",
+  "time": "2021-09-11 23:00:00",
+  "voter": 430,
+  "last_time": "2021-09-11 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "赛马娘-里见光钻",
+      "vote": 148,
+      "rate_global": 34.42,
+      "rate_group": 43.92
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "街角魔族-千代田桃",
+      "vote": 107,
+      "rate_global": 24.88,
+      "rate_group": 31.75
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "BanG Dream!-丸山彩",
+      "vote": 82,
+      "rate_global": 19.07,
+      "rate_group": 24.33
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "魔法纪录-黑江",
+      "vote": 157,
+      "rate_global": 36.51,
+      "rate_group": 42.43
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "小林家的龙女仆-艾露玛",
+      "vote": 143,
+      "rate_global": 33.26,
+      "rate_group": 38.65
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "结城友奈是勇者-三好夏凛",
+      "vote": 70,
+      "rate_global": 16.28,
+      "rate_group": 18.92
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "寒蝉鸣泣之时-北条沙都子",
+      "vote": 154,
+      "rate_global": 35.81,
+      "rate_group": 41.29
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "魔法纪录-七海八千代",
+      "vote": 144,
+      "rate_global": 33.49,
+      "rate_group": 38.61
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "刀使巫女-燕结芽",
+      "vote": 75,
+      "rate_global": 17.44,
+      "rate_group": 20.11
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "寒蝉鸣泣之时-古手梨花",
+      "vote": 180,
+      "rate_global": 41.86,
+      "rate_group": 49.86
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "天使降临我身边-星野日向",
+      "vote": 118,
+      "rate_global": 27.44,
+      "rate_group": 32.69
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "Love Live-园田海未",
+      "vote": 63,
+      "rate_global": 14.65,
+      "rate_group": 17.45
+    }
+  ]
 }

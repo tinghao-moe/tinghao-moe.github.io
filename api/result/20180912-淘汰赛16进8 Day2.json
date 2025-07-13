@@ -1,73 +1,73 @@
 {
-    "name": "淘汰赛16进8 Day2",
-    "time": "2018-09-12 23:00:00",
-    "voter": 408,
-    "last_time": "2018-09-12 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "魔卡少女樱-大道寺知世",
-            "vote": 196,
-            "rate_global": 48.04,
-            "rate_group": 61.25
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "刀使巫女-燕结芽",
-            "vote": 124,
-            "rate_global": 30.39,
-            "rate_group": 38.75
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "DARLING in the FRANXX-莓",
-            "vote": 174,
-            "rate_global": 42.65,
-            "rate_group": 51.18
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "结城友奈是勇者-乃木园子",
-            "vote": 166,
-            "rate_global": 40.69,
-            "rate_group": 48.82
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "少女歌剧-土豆",
-            "vote": 225,
-            "rate_global": 55.15,
-            "rate_group": 70.53
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "结城友奈是勇者-三之轮银",
-            "vote": 94,
-            "rate_global": 23.04,
-            "rate_group": 29.47
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "魔法少女小圆-美树沙耶香",
-            "vote": 172,
-            "rate_global": 42.16,
-            "rate_group": 50.0
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "向山进发-仓上日向",
-            "vote": 172,
-            "rate_global": 42.16,
-            "rate_group": 50.0
-        }
-    ]
+  "name": "淘汰赛16进8 Day2",
+  "time": "2018-09-12 23:00:00",
+  "voter": 408,
+  "last_time": "2018-09-12 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "魔卡少女樱-大道寺知世",
+      "vote": 196,
+      "rate_global": 48.04,
+      "rate_group": 61.25
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "刀使巫女-燕结芽",
+      "vote": 124,
+      "rate_global": 30.39,
+      "rate_group": 38.75
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "DARLING in the FRANXX-莓",
+      "vote": 174,
+      "rate_global": 42.65,
+      "rate_group": 51.18
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "结城友奈是勇者-乃木园子",
+      "vote": 166,
+      "rate_global": 40.69,
+      "rate_group": 48.82
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "少女歌剧-土豆",
+      "vote": 225,
+      "rate_global": 55.15,
+      "rate_group": 70.53
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "结城友奈是勇者-三之轮银",
+      "vote": 94,
+      "rate_global": 23.04,
+      "rate_group": 29.47
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "魔法少女小圆-美树沙耶香",
+      "vote": 172,
+      "rate_global": 42.16,
+      "rate_group": 50.0
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "向山进发-仓上日向",
+      "vote": 172,
+      "rate_global": 42.16,
+      "rate_group": 50.0
+    }
+  ]
 }

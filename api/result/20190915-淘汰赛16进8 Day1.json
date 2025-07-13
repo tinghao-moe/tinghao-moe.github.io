@@ -1,73 +1,73 @@
 {
-    "name": "淘汰赛16进8 Day1",
-    "time": "2019-09-15 23:00:00",
-    "voter": 348,
-    "last_time": "2019-09-15 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "来自风平浪静的明天-潮留美海",
-            "vote": 122,
-            "rate_global": 35.06,
-            "rate_group": 54.22
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "龙与虎-栉枝实乃梨",
-            "vote": 103,
-            "rate_global": 29.6,
-            "rate_group": 45.78
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "皿三昧-阵内燕太",
-            "vote": 155,
-            "rate_global": 44.54,
-            "rate_group": 52.72
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "邻家索菲-夏木日向",
-            "vote": 139,
-            "rate_global": 39.94,
-            "rate_group": 47.28
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "天使降临我身边-姬坂乃爱",
-            "vote": 175,
-            "rate_global": 50.29,
-            "rate_group": 57.95
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "DARLING in the FRANXX-莓",
-            "vote": 127,
-            "rate_global": 36.49,
-            "rate_group": 42.05
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "魔卡少女樱-大道寺知世",
-            "vote": 161,
-            "rate_global": 46.26,
-            "rate_group": 56.29
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "路人女主的养成方法-英梨梨",
-            "vote": 125,
-            "rate_global": 35.92,
-            "rate_group": 43.71
-        }
-    ]
+  "name": "淘汰赛16进8 Day1",
+  "time": "2019-09-15 23:00:00",
+  "voter": 348,
+  "last_time": "2019-09-15 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "来自风平浪静的明天-潮留美海",
+      "vote": 122,
+      "rate_global": 35.06,
+      "rate_group": 54.22
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "龙与虎-栉枝实乃梨",
+      "vote": 103,
+      "rate_global": 29.6,
+      "rate_group": 45.78
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "皿三昧-阵内燕太",
+      "vote": 155,
+      "rate_global": 44.54,
+      "rate_group": 52.72
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "邻家索菲-夏木日向",
+      "vote": 139,
+      "rate_global": 39.94,
+      "rate_group": 47.28
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "天使降临我身边-姬坂乃爱",
+      "vote": 175,
+      "rate_global": 50.29,
+      "rate_group": 57.95
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "DARLING in the FRANXX-莓",
+      "vote": 127,
+      "rate_global": 36.49,
+      "rate_group": 42.05
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "魔卡少女樱-大道寺知世",
+      "vote": 161,
+      "rate_global": 46.26,
+      "rate_group": 56.29
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "路人女主的养成方法-英梨梨",
+      "vote": 125,
+      "rate_global": 35.92,
+      "rate_group": 43.71
+    }
+  ]
 }

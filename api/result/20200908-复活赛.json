@@ -1,201 +1,201 @@
 {
-    "name": "复活赛",
-    "time": "2020-09-08 23:00:00",
-    "voter": 168,
-    "last_time": "2020-09-08 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "魔法少女小圆-巴麻美",
-            "vote": 54,
-            "rate_global": 32.14,
-            "rate_group": 6.64
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "邻家索菲-夏木日向",
-            "vote": 51,
-            "rate_global": 30.36,
-            "rate_group": 6.27
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "结城友奈是勇者-三好夏凛",
-            "vote": 50,
-            "rate_global": 29.76,
-            "rate_group": 6.15
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "玉子市场-常盘绿",
-            "vote": 48,
-            "rate_global": 28.57,
-            "rate_group": 5.9
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "满月之战-安娜·胡戈",
-            "vote": 47,
-            "rate_global": 27.98,
-            "rate_group": 5.78
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "22/7-斋藤妮可露",
-            "vote": 41,
-            "rate_global": 24.4,
-            "rate_group": 5.04
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "皿三昧-阵内燕太",
-            "vote": 41,
-            "rate_global": 24.4,
-            "rate_group": 5.04
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "魔法纪录-二叶莎奈",
-            "vote": 41,
-            "rate_global": 24.4,
-            "rate_group": 5.04
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "Rewrite-神户小鸟",
-            "vote": 41,
-            "rate_global": 24.4,
-            "rate_group": 5.04
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "龙与虎-川岛亚美",
-            "vote": 40,
-            "rate_global": 23.81,
-            "rate_group": 4.92
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "吹响！上低音号-铠冢霙",
-            "vote": 37,
-            "rate_global": 22.02,
-            "rate_group": 4.55
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "恋爱小行星-铃矢芽",
-            "vote": 37,
-            "rate_global": 22.02,
-            "rate_group": 4.55
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "吹响！上低音号-塚本秀一",
-            "vote": 33,
-            "rate_global": 19.64,
-            "rate_group": 4.06
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "BanG Dream!-丸山彩",
-            "vote": 32,
-            "rate_global": 19.05,
-            "rate_group": 3.94
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "伪恋-橘万里花",
-            "vote": 32,
-            "rate_global": 19.05,
-            "rate_group": 3.94
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "某科学的超电磁炮-芙兰达",
-            "vote": 29,
-            "rate_global": 17.26,
-            "rate_group": 3.57
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "满月之战-袴田水晶",
-            "vote": 23,
-            "rate_global": 13.69,
-            "rate_group": 2.83
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "拥抱！光之美少女-药师寺纱绫",
-            "vote": 23,
-            "rate_global": 13.69,
-            "rate_group": 2.83
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "CLANNAD-一之濑琴美",
-            "vote": 22,
-            "rate_global": 13.1,
-            "rate_group": 2.71
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "黄金拼图-爱丽丝.卡塔雷特",
-            "vote": 20,
-            "rate_global": 11.9,
-            "rate_group": 2.46
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "街角魔族-吉田优子",
-            "vote": 20,
-            "rate_global": 11.9,
-            "rate_group": 2.46
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "宝石幻想光芒重现-缇亚拉",
-            "vote": 19,
-            "rate_global": 11.31,
-            "rate_group": 2.34
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "租借女友-更科瑠夏",
-            "vote": 17,
-            "rate_global": 10.12,
-            "rate_group": 2.09
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "某科学的超电磁炮-佐天泪子",
-            "vote": 15,
-            "rate_global": 8.93,
-            "rate_group": 1.85
-        }
-    ]
+  "name": "复活赛",
+  "time": "2020-09-08 23:00:00",
+  "voter": 168,
+  "last_time": "2020-09-08 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "魔法少女小圆-巴麻美",
+      "vote": 54,
+      "rate_global": 32.14,
+      "rate_group": 6.64
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "邻家索菲-夏木日向",
+      "vote": 51,
+      "rate_global": 30.36,
+      "rate_group": 6.27
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "结城友奈是勇者-三好夏凛",
+      "vote": 50,
+      "rate_global": 29.76,
+      "rate_group": 6.15
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "玉子市场-常盘绿",
+      "vote": 48,
+      "rate_global": 28.57,
+      "rate_group": 5.9
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "满月之战-安娜·胡戈",
+      "vote": 47,
+      "rate_global": 27.98,
+      "rate_group": 5.78
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "22/7-斋藤妮可露",
+      "vote": 41,
+      "rate_global": 24.4,
+      "rate_group": 5.04
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "皿三昧-阵内燕太",
+      "vote": 41,
+      "rate_global": 24.4,
+      "rate_group": 5.04
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "魔法纪录-二叶莎奈",
+      "vote": 41,
+      "rate_global": 24.4,
+      "rate_group": 5.04
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "Rewrite-神户小鸟",
+      "vote": 41,
+      "rate_global": 24.4,
+      "rate_group": 5.04
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "龙与虎-川岛亚美",
+      "vote": 40,
+      "rate_global": 23.81,
+      "rate_group": 4.92
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "吹响！上低音号-铠冢霙",
+      "vote": 37,
+      "rate_global": 22.02,
+      "rate_group": 4.55
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "恋爱小行星-铃矢芽",
+      "vote": 37,
+      "rate_global": 22.02,
+      "rate_group": 4.55
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "吹响！上低音号-塚本秀一",
+      "vote": 33,
+      "rate_global": 19.64,
+      "rate_group": 4.06
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "BanG Dream!-丸山彩",
+      "vote": 32,
+      "rate_global": 19.05,
+      "rate_group": 3.94
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "伪恋-橘万里花",
+      "vote": 32,
+      "rate_global": 19.05,
+      "rate_group": 3.94
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "某科学的超电磁炮-芙兰达",
+      "vote": 29,
+      "rate_global": 17.26,
+      "rate_group": 3.57
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "满月之战-袴田水晶",
+      "vote": 23,
+      "rate_global": 13.69,
+      "rate_group": 2.83
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "拥抱！光之美少女-药师寺纱绫",
+      "vote": 23,
+      "rate_global": 13.69,
+      "rate_group": 2.83
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "CLANNAD-一之濑琴美",
+      "vote": 22,
+      "rate_global": 13.1,
+      "rate_group": 2.71
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "黄金拼图-爱丽丝.卡塔雷特",
+      "vote": 20,
+      "rate_global": 11.9,
+      "rate_group": 2.46
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "街角魔族-吉田优子",
+      "vote": 20,
+      "rate_global": 11.9,
+      "rate_group": 2.46
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "宝石幻想光芒重现-缇亚拉",
+      "vote": 19,
+      "rate_global": 11.31,
+      "rate_group": 2.34
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "租借女友-更科瑠夏",
+      "vote": 17,
+      "rate_global": 10.12,
+      "rate_group": 2.09
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "某科学的超电磁炮-佐天泪子",
+      "vote": 15,
+      "rate_global": 8.93,
+      "rate_group": 1.85
+    }
+  ]
 }

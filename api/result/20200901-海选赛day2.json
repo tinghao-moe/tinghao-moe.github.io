@@ -1,337 +1,337 @@
 {
-    "name": "海选赛day2",
-    "time": "2020-09-01 23:00:00",
-    "voter": 193,
-    "last_time": "2020-09-01 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "DARLING in the FRANXX-莓",
-            "vote": 98,
-            "rate_global": 50.78,
-            "rate_group": 10.99
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "某科学的超电磁炮-白井黑子",
-            "vote": 85,
-            "rate_global": 44.04,
-            "rate_group": 9.53
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "伪恋-小野寺小咲",
-            "vote": 74,
-            "rate_global": 38.34,
-            "rate_group": 8.3
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "我的妹妹是黄漫老师-山田妖精",
-            "vote": 70,
-            "rate_global": 36.27,
-            "rate_group": 7.85
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "惊爆草莓-凉水玉青",
-            "vote": 62,
-            "rate_global": 32.12,
-            "rate_group": 6.95
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "22/7-斋藤妮可露",
-            "vote": 60,
-            "rate_global": 31.09,
-            "rate_group": 6.73
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "恋爱小行星-铃矢芽",
-            "vote": 57,
-            "rate_global": 29.53,
-            "rate_group": 6.39
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "Rewrite-神户小鸟",
-            "vote": 55,
-            "rate_global": 28.5,
-            "rate_group": 6.17
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "魔法纪录-黑江",
-            "vote": 52,
-            "rate_global": 26.94,
-            "rate_group": 5.83
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "宝石幻想光芒重现-洛赛塔",
-            "vote": 33,
-            "rate_global": 17.1,
-            "rate_group": 3.7
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "邪神与厨二病少女-邪神酱",
-            "vote": 27,
-            "rate_global": 13.99,
-            "rate_group": 3.03
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "CLANNAD-伊吹风子",
-            "vote": 22,
-            "rate_global": 11.4,
-            "rate_group": 2.47
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "花舞少女-笹目夜弥",
-            "vote": 22,
-            "rate_global": 11.4,
-            "rate_group": 2.47
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "街角魔族-莉子",
-            "vote": 19,
-            "rate_global": 9.84,
-            "rate_group": 2.13
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "BanG Dream!-上原绯玛丽",
-            "vote": 18,
-            "rate_global": 9.33,
-            "rate_group": 2.02
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "轻音少女-平泽唯",
-            "vote": 18,
-            "rate_global": 9.33,
-            "rate_group": 2.02
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "异度侵入-本堂町小春",
-            "vote": 12,
-            "rate_global": 6.22,
-            "rate_group": 1.35
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "花开伊吕波-松前绪花",
-            "vote": 9,
-            "rate_global": 4.66,
-            "rate_group": 1.01
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "Little Busters!-枣铃",
-            "vote": 8,
-            "rate_global": 4.15,
-            "rate_group": 0.9
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "碧蓝航线-独角兽",
-            "vote": 8,
-            "rate_global": 4.15,
-            "rate_group": 0.9
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "Little Busters!-西园美鱼",
-            "vote": 7,
-            "rate_global": 3.63,
-            "rate_group": 0.78
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "WIXOSS-植村一衣",
-            "vote": 7,
-            "rate_global": 3.63,
-            "rate_group": 0.78
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "向阳素描-乃莉",
-            "vote": 7,
-            "rate_global": 3.63,
-            "rate_group": 0.78
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "向阳素描-小荠",
-            "vote": 7,
-            "rate_global": 3.63,
-            "rate_group": 0.78
-        },
-        {
-            "group": 1,
-            "rank": 25,
-            "name": "BanG Dream!-二叶筑紫",
-            "vote": 6,
-            "rate_global": 3.11,
-            "rate_group": 0.67
-        },
-        {
-            "group": 1,
-            "rank": 26,
-            "name": "宝石幻想光芒重现-香蓓",
-            "vote": 6,
-            "rate_global": 3.11,
-            "rate_group": 0.67
-        },
-        {
-            "group": 1,
-            "rank": 27,
-            "name": "洲崎西-洲崎绫",
-            "vote": 5,
-            "rate_global": 2.59,
-            "rate_group": 0.56
-        },
-        {
-            "group": 1,
-            "rank": 28,
-            "name": "Slow Start-高桥奈奈惠",
-            "vote": 4,
-            "rate_global": 2.07,
-            "rate_group": 0.45
-        },
-        {
-            "group": 1,
-            "rank": 29,
-            "name": "大图书馆的牧羊人-铃木佳奈",
-            "vote": 4,
-            "rate_global": 2.07,
-            "rate_group": 0.45
-        },
-        {
-            "group": 1,
-            "rank": 30,
-            "name": "放学后海堤日记-小谷沙耶香",
-            "vote": 4,
-            "rate_global": 2.07,
-            "rate_group": 0.45
-        },
-        {
-            "group": 1,
-            "rank": 31,
-            "name": "花开伊吕波-押水菜子",
-            "vote": 4,
-            "rate_global": 2.07,
-            "rate_group": 0.45
-        },
-        {
-            "group": 1,
-            "rank": 32,
-            "name": "龙与虎-高须泰子",
-            "vote": 4,
-            "rate_global": 2.07,
-            "rate_group": 0.45
-        },
-        {
-            "group": 1,
-            "rank": 33,
-            "name": "星合之空-桂木真己",
-            "vote": 4,
-            "rate_global": 2.07,
-            "rate_group": 0.45
-        },
-        {
-            "group": 1,
-            "rank": 34,
-            "name": "宝石幻想光芒重现-可可",
-            "vote": 3,
-            "rate_global": 1.55,
-            "rate_group": 0.34
-        },
-        {
-            "group": 1,
-            "rank": 35,
-            "name": "BLACKFOX-米亚",
-            "vote": 2,
-            "rate_global": 1.04,
-            "rate_group": 0.22
-        },
-        {
-            "group": 1,
-            "rank": 36,
-            "name": "半兽人的烦恼-君原姬乃",
-            "vote": 2,
-            "rate_global": 1.04,
-            "rate_group": 0.22
-        },
-        {
-            "group": 1,
-            "rank": 37,
-            "name": "加奈日记-中町加奈",
-            "vote": 2,
-            "rate_global": 1.04,
-            "rate_group": 0.22
-        },
-        {
-            "group": 1,
-            "rank": 38,
-            "name": "君主埃尔梅罗二世事件簿-伊薇特·L·雷曼",
-            "vote": 2,
-            "rate_global": 1.04,
-            "rate_group": 0.22
-        },
-        {
-            "group": 1,
-            "rank": 39,
-            "name": "Little Busters!-宫泽谦吾",
-            "vote": 1,
-            "rate_global": 0.52,
-            "rate_group": 0.11
-        },
-        {
-            "group": 1,
-            "rank": 40,
-            "name": "迦南-卡敏柯斯",
-            "vote": 1,
-            "rate_global": 0.52,
-            "rate_group": 0.11
-        },
-        {
-            "group": 1,
-            "rank": 41,
-            "name": "我们的七日战争-山咲香织",
-            "vote": 1,
-            "rate_global": 0.52,
-            "rate_group": 0.11
-        }
-    ]
+  "name": "海选赛day2",
+  "time": "2020-09-01 23:00:00",
+  "voter": 193,
+  "last_time": "2020-09-01 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "DARLING in the FRANXX-莓",
+      "vote": 98,
+      "rate_global": 50.78,
+      "rate_group": 10.99
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "某科学的超电磁炮-白井黑子",
+      "vote": 85,
+      "rate_global": 44.04,
+      "rate_group": 9.53
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "伪恋-小野寺小咲",
+      "vote": 74,
+      "rate_global": 38.34,
+      "rate_group": 8.3
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "我的妹妹是黄漫老师-山田妖精",
+      "vote": 70,
+      "rate_global": 36.27,
+      "rate_group": 7.85
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "惊爆草莓-凉水玉青",
+      "vote": 62,
+      "rate_global": 32.12,
+      "rate_group": 6.95
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "22/7-斋藤妮可露",
+      "vote": 60,
+      "rate_global": 31.09,
+      "rate_group": 6.73
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "恋爱小行星-铃矢芽",
+      "vote": 57,
+      "rate_global": 29.53,
+      "rate_group": 6.39
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "Rewrite-神户小鸟",
+      "vote": 55,
+      "rate_global": 28.5,
+      "rate_group": 6.17
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "魔法纪录-黑江",
+      "vote": 52,
+      "rate_global": 26.94,
+      "rate_group": 5.83
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "宝石幻想光芒重现-洛赛塔",
+      "vote": 33,
+      "rate_global": 17.1,
+      "rate_group": 3.7
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "邪神与厨二病少女-邪神酱",
+      "vote": 27,
+      "rate_global": 13.99,
+      "rate_group": 3.03
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "CLANNAD-伊吹风子",
+      "vote": 22,
+      "rate_global": 11.4,
+      "rate_group": 2.47
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "花舞少女-笹目夜弥",
+      "vote": 22,
+      "rate_global": 11.4,
+      "rate_group": 2.47
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "街角魔族-莉子",
+      "vote": 19,
+      "rate_global": 9.84,
+      "rate_group": 2.13
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "BanG Dream!-上原绯玛丽",
+      "vote": 18,
+      "rate_global": 9.33,
+      "rate_group": 2.02
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "轻音少女-平泽唯",
+      "vote": 18,
+      "rate_global": 9.33,
+      "rate_group": 2.02
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "异度侵入-本堂町小春",
+      "vote": 12,
+      "rate_global": 6.22,
+      "rate_group": 1.35
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "花开伊吕波-松前绪花",
+      "vote": 9,
+      "rate_global": 4.66,
+      "rate_group": 1.01
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "Little Busters!-枣铃",
+      "vote": 8,
+      "rate_global": 4.15,
+      "rate_group": 0.9
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "碧蓝航线-独角兽",
+      "vote": 8,
+      "rate_global": 4.15,
+      "rate_group": 0.9
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "Little Busters!-西园美鱼",
+      "vote": 7,
+      "rate_global": 3.63,
+      "rate_group": 0.78
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "WIXOSS-植村一衣",
+      "vote": 7,
+      "rate_global": 3.63,
+      "rate_group": 0.78
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "向阳素描-乃莉",
+      "vote": 7,
+      "rate_global": 3.63,
+      "rate_group": 0.78
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "向阳素描-小荠",
+      "vote": 7,
+      "rate_global": 3.63,
+      "rate_group": 0.78
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "BanG Dream!-二叶筑紫",
+      "vote": 6,
+      "rate_global": 3.11,
+      "rate_group": 0.67
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "宝石幻想光芒重现-香蓓",
+      "vote": 6,
+      "rate_global": 3.11,
+      "rate_group": 0.67
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "洲崎西-洲崎绫",
+      "vote": 5,
+      "rate_global": 2.59,
+      "rate_group": 0.56
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "Slow Start-高桥奈奈惠",
+      "vote": 4,
+      "rate_global": 2.07,
+      "rate_group": 0.45
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "大图书馆的牧羊人-铃木佳奈",
+      "vote": 4,
+      "rate_global": 2.07,
+      "rate_group": 0.45
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "放学后海堤日记-小谷沙耶香",
+      "vote": 4,
+      "rate_global": 2.07,
+      "rate_group": 0.45
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "花开伊吕波-押水菜子",
+      "vote": 4,
+      "rate_global": 2.07,
+      "rate_group": 0.45
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "龙与虎-高须泰子",
+      "vote": 4,
+      "rate_global": 2.07,
+      "rate_group": 0.45
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "星合之空-桂木真己",
+      "vote": 4,
+      "rate_global": 2.07,
+      "rate_group": 0.45
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "宝石幻想光芒重现-可可",
+      "vote": 3,
+      "rate_global": 1.55,
+      "rate_group": 0.34
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "BLACKFOX-米亚",
+      "vote": 2,
+      "rate_global": 1.04,
+      "rate_group": 0.22
+    },
+    {
+      "group": 1,
+      "rank": 36,
+      "name": "半兽人的烦恼-君原姬乃",
+      "vote": 2,
+      "rate_global": 1.04,
+      "rate_group": 0.22
+    },
+    {
+      "group": 1,
+      "rank": 37,
+      "name": "加奈日记-中町加奈",
+      "vote": 2,
+      "rate_global": 1.04,
+      "rate_group": 0.22
+    },
+    {
+      "group": 1,
+      "rank": 38,
+      "name": "君主埃尔梅罗二世事件簿-伊薇特·L·雷曼",
+      "vote": 2,
+      "rate_global": 1.04,
+      "rate_group": 0.22
+    },
+    {
+      "group": 1,
+      "rank": 39,
+      "name": "Little Busters!-宫泽谦吾",
+      "vote": 1,
+      "rate_global": 0.52,
+      "rate_group": 0.11
+    },
+    {
+      "group": 1,
+      "rank": 40,
+      "name": "迦南-卡敏柯斯",
+      "vote": 1,
+      "rate_global": 0.52,
+      "rate_group": 0.11
+    },
+    {
+      "group": 1,
+      "rank": 41,
+      "name": "我们的七日战争-山咲香织",
+      "vote": 1,
+      "rate_global": 0.52,
+      "rate_group": 0.11
+    }
+  ]
 }

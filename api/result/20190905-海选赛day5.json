@@ -1,289 +1,289 @@
 {
-    "name": "海选赛day5",
-    "time": "2019-09-05 23:00:00",
-    "voter": 212,
-    "last_time": "2019-09-05 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "结城友奈是勇者-乃木园子",
-            "vote": 103,
-            "rate_global": 48.58,
-            "rate_group": 9.47
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "刀使巫女-柳濑舞衣",
-            "vote": 103,
-            "rate_global": 48.58,
-            "rate_group": 9.47
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "我的妹妹不可能这么可爱-五更琉璃（黑猫）",
-            "vote": 97,
-            "rate_global": 45.75,
-            "rate_group": 8.92
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "结城友奈是勇者-三好夏凛",
-            "vote": 96,
-            "rate_global": 45.28,
-            "rate_group": 8.82
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "满月之战-小日向满月",
-            "vote": 82,
-            "rate_global": 38.68,
-            "rate_group": 7.54
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "命运石之门-椎名真由理",
-            "vote": 76,
-            "rate_global": 35.85,
-            "rate_group": 6.99
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "结城友奈是勇者-三之轮银",
-            "vote": 75,
-            "rate_global": 35.38,
-            "rate_group": 6.89
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "我的妹妹不可能那么可爱-新垣绫懒",
-            "vote": 70,
-            "rate_global": 33.02,
-            "rate_group": 6.43
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "SSSS.GRIDMAN-新条茜",
-            "vote": 69,
-            "rate_global": 32.55,
-            "rate_group": 6.34
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "SSSS.GRIDMAN-宝多六花",
-            "vote": 61,
-            "rate_global": 28.77,
-            "rate_group": 5.61
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "白箱-宫森葵",
-            "vote": 42,
-            "rate_global": 19.81,
-            "rate_group": 3.86
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "一个人的OO小日子-苏特卡·拉吉特",
-            "vote": 41,
-            "rate_global": 19.34,
-            "rate_group": 3.77
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "赛马娘-无声铃鹿",
-            "vote": 34,
-            "rate_global": 16.04,
-            "rate_group": 3.12
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "皿三昧-矢逆一稀",
-            "vote": 31,
-            "rate_global": 14.62,
-            "rate_group": 2.85
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "家有女友-橘阳菜",
-            "vote": 16,
-            "rate_global": 7.55,
-            "rate_group": 1.47
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "天元突破红莲螺岩-优子",
-            "vote": 12,
-            "rate_global": 5.66,
-            "rate_group": 1.1
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "强袭魔女-米娜",
-            "vote": 9,
-            "rate_global": 4.25,
-            "rate_group": 0.83
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "来自多彩世界的明天-山吹将",
-            "vote": 8,
-            "rate_global": 3.77,
-            "rate_group": 0.74
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "Infinite Stratos-塞西莉娅",
-            "vote": 7,
-            "rate_global": 3.3,
-            "rate_group": 0.64
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "哥布林杀手-妖精弓手",
-            "vote": 7,
-            "rate_global": 3.3,
-            "rate_group": 0.64
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "Candy Boy-樱井奏",
-            "vote": 6,
-            "rate_global": 2.83,
-            "rate_group": 0.55
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "魔术学姐-学姐",
-            "vote": 6,
-            "rate_global": 2.83,
-            "rate_group": 0.55
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "流汗吧！健身少女-街雄鸣造",
-            "vote": 5,
-            "rate_global": 2.36,
-            "rate_group": 0.46
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "盾之勇者成名录-拉芙塔莉雅",
-            "vote": 5,
-            "rate_global": 2.36,
-            "rate_group": 0.46
-        },
-        {
-            "group": 1,
-            "rank": 25,
-            "name": "赛马娘-大和赤骥",
-            "vote": 4,
-            "rate_global": 1.89,
-            "rate_group": 0.37
-        },
-        {
-            "group": 1,
-            "rank": 26,
-            "name": "家有女友-柏原桃",
-            "vote": 4,
-            "rate_global": 1.89,
-            "rate_group": 0.37
-        },
-        {
-            "group": 1,
-            "rank": 27,
-            "name": "弦音-花泽优奈",
-            "vote": 4,
-            "rate_global": 1.89,
-            "rate_group": 0.37
-        },
-        {
-            "group": 1,
-            "rank": 28,
-            "name": "YU-NO-一条美月",
-            "vote": 3,
-            "rate_global": 1.42,
-            "rate_group": 0.28
-        },
-        {
-            "group": 1,
-            "rank": 29,
-            "name": "来自多彩世界的明天-川合胡桃",
-            "vote": 3,
-            "rate_global": 1.42,
-            "rate_group": 0.28
-        },
-        {
-            "group": 1,
-            "rank": 30,
-            "name": "叛逆性百万亚瑟王-山猫",
-            "vote": 2,
-            "rate_global": 0.94,
-            "rate_group": 0.18
-        },
-        {
-            "group": 1,
-            "rank": 31,
-            "name": "重来吧，魔王大人-亚克",
-            "vote": 2,
-            "rate_global": 0.94,
-            "rate_group": 0.18
-        },
-        {
-            "group": 1,
-            "rank": 32,
-            "name": "异世界超能魔术师-卡西姆",
-            "vote": 2,
-            "rate_global": 0.94,
-            "rate_group": 0.18
-        },
-        {
-            "group": 1,
-            "rank": 33,
-            "name": "水果篮子-草摩紫吴",
-            "vote": 1,
-            "rate_global": 0.47,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 34,
-            "name": "为什么老师会在这里-松风真由",
-            "vote": 1,
-            "rate_global": 0.47,
-            "rate_group": 0.09
-        },
-        {
-            "group": 1,
-            "rank": 35,
-            "name": "3D女友-绫户纯惠",
-            "vote": 1,
-            "rate_global": 0.47,
-            "rate_group": 0.09
-        }
-    ]
+  "name": "海选赛day5",
+  "time": "2019-09-05 23:00:00",
+  "voter": 212,
+  "last_time": "2019-09-05 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "结城友奈是勇者-乃木园子",
+      "vote": 103,
+      "rate_global": 48.58,
+      "rate_group": 9.47
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "刀使巫女-柳濑舞衣",
+      "vote": 103,
+      "rate_global": 48.58,
+      "rate_group": 9.47
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "我的妹妹不可能这么可爱-五更琉璃（黑猫）",
+      "vote": 97,
+      "rate_global": 45.75,
+      "rate_group": 8.92
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "结城友奈是勇者-三好夏凛",
+      "vote": 96,
+      "rate_global": 45.28,
+      "rate_group": 8.82
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "满月之战-小日向满月",
+      "vote": 82,
+      "rate_global": 38.68,
+      "rate_group": 7.54
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "命运石之门-椎名真由理",
+      "vote": 76,
+      "rate_global": 35.85,
+      "rate_group": 6.99
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "结城友奈是勇者-三之轮银",
+      "vote": 75,
+      "rate_global": 35.38,
+      "rate_group": 6.89
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "我的妹妹不可能那么可爱-新垣绫懒",
+      "vote": 70,
+      "rate_global": 33.02,
+      "rate_group": 6.43
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "SSSS.GRIDMAN-新条茜",
+      "vote": 69,
+      "rate_global": 32.55,
+      "rate_group": 6.34
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "SSSS.GRIDMAN-宝多六花",
+      "vote": 61,
+      "rate_global": 28.77,
+      "rate_group": 5.61
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "白箱-宫森葵",
+      "vote": 42,
+      "rate_global": 19.81,
+      "rate_group": 3.86
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "一个人的OO小日子-苏特卡·拉吉特",
+      "vote": 41,
+      "rate_global": 19.34,
+      "rate_group": 3.77
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "赛马娘-无声铃鹿",
+      "vote": 34,
+      "rate_global": 16.04,
+      "rate_group": 3.12
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "皿三昧-矢逆一稀",
+      "vote": 31,
+      "rate_global": 14.62,
+      "rate_group": 2.85
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "家有女友-橘阳菜",
+      "vote": 16,
+      "rate_global": 7.55,
+      "rate_group": 1.47
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "天元突破红莲螺岩-优子",
+      "vote": 12,
+      "rate_global": 5.66,
+      "rate_group": 1.1
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "强袭魔女-米娜",
+      "vote": 9,
+      "rate_global": 4.25,
+      "rate_group": 0.83
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "来自多彩世界的明天-山吹将",
+      "vote": 8,
+      "rate_global": 3.77,
+      "rate_group": 0.74
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "Infinite Stratos-塞西莉娅",
+      "vote": 7,
+      "rate_global": 3.3,
+      "rate_group": 0.64
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "哥布林杀手-妖精弓手",
+      "vote": 7,
+      "rate_global": 3.3,
+      "rate_group": 0.64
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "Candy Boy-樱井奏",
+      "vote": 6,
+      "rate_global": 2.83,
+      "rate_group": 0.55
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "魔术学姐-学姐",
+      "vote": 6,
+      "rate_global": 2.83,
+      "rate_group": 0.55
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "流汗吧！健身少女-街雄鸣造",
+      "vote": 5,
+      "rate_global": 2.36,
+      "rate_group": 0.46
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "盾之勇者成名录-拉芙塔莉雅",
+      "vote": 5,
+      "rate_global": 2.36,
+      "rate_group": 0.46
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "赛马娘-大和赤骥",
+      "vote": 4,
+      "rate_global": 1.89,
+      "rate_group": 0.37
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "家有女友-柏原桃",
+      "vote": 4,
+      "rate_global": 1.89,
+      "rate_group": 0.37
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "弦音-花泽优奈",
+      "vote": 4,
+      "rate_global": 1.89,
+      "rate_group": 0.37
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "YU-NO-一条美月",
+      "vote": 3,
+      "rate_global": 1.42,
+      "rate_group": 0.28
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "来自多彩世界的明天-川合胡桃",
+      "vote": 3,
+      "rate_global": 1.42,
+      "rate_group": 0.28
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "叛逆性百万亚瑟王-山猫",
+      "vote": 2,
+      "rate_global": 0.94,
+      "rate_group": 0.18
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "重来吧，魔王大人-亚克",
+      "vote": 2,
+      "rate_global": 0.94,
+      "rate_group": 0.18
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "异世界超能魔术师-卡西姆",
+      "vote": 2,
+      "rate_global": 0.94,
+      "rate_group": 0.18
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "水果篮子-草摩紫吴",
+      "vote": 1,
+      "rate_global": 0.47,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "为什么老师会在这里-松风真由",
+      "vote": 1,
+      "rate_global": 0.47,
+      "rate_group": 0.09
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "3D女友-绫户纯惠",
+      "vote": 1,
+      "rate_global": 0.47,
+      "rate_group": 0.09
+    }
+  ]
 }

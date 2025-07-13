@@ -1,105 +1,105 @@
 {
-    "name": "淘汰赛48进16 Day4",
-    "time": "2019-09-14 23:00:00",
-    "voter": 267,
-    "last_time": "2019-09-14 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "天使降临我身边-星野日向",
-            "vote": 118,
-            "rate_global": 44.19,
-            "rate_group": 55.14
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "宝石之国-钻石",
-            "vote": 50,
-            "rate_global": 18.73,
-            "rate_group": 23.36
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "摇曳百合-赤座灯里",
-            "vote": 46,
-            "rate_global": 17.23,
-            "rate_group": 21.5
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "我的青春恋爱物语果然有问题-由比滨结衣",
-            "vote": 84,
-            "rate_global": 31.46,
-            "rate_group": 40.98
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "吹响！上低音号-铠冢霙",
-            "vote": 61,
-            "rate_global": 22.85,
-            "rate_group": 29.76
-        },
-        {
-            "group": 2,
-            "rank": 3,
-            "name": "命运石之门-椎名真由理",
-            "vote": 60,
-            "rate_global": 22.47,
-            "rate_group": 29.27
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "白色相簿2-小木曾雪菜",
-            "vote": 64,
-            "rate_global": 23.97,
-            "rate_group": 35.36
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "伪恋-小野寺小咲",
-            "vote": 64,
-            "rate_global": 23.97,
-            "rate_group": 35.36
-        },
-        {
-            "group": 3,
-            "rank": 3,
-            "name": "CLANNAD-藤林杏",
-            "vote": 53,
-            "rate_global": 19.85,
-            "rate_group": 29.28
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "终将成为你-佐伯沙弥香",
-            "vote": 193,
-            "rate_global": 72.28,
-            "rate_group": 77.82
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "结城友奈是勇者-三好夏凛",
-            "vote": 29,
-            "rate_global": 10.86,
-            "rate_group": 11.69
-        },
-        {
-            "group": 4,
-            "rank": 3,
-            "name": "伪恋-橘万里花",
-            "vote": 26,
-            "rate_global": 9.74,
-            "rate_group": 10.48
-        }
-    ]
+  "name": "淘汰赛48进16 Day4",
+  "time": "2019-09-14 23:00:00",
+  "voter": 267,
+  "last_time": "2019-09-14 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "天使降临我身边-星野日向",
+      "vote": 118,
+      "rate_global": 44.19,
+      "rate_group": 55.14
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "宝石之国-钻石",
+      "vote": 50,
+      "rate_global": 18.73,
+      "rate_group": 23.36
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "摇曳百合-赤座灯里",
+      "vote": 46,
+      "rate_global": 17.23,
+      "rate_group": 21.5
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "我的青春恋爱物语果然有问题-由比滨结衣",
+      "vote": 84,
+      "rate_global": 31.46,
+      "rate_group": 40.98
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "吹响！上低音号-铠冢霙",
+      "vote": 61,
+      "rate_global": 22.85,
+      "rate_group": 29.76
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "命运石之门-椎名真由理",
+      "vote": 60,
+      "rate_global": 22.47,
+      "rate_group": 29.27
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "白色相簿2-小木曾雪菜",
+      "vote": 64,
+      "rate_global": 23.97,
+      "rate_group": 35.36
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "伪恋-小野寺小咲",
+      "vote": 64,
+      "rate_global": 23.97,
+      "rate_group": 35.36
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "CLANNAD-藤林杏",
+      "vote": 53,
+      "rate_global": 19.85,
+      "rate_group": 29.28
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "终将成为你-佐伯沙弥香",
+      "vote": 193,
+      "rate_global": 72.28,
+      "rate_group": 77.82
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "结城友奈是勇者-三好夏凛",
+      "vote": 29,
+      "rate_global": 10.86,
+      "rate_group": 11.69
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "伪恋-橘万里花",
+      "vote": 26,
+      "rate_global": 9.74,
+      "rate_group": 10.48
+    }
+  ]
 }

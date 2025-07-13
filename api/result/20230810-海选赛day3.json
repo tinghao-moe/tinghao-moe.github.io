@@ -1,473 +1,473 @@
 {
-    "name": "海选赛day3",
-    "time": "2023-08-10 23:00:00",
-    "voter": 881,
-    "last_time": "2023-08-10 22:58",
-    "last_floor": 1239,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "BanG Dream! It's MyGO!!!!!-长崎爽世",
-            "vote": 809,
-            "rate_global": 91.83,
-            "rate_group": 22.12
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "魔法少女小圆-巴麻美",
-            "vote": 351,
-            "rate_global": 39.84,
-            "rate_group": 9.6
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "结城友奈是勇者-高岛友奈",
-            "vote": 312,
-            "rate_global": 35.41,
-            "rate_group": 8.53
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "街角魔族-吉田优子",
-            "vote": 276,
-            "rate_global": 31.33,
-            "rate_group": 7.55
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "天使降临我身边-姬坂乃爱",
-            "vote": 252,
-            "rate_global": 28.6,
-            "rate_group": 6.89
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "广阔天空！光之美少女-虹之丘真白",
-            "vote": 206,
-            "rate_global": 23.38,
-            "rate_group": 5.63
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "World Dai Star-新妻八惠",
-            "vote": 182,
-            "rate_global": 20.66,
-            "rate_group": 4.98
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "广阔天空！光之美少女-索拉·哈雷瓦塔尔",
-            "vote": 149,
-            "rate_global": 16.91,
-            "rate_group": 4.07
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "幻日的夜羽-夜羽",
-            "vote": 107,
-            "rate_global": 12.15,
-            "rate_group": 2.93
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "幻日的夜羽-梨子",
-            "vote": 100,
-            "rate_global": 11.35,
-            "rate_group": 2.73
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "BanG Dream!-月岛麻里奈",
-            "vote": 82,
-            "rate_global": 9.31,
-            "rate_group": 2.24
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "刃牙-范马勇次郎",
-            "vote": 80,
-            "rate_global": 9.08,
-            "rate_group": 2.19
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "偶像大师灰姑娘女孩U149-赤城米莉亚",
-            "vote": 73,
-            "rate_global": 8.29,
-            "rate_group": 2.0
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "邻家索菲-夏木日向",
-            "vote": 72,
-            "rate_global": 8.17,
-            "rate_group": 1.97
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "哆啦A梦-哆啦A梦",
-            "vote": 68,
-            "rate_global": 7.72,
-            "rate_group": 1.86
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "五等分的花嫁-中野二乃",
-            "vote": 67,
-            "rate_global": 7.6,
-            "rate_group": 1.83
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "幻日的夜羽-露比",
-            "vote": 64,
-            "rate_global": 7.26,
-            "rate_group": 1.75
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "World Dai Star-流石知冴",
-            "vote": 54,
-            "rate_global": 6.13,
-            "rate_group": 1.48
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "Fate strange Fake-埃尔梅洛二世",
-            "vote": 41,
-            "rate_global": 4.65,
-            "rate_group": 1.12
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "偶像大师 灰姑娘女孩-安部菜菜",
-            "vote": 31,
-            "rate_global": 3.52,
-            "rate_group": 0.85
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "海猫鸣泣之时-右代宫朱志香",
-            "vote": 28,
-            "rate_global": 3.18,
-            "rate_group": 0.77
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "惊爆草莓-月馆千代",
-            "vote": 26,
-            "rate_global": 2.95,
-            "rate_group": 0.71
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "四个人各自有着自己的秘密-关根",
-            "vote": 26,
-            "rate_global": 2.95,
-            "rate_group": 0.71
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "D4DJ-新岛衣舞纪",
-            "vote": 23,
-            "rate_global": 2.61,
-            "rate_group": 0.63
-        },
-        {
-            "group": 1,
-            "rank": 25,
-            "name": "为美好的世界献上爆焰！-沃尔巴克",
-            "vote": 16,
-            "rate_global": 1.82,
-            "rate_group": 0.44
-        },
-        {
-            "group": 1,
-            "rank": 26,
-            "name": "Smile光之美少女！-青木丽华",
-            "vote": 13,
-            "rate_global": 1.48,
-            "rate_group": 0.36
-        },
-        {
-            "group": 1,
-            "rank": 27,
-            "name": "Fate Grand Order-梅林",
-            "vote": 11,
-            "rate_global": 1.25,
-            "rate_group": 0.3
-        },
-        {
-            "group": 1,
-            "rank": 28,
-            "name": "妖幻三重奏-风卷祭里",
-            "vote": 10,
-            "rate_global": 1.14,
-            "rate_group": 0.27
-        },
-        {
-            "group": 1,
-            "rank": 29,
-            "name": "Fate Apocrypha-贞德",
-            "vote": 10,
-            "rate_global": 1.14,
-            "rate_group": 0.27
-        },
-        {
-            "group": 1,
-            "rank": 30,
-            "name": "我心里危险的东西-市川香菜",
-            "vote": 10,
-            "rate_global": 1.14,
-            "rate_group": 0.27
-        },
-        {
-            "group": 1,
-            "rank": 31,
-            "name": "夫妇以上，恋人未满-樱坂诗织",
-            "vote": 8,
-            "rate_global": 0.91,
-            "rate_group": 0.22
-        },
-        {
-            "group": 1,
-            "rank": 32,
-            "name": "雏逻辑-桐谷华恋",
-            "vote": 8,
-            "rate_global": 0.91,
-            "rate_group": 0.22
-        },
-        {
-            "group": 1,
-            "rank": 33,
-            "name": "忍者-日向雏田",
-            "vote": 8,
-            "rate_global": 0.91,
-            "rate_group": 0.22
-        },
-        {
-            "group": 1,
-            "rank": 34,
-            "name": "时光沙漏-小林由香利",
-            "vote": 8,
-            "rate_global": 0.91,
-            "rate_group": 0.22
-        },
-        {
-            "group": 1,
-            "rank": 35,
-            "name": "女神的露天咖啡厅-月岛流星",
-            "vote": 6,
-            "rate_global": 0.68,
-            "rate_group": 0.16
-        },
-        {
-            "group": 1,
-            "rank": 36,
-            "name": "Infinite Stratos-夏洛特·德诺阿",
-            "vote": 6,
-            "rate_global": 0.68,
-            "rate_group": 0.16
-        },
-        {
-            "group": 1,
-            "rank": 37,
-            "name": "奇异贤伴黑色天使-奏多",
-            "vote": 5,
-            "rate_global": 0.57,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 38,
-            "name": "庙不可言-米亚·克里斯托夫",
-            "vote": 5,
-            "rate_global": 0.57,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 39,
-            "name": "异世界悠闲农家-露露西·露",
-            "vote": 5,
-            "rate_global": 0.57,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 40,
-            "name": "公主连结Re Dive-支仓伊绪",
-            "vote": 5,
-            "rate_global": 0.57,
-            "rate_group": 0.14
-        },
-        {
-            "group": 1,
-            "rank": 41,
-            "name": "侦探已死-有坂·夏露·安德森",
-            "vote": 4,
-            "rate_global": 0.45,
-            "rate_group": 0.11
-        },
-        {
-            "group": 1,
-            "rank": 42,
-            "name": "女神的露天咖啡厅-凤凰寺红叶",
-            "vote": 4,
-            "rate_global": 0.45,
-            "rate_group": 0.11
-        },
-        {
-            "group": 1,
-            "rank": 43,
-            "name": "地错-贝尔·克朗尼",
-            "vote": 4,
-            "rate_global": 0.45,
-            "rate_group": 0.11
-        },
-        {
-            "group": 1,
-            "rank": 44,
-            "name": "满怀美梦的少年是现实主义者-四之宫凛",
-            "vote": 4,
-            "rate_global": 0.45,
-            "rate_group": 0.11
-        },
-        {
-            "group": 1,
-            "rank": 45,
-            "name": "玛纳莉亚的密友-米兰老师",
-            "vote": 3,
-            "rate_global": 0.34,
-            "rate_group": 0.08
-        },
-        {
-            "group": 1,
-            "rank": 46,
-            "name": "妖精的尾巴-露西·哈特菲利亚",
-            "vote": 3,
-            "rate_global": 0.34,
-            "rate_group": 0.08
-        },
-        {
-            "group": 1,
-            "rank": 47,
-            "name": "Extreme Hearts-小日向理濑",
-            "vote": 3,
-            "rate_global": 0.34,
-            "rate_group": 0.08
-        },
-        {
-            "group": 1,
-            "rank": 48,
-            "name": "银魂-近藤勋",
-            "vote": 3,
-            "rate_global": 0.34,
-            "rate_group": 0.08
-        },
-        {
-            "group": 1,
-            "rank": 49,
-            "name": "我推的孩子-吉祥寺赖子",
-            "vote": 3,
-            "rate_global": 0.34,
-            "rate_group": 0.08
-        },
-        {
-            "group": 1,
-            "rank": 50,
-            "name": "放学后失眠的你-野野三奈",
-            "vote": 2,
-            "rate_global": 0.23,
-            "rate_group": 0.05
-        },
-        {
-            "group": 1,
-            "rank": 51,
-            "name": "卡片战斗先导者will+Dress-大仓惠",
-            "vote": 2,
-            "rate_global": 0.23,
-            "rate_group": 0.05
-        },
-        {
-            "group": 1,
-            "rank": 52,
-            "name": "政宗君的复仇-真壁政宗",
-            "vote": 2,
-            "rate_global": 0.23,
-            "rate_group": 0.05
-        },
-        {
-            "group": 1,
-            "rank": 53,
-            "name": "最弱无败神装机龙-莉姿夏尔蒂·亚提司玛特",
-            "vote": 2,
-            "rate_global": 0.23,
-            "rate_group": 0.05
-        },
-        {
-            "group": 1,
-            "rank": 54,
-            "name": "忍者-千纲",
-            "vote": 1,
-            "rate_global": 0.11,
-            "rate_group": 0.03
-        },
-        {
-            "group": 1,
-            "rank": 55,
-            "name": "英雄教室-卡西姆",
-            "vote": 1,
-            "rate_global": 0.11,
-            "rate_group": 0.03
-        },
-        {
-            "group": 1,
-            "rank": 56,
-            "name": "至高之牌-米歇尔",
-            "vote": 1,
-            "rate_global": 0.11,
-            "rate_group": 0.03
-        },
-        {
-            "group": 1,
-            "rank": 57,
-            "name": "政宗君的复仇-双叶妙",
-            "vote": 1,
-            "rate_global": 0.11,
-            "rate_group": 0.03
-        },
-        {
-            "group": 1,
-            "rank": 58,
-            "name": "玛纳莉亚的密友-勒乌",
-            "vote": 1,
-            "rate_global": 0.11,
-            "rate_group": 0.03
-        }
-    ]
+  "name": "海选赛day3",
+  "time": "2023-08-10 23:00:00",
+  "voter": 881,
+  "last_time": "2023-08-10 22:58",
+  "last_floor": 1239,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-长崎爽世",
+      "vote": 809,
+      "rate_global": 91.83,
+      "rate_group": 22.12
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "魔法少女小圆-巴麻美",
+      "vote": 351,
+      "rate_global": 39.84,
+      "rate_group": 9.6
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "结城友奈是勇者-高岛友奈",
+      "vote": 312,
+      "rate_global": 35.41,
+      "rate_group": 8.53
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "街角魔族-吉田优子",
+      "vote": 276,
+      "rate_global": 31.33,
+      "rate_group": 7.55
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "天使降临我身边-姬坂乃爱",
+      "vote": 252,
+      "rate_global": 28.6,
+      "rate_group": 6.89
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "广阔天空！光之美少女-虹之丘真白",
+      "vote": 206,
+      "rate_global": 23.38,
+      "rate_group": 5.63
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "World Dai Star-新妻八惠",
+      "vote": 182,
+      "rate_global": 20.66,
+      "rate_group": 4.98
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "广阔天空！光之美少女-索拉·哈雷瓦塔尔",
+      "vote": 149,
+      "rate_global": 16.91,
+      "rate_group": 4.07
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "幻日的夜羽-夜羽",
+      "vote": 107,
+      "rate_global": 12.15,
+      "rate_group": 2.93
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "幻日的夜羽-梨子",
+      "vote": 100,
+      "rate_global": 11.35,
+      "rate_group": 2.73
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "BanG Dream!-月岛麻里奈",
+      "vote": 82,
+      "rate_global": 9.31,
+      "rate_group": 2.24
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "刃牙-范马勇次郎",
+      "vote": 80,
+      "rate_global": 9.08,
+      "rate_group": 2.19
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "偶像大师灰姑娘女孩U149-赤城米莉亚",
+      "vote": 73,
+      "rate_global": 8.29,
+      "rate_group": 2.0
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "邻家索菲-夏木日向",
+      "vote": 72,
+      "rate_global": 8.17,
+      "rate_group": 1.97
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "哆啦A梦-哆啦A梦",
+      "vote": 68,
+      "rate_global": 7.72,
+      "rate_group": 1.86
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "五等分的花嫁-中野二乃",
+      "vote": 67,
+      "rate_global": 7.6,
+      "rate_group": 1.83
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "幻日的夜羽-露比",
+      "vote": 64,
+      "rate_global": 7.26,
+      "rate_group": 1.75
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "World Dai Star-流石知冴",
+      "vote": 54,
+      "rate_global": 6.13,
+      "rate_group": 1.48
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "Fate strange Fake-埃尔梅洛二世",
+      "vote": 41,
+      "rate_global": 4.65,
+      "rate_group": 1.12
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "偶像大师 灰姑娘女孩-安部菜菜",
+      "vote": 31,
+      "rate_global": 3.52,
+      "rate_group": 0.85
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "海猫鸣泣之时-右代宫朱志香",
+      "vote": 28,
+      "rate_global": 3.18,
+      "rate_group": 0.77
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "惊爆草莓-月馆千代",
+      "vote": 26,
+      "rate_global": 2.95,
+      "rate_group": 0.71
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "四个人各自有着自己的秘密-关根",
+      "vote": 26,
+      "rate_global": 2.95,
+      "rate_group": 0.71
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "D4DJ-新岛衣舞纪",
+      "vote": 23,
+      "rate_global": 2.61,
+      "rate_group": 0.63
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "为美好的世界献上爆焰！-沃尔巴克",
+      "vote": 16,
+      "rate_global": 1.82,
+      "rate_group": 0.44
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "Smile光之美少女！-青木丽华",
+      "vote": 13,
+      "rate_global": 1.48,
+      "rate_group": 0.36
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "Fate Grand Order-梅林",
+      "vote": 11,
+      "rate_global": 1.25,
+      "rate_group": 0.3
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "妖幻三重奏-风卷祭里",
+      "vote": 10,
+      "rate_global": 1.14,
+      "rate_group": 0.27
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "Fate Apocrypha-贞德",
+      "vote": 10,
+      "rate_global": 1.14,
+      "rate_group": 0.27
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "我心里危险的东西-市川香菜",
+      "vote": 10,
+      "rate_global": 1.14,
+      "rate_group": 0.27
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "夫妇以上，恋人未满-樱坂诗织",
+      "vote": 8,
+      "rate_global": 0.91,
+      "rate_group": 0.22
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "雏逻辑-桐谷华恋",
+      "vote": 8,
+      "rate_global": 0.91,
+      "rate_group": 0.22
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "忍者-日向雏田",
+      "vote": 8,
+      "rate_global": 0.91,
+      "rate_group": 0.22
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "时光沙漏-小林由香利",
+      "vote": 8,
+      "rate_global": 0.91,
+      "rate_group": 0.22
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "女神的露天咖啡厅-月岛流星",
+      "vote": 6,
+      "rate_global": 0.68,
+      "rate_group": 0.16
+    },
+    {
+      "group": 1,
+      "rank": 36,
+      "name": "Infinite Stratos-夏洛特·德诺阿",
+      "vote": 6,
+      "rate_global": 0.68,
+      "rate_group": 0.16
+    },
+    {
+      "group": 1,
+      "rank": 37,
+      "name": "奇异贤伴黑色天使-奏多",
+      "vote": 5,
+      "rate_global": 0.57,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 38,
+      "name": "庙不可言-米亚·克里斯托夫",
+      "vote": 5,
+      "rate_global": 0.57,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 39,
+      "name": "异世界悠闲农家-露露西·露",
+      "vote": 5,
+      "rate_global": 0.57,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 40,
+      "name": "公主连结Re Dive-支仓伊绪",
+      "vote": 5,
+      "rate_global": 0.57,
+      "rate_group": 0.14
+    },
+    {
+      "group": 1,
+      "rank": 41,
+      "name": "侦探已死-有坂·夏露·安德森",
+      "vote": 4,
+      "rate_global": 0.45,
+      "rate_group": 0.11
+    },
+    {
+      "group": 1,
+      "rank": 42,
+      "name": "女神的露天咖啡厅-凤凰寺红叶",
+      "vote": 4,
+      "rate_global": 0.45,
+      "rate_group": 0.11
+    },
+    {
+      "group": 1,
+      "rank": 43,
+      "name": "地错-贝尔·克朗尼",
+      "vote": 4,
+      "rate_global": 0.45,
+      "rate_group": 0.11
+    },
+    {
+      "group": 1,
+      "rank": 44,
+      "name": "满怀美梦的少年是现实主义者-四之宫凛",
+      "vote": 4,
+      "rate_global": 0.45,
+      "rate_group": 0.11
+    },
+    {
+      "group": 1,
+      "rank": 45,
+      "name": "玛纳莉亚的密友-米兰老师",
+      "vote": 3,
+      "rate_global": 0.34,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 46,
+      "name": "妖精的尾巴-露西·哈特菲利亚",
+      "vote": 3,
+      "rate_global": 0.34,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 47,
+      "name": "Extreme Hearts-小日向理濑",
+      "vote": 3,
+      "rate_global": 0.34,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 48,
+      "name": "银魂-近藤勋",
+      "vote": 3,
+      "rate_global": 0.34,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 49,
+      "name": "我推的孩子-吉祥寺赖子",
+      "vote": 3,
+      "rate_global": 0.34,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 50,
+      "name": "放学后失眠的你-野野三奈",
+      "vote": 2,
+      "rate_global": 0.23,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 51,
+      "name": "卡片战斗先导者will+Dress-大仓惠",
+      "vote": 2,
+      "rate_global": 0.23,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 52,
+      "name": "政宗君的复仇-真壁政宗",
+      "vote": 2,
+      "rate_global": 0.23,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 53,
+      "name": "最弱无败神装机龙-莉姿夏尔蒂·亚提司玛特",
+      "vote": 2,
+      "rate_global": 0.23,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 54,
+      "name": "忍者-千纲",
+      "vote": 1,
+      "rate_global": 0.11,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 55,
+      "name": "英雄教室-卡西姆",
+      "vote": 1,
+      "rate_global": 0.11,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 56,
+      "name": "至高之牌-米歇尔",
+      "vote": 1,
+      "rate_global": 0.11,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 57,
+      "name": "政宗君的复仇-双叶妙",
+      "vote": 1,
+      "rate_global": 0.11,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 58,
+      "name": "玛纳莉亚的密友-勒乌",
+      "vote": 1,
+      "rate_global": 0.11,
+      "rate_group": 0.03
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-    "name": "半决赛",
-    "time": "2023-08-25 23:00:00",
-    "voter": 1293,
-    "last_time": "2023-08-25 22:59",
-    "last_floor": 1898,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "BanG Dream! It's MyGO!!!!!-长崎爽世",
-            "vote": 992,
-            "rate_global": 76.72,
-            "rate_group": 80.06
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "BanG Dream! It's MyGO!!!!!-千早爱音",
-            "vote": 247,
-            "rate_global": 19.1,
-            "rate_group": 19.94
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "BanG Dream! It's MyGO!!!!!-丰川祥子",
-            "vote": 793,
-            "rate_global": 61.33,
-            "rate_group": 62.69
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "利兹与青鸟-伞木希美",
-            "vote": 472,
-            "rate_global": 36.5,
-            "rate_group": 37.31
-        }
-    ]
+  "name": "半决赛",
+  "time": "2023-08-25 23:00:00",
+  "voter": 1293,
+  "last_time": "2023-08-25 22:59",
+  "last_floor": 1898,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-长崎爽世",
+      "vote": 992,
+      "rate_global": 76.72,
+      "rate_group": 80.06
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "BanG Dream! It's MyGO!!!!!-千早爱音",
+      "vote": 247,
+      "rate_global": 19.1,
+      "rate_group": 19.94
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-丰川祥子",
+      "vote": 793,
+      "rate_global": 61.33,
+      "rate_group": 62.69
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "利兹与青鸟-伞木希美",
+      "vote": 472,
+      "rate_global": 36.5,
+      "rate_group": 37.31
+    }
+  ]
 }

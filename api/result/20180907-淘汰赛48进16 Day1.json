@@ -1,105 +1,105 @@
 {
-    "name": "淘汰赛48进16 Day1",
-    "time": "2018-09-07 23:00:00",
-    "voter": 257,
-    "last_time": "2018-09-07 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "刀使巫女-柳濑舞衣",
-            "vote": 138,
-            "rate_global": 53.7,
-            "rate_group": 59.74
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "伪恋-橘万里花",
-            "vote": 47,
-            "rate_global": 18.29,
-            "rate_group": 20.35
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "Re:从零开始的异世界生活-蕾姆",
-            "vote": 46,
-            "rate_global": 17.9,
-            "rate_group": 19.91
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "我的妹妹不可能这么可爱-五更琉璃（黑猫）",
-            "vote": 138,
-            "rate_global": 53.7,
-            "rate_group": 66.35
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "Re:从零开始的异世界生活-艾米莉亚",
-            "vote": 43,
-            "rate_global": 16.73,
-            "rate_group": 20.67
-        },
-        {
-            "group": 2,
-            "rank": 3,
-            "name": "Fate stay night-间桐樱",
-            "vote": 27,
-            "rate_global": 10.51,
-            "rate_group": 12.98
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "路人女主的养成方法-英梨梨",
-            "vote": 154,
-            "rate_global": 59.92,
-            "rate_group": 68.75
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "吹响！上低音号-高坂丽奈",
-            "vote": 50,
-            "rate_global": 19.46,
-            "rate_group": 22.32
-        },
-        {
-            "group": 3,
-            "rank": 3,
-            "name": "吹响！上低音号-中世古香织",
-            "vote": 20,
-            "rate_global": 7.78,
-            "rate_group": 8.93
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "NEW GAME-远山伦",
-            "vote": 79,
-            "rate_global": 30.74,
-            "rate_group": 35.75
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "我的妹妹不可能那么可爱-新垣绫濑",
-            "vote": 79,
-            "rate_global": 30.74,
-            "rate_group": 35.75
-        },
-        {
-            "group": 4,
-            "rank": 3,
-            "name": "宝石之国-钻石",
-            "vote": 63,
-            "rate_global": 24.51,
-            "rate_group": 28.51
-        }
-    ]
+  "name": "淘汰赛48进16 Day1",
+  "time": "2018-09-07 23:00:00",
+  "voter": 257,
+  "last_time": "2018-09-07 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "刀使巫女-柳濑舞衣",
+      "vote": 138,
+      "rate_global": 53.7,
+      "rate_group": 59.74
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "伪恋-橘万里花",
+      "vote": 47,
+      "rate_global": 18.29,
+      "rate_group": 20.35
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "Re:从零开始的异世界生活-蕾姆",
+      "vote": 46,
+      "rate_global": 17.9,
+      "rate_group": 19.91
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "我的妹妹不可能这么可爱-五更琉璃（黑猫）",
+      "vote": 138,
+      "rate_global": 53.7,
+      "rate_group": 66.35
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "Re:从零开始的异世界生活-艾米莉亚",
+      "vote": 43,
+      "rate_global": 16.73,
+      "rate_group": 20.67
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "Fate stay night-间桐樱",
+      "vote": 27,
+      "rate_global": 10.51,
+      "rate_group": 12.98
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "路人女主的养成方法-英梨梨",
+      "vote": 154,
+      "rate_global": 59.92,
+      "rate_group": 68.75
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "吹响！上低音号-高坂丽奈",
+      "vote": 50,
+      "rate_global": 19.46,
+      "rate_group": 22.32
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "吹响！上低音号-中世古香织",
+      "vote": 20,
+      "rate_global": 7.78,
+      "rate_group": 8.93
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "NEW GAME-远山伦",
+      "vote": 79,
+      "rate_global": 30.74,
+      "rate_group": 35.75
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "我的妹妹不可能那么可爱-新垣绫濑",
+      "vote": 79,
+      "rate_global": 30.74,
+      "rate_group": 35.75
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "宝石之国-钻石",
+      "vote": 63,
+      "rate_global": 24.51,
+      "rate_group": 28.51
+    }
+  ]
 }

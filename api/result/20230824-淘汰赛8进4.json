@@ -1,73 +1,73 @@
 {
-    "name": "淘汰赛8进4",
-    "time": "2023-08-24 23:00:00",
-    "voter": 1206,
-    "last_time": "2023-08-24 23:00",
-    "last_floor": 1669,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "BanG Dream! It's MyGO!!!!!-千早爱音",
-            "vote": 843,
-            "rate_global": 69.9,
-            "rate_group": 74.08
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "World Dai Star-卡特莉娜",
-            "vote": 295,
-            "rate_global": 24.46,
-            "rate_group": 25.92
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "BanG Dream! It's MyGO!!!!!-丰川祥子",
-            "vote": 633,
-            "rate_global": 52.49,
-            "rate_group": 55.72
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "BanG Dream! It's MyGO!!!!!-高松灯",
-            "vote": 503,
-            "rate_global": 41.71,
-            "rate_group": 44.28
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "BanG Dream! It's MyGO!!!!!-长崎爽世",
-            "vote": 1034,
-            "rate_global": 85.74,
-            "rate_group": 88.45
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "安达与岛村-安达樱",
-            "vote": 135,
-            "rate_global": 11.19,
-            "rate_group": 11.55
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "利兹与青鸟-伞木希美",
-            "vote": 640,
-            "rate_global": 53.07,
-            "rate_group": 60.26
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "安达与岛村-樽见",
-            "vote": 422,
-            "rate_global": 34.99,
-            "rate_group": 39.74
-        }
-    ]
+  "name": "淘汰赛8进4",
+  "time": "2023-08-24 23:00:00",
+  "voter": 1206,
+  "last_time": "2023-08-24 23:00",
+  "last_floor": 1669,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-千早爱音",
+      "vote": 843,
+      "rate_global": 69.9,
+      "rate_group": 74.08
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "World Dai Star-卡特莉娜",
+      "vote": 295,
+      "rate_global": 24.46,
+      "rate_group": 25.92
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-丰川祥子",
+      "vote": 633,
+      "rate_global": 52.49,
+      "rate_group": 55.72
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "BanG Dream! It's MyGO!!!!!-高松灯",
+      "vote": 503,
+      "rate_global": 41.71,
+      "rate_group": 44.28
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-长崎爽世",
+      "vote": 1034,
+      "rate_global": 85.74,
+      "rate_group": 88.45
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "安达与岛村-安达樱",
+      "vote": 135,
+      "rate_global": 11.19,
+      "rate_group": 11.55
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "利兹与青鸟-伞木希美",
+      "vote": 640,
+      "rate_global": 53.07,
+      "rate_group": 60.26
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "安达与岛村-樽见",
+      "vote": 422,
+      "rate_global": 34.99,
+      "rate_group": 39.74
+    }
+  ]
 }

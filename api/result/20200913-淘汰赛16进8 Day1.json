@@ -1,73 +1,73 @@
 {
-    "name": "淘汰赛16进8 Day1",
-    "time": "2020-09-13 23:00:00",
-    "voter": 271,
-    "last_time": "2020-09-13 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "天使降临我身边-姬坂乃爱",
-            "vote": 131,
-            "rate_global": 48.34,
-            "rate_group": 51.98
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "少女歌剧-土豆",
-            "vote": 121,
-            "rate_global": 44.65,
-            "rate_group": 48.02
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "利兹与青鸟-伞木希美",
-            "vote": 133,
-            "rate_global": 49.08,
-            "rate_group": 59.64
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "结城友奈是勇者-乃木园子",
-            "vote": 90,
-            "rate_global": 33.21,
-            "rate_group": 40.36
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "少女歌剧-大场奈奈",
-            "vote": 121,
-            "rate_global": 44.65,
-            "rate_group": 52.84
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "路人女主的养成方法-英梨梨",
-            "vote": 108,
-            "rate_global": 39.85,
-            "rate_group": 47.16
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "魔法纪录-由比鹤乃",
-            "vote": 124,
-            "rate_global": 45.76,
-            "rate_group": 52.77
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "街角魔族-阳夏木蜜柑",
-            "vote": 111,
-            "rate_global": 40.96,
-            "rate_group": 47.23
-        }
-    ]
+  "name": "淘汰赛16进8 Day1",
+  "time": "2020-09-13 23:00:00",
+  "voter": 271,
+  "last_time": "2020-09-13 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "天使降临我身边-姬坂乃爱",
+      "vote": 131,
+      "rate_global": 48.34,
+      "rate_group": 51.98
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "少女歌剧-土豆",
+      "vote": 121,
+      "rate_global": 44.65,
+      "rate_group": 48.02
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "利兹与青鸟-伞木希美",
+      "vote": 133,
+      "rate_global": 49.08,
+      "rate_group": 59.64
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "结城友奈是勇者-乃木园子",
+      "vote": 90,
+      "rate_global": 33.21,
+      "rate_group": 40.36
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "少女歌剧-大场奈奈",
+      "vote": 121,
+      "rate_global": 44.65,
+      "rate_group": 52.84
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "路人女主的养成方法-英梨梨",
+      "vote": 108,
+      "rate_global": 39.85,
+      "rate_group": 47.16
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "魔法纪录-由比鹤乃",
+      "vote": 124,
+      "rate_global": 45.76,
+      "rate_group": 52.77
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "街角魔族-阳夏木蜜柑",
+      "vote": 111,
+      "rate_global": 40.96,
+      "rate_group": 47.23
+    }
+  ]
 }

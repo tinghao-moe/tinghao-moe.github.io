@@ -1,217 +1,217 @@
 {
-    "name": "海选赛day5",
-    "time": "2017-09-01 23:00:00",
-    "voter": 506,
-    "last_time": "2017-09-01 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "Love Live Sunshine-渡边曜",
-            "vote": 428,
-            "rate_global": 84.58,
-            "rate_group": 33.13
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "中二病也要谈恋爱-七宫智音",
-            "vote": 208,
-            "rate_global": 41.11,
-            "rate_group": 16.1
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "政宗君的复仇-藤之宫宁子",
-            "vote": 75,
-            "rate_global": 14.82,
-            "rate_group": 5.8
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "请问您今天要来点兔子吗-保登心爱",
-            "vote": 64,
-            "rate_global": 12.65,
-            "rate_group": 4.95
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "旋风管家-西泽步",
-            "vote": 51,
-            "rate_global": 10.08,
-            "rate_group": 3.95
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "NEW GAME-饭岛结音",
-            "vote": 49,
-            "rate_global": 9.68,
-            "rate_group": 3.79
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "出包王女-结城美柑",
-            "vote": 47,
-            "rate_global": 9.29,
-            "rate_group": 3.64
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "你的名字-宫水三叶",
-            "vote": 43,
-            "rate_global": 8.5,
-            "rate_group": 3.33
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "旋风管家-玛利亚",
-            "vote": 42,
-            "rate_global": 8.3,
-            "rate_group": 3.25
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "日常-长野原美绪",
-            "vote": 40,
-            "rate_global": 7.91,
-            "rate_group": 3.1
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "初音岛-芳乃樱",
-            "vote": 37,
-            "rate_global": 7.31,
-            "rate_group": 2.86
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "精灵宝可梦-小刚",
-            "vote": 31,
-            "rate_global": 6.13,
-            "rate_group": 2.4
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "捏造trap-冈崎由真",
-            "vote": 27,
-            "rate_global": 5.34,
-            "rate_group": 2.09
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "数码宝贝-光子郎",
-            "vote": 23,
-            "rate_global": 4.55,
-            "rate_group": 1.78
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "悠哉日常大王-越谷小鞠",
-            "vote": 21,
-            "rate_global": 4.15,
-            "rate_group": 1.63
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "偶像大师XENOGLOSSIA-天海春香",
-            "vote": 20,
-            "rate_global": 3.95,
-            "rate_group": 1.55
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "KiraKira☆光之美少女 A La Mode-宇佐美一花",
-            "vote": 16,
-            "rate_global": 3.16,
-            "rate_group": 1.24
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "幸运星-小早川优",
-            "vote": 14,
-            "rate_global": 2.77,
-            "rate_group": 1.08
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "雏子的笔记-樱木雏子",
-            "vote": 11,
-            "rate_global": 2.17,
-            "rate_group": 0.85
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "HeartCatch光之美少女-来海绘里香",
-            "vote": 10,
-            "rate_global": 1.98,
-            "rate_group": 0.77
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "YES！光之美少女5-春日野丽",
-            "vote": 8,
-            "rate_global": 1.58,
-            "rate_group": 0.62
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "无畏魔女-雁渊光",
-            "vote": 8,
-            "rate_global": 1.58,
-            "rate_group": 0.62
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "纯白交响曲-瓜生新吾",
-            "vote": 7,
-            "rate_global": 1.38,
-            "rate_group": 0.54
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "怪盗Joker-Dark Eye",
-            "vote": 4,
-            "rate_global": 0.79,
-            "rate_group": 0.31
-        },
-        {
-            "group": 1,
-            "rank": 25,
-            "name": "精灵宝可梦日月-马玛内",
-            "vote": 4,
-            "rate_global": 0.79,
-            "rate_group": 0.31
-        },
-        {
-            "group": 1,
-            "rank": 26,
-            "name": "校园迷糊大王-莎拉·亚迪耶玛斯",
-            "vote": 4,
-            "rate_global": 0.79,
-            "rate_group": 0.31
-        }
-    ]
+  "name": "海选赛day5",
+  "time": "2017-09-01 23:00:00",
+  "voter": 506,
+  "last_time": "2017-09-01 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "Love Live Sunshine-渡边曜",
+      "vote": 428,
+      "rate_global": 84.58,
+      "rate_group": 33.13
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "中二病也要谈恋爱-七宫智音",
+      "vote": 208,
+      "rate_global": 41.11,
+      "rate_group": 16.1
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "政宗君的复仇-藤之宫宁子",
+      "vote": 75,
+      "rate_global": 14.82,
+      "rate_group": 5.8
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "请问您今天要来点兔子吗-保登心爱",
+      "vote": 64,
+      "rate_global": 12.65,
+      "rate_group": 4.95
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "旋风管家-西泽步",
+      "vote": 51,
+      "rate_global": 10.08,
+      "rate_group": 3.95
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "NEW GAME-饭岛结音",
+      "vote": 49,
+      "rate_global": 9.68,
+      "rate_group": 3.79
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "出包王女-结城美柑",
+      "vote": 47,
+      "rate_global": 9.29,
+      "rate_group": 3.64
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "你的名字-宫水三叶",
+      "vote": 43,
+      "rate_global": 8.5,
+      "rate_group": 3.33
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "旋风管家-玛利亚",
+      "vote": 42,
+      "rate_global": 8.3,
+      "rate_group": 3.25
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "日常-长野原美绪",
+      "vote": 40,
+      "rate_global": 7.91,
+      "rate_group": 3.1
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "初音岛-芳乃樱",
+      "vote": 37,
+      "rate_global": 7.31,
+      "rate_group": 2.86
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "精灵宝可梦-小刚",
+      "vote": 31,
+      "rate_global": 6.13,
+      "rate_group": 2.4
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "捏造trap-冈崎由真",
+      "vote": 27,
+      "rate_global": 5.34,
+      "rate_group": 2.09
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "数码宝贝-光子郎",
+      "vote": 23,
+      "rate_global": 4.55,
+      "rate_group": 1.78
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "悠哉日常大王-越谷小鞠",
+      "vote": 21,
+      "rate_global": 4.15,
+      "rate_group": 1.63
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "偶像大师XENOGLOSSIA-天海春香",
+      "vote": 20,
+      "rate_global": 3.95,
+      "rate_group": 1.55
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "KiraKira☆光之美少女 A La Mode-宇佐美一花",
+      "vote": 16,
+      "rate_global": 3.16,
+      "rate_group": 1.24
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "幸运星-小早川优",
+      "vote": 14,
+      "rate_global": 2.77,
+      "rate_group": 1.08
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "雏子的笔记-樱木雏子",
+      "vote": 11,
+      "rate_global": 2.17,
+      "rate_group": 0.85
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "HeartCatch光之美少女-来海绘里香",
+      "vote": 10,
+      "rate_global": 1.98,
+      "rate_group": 0.77
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "YES！光之美少女5-春日野丽",
+      "vote": 8,
+      "rate_global": 1.58,
+      "rate_group": 0.62
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "无畏魔女-雁渊光",
+      "vote": 8,
+      "rate_global": 1.58,
+      "rate_group": 0.62
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "纯白交响曲-瓜生新吾",
+      "vote": 7,
+      "rate_global": 1.38,
+      "rate_group": 0.54
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "怪盗Joker-Dark Eye",
+      "vote": 4,
+      "rate_global": 0.79,
+      "rate_group": 0.31
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "精灵宝可梦日月-马玛内",
+      "vote": 4,
+      "rate_global": 0.79,
+      "rate_group": 0.31
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "校园迷糊大王-莎拉·亚迪耶玛斯",
+      "vote": 4,
+      "rate_global": 0.79,
+      "rate_group": 0.31
+    }
+  ]
 }

@@ -1,105 +1,105 @@
 {
-    "name": "淘汰赛48进16 Day4",
-    "time": "2020-09-12 23:00:00",
-    "voter": 191,
-    "last_time": "2020-09-12 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "街角魔族-阳夏木蜜柑",
-            "vote": 95,
-            "rate_global": 49.74,
-            "rate_group": 58.64
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "樱花庄的宠物女孩-青山七海",
-            "vote": 44,
-            "rate_global": 23.04,
-            "rate_group": 27.16
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "某科学的超电磁炮-食蜂操祈",
-            "vote": 23,
-            "rate_global": 12.04,
-            "rate_group": 14.2
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "魔法纪录-由比鹤乃",
-            "vote": 71,
-            "rate_global": 37.17,
-            "rate_group": 47.33
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "NG-远山伦",
-            "vote": 40,
-            "rate_global": 20.94,
-            "rate_group": 26.67
-        },
-        {
-            "group": 2,
-            "rank": 3,
-            "name": "魔法纪录-十咎桃子",
-            "vote": 39,
-            "rate_global": 20.42,
-            "rate_group": 26.0
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "街角魔族-千代田桃",
-            "vote": 58,
-            "rate_global": 30.37,
-            "rate_group": 38.93
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "玉子市场-常盘绿",
-            "vote": 56,
-            "rate_global": 29.32,
-            "rate_group": 37.58
-        },
-        {
-            "group": 3,
-            "rank": 3,
-            "name": "CLANNAD-坂上智代",
-            "vote": 35,
-            "rate_global": 18.32,
-            "rate_group": 23.49
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "惊爆草莓-凉水玉青",
-            "vote": 67,
-            "rate_global": 35.08,
-            "rate_group": 47.86
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "命运石之门-椎名真由理",
-            "vote": 40,
-            "rate_global": 20.94,
-            "rate_group": 28.57
-        },
-        {
-            "group": 4,
-            "rank": 3,
-            "name": "结城友奈是勇者-郡千景",
-            "vote": 33,
-            "rate_global": 17.28,
-            "rate_group": 23.57
-        }
-    ]
+  "name": "淘汰赛48进16 Day4",
+  "time": "2020-09-12 23:00:00",
+  "voter": 191,
+  "last_time": "2020-09-12 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "街角魔族-阳夏木蜜柑",
+      "vote": 95,
+      "rate_global": 49.74,
+      "rate_group": 58.64
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "樱花庄的宠物女孩-青山七海",
+      "vote": 44,
+      "rate_global": 23.04,
+      "rate_group": 27.16
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "某科学的超电磁炮-食蜂操祈",
+      "vote": 23,
+      "rate_global": 12.04,
+      "rate_group": 14.2
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "魔法纪录-由比鹤乃",
+      "vote": 71,
+      "rate_global": 37.17,
+      "rate_group": 47.33
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "NG-远山伦",
+      "vote": 40,
+      "rate_global": 20.94,
+      "rate_group": 26.67
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "魔法纪录-十咎桃子",
+      "vote": 39,
+      "rate_global": 20.42,
+      "rate_group": 26.0
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "街角魔族-千代田桃",
+      "vote": 58,
+      "rate_global": 30.37,
+      "rate_group": 38.93
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "玉子市场-常盘绿",
+      "vote": 56,
+      "rate_global": 29.32,
+      "rate_group": 37.58
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "CLANNAD-坂上智代",
+      "vote": 35,
+      "rate_global": 18.32,
+      "rate_group": 23.49
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "惊爆草莓-凉水玉青",
+      "vote": 67,
+      "rate_global": 35.08,
+      "rate_group": 47.86
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "命运石之门-椎名真由理",
+      "vote": 40,
+      "rate_global": 20.94,
+      "rate_group": 28.57
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "结城友奈是勇者-郡千景",
+      "vote": 33,
+      "rate_global": 17.28,
+      "rate_group": 23.57
+    }
+  ]
 }

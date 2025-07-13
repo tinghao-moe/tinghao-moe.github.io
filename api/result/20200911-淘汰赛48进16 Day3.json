@@ -1,105 +1,105 @@
 {
-    "name": "淘汰赛48进16 Day3",
-    "time": "2020-09-11 23:00:00",
-    "voter": 217,
-    "last_time": "2020-09-11 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "少女歌剧-大场奈奈",
-            "vote": 99,
-            "rate_global": 45.62,
-            "rate_group": 52.11
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "我的妹妹是黄漫老师-山田妖精",
-            "vote": 46,
-            "rate_global": 21.2,
-            "rate_group": 24.21
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "某科学的超电磁炮-白井黑子",
-            "vote": 45,
-            "rate_global": 20.74,
-            "rate_group": 23.68
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "路人女主的养成方法-英梨梨",
-            "vote": 89,
-            "rate_global": 41.01,
-            "rate_group": 51.15
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "22/7-斋藤妮可露",
-            "vote": 68,
-            "rate_global": 31.34,
-            "rate_group": 39.08
-        },
-        {
-            "group": 2,
-            "rank": 3,
-            "name": "伪恋-小野寺小咲",
-            "vote": 17,
-            "rate_global": 7.83,
-            "rate_group": 9.77
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "满月之战-小日向满月",
-            "vote": 87,
-            "rate_global": 40.09,
-            "rate_group": 47.54
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "龙与虎-栉枝实乃梨",
-            "vote": 49,
-            "rate_global": 22.58,
-            "rate_group": 26.78
-        },
-        {
-            "group": 3,
-            "rank": 3,
-            "name": "来自风平浪静的明天-潮留美海",
-            "vote": 47,
-            "rate_global": 21.66,
-            "rate_group": 25.68
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "我的青春恋爱物语果然有问题-由比滨结衣",
-            "vote": 74,
-            "rate_global": 34.1,
-            "rate_group": 38.54
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "结城友奈是勇者-三好夏凛",
-            "vote": 70,
-            "rate_global": 32.26,
-            "rate_group": 36.46
-        },
-        {
-            "group": 4,
-            "rank": 3,
-            "name": "yuruyuri-赤座灯里",
-            "vote": 48,
-            "rate_global": 22.12,
-            "rate_group": 25.0
-        }
-    ]
+  "name": "淘汰赛48进16 Day3",
+  "time": "2020-09-11 23:00:00",
+  "voter": 217,
+  "last_time": "2020-09-11 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "少女歌剧-大场奈奈",
+      "vote": 99,
+      "rate_global": 45.62,
+      "rate_group": 52.11
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "我的妹妹是黄漫老师-山田妖精",
+      "vote": 46,
+      "rate_global": 21.2,
+      "rate_group": 24.21
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "某科学的超电磁炮-白井黑子",
+      "vote": 45,
+      "rate_global": 20.74,
+      "rate_group": 23.68
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "路人女主的养成方法-英梨梨",
+      "vote": 89,
+      "rate_global": 41.01,
+      "rate_group": 51.15
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "22/7-斋藤妮可露",
+      "vote": 68,
+      "rate_global": 31.34,
+      "rate_group": 39.08
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "伪恋-小野寺小咲",
+      "vote": 17,
+      "rate_global": 7.83,
+      "rate_group": 9.77
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "满月之战-小日向满月",
+      "vote": 87,
+      "rate_global": 40.09,
+      "rate_group": 47.54
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "龙与虎-栉枝实乃梨",
+      "vote": 49,
+      "rate_global": 22.58,
+      "rate_group": 26.78
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "来自风平浪静的明天-潮留美海",
+      "vote": 47,
+      "rate_global": 21.66,
+      "rate_group": 25.68
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "我的青春恋爱物语果然有问题-由比滨结衣",
+      "vote": 74,
+      "rate_global": 34.1,
+      "rate_group": 38.54
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "结城友奈是勇者-三好夏凛",
+      "vote": 70,
+      "rate_global": 32.26,
+      "rate_group": 36.46
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "yuruyuri-赤座灯里",
+      "vote": 48,
+      "rate_global": 22.12,
+      "rate_group": 25.0
+    }
+  ]
 }

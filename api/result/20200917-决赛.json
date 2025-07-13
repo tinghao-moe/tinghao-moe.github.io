@@ -1,41 +1,41 @@
 {
-    "name": "决赛",
-    "time": "2020-09-17 23:00:00",
-    "voter": 406,
-    "last_time": "2020-09-17 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "赛马娘-草上飞",
-            "vote": 243,
-            "rate_global": 59.85,
-            "rate_group": 63.28
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "魔法纪录-由比鹤乃",
-            "vote": 141,
-            "rate_global": 34.73,
-            "rate_group": 36.72
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "利兹与青鸟-伞木希美",
-            "vote": 193,
-            "rate_global": 47.54,
-            "rate_group": 59.02
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "满月之战-小日向满月",
-            "vote": 134,
-            "rate_global": 33.0,
-            "rate_group": 40.98
-        }
-    ]
+  "name": "决赛",
+  "time": "2020-09-17 23:00:00",
+  "voter": 406,
+  "last_time": "2020-09-17 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "赛马娘-草上飞",
+      "vote": 243,
+      "rate_global": 59.85,
+      "rate_group": 63.28
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "魔法纪录-由比鹤乃",
+      "vote": 141,
+      "rate_global": 34.73,
+      "rate_group": 36.72
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "利兹与青鸟-伞木希美",
+      "vote": 193,
+      "rate_global": 47.54,
+      "rate_group": 59.02
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "满月之战-小日向满月",
+      "vote": 134,
+      "rate_global": 33.0,
+      "rate_group": 40.98
+    }
+  ]
 }

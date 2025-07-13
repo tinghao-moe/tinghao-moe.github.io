@@ -1,345 +1,345 @@
 {
-    "name": "海选赛day7",
-    "time": "2020-09-06 23:00:00",
-    "voter": 203,
-    "last_time": "2020-09-06 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "少女歌剧-土豆",
-            "vote": 142,
-            "rate_global": 69.95,
-            "rate_group": 16.47
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "魔法纪录-梓美冬",
-            "vote": 123,
-            "rate_global": 60.59,
-            "rate_group": 14.27
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "魔法纪录-十咎桃子",
-            "vote": 96,
-            "rate_global": 47.29,
-            "rate_group": 11.14
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "天使降临我身边-星野日向",
-            "vote": 90,
-            "rate_global": 44.33,
-            "rate_group": 10.44
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "命运石之门-椎名真由理",
-            "vote": 61,
-            "rate_global": 30.05,
-            "rate_group": 7.08
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "皿三昧-阵内燕太",
-            "vote": 55,
-            "rate_global": 27.09,
-            "rate_group": 6.38
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "BanG Dream!-丸山彩",
-            "vote": 53,
-            "rate_global": 26.11,
-            "rate_group": 6.15
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "CLANNAD-一之濑琴美",
-            "vote": 43,
-            "rate_global": 21.18,
-            "rate_group": 4.99
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "公主连结Re Dive-凯露",
-            "vote": 31,
-            "rate_global": 15.27,
-            "rate_group": 3.6
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "天才麻将少女-新子憧",
-            "vote": 29,
-            "rate_global": 14.29,
-            "rate_group": 3.36
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "昨日之歌-森之目榀子",
-            "vote": 16,
-            "rate_global": 7.88,
-            "rate_group": 1.86
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "Re:Stage!-式宫碧音",
-            "vote": 14,
-            "rate_global": 6.9,
-            "rate_group": 1.62
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "黄金拼图-松原穗乃花",
-            "vote": 13,
-            "rate_global": 6.4,
-            "rate_group": 1.51
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "Healin Good光之美少女-花寺和佳",
-            "vote": 11,
-            "rate_global": 5.42,
-            "rate_group": 1.28
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "辉夜大小姐想让我告白-柏木渚",
-            "vote": 11,
-            "rate_global": 5.42,
-            "rate_group": 1.28
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "宝石幻想光芒重现-嘉奈特",
-            "vote": 10,
-            "rate_global": 4.93,
-            "rate_group": 1.16
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "我不是说了能力要平均值吗-麦露",
-            "vote": 8,
-            "rate_global": 3.94,
-            "rate_group": 0.93
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "GOSICK-艾薇儿·布莱德利",
-            "vote": 7,
-            "rate_global": 3.45,
-            "rate_group": 0.81
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "Little Busters!-来谷唯湖",
-            "vote": 6,
-            "rate_global": 2.96,
-            "rate_group": 0.7
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "龙与虎-北村佑作",
-            "vote": 6,
-            "rate_global": 2.96,
-            "rate_group": 0.7
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "向阳素描-智花",
-            "vote": 6,
-            "rate_global": 2.96,
-            "rate_group": 0.7
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "碧蓝幻想-卡塔莉娜",
-            "vote": 5,
-            "rate_global": 2.46,
-            "rate_group": 0.58
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "宝石幻想光芒重现-菈图菈",
-            "vote": 4,
-            "rate_global": 1.97,
-            "rate_group": 0.46
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "一个人的OO小日子-小筱咲真世",
-            "vote": 4,
-            "rate_global": 1.97,
-            "rate_group": 0.46
-        },
-        {
-            "group": 1,
-            "rank": 25,
-            "name": "公主连结Re Dive-出云宫子",
-            "vote": 3,
-            "rate_global": 1.48,
-            "rate_group": 0.35
-        },
-        {
-            "group": 1,
-            "rank": 26,
-            "name": "CLANNAD-仁科理惠",
-            "vote": 2,
-            "rate_global": 0.99,
-            "rate_group": 0.23
-        },
-        {
-            "group": 1,
-            "rank": 27,
-            "name": "FRAME ARMS GIRL-猎刃",
-            "vote": 2,
-            "rate_global": 0.99,
-            "rate_group": 0.23
-        },
-        {
-            "group": 1,
-            "rank": 28,
-            "name": "格莱普尼尔-加贺谷修一",
-            "vote": 2,
-            "rate_global": 0.99,
-            "rate_group": 0.23
-        },
-        {
-            "group": 1,
-            "rank": 29,
-            "name": "向阳素描-宫子",
-            "vote": 2,
-            "rate_global": 0.99,
-            "rate_group": 0.23
-        },
-        {
-            "group": 1,
-            "rank": 30,
-            "name": "虚构推理-樱川九郎",
-            "vote": 2,
-            "rate_global": 0.99,
-            "rate_group": 0.23
-        },
-        {
-            "group": 1,
-            "rank": 31,
-            "name": "GOSICK-赛西尔·拉斐特",
-            "vote": 1,
-            "rate_global": 0.49,
-            "rate_group": 0.12
-        },
-        {
-            "group": 1,
-            "rank": 32,
-            "name": "白色相簿2-早坂亲志",
-            "vote": 1,
-            "rate_global": 0.49,
-            "rate_group": 0.12
-        },
-        {
-            "group": 1,
-            "rank": 33,
-            "name": "公主连结Re Dive-查理",
-            "vote": 1,
-            "rate_global": 0.49,
-            "rate_group": 0.12
-        },
-        {
-            "group": 1,
-            "rank": 34,
-            "name": "玉子市场-朝雾史织",
-            "vote": 1,
-            "rate_global": 0.49,
-            "rate_group": 0.12
-        },
-        {
-            "group": 1,
-            "rank": 35,
-            "name": "宅男腐女恋爱真难-桃濑成海",
-            "vote": 1,
-            "rate_global": 0.49,
-            "rate_group": 0.12
-        },
-        {
-            "group": 1,
-            "rank": 36,
-            "name": "半兽人的烦恼-名乐羌子",
-            "vote": 0,
-            "rate_global": 0.0,
-            "rate_group": 0.0
-        },
-        {
-            "group": 1,
-            "rank": 37,
-            "name": "半兽人的烦恼-犬养未散",
-            "vote": 0,
-            "rate_global": 0.0,
-            "rate_group": 0.0
-        },
-        {
-            "group": 1,
-            "rank": 38,
-            "name": "半兽人的烦恼-朱池美津代",
-            "vote": 0,
-            "rate_global": 0.0,
-            "rate_group": 0.0
-        },
-        {
-            "group": 1,
-            "rank": 39,
-            "name": "女学 圣女斯克威尔学院-原田都爱",
-            "vote": 0,
-            "rate_global": 0.0,
-            "rate_group": 0.0
-        },
-        {
-            "group": 1,
-            "rank": 40,
-            "name": "水果篮子-鱼谷亚里纱",
-            "vote": 0,
-            "rate_global": 0.0,
-            "rate_group": 0.0
-        },
-        {
-            "group": 1,
-            "rank": 41,
-            "name": "玉子市场-北白川福",
-            "vote": 0,
-            "rate_global": 0.0,
-            "rate_group": 0.0
-        },
-        {
-            "group": 1,
-            "rank": 42,
-            "name": "租借女友-木之下和也",
-            "vote": 0,
-            "rate_global": 0.0,
-            "rate_group": 0.0
-        }
-    ]
+  "name": "海选赛day7",
+  "time": "2020-09-06 23:00:00",
+  "voter": 203,
+  "last_time": "2020-09-06 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "少女歌剧-土豆",
+      "vote": 142,
+      "rate_global": 69.95,
+      "rate_group": 16.47
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "魔法纪录-梓美冬",
+      "vote": 123,
+      "rate_global": 60.59,
+      "rate_group": 14.27
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "魔法纪录-十咎桃子",
+      "vote": 96,
+      "rate_global": 47.29,
+      "rate_group": 11.14
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "天使降临我身边-星野日向",
+      "vote": 90,
+      "rate_global": 44.33,
+      "rate_group": 10.44
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "命运石之门-椎名真由理",
+      "vote": 61,
+      "rate_global": 30.05,
+      "rate_group": 7.08
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "皿三昧-阵内燕太",
+      "vote": 55,
+      "rate_global": 27.09,
+      "rate_group": 6.38
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "BanG Dream!-丸山彩",
+      "vote": 53,
+      "rate_global": 26.11,
+      "rate_group": 6.15
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "CLANNAD-一之濑琴美",
+      "vote": 43,
+      "rate_global": 21.18,
+      "rate_group": 4.99
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "公主连结Re Dive-凯露",
+      "vote": 31,
+      "rate_global": 15.27,
+      "rate_group": 3.6
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "天才麻将少女-新子憧",
+      "vote": 29,
+      "rate_global": 14.29,
+      "rate_group": 3.36
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "昨日之歌-森之目榀子",
+      "vote": 16,
+      "rate_global": 7.88,
+      "rate_group": 1.86
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "Re:Stage!-式宫碧音",
+      "vote": 14,
+      "rate_global": 6.9,
+      "rate_group": 1.62
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "黄金拼图-松原穗乃花",
+      "vote": 13,
+      "rate_global": 6.4,
+      "rate_group": 1.51
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "Healin Good光之美少女-花寺和佳",
+      "vote": 11,
+      "rate_global": 5.42,
+      "rate_group": 1.28
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "辉夜大小姐想让我告白-柏木渚",
+      "vote": 11,
+      "rate_global": 5.42,
+      "rate_group": 1.28
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "宝石幻想光芒重现-嘉奈特",
+      "vote": 10,
+      "rate_global": 4.93,
+      "rate_group": 1.16
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "我不是说了能力要平均值吗-麦露",
+      "vote": 8,
+      "rate_global": 3.94,
+      "rate_group": 0.93
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "GOSICK-艾薇儿·布莱德利",
+      "vote": 7,
+      "rate_global": 3.45,
+      "rate_group": 0.81
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "Little Busters!-来谷唯湖",
+      "vote": 6,
+      "rate_global": 2.96,
+      "rate_group": 0.7
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "龙与虎-北村佑作",
+      "vote": 6,
+      "rate_global": 2.96,
+      "rate_group": 0.7
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "向阳素描-智花",
+      "vote": 6,
+      "rate_global": 2.96,
+      "rate_group": 0.7
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "碧蓝幻想-卡塔莉娜",
+      "vote": 5,
+      "rate_global": 2.46,
+      "rate_group": 0.58
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "宝石幻想光芒重现-菈图菈",
+      "vote": 4,
+      "rate_global": 1.97,
+      "rate_group": 0.46
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "一个人的OO小日子-小筱咲真世",
+      "vote": 4,
+      "rate_global": 1.97,
+      "rate_group": 0.46
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "公主连结Re Dive-出云宫子",
+      "vote": 3,
+      "rate_global": 1.48,
+      "rate_group": 0.35
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "CLANNAD-仁科理惠",
+      "vote": 2,
+      "rate_global": 0.99,
+      "rate_group": 0.23
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "FRAME ARMS GIRL-猎刃",
+      "vote": 2,
+      "rate_global": 0.99,
+      "rate_group": 0.23
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "格莱普尼尔-加贺谷修一",
+      "vote": 2,
+      "rate_global": 0.99,
+      "rate_group": 0.23
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "向阳素描-宫子",
+      "vote": 2,
+      "rate_global": 0.99,
+      "rate_group": 0.23
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "虚构推理-樱川九郎",
+      "vote": 2,
+      "rate_global": 0.99,
+      "rate_group": 0.23
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "GOSICK-赛西尔·拉斐特",
+      "vote": 1,
+      "rate_global": 0.49,
+      "rate_group": 0.12
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "白色相簿2-早坂亲志",
+      "vote": 1,
+      "rate_global": 0.49,
+      "rate_group": 0.12
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "公主连结Re Dive-查理",
+      "vote": 1,
+      "rate_global": 0.49,
+      "rate_group": 0.12
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "玉子市场-朝雾史织",
+      "vote": 1,
+      "rate_global": 0.49,
+      "rate_group": 0.12
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "宅男腐女恋爱真难-桃濑成海",
+      "vote": 1,
+      "rate_global": 0.49,
+      "rate_group": 0.12
+    },
+    {
+      "group": 1,
+      "rank": 36,
+      "name": "半兽人的烦恼-名乐羌子",
+      "vote": 0,
+      "rate_global": 0.0,
+      "rate_group": 0.0
+    },
+    {
+      "group": 1,
+      "rank": 37,
+      "name": "半兽人的烦恼-犬养未散",
+      "vote": 0,
+      "rate_global": 0.0,
+      "rate_group": 0.0
+    },
+    {
+      "group": 1,
+      "rank": 38,
+      "name": "半兽人的烦恼-朱池美津代",
+      "vote": 0,
+      "rate_global": 0.0,
+      "rate_group": 0.0
+    },
+    {
+      "group": 1,
+      "rank": 39,
+      "name": "女学 圣女斯克威尔学院-原田都爱",
+      "vote": 0,
+      "rate_global": 0.0,
+      "rate_group": 0.0
+    },
+    {
+      "group": 1,
+      "rank": 40,
+      "name": "水果篮子-鱼谷亚里纱",
+      "vote": 0,
+      "rate_global": 0.0,
+      "rate_group": 0.0
+    },
+    {
+      "group": 1,
+      "rank": 41,
+      "name": "玉子市场-北白川福",
+      "vote": 0,
+      "rate_global": 0.0,
+      "rate_group": 0.0
+    },
+    {
+      "group": 1,
+      "rank": 42,
+      "name": "租借女友-木之下和也",
+      "vote": 0,
+      "rate_global": 0.0,
+      "rate_group": 0.0
+    }
+  ]
 }

@@ -1,41 +1,41 @@
 {
-    "name": "半决赛",
-    "time": "2017-09-16 23:00:00",
-    "voter": 605,
-    "last_time": "2017-09-16 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "Love Live Sunshine-渡边曜",
-            "vote": 323,
-            "rate_global": 53.39,
-            "rate_group": 57.78
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "Rewrite-神户小鸟",
-            "vote": 236,
-            "rate_global": 39.01,
-            "rate_group": 42.22
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "魔法少女小圆-美树沙耶香",
-            "vote": 239,
-            "rate_global": 39.5,
-            "rate_group": 62.73
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "中二病也要谈恋爱-七宫智音",
-            "vote": 142,
-            "rate_global": 23.47,
-            "rate_group": 37.27
-        }
-    ]
+  "name": "半决赛",
+  "time": "2017-09-16 23:00:00",
+  "voter": 605,
+  "last_time": "2017-09-16 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "Love Live Sunshine-渡边曜",
+      "vote": 323,
+      "rate_global": 53.39,
+      "rate_group": 57.78
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "Rewrite-神户小鸟",
+      "vote": 236,
+      "rate_global": 39.01,
+      "rate_group": 42.22
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "魔法少女小圆-美树沙耶香",
+      "vote": 239,
+      "rate_global": 39.5,
+      "rate_group": 62.73
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "中二病也要谈恋爱-七宫智音",
+      "vote": 142,
+      "rate_global": 23.47,
+      "rate_group": 37.27
+    }
+  ]
 }

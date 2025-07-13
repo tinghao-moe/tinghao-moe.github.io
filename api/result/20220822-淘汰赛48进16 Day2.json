@@ -1,105 +1,105 @@
 {
-    "name": "淘汰赛48进16 Day2",
-    "time": "2022-08-22 23:00:00",
-    "voter": 363,
-    "last_time": "2022-08-22 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "寒蝉鸣泣之时-北条沙都子",
-            "vote": 194,
-            "rate_global": 53.5,
-            "rate_group": 63.19
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "Love Live 虹咲-近江彼方",
-            "vote": 64,
-            "rate_global": 17.6,
-            "rate_group": 20.85
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "Love Live 虹咲-宫下爱",
-            "vote": 49,
-            "rate_global": 13.5,
-            "rate_group": 15.96
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "魔法纪录-黑江",
-            "vote": 195,
-            "rate_global": 53.8,
-            "rate_group": 58.73
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "Lycoris Recoil-锦木千束",
-            "vote": 82,
-            "rate_global": 22.6,
-            "rate_group": 24.7
-        },
-        {
-            "group": 2,
-            "rank": 3,
-            "name": "Love Live 虹咲-副会长",
-            "vote": 55,
-            "rate_global": 15.1,
-            "rate_group": 16.57
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "Love Live 虹咲-优木雪菜",
-            "vote": 208,
-            "rate_global": 57.4,
-            "rate_group": 60.29
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "魔法纪录-由比鹤乃",
-            "vote": 100,
-            "rate_global": 27.6,
-            "rate_group": 28.99
-        },
-        {
-            "group": 3,
-            "rank": 3,
-            "name": "少女歌剧-花柳香子",
-            "vote": 37,
-            "rate_global": 10.2,
-            "rate_group": 10.72
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "结城友奈是勇者-高岛友奈",
-            "vote": 161,
-            "rate_global": 44.4,
-            "rate_group": 47.35
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "Love Live 虹咲-三船栞子",
-            "vote": 129,
-            "rate_global": 35.6,
-            "rate_group": 37.94
-        },
-        {
-            "group": 4,
-            "rank": 3,
-            "name": "魔法纪录-七海八千代",
-            "vote": 50,
-            "rate_global": 13.8,
-            "rate_group": 14.71
-        }
-    ]
+  "name": "淘汰赛48进16 Day2",
+  "time": "2022-08-22 23:00:00",
+  "voter": 363,
+  "last_time": "2022-08-22 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "寒蝉鸣泣之时-北条沙都子",
+      "vote": 194,
+      "rate_global": 53.5,
+      "rate_group": 63.19
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "Love Live 虹咲-近江彼方",
+      "vote": 64,
+      "rate_global": 17.6,
+      "rate_group": 20.85
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "Love Live 虹咲-宫下爱",
+      "vote": 49,
+      "rate_global": 13.5,
+      "rate_group": 15.96
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "魔法纪录-黑江",
+      "vote": 195,
+      "rate_global": 53.8,
+      "rate_group": 58.73
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "Lycoris Recoil-锦木千束",
+      "vote": 82,
+      "rate_global": 22.6,
+      "rate_group": 24.7
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "Love Live 虹咲-副会长",
+      "vote": 55,
+      "rate_global": 15.1,
+      "rate_group": 16.57
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "Love Live 虹咲-优木雪菜",
+      "vote": 208,
+      "rate_global": 57.4,
+      "rate_group": 60.29
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "魔法纪录-由比鹤乃",
+      "vote": 100,
+      "rate_global": 27.6,
+      "rate_group": 28.99
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "少女歌剧-花柳香子",
+      "vote": 37,
+      "rate_global": 10.2,
+      "rate_group": 10.72
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "结城友奈是勇者-高岛友奈",
+      "vote": 161,
+      "rate_global": 44.4,
+      "rate_group": 47.35
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "Love Live 虹咲-三船栞子",
+      "vote": 129,
+      "rate_global": 35.6,
+      "rate_group": 37.94
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "魔法纪录-七海八千代",
+      "vote": 50,
+      "rate_global": 13.8,
+      "rate_group": 14.71
+    }
+  ]
 }

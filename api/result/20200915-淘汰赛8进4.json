@@ -1,73 +1,73 @@
 {
-    "name": "淘汰赛8进4",
-    "time": "2020-09-15 23:00:00",
-    "voter": 352,
-    "last_time": "2020-09-15 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "利兹与青鸟-伞木希美",
-            "vote": 154,
-            "rate_global": 43.75,
-            "rate_group": 50.16
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "天使降临我身边-姬坂乃爱",
-            "vote": 153,
-            "rate_global": 43.47,
-            "rate_group": 49.84
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "魔法纪录-由比鹤乃",
-            "vote": 175,
-            "rate_global": 49.72,
-            "rate_group": 60.98
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "少女歌剧-大场奈奈",
-            "vote": 112,
-            "rate_global": 31.82,
-            "rate_group": 39.02
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "赛马娘-草上飞",
-            "vote": 177,
-            "rate_global": 50.28,
-            "rate_group": 55.84
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "魔法纪录-环彩羽",
-            "vote": 140,
-            "rate_global": 39.77,
-            "rate_group": 44.16
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "满月之战-小日向满月",
-            "vote": 182,
-            "rate_global": 51.7,
-            "rate_group": 70.27
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "街角魔族-千代田桃",
-            "vote": 77,
-            "rate_global": 21.88,
-            "rate_group": 29.73
-        }
-    ]
+  "name": "淘汰赛8进4",
+  "time": "2020-09-15 23:00:00",
+  "voter": 352,
+  "last_time": "2020-09-15 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "利兹与青鸟-伞木希美",
+      "vote": 154,
+      "rate_global": 43.75,
+      "rate_group": 50.16
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "天使降临我身边-姬坂乃爱",
+      "vote": 153,
+      "rate_global": 43.47,
+      "rate_group": 49.84
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "魔法纪录-由比鹤乃",
+      "vote": 175,
+      "rate_global": 49.72,
+      "rate_group": 60.98
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "少女歌剧-大场奈奈",
+      "vote": 112,
+      "rate_global": 31.82,
+      "rate_group": 39.02
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "赛马娘-草上飞",
+      "vote": 177,
+      "rate_global": 50.28,
+      "rate_group": 55.84
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "魔法纪录-环彩羽",
+      "vote": 140,
+      "rate_global": 39.77,
+      "rate_group": 44.16
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "满月之战-小日向满月",
+      "vote": 182,
+      "rate_global": 51.7,
+      "rate_group": 70.27
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "街角魔族-千代田桃",
+      "vote": 77,
+      "rate_global": 21.88,
+      "rate_group": 29.73
+    }
+  ]
 }

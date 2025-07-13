@@ -1,217 +1,217 @@
 {
-    "name": "海选赛day10",
-    "time": "2017-09-06 23:00:00",
-    "voter": 303,
-    "last_time": "2017-09-06 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "我的妹妹是黄漫老师-山田妖精",
-            "vote": 165,
-            "rate_global": 54.46,
-            "rate_group": 13.46
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "魔法少女小圆-晓美焰",
-            "vote": 145,
-            "rate_global": 47.85,
-            "rate_group": 11.83
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "Princess Principal-安洁",
-            "vote": 120,
-            "rate_global": 39.6,
-            "rate_group": 9.79
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "旋风管家-桂雏菊",
-            "vote": 105,
-            "rate_global": 34.65,
-            "rate_group": 8.56
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "NEW GAME-泷本日富美",
-            "vote": 89,
-            "rate_global": 29.37,
-            "rate_group": 7.26
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "小魔女学园-厄休拉（闪光夏利奥）",
-            "vote": 86,
-            "rate_global": 28.38,
-            "rate_group": 7.01
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "Re:CREATORS-赛蕾嘉.尤比缇利亚",
-            "vote": 67,
-            "rate_global": 22.11,
-            "rate_group": 5.46
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "Love Live Sunshine-樱内梨子",
-            "vote": 62,
-            "rate_global": 20.46,
-            "rate_group": 5.06
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "冰菓-伊原摩耶花",
-            "vote": 59,
-            "rate_global": 19.47,
-            "rate_group": 4.81
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "中二病也要谈恋爱-凸守早苗",
-            "vote": 58,
-            "rate_global": 19.14,
-            "rate_group": 4.73
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "珈百璃的堕落-月乃濑·薇奈特·艾普莉尔",
-            "vote": 46,
-            "rate_global": 15.18,
-            "rate_group": 3.75
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "少女编号-苑生百花",
-            "vote": 44,
-            "rate_global": 14.52,
-            "rate_group": 3.59
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "终末的伊泽塔-比安卡",
-            "vote": 44,
-            "rate_global": 14.52,
-            "rate_group": 3.59
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "数码宝贝tri-武之内空（素娜）",
-            "vote": 29,
-            "rate_global": 9.57,
-            "rate_group": 2.37
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "Little Busters!-能美·库特莉亚芙卡",
-            "vote": 26,
-            "rate_global": 8.58,
-            "rate_group": 2.12
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "魔法使光之美少女！-毛芙伦",
-            "vote": 16,
-            "rate_global": 5.28,
-            "rate_group": 1.31
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "日常-相生佑子",
-            "vote": 15,
-            "rate_global": 4.95,
-            "rate_group": 1.22
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "笨女孩-花畑佳子",
-            "vote": 13,
-            "rate_global": 4.29,
-            "rate_group": 1.06
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "FRESH光之美少女！-苍乃美希",
-            "vote": 10,
-            "rate_global": 3.3,
-            "rate_group": 0.82
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "光之美少女Suite-黑川爱莲",
-            "vote": 8,
-            "rate_global": 2.64,
-            "rate_group": 0.65
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "光之美少女All Stars New Stage:未来的朋友光之美-坂上步美",
-            "vote": 7,
-            "rate_global": 2.31,
-            "rate_group": 0.57
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "Campione弑神者！-莉莉娅娜",
-            "vote": 4,
-            "rate_global": 1.32,
-            "rate_group": 0.33
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "FRESH光之美少女！-东刹那",
-            "vote": 3,
-            "rate_global": 0.99,
-            "rate_group": 0.24
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "美妙天堂-真中啦啦",
-            "vote": 2,
-            "rate_global": 0.66,
-            "rate_group": 0.16
-        },
-        {
-            "group": 1,
-            "rank": 25,
-            "name": "秋叶原之旅-传木凯俄",
-            "vote": 2,
-            "rate_global": 0.66,
-            "rate_group": 0.16
-        },
-        {
-            "group": 1,
-            "rank": 26,
-            "name": "偶像活动-冰上堇",
-            "vote": 1,
-            "rate_global": 0.33,
-            "rate_group": 0.08
-        }
-    ]
+  "name": "海选赛day10",
+  "time": "2017-09-06 23:00:00",
+  "voter": 303,
+  "last_time": "2017-09-06 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "我的妹妹是黄漫老师-山田妖精",
+      "vote": 165,
+      "rate_global": 54.46,
+      "rate_group": 13.46
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "魔法少女小圆-晓美焰",
+      "vote": 145,
+      "rate_global": 47.85,
+      "rate_group": 11.83
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "Princess Principal-安洁",
+      "vote": 120,
+      "rate_global": 39.6,
+      "rate_group": 9.79
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "旋风管家-桂雏菊",
+      "vote": 105,
+      "rate_global": 34.65,
+      "rate_group": 8.56
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "NEW GAME-泷本日富美",
+      "vote": 89,
+      "rate_global": 29.37,
+      "rate_group": 7.26
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "小魔女学园-厄休拉（闪光夏利奥）",
+      "vote": 86,
+      "rate_global": 28.38,
+      "rate_group": 7.01
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "Re:CREATORS-赛蕾嘉.尤比缇利亚",
+      "vote": 67,
+      "rate_global": 22.11,
+      "rate_group": 5.46
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "Love Live Sunshine-樱内梨子",
+      "vote": 62,
+      "rate_global": 20.46,
+      "rate_group": 5.06
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "冰菓-伊原摩耶花",
+      "vote": 59,
+      "rate_global": 19.47,
+      "rate_group": 4.81
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "中二病也要谈恋爱-凸守早苗",
+      "vote": 58,
+      "rate_global": 19.14,
+      "rate_group": 4.73
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "珈百璃的堕落-月乃濑·薇奈特·艾普莉尔",
+      "vote": 46,
+      "rate_global": 15.18,
+      "rate_group": 3.75
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "少女编号-苑生百花",
+      "vote": 44,
+      "rate_global": 14.52,
+      "rate_group": 3.59
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "终末的伊泽塔-比安卡",
+      "vote": 44,
+      "rate_global": 14.52,
+      "rate_group": 3.59
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "数码宝贝tri-武之内空（素娜）",
+      "vote": 29,
+      "rate_global": 9.57,
+      "rate_group": 2.37
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "Little Busters!-能美·库特莉亚芙卡",
+      "vote": 26,
+      "rate_global": 8.58,
+      "rate_group": 2.12
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "魔法使光之美少女！-毛芙伦",
+      "vote": 16,
+      "rate_global": 5.28,
+      "rate_group": 1.31
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "日常-相生佑子",
+      "vote": 15,
+      "rate_global": 4.95,
+      "rate_group": 1.22
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "笨女孩-花畑佳子",
+      "vote": 13,
+      "rate_global": 4.29,
+      "rate_group": 1.06
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "FRESH光之美少女！-苍乃美希",
+      "vote": 10,
+      "rate_global": 3.3,
+      "rate_group": 0.82
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "光之美少女Suite-黑川爱莲",
+      "vote": 8,
+      "rate_global": 2.64,
+      "rate_group": 0.65
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "光之美少女All Stars New Stage:未来的朋友光之美-坂上步美",
+      "vote": 7,
+      "rate_global": 2.31,
+      "rate_group": 0.57
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "Campione弑神者！-莉莉娅娜",
+      "vote": 4,
+      "rate_global": 1.32,
+      "rate_group": 0.33
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "FRESH光之美少女！-东刹那",
+      "vote": 3,
+      "rate_global": 0.99,
+      "rate_group": 0.24
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "美妙天堂-真中啦啦",
+      "vote": 2,
+      "rate_global": 0.66,
+      "rate_group": 0.16
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "秋叶原之旅-传木凯俄",
+      "vote": 2,
+      "rate_global": 0.66,
+      "rate_group": 0.16
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "偶像活动-冰上堇",
+      "vote": 1,
+      "rate_global": 0.33,
+      "rate_group": 0.08
+    }
+  ]
 }

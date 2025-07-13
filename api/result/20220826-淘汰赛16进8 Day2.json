@@ -1,73 +1,73 @@
 {
-    "name": "淘汰赛16进8 Day2",
-    "time": "2022-08-26 23:00:00",
-    "voter": 404,
-    "last_time": "2022-08-26 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "安达与岛村-樽见",
-            "vote": 230,
-            "rate_global": 57.0,
-            "rate_group": 63.19
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "突击莉莉-枫·J·努韦尔",
-            "vote": 134,
-            "rate_global": 33.2,
-            "rate_group": 36.81
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "Love Live 虹咲-钟岚珠",
-            "vote": 276,
-            "rate_global": 68.4,
-            "rate_group": 73.99
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "slow loop-吉永恋",
-            "vote": 97,
-            "rate_global": 24.0,
-            "rate_group": 26.01
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "处刑少女的生存之道-茉茉",
-            "vote": 280,
-            "rate_global": 69.4,
-            "rate_group": 74.07
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "Love Live 虹咲-米娅泰勒",
-            "vote": 98,
-            "rate_global": 24.3,
-            "rate_group": 25.93
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "Love Live 虹咲-樱坂雫",
-            "vote": 228,
-            "rate_global": 56.5,
-            "rate_group": 64.96
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "街角魔族-吉田优子",
-            "vote": 123,
-            "rate_global": 30.5,
-            "rate_group": 35.04
-        }
-    ]
+  "name": "淘汰赛16进8 Day2",
+  "time": "2022-08-26 23:00:00",
+  "voter": 404,
+  "last_time": "2022-08-26 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "安达与岛村-樽见",
+      "vote": 230,
+      "rate_global": 57.0,
+      "rate_group": 63.19
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "突击莉莉-枫·J·努韦尔",
+      "vote": 134,
+      "rate_global": 33.2,
+      "rate_group": 36.81
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "Love Live 虹咲-钟岚珠",
+      "vote": 276,
+      "rate_global": 68.4,
+      "rate_group": 73.99
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "slow loop-吉永恋",
+      "vote": 97,
+      "rate_global": 24.0,
+      "rate_group": 26.01
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "处刑少女的生存之道-茉茉",
+      "vote": 280,
+      "rate_global": 69.4,
+      "rate_group": 74.07
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "Love Live 虹咲-米娅泰勒",
+      "vote": 98,
+      "rate_global": 24.3,
+      "rate_group": 25.93
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "Love Live 虹咲-樱坂雫",
+      "vote": 228,
+      "rate_global": 56.5,
+      "rate_group": 64.96
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "街角魔族-吉田优子",
+      "vote": 123,
+      "rate_global": 30.5,
+      "rate_group": 35.04
+    }
+  ]
 }

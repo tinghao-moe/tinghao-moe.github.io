@@ -1,73 +1,73 @@
 {
-    "name": "淘汰赛16进8 Day1",
-    "time": "2021-09-13 23:00:00",
-    "voter": 465,
-    "last_time": "2021-09-13 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "Love Live Superstar-唐可可",
-            "vote": 249,
-            "rate_global": 53.55,
-            "rate_group": 59.71
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "悠哉日常大王-蜜柑",
-            "vote": 168,
-            "rate_global": 36.13,
-            "rate_group": 40.29
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "魔法纪录-梓美冬",
-            "vote": 261,
-            "rate_global": 56.13,
-            "rate_group": 62.14
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "突击莉莉-枫·J·努韦尔",
-            "vote": 159,
-            "rate_global": 34.19,
-            "rate_group": 37.86
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "赛马娘-优秀素质",
-            "vote": 287,
-            "rate_global": 61.72,
-            "rate_group": 65.68
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "少女歌剧-土豆",
-            "vote": 150,
-            "rate_global": 32.26,
-            "rate_group": 34.32
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "利兹与青鸟-伞木希美",
-            "vote": 208,
-            "rate_global": 44.73,
-            "rate_group": 52.93
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "街角魔族-阳夏木蜜柑",
-            "vote": 185,
-            "rate_global": 39.78,
-            "rate_group": 47.07
-        }
-    ]
+  "name": "淘汰赛16进8 Day1",
+  "time": "2021-09-13 23:00:00",
+  "voter": 465,
+  "last_time": "2021-09-13 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "Love Live Superstar-唐可可",
+      "vote": 249,
+      "rate_global": 53.55,
+      "rate_group": 59.71
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "悠哉日常大王-蜜柑",
+      "vote": 168,
+      "rate_global": 36.13,
+      "rate_group": 40.29
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "魔法纪录-梓美冬",
+      "vote": 261,
+      "rate_global": 56.13,
+      "rate_group": 62.14
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "突击莉莉-枫·J·努韦尔",
+      "vote": 159,
+      "rate_global": 34.19,
+      "rate_group": 37.86
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "赛马娘-优秀素质",
+      "vote": 287,
+      "rate_global": 61.72,
+      "rate_group": 65.68
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "少女歌剧-土豆",
+      "vote": 150,
+      "rate_global": 32.26,
+      "rate_group": 34.32
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "利兹与青鸟-伞木希美",
+      "vote": 208,
+      "rate_global": 44.73,
+      "rate_group": 52.93
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "街角魔族-阳夏木蜜柑",
+      "vote": 185,
+      "rate_global": 39.78,
+      "rate_group": 47.07
+    }
+  ]
 }

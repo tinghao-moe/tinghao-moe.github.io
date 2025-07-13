@@ -1,73 +1,73 @@
 {
-    "name": "淘汰赛16进8 Day1",
-    "time": "2023-08-22 23:00:00",
-    "voter": 871,
-    "last_time": "2023-08-22 22:59",
-    "last_floor": 1110,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "World Dai Star-卡特莉娜",
-            "vote": 447,
-            "rate_global": 51.32,
-            "rate_group": 59.28
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "魔法纪录-七海八千代",
-            "vote": 307,
-            "rate_global": 35.25,
-            "rate_group": 40.72
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "BanG Dream! It's MyGO!!!!!-丰川祥子",
-            "vote": 699,
-            "rate_global": 80.25,
-            "rate_group": 84.93
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "孤独摇滚-伊地知虹夏",
-            "vote": 124,
-            "rate_global": 14.24,
-            "rate_group": 15.07
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "BanG Dream! It's MyGO!!!!!-千早爱音",
-            "vote": 680,
-            "rate_global": 78.07,
-            "rate_group": 81.34
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "结城友奈是勇者-郡千景",
-            "vote": 156,
-            "rate_global": 17.91,
-            "rate_group": 18.66
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "BanG Dream! It's MyGO!!!!!-高松灯",
-            "vote": 562,
-            "rate_global": 64.52,
-            "rate_group": 68.96
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "BanG Dream! It's MyGO!!!!!-三角初华",
-            "vote": 253,
-            "rate_global": 29.05,
-            "rate_group": 31.04
-        }
-    ]
+  "name": "淘汰赛16进8 Day1",
+  "time": "2023-08-22 23:00:00",
+  "voter": 871,
+  "last_time": "2023-08-22 22:59",
+  "last_floor": 1110,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "World Dai Star-卡特莉娜",
+      "vote": 447,
+      "rate_global": 51.32,
+      "rate_group": 59.28
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "魔法纪录-七海八千代",
+      "vote": 307,
+      "rate_global": 35.25,
+      "rate_group": 40.72
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-丰川祥子",
+      "vote": 699,
+      "rate_global": 80.25,
+      "rate_group": 84.93
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "孤独摇滚-伊地知虹夏",
+      "vote": 124,
+      "rate_global": 14.24,
+      "rate_group": 15.07
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-千早爱音",
+      "vote": 680,
+      "rate_global": 78.07,
+      "rate_group": 81.34
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "结城友奈是勇者-郡千景",
+      "vote": 156,
+      "rate_global": 17.91,
+      "rate_group": 18.66
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "BanG Dream! It's MyGO!!!!!-高松灯",
+      "vote": 562,
+      "rate_global": 64.52,
+      "rate_group": 68.96
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "BanG Dream! It's MyGO!!!!!-三角初华",
+      "vote": 253,
+      "rate_global": 29.05,
+      "rate_group": 31.04
+    }
+  ]
 }

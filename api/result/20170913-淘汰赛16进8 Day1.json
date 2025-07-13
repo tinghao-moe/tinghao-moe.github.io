@@ -1,73 +1,73 @@
 {
-    "name": "淘汰赛16进8 Day1",
-    "time": "2017-09-13 23:00:00",
-    "voter": 452,
-    "last_time": "2017-09-13 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "我的妹妹不可能这么可爱-五更琉璃（黑猫）",
-            "vote": 187,
-            "rate_global": 41.37,
-            "rate_group": 50.4
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "路人女主的养成方法-英梨梨",
-            "vote": 184,
-            "rate_global": 40.71,
-            "rate_group": 49.6
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "魔法少女小圆-美树沙耶香",
-            "vote": 281,
-            "rate_global": 62.17,
-            "rate_group": 81.69
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "少女编号-乌丸千岁",
-            "vote": 63,
-            "rate_global": 13.94,
-            "rate_group": 18.31
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "Love Live Sunshine-渡边曜",
-            "vote": 261,
-            "rate_global": 57.74,
-            "rate_group": 66.24
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "我的青春恋爱物语果然有问题-由比滨结衣",
-            "vote": 133,
-            "rate_global": 29.42,
-            "rate_group": 33.76
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "白色相簿2-小木曾雪菜",
-            "vote": 251,
-            "rate_global": 55.53,
-            "rate_group": 75.15
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "高校舰队-纳沙幸子",
-            "vote": 83,
-            "rate_global": 18.36,
-            "rate_group": 24.85
-        }
-    ]
+  "name": "淘汰赛16进8 Day1",
+  "time": "2017-09-13 23:00:00",
+  "voter": 452,
+  "last_time": "2017-09-13 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "我的妹妹不可能这么可爱-五更琉璃（黑猫）",
+      "vote": 187,
+      "rate_global": 41.37,
+      "rate_group": 50.4
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "路人女主的养成方法-英梨梨",
+      "vote": 184,
+      "rate_global": 40.71,
+      "rate_group": 49.6
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "魔法少女小圆-美树沙耶香",
+      "vote": 281,
+      "rate_global": 62.17,
+      "rate_group": 81.69
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "少女编号-乌丸千岁",
+      "vote": 63,
+      "rate_global": 13.94,
+      "rate_group": 18.31
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "Love Live Sunshine-渡边曜",
+      "vote": 261,
+      "rate_global": 57.74,
+      "rate_group": 66.24
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "我的青春恋爱物语果然有问题-由比滨结衣",
+      "vote": 133,
+      "rate_global": 29.42,
+      "rate_group": 33.76
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "白色相簿2-小木曾雪菜",
+      "vote": 251,
+      "rate_global": 55.53,
+      "rate_group": 75.15
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "高校舰队-纳沙幸子",
+      "vote": 83,
+      "rate_global": 18.36,
+      "rate_group": 24.85
+    }
+  ]
 }

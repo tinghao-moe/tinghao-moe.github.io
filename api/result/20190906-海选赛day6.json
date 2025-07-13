@@ -1,289 +1,289 @@
 {
-    "name": "海选赛day6",
-    "time": "2019-09-06 23:00:00",
-    "voter": 224,
-    "last_time": "2019-09-06 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "皿三昧-阵内燕太",
-            "vote": 111,
-            "rate_global": 49.55,
-            "rate_group": 11.04
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "天使降临我身边-星野日向",
-            "vote": 97,
-            "rate_global": 43.3,
-            "rate_group": 9.65
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "NEW GAME-远山伦",
-            "vote": 84,
-            "rate_global": 37.5,
-            "rate_group": 8.36
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "向山进发-仓上日向",
-            "vote": 84,
-            "rate_global": 37.5,
-            "rate_group": 8.36
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "龙与虎-栉枝实乃梨",
-            "vote": 81,
-            "rate_global": 36.16,
-            "rate_group": 8.06
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "Re:从零开始的异世界生活-蕾姆",
-            "vote": 61,
-            "rate_global": 27.23,
-            "rate_group": 6.07
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "CLANNAD-坂上智代",
-            "vote": 53,
-            "rate_global": 23.66,
-            "rate_group": 5.27
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "青春猪头少年-古贺朋绘",
-            "vote": 53,
-            "rate_global": 23.66,
-            "rate_group": 5.27
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "终将成为你-小糸侑",
-            "vote": 45,
-            "rate_global": 20.09,
-            "rate_group": 4.48
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "五等分的花嫁-中野一花",
-            "vote": 42,
-            "rate_global": 18.75,
-            "rate_group": 4.18
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "利兹与青鸟-剑崎梨梨花",
-            "vote": 38,
-            "rate_global": 16.96,
-            "rate_group": 3.78
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "来自多彩世界的明天-风野浅葱",
-            "vote": 27,
-            "rate_global": 12.05,
-            "rate_group": 2.69
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "终将成为你-日向朱里",
-            "vote": 25,
-            "rate_global": 11.16,
-            "rate_group": 2.49
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "一个人的OO小日子-一里波奇",
-            "vote": 25,
-            "rate_global": 11.16,
-            "rate_group": 2.49
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "Mysteria Friends-古蕾娅",
-            "vote": 22,
-            "rate_global": 9.82,
-            "rate_group": 2.19
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "辉夜大小姐想让我告白-四宫辉夜",
-            "vote": 18,
-            "rate_global": 8.04,
-            "rate_group": 1.79
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "来自多彩世界的明天-月白瞳美",
-            "vote": 17,
-            "rate_global": 7.59,
-            "rate_group": 1.69
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "我们无法一起学习-武元润香",
-            "vote": 16,
-            "rate_global": 7.14,
-            "rate_group": 1.59
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "Star Twinkle光之美少女-星奈光",
-            "vote": 15,
-            "rate_global": 6.7,
-            "rate_group": 1.49
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "我们无法一起学习-小美浪爱澄",
-            "vote": 13,
-            "rate_global": 5.8,
-            "rate_group": 1.29
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "约会大作战-四糸乃",
-            "vote": 11,
-            "rate_global": 4.91,
-            "rate_group": 1.09
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "我们无法一起学习-唯我水希",
-            "vote": 11,
-            "rate_global": 4.91,
-            "rate_group": 1.09
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "潜行吧奈亚子-暮井珠绪",
-            "vote": 10,
-            "rate_global": 4.46,
-            "rate_group": 1.0
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "YU-NO-结城正胜",
-            "vote": 7,
-            "rate_global": 3.12,
-            "rate_group": 0.7
-        },
-        {
-            "group": 1,
-            "rank": 25,
-            "name": "哥布林杀手-牧牛妹",
-            "vote": 6,
-            "rate_global": 2.68,
-            "rate_group": 0.6
-        },
-        {
-            "group": 1,
-            "rank": 26,
-            "name": "我的英雄学院-绿谷出久",
-            "vote": 5,
-            "rate_global": 2.23,
-            "rate_group": 0.5
-        },
-        {
-            "group": 1,
-            "rank": 27,
-            "name": "魔卡少女樱-诗之本秋穗",
-            "vote": 5,
-            "rate_global": 2.23,
-            "rate_group": 0.5
-        },
-        {
-            "group": 1,
-            "rank": 28,
-            "name": "调教咖啡厅-迪诺",
-            "vote": 4,
-            "rate_global": 1.79,
-            "rate_group": 0.4
-        },
-        {
-            "group": 1,
-            "rank": 29,
-            "name": "青酱不能学习-堀江青",
-            "vote": 4,
-            "rate_global": 1.79,
-            "rate_group": 0.4
-        },
-        {
-            "group": 1,
-            "rank": 30,
-            "name": "叛逆性百万亚瑟王-纳克拉维",
-            "vote": 3,
-            "rate_global": 1.34,
-            "rate_group": 0.3
-        },
-        {
-            "group": 1,
-            "rank": 31,
-            "name": "为什么老师会在这里-儿岛加奈",
-            "vote": 3,
-            "rate_global": 1.34,
-            "rate_group": 0.3
-        },
-        {
-            "group": 1,
-            "rank": 32,
-            "name": "流汗吧！健身少女-立花里美",
-            "vote": 3,
-            "rate_global": 1.34,
-            "rate_group": 0.3
-        },
-        {
-            "group": 1,
-            "rank": 33,
-            "name": "女神异闻录5-新岛真",
-            "vote": 2,
-            "rate_global": 0.89,
-            "rate_group": 0.2
-        },
-        {
-            "group": 1,
-            "rank": 34,
-            "name": "YU-NO-有马拓也",
-            "vote": 2,
-            "rate_global": 0.89,
-            "rate_group": 0.2
-        },
-        {
-            "group": 1,
-            "rank": 35,
-            "name": "异世界超能魔术师-吾妻凛",
-            "vote": 2,
-            "rate_global": 0.89,
-            "rate_group": 0.2
-        }
-    ]
+  "name": "海选赛day6",
+  "time": "2019-09-06 23:00:00",
+  "voter": 224,
+  "last_time": "2019-09-06 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "皿三昧-阵内燕太",
+      "vote": 111,
+      "rate_global": 49.55,
+      "rate_group": 11.04
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "天使降临我身边-星野日向",
+      "vote": 97,
+      "rate_global": 43.3,
+      "rate_group": 9.65
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "NEW GAME-远山伦",
+      "vote": 84,
+      "rate_global": 37.5,
+      "rate_group": 8.36
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "向山进发-仓上日向",
+      "vote": 84,
+      "rate_global": 37.5,
+      "rate_group": 8.36
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "龙与虎-栉枝实乃梨",
+      "vote": 81,
+      "rate_global": 36.16,
+      "rate_group": 8.06
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "Re:从零开始的异世界生活-蕾姆",
+      "vote": 61,
+      "rate_global": 27.23,
+      "rate_group": 6.07
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "CLANNAD-坂上智代",
+      "vote": 53,
+      "rate_global": 23.66,
+      "rate_group": 5.27
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "青春猪头少年-古贺朋绘",
+      "vote": 53,
+      "rate_global": 23.66,
+      "rate_group": 5.27
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "终将成为你-小糸侑",
+      "vote": 45,
+      "rate_global": 20.09,
+      "rate_group": 4.48
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "五等分的花嫁-中野一花",
+      "vote": 42,
+      "rate_global": 18.75,
+      "rate_group": 4.18
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "利兹与青鸟-剑崎梨梨花",
+      "vote": 38,
+      "rate_global": 16.96,
+      "rate_group": 3.78
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "来自多彩世界的明天-风野浅葱",
+      "vote": 27,
+      "rate_global": 12.05,
+      "rate_group": 2.69
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "终将成为你-日向朱里",
+      "vote": 25,
+      "rate_global": 11.16,
+      "rate_group": 2.49
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "一个人的OO小日子-一里波奇",
+      "vote": 25,
+      "rate_global": 11.16,
+      "rate_group": 2.49
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "Mysteria Friends-古蕾娅",
+      "vote": 22,
+      "rate_global": 9.82,
+      "rate_group": 2.19
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "辉夜大小姐想让我告白-四宫辉夜",
+      "vote": 18,
+      "rate_global": 8.04,
+      "rate_group": 1.79
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "来自多彩世界的明天-月白瞳美",
+      "vote": 17,
+      "rate_global": 7.59,
+      "rate_group": 1.69
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "我们无法一起学习-武元润香",
+      "vote": 16,
+      "rate_global": 7.14,
+      "rate_group": 1.59
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "Star Twinkle光之美少女-星奈光",
+      "vote": 15,
+      "rate_global": 6.7,
+      "rate_group": 1.49
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "我们无法一起学习-小美浪爱澄",
+      "vote": 13,
+      "rate_global": 5.8,
+      "rate_group": 1.29
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "约会大作战-四糸乃",
+      "vote": 11,
+      "rate_global": 4.91,
+      "rate_group": 1.09
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "我们无法一起学习-唯我水希",
+      "vote": 11,
+      "rate_global": 4.91,
+      "rate_group": 1.09
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "潜行吧奈亚子-暮井珠绪",
+      "vote": 10,
+      "rate_global": 4.46,
+      "rate_group": 1.0
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "YU-NO-结城正胜",
+      "vote": 7,
+      "rate_global": 3.12,
+      "rate_group": 0.7
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "哥布林杀手-牧牛妹",
+      "vote": 6,
+      "rate_global": 2.68,
+      "rate_group": 0.6
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "我的英雄学院-绿谷出久",
+      "vote": 5,
+      "rate_global": 2.23,
+      "rate_group": 0.5
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "魔卡少女樱-诗之本秋穗",
+      "vote": 5,
+      "rate_global": 2.23,
+      "rate_group": 0.5
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "调教咖啡厅-迪诺",
+      "vote": 4,
+      "rate_global": 1.79,
+      "rate_group": 0.4
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "青酱不能学习-堀江青",
+      "vote": 4,
+      "rate_global": 1.79,
+      "rate_group": 0.4
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "叛逆性百万亚瑟王-纳克拉维",
+      "vote": 3,
+      "rate_global": 1.34,
+      "rate_group": 0.3
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "为什么老师会在这里-儿岛加奈",
+      "vote": 3,
+      "rate_global": 1.34,
+      "rate_group": 0.3
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "流汗吧！健身少女-立花里美",
+      "vote": 3,
+      "rate_global": 1.34,
+      "rate_group": 0.3
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "女神异闻录5-新岛真",
+      "vote": 2,
+      "rate_global": 0.89,
+      "rate_group": 0.2
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "YU-NO-有马拓也",
+      "vote": 2,
+      "rate_global": 0.89,
+      "rate_group": 0.2
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "异世界超能魔术师-吾妻凛",
+      "vote": 2,
+      "rate_global": 0.89,
+      "rate_group": 0.2
+    }
+  ]
 }

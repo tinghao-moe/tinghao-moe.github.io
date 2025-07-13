@@ -1,217 +1,217 @@
 {
-    "name": "海选赛day4",
-    "time": "2017-08-31 23:00:00",
-    "voter": 425,
-    "last_time": "2017-08-31 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "魔法少女小圆-美树沙耶香",
-            "vote": 293,
-            "rate_global": 68.94,
-            "rate_group": 19.55
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "Princess Principal-公主",
-            "vote": 187,
-            "rate_global": 44.0,
-            "rate_group": 12.47
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "吹响！上低音号-高坂丽奈",
-            "vote": 145,
-            "rate_global": 34.12,
-            "rate_group": 9.67
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "小林家的龙女仆-托尔",
-            "vote": 120,
-            "rate_global": 28.24,
-            "rate_group": 8.01
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "吹响！上低音号-田中明日香",
-            "vote": 120,
-            "rate_global": 28.24,
-            "rate_group": 8.01
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "Fate/Zero-间桐雁夜",
-            "vote": 114,
-            "rate_global": 26.82,
-            "rate_group": 7.61
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "某科学的超电磁炮-佐天泪子",
-            "vote": 83,
-            "rate_global": 19.53,
-            "rate_group": 5.54
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "这个美术部有问题-宇佐美瑞希",
-            "vote": 80,
-            "rate_global": 18.82,
-            "rate_group": 5.34
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "摇曳百合-吉川千夏",
-            "vote": 42,
-            "rate_global": 9.88,
-            "rate_group": 2.8
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "名侦探柯南-毛利兰",
-            "vote": 40,
-            "rate_global": 9.41,
-            "rate_group": 2.67
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "白色相簿2-北原春希",
-            "vote": 38,
-            "rate_global": 8.94,
-            "rate_group": 2.54
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "天使的3P-鸟海樱花",
-            "vote": 36,
-            "rate_global": 8.47,
-            "rate_group": 2.4
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "我的英雄学院-丽日御茶子",
-            "vote": 32,
-            "rate_global": 7.53,
-            "rate_group": 2.13
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "七人魔法使-仓田唯",
-            "vote": 21,
-            "rate_global": 4.94,
-            "rate_group": 1.4
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "幸运星-小神晶",
-            "vote": 21,
-            "rate_global": 4.94,
-            "rate_group": 1.4
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "未确认进行式-夜之森小红",
-            "vote": 20,
-            "rate_global": 4.71,
-            "rate_group": 1.33
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "境界的彼方-神原秋人",
-            "vote": 19,
-            "rate_global": 4.47,
-            "rate_group": 1.27
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "动作女主 水果应援团-黑酒路子",
-            "vote": 18,
-            "rate_global": 4.24,
-            "rate_group": 1.2
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "数码宝贝最前线-源辉二",
-            "vote": 17,
-            "rate_global": 4.0,
-            "rate_group": 1.13
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "青之驱魔师-奥村雪男",
-            "vote": 12,
-            "rate_global": 2.82,
-            "rate_group": 0.8
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "雏逻辑-森谷夕子",
-            "vote": 8,
-            "rate_global": 1.88,
-            "rate_group": 0.53
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "火影忍者博人传-漩涡博人",
-            "vote": 8,
-            "rate_global": 1.88,
-            "rate_group": 0.53
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "名站探柯南-工藤有希子",
-            "vote": 8,
-            "rate_global": 1.88,
-            "rate_group": 0.53
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "光之美少女-九条光",
-            "vote": 7,
-            "rate_global": 1.65,
-            "rate_group": 0.47
-        },
-        {
-            "group": 1,
-            "rank": 25,
-            "name": "狂赌之渊-铃井凉太",
-            "vote": 6,
-            "rate_global": 1.41,
-            "rate_group": 0.4
-        },
-        {
-            "group": 1,
-            "rank": 26,
-            "name": "秋叶原之旅-万世架缠",
-            "vote": 4,
-            "rate_global": 0.94,
-            "rate_group": 0.27
-        }
-    ]
+  "name": "海选赛day4",
+  "time": "2017-08-31 23:00:00",
+  "voter": 425,
+  "last_time": "2017-08-31 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "魔法少女小圆-美树沙耶香",
+      "vote": 293,
+      "rate_global": 68.94,
+      "rate_group": 19.55
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "Princess Principal-公主",
+      "vote": 187,
+      "rate_global": 44.0,
+      "rate_group": 12.47
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "吹响！上低音号-高坂丽奈",
+      "vote": 145,
+      "rate_global": 34.12,
+      "rate_group": 9.67
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "小林家的龙女仆-托尔",
+      "vote": 120,
+      "rate_global": 28.24,
+      "rate_group": 8.01
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "吹响！上低音号-田中明日香",
+      "vote": 120,
+      "rate_global": 28.24,
+      "rate_group": 8.01
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "Fate/Zero-间桐雁夜",
+      "vote": 114,
+      "rate_global": 26.82,
+      "rate_group": 7.61
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "某科学的超电磁炮-佐天泪子",
+      "vote": 83,
+      "rate_global": 19.53,
+      "rate_group": 5.54
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "这个美术部有问题-宇佐美瑞希",
+      "vote": 80,
+      "rate_global": 18.82,
+      "rate_group": 5.34
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "摇曳百合-吉川千夏",
+      "vote": 42,
+      "rate_global": 9.88,
+      "rate_group": 2.8
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "名侦探柯南-毛利兰",
+      "vote": 40,
+      "rate_global": 9.41,
+      "rate_group": 2.67
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "白色相簿2-北原春希",
+      "vote": 38,
+      "rate_global": 8.94,
+      "rate_group": 2.54
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "天使的3P-鸟海樱花",
+      "vote": 36,
+      "rate_global": 8.47,
+      "rate_group": 2.4
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "我的英雄学院-丽日御茶子",
+      "vote": 32,
+      "rate_global": 7.53,
+      "rate_group": 2.13
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "七人魔法使-仓田唯",
+      "vote": 21,
+      "rate_global": 4.94,
+      "rate_group": 1.4
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "幸运星-小神晶",
+      "vote": 21,
+      "rate_global": 4.94,
+      "rate_group": 1.4
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "未确认进行式-夜之森小红",
+      "vote": 20,
+      "rate_global": 4.71,
+      "rate_group": 1.33
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "境界的彼方-神原秋人",
+      "vote": 19,
+      "rate_global": 4.47,
+      "rate_group": 1.27
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "动作女主 水果应援团-黑酒路子",
+      "vote": 18,
+      "rate_global": 4.24,
+      "rate_group": 1.2
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "数码宝贝最前线-源辉二",
+      "vote": 17,
+      "rate_global": 4.0,
+      "rate_group": 1.13
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "青之驱魔师-奥村雪男",
+      "vote": 12,
+      "rate_global": 2.82,
+      "rate_group": 0.8
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "雏逻辑-森谷夕子",
+      "vote": 8,
+      "rate_global": 1.88,
+      "rate_group": 0.53
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "火影忍者博人传-漩涡博人",
+      "vote": 8,
+      "rate_global": 1.88,
+      "rate_group": 0.53
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "名站探柯南-工藤有希子",
+      "vote": 8,
+      "rate_global": 1.88,
+      "rate_group": 0.53
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "光之美少女-九条光",
+      "vote": 7,
+      "rate_global": 1.65,
+      "rate_group": 0.47
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "狂赌之渊-铃井凉太",
+      "vote": 6,
+      "rate_global": 1.41,
+      "rate_group": 0.4
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "秋叶原之旅-万世架缠",
+      "vote": 4,
+      "rate_global": 0.94,
+      "rate_group": 0.27
+    }
+  ]
 }

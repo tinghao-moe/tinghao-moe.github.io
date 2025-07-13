@@ -1,41 +1,41 @@
 {
-    "name": "半决赛",
-    "time": "2022-08-28 23:00:00",
-    "voter": 704,
-    "last_time": "2022-08-28 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "少女歌剧-爱城华恋",
-            "vote": 409,
-            "rate_global": 58.1,
-            "rate_group": 62.83
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "Love Live 虹咲-钟岚珠",
-            "vote": 242,
-            "rate_global": 34.4,
-            "rate_group": 37.17
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "魔法纪录-梓美冬",
-            "vote": 339,
-            "rate_global": 48.2,
-            "rate_group": 51.91
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "处刑少女的生存之道-茉茉",
-            "vote": 314,
-            "rate_global": 44.6,
-            "rate_group": 48.09
-        }
-    ]
+  "name": "半决赛",
+  "time": "2022-08-28 23:00:00",
+  "voter": 704,
+  "last_time": "2022-08-28 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "少女歌剧-爱城华恋",
+      "vote": 409,
+      "rate_global": 58.1,
+      "rate_group": 62.83
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "Love Live 虹咲-钟岚珠",
+      "vote": 242,
+      "rate_global": 34.4,
+      "rate_group": 37.17
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "魔法纪录-梓美冬",
+      "vote": 339,
+      "rate_global": 48.2,
+      "rate_group": 51.91
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "处刑少女的生存之道-茉茉",
+      "vote": 314,
+      "rate_global": 44.6,
+      "rate_group": 48.09
+    }
+  ]
 }

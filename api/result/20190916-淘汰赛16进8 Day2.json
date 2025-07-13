@@ -1,73 +1,73 @@
 {
-    "name": "淘汰赛16进8 Day2",
-    "time": "2019-09-16 23:00:00",
-    "voter": 360,
-    "last_time": "2019-09-16 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "街角魔族-吉田优子",
-            "vote": 150,
-            "rate_global": 41.67,
-            "rate_group": 54.95
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "我的妹妹不可能这么可爱-五更琉璃（黑猫）",
-            "vote": 123,
-            "rate_global": 34.17,
-            "rate_group": 45.05
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "天使降临我身边-星野日向",
-            "vote": 192,
-            "rate_global": 53.33,
-            "rate_group": 68.57
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "我的青春恋爱物语果然有问题-由比滨结衣",
-            "vote": 88,
-            "rate_global": 24.44,
-            "rate_group": 31.43
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "向山进发-仓上日向",
-            "vote": 151,
-            "rate_global": 41.94,
-            "rate_group": 51.36
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "满月之战-安娜·胡戈",
-            "vote": 143,
-            "rate_global": 39.72,
-            "rate_group": 48.64
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "终将成为你-佐伯沙弥香",
-            "vote": 250,
-            "rate_global": 69.44,
-            "rate_group": 84.18
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "白色相簿2-小木曾雪菜",
-            "vote": 47,
-            "rate_global": 13.06,
-            "rate_group": 15.82
-        }
-    ]
+  "name": "淘汰赛16进8 Day2",
+  "time": "2019-09-16 23:00:00",
+  "voter": 360,
+  "last_time": "2019-09-16 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "街角魔族-吉田优子",
+      "vote": 150,
+      "rate_global": 41.67,
+      "rate_group": 54.95
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "我的妹妹不可能这么可爱-五更琉璃（黑猫）",
+      "vote": 123,
+      "rate_global": 34.17,
+      "rate_group": 45.05
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "天使降临我身边-星野日向",
+      "vote": 192,
+      "rate_global": 53.33,
+      "rate_group": 68.57
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "我的青春恋爱物语果然有问题-由比滨结衣",
+      "vote": 88,
+      "rate_global": 24.44,
+      "rate_group": 31.43
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "向山进发-仓上日向",
+      "vote": 151,
+      "rate_global": 41.94,
+      "rate_group": 51.36
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "满月之战-安娜·胡戈",
+      "vote": 143,
+      "rate_global": 39.72,
+      "rate_group": 48.64
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "终将成为你-佐伯沙弥香",
+      "vote": 250,
+      "rate_global": 69.44,
+      "rate_group": 84.18
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "白色相簿2-小木曾雪菜",
+      "vote": 47,
+      "rate_global": 13.06,
+      "rate_group": 15.82
+    }
+  ]
 }

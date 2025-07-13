@@ -1,105 +1,105 @@
 {
-    "name": "淘汰赛48进16 Day3",
-    "time": "2017-09-11 23:00:00",
-    "voter": 298,
-    "last_time": "2017-09-11 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "樱花庄的宠物女孩-青山七海",
-            "vote": 169,
-            "rate_global": 56.71,
-            "rate_group": 65.76
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "命运石之门-椎名真由理",
-            "vote": 60,
-            "rate_global": 20.13,
-            "rate_group": 23.35
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "Fate/kaleidliner魔法少女☆伊莉雅-间桐樱",
-            "vote": 28,
-            "rate_global": 9.4,
-            "rate_group": 10.89
-        },
-        {
-            "group": 2,
-            "rank": 2,
-            "name": "Love Live-南小鸟",
-            "vote": 87,
-            "rate_global": 29.19,
-            "rate_group": 37.99
-        },
-        {
-            "group": 2,
-            "rank": 3,
-            "name": "政宗君的复仇-藤之宫宁子",
-            "vote": 47,
-            "rate_global": 15.77,
-            "rate_group": 20.52
-        },
-        {
-            "group": 2,
-            "rank": 1,
-            "name": "结城友奈是勇者-三好夏凛",
-            "vote": 95,
-            "rate_global": 31.88,
-            "rate_group": 41.48
-        },
-        {
-            "group": 3,
-            "rank": 1,
-            "name": "中二病也要谈恋爱-七宫智音",
-            "vote": 169,
-            "rate_global": 56.71,
-            "rate_group": 66.02
-        },
-        {
-            "group": 3,
-            "rank": 3,
-            "name": "月刊少女野崎君-佐仓千代",
-            "vote": 29,
-            "rate_global": 9.73,
-            "rate_group": 11.33
-        },
-        {
-            "group": 3,
-            "rank": 2,
-            "name": "魔法少女小圆-鹿目圆",
-            "vote": 58,
-            "rate_global": 19.46,
-            "rate_group": 22.66
-        },
-        {
-            "group": 4,
-            "rank": 3,
-            "name": "电玩咖-星之守千秋",
-            "vote": 31,
-            "rate_global": 10.4,
-            "rate_group": 12.4
-        },
-        {
-            "group": 4,
-            "rank": 2,
-            "name": "我的妹妹是黄漫老师-山田妖精",
-            "vote": 95,
-            "rate_global": 31.88,
-            "rate_group": 38.0
-        },
-        {
-            "group": 4,
-            "rank": 1,
-            "name": "龙与虎-栉枝实乃梨",
-            "vote": 124,
-            "rate_global": 41.61,
-            "rate_group": 49.6
-        }
-    ]
+  "name": "淘汰赛48进16 Day3",
+  "time": "2017-09-11 23:00:00",
+  "voter": 298,
+  "last_time": "2017-09-11 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "樱花庄的宠物女孩-青山七海",
+      "vote": 169,
+      "rate_global": 56.71,
+      "rate_group": 65.76
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "命运石之门-椎名真由理",
+      "vote": 60,
+      "rate_global": 20.13,
+      "rate_group": 23.35
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "Fate/kaleidliner魔法少女☆伊莉雅-间桐樱",
+      "vote": 28,
+      "rate_global": 9.4,
+      "rate_group": 10.89
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "Love Live-南小鸟",
+      "vote": 87,
+      "rate_global": 29.19,
+      "rate_group": 37.99
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "政宗君的复仇-藤之宫宁子",
+      "vote": 47,
+      "rate_global": 15.77,
+      "rate_group": 20.52
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "结城友奈是勇者-三好夏凛",
+      "vote": 95,
+      "rate_global": 31.88,
+      "rate_group": 41.48
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "中二病也要谈恋爱-七宫智音",
+      "vote": 169,
+      "rate_global": 56.71,
+      "rate_group": 66.02
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "月刊少女野崎君-佐仓千代",
+      "vote": 29,
+      "rate_global": 9.73,
+      "rate_group": 11.33
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "魔法少女小圆-鹿目圆",
+      "vote": 58,
+      "rate_global": 19.46,
+      "rate_group": 22.66
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "电玩咖-星之守千秋",
+      "vote": 31,
+      "rate_global": 10.4,
+      "rate_group": 12.4
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "我的妹妹是黄漫老师-山田妖精",
+      "vote": 95,
+      "rate_global": 31.88,
+      "rate_group": 38.0
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "龙与虎-栉枝实乃梨",
+      "vote": 124,
+      "rate_global": 41.61,
+      "rate_group": 49.6
+    }
+  ]
 }

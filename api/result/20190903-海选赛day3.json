@@ -1,289 +1,289 @@
 {
-    "name": "海选赛day3",
-    "time": "2019-09-03 23:00:00",
-    "voter": 232,
-    "last_time": "2019-09-03 23:00:00",
-    "last_floor": -1,
-    "votes": [
-        {
-            "group": 1,
-            "rank": 1,
-            "name": "摇曳百合-赤座灯里",
-            "vote": 87,
-            "rate_global": 37.5,
-            "rate_group": 8.43
-        },
-        {
-            "group": 1,
-            "rank": 2,
-            "name": "刀剑神域-尤吉欧",
-            "vote": 83,
-            "rate_global": 35.78,
-            "rate_group": 8.04
-        },
-        {
-            "group": 1,
-            "rank": 3,
-            "name": "伪恋-橘万里花",
-            "vote": 77,
-            "rate_global": 33.19,
-            "rate_group": 7.46
-        },
-        {
-            "group": 1,
-            "rank": 4,
-            "name": "玉子市场-常盘绿",
-            "vote": 73,
-            "rate_global": 31.47,
-            "rate_group": 7.07
-        },
-        {
-            "group": 1,
-            "rank": 5,
-            "name": "辉夜大小姐想让我告白-早坂爱",
-            "vote": 65,
-            "rate_global": 28.02,
-            "rate_group": 6.3
-        },
-        {
-            "group": 1,
-            "rank": 6,
-            "name": "少女歌剧-爱城华恋",
-            "vote": 63,
-            "rate_global": 27.16,
-            "rate_group": 6.1
-        },
-        {
-            "group": 1,
-            "rank": 7,
-            "name": "街角魔族-吉田优子",
-            "vote": 58,
-            "rate_global": 25.0,
-            "rate_group": 5.62
-        },
-        {
-            "group": 1,
-            "rank": 8,
-            "name": "白箱-安原绘麻",
-            "vote": 55,
-            "rate_global": 23.71,
-            "rate_group": 5.33
-        },
-        {
-            "group": 1,
-            "rank": 9,
-            "name": "Re:从零开始的异世界生活-艾米莉亚",
-            "vote": 51,
-            "rate_global": 21.98,
-            "rate_group": 4.94
-        },
-        {
-            "group": 1,
-            "rank": 10,
-            "name": "天使降临我身边-星野宫子",
-            "vote": 48,
-            "rate_global": 20.69,
-            "rate_group": 4.65
-        },
-        {
-            "group": 1,
-            "rank": 11,
-            "name": "女高中生的虚度日常-染谷莉莉",
-            "vote": 39,
-            "rate_global": 16.81,
-            "rate_group": 3.78
-        },
-        {
-            "group": 1,
-            "rank": 12,
-            "name": "女高中生的虚度日常-一奏",
-            "vote": 38,
-            "rate_global": 16.38,
-            "rate_group": 3.68
-        },
-        {
-            "group": 1,
-            "rank": 13,
-            "name": "我们无法一起学习-古桥文乃",
-            "vote": 36,
-            "rate_global": 15.52,
-            "rate_group": 3.49
-        },
-        {
-            "group": 1,
-            "rank": 14,
-            "name": "拥抱！光之美少女-辉木誉",
-            "vote": 36,
-            "rate_global": 15.52,
-            "rate_group": 3.49
-        },
-        {
-            "group": 1,
-            "rank": 15,
-            "name": "Star Twinkle光之美少女-羽衣拉拉",
-            "vote": 30,
-            "rate_global": 12.93,
-            "rate_group": 2.91
-        },
-        {
-            "group": 1,
-            "rank": 16,
-            "name": "恋爱随意链接-永濑伊织",
-            "vote": 29,
-            "rate_global": 12.5,
-            "rate_group": 2.81
-        },
-        {
-            "group": 1,
-            "rank": 17,
-            "name": "FLIP FLAPPERS-可可娜",
-            "vote": 26,
-            "rate_global": 11.21,
-            "rate_group": 2.52
-        },
-        {
-            "group": 1,
-            "rank": 18,
-            "name": "ENDRO-塞拉",
-            "vote": 24,
-            "rate_global": 10.34,
-            "rate_group": 2.33
-        },
-        {
-            "group": 1,
-            "rank": 19,
-            "name": "佐贺偶像是传奇-夕雾",
-            "vote": 19,
-            "rate_global": 8.19,
-            "rate_group": 1.84
-        },
-        {
-            "group": 1,
-            "rank": 20,
-            "name": "CAROLE TUESDAY-卡罗尔",
-            "vote": 12,
-            "rate_global": 5.17,
-            "rate_group": 1.16
-        },
-        {
-            "group": 1,
-            "rank": 21,
-            "name": "水果篮子-草摩由希",
-            "vote": 12,
-            "rate_global": 5.17,
-            "rate_group": 1.16
-        },
-        {
-            "group": 1,
-            "rank": 22,
-            "name": "齐木楠雄的灾难-照桥心美",
-            "vote": 11,
-            "rate_global": 4.74,
-            "rate_group": 1.07
-        },
-        {
-            "group": 1,
-            "rank": 23,
-            "name": "光之美少女-雪城穗乃香",
-            "vote": 9,
-            "rate_global": 3.88,
-            "rate_group": 0.87
-        },
-        {
-            "group": 1,
-            "rank": 24,
-            "name": "Manaria Friends-露",
-            "vote": 8,
-            "rate_global": 3.45,
-            "rate_group": 0.78
-        },
-        {
-            "group": 1,
-            "rank": 25,
-            "name": "ENDRO-法伊",
-            "vote": 8,
-            "rate_global": 3.45,
-            "rate_group": 0.78
-        },
-        {
-            "group": 1,
-            "rank": 26,
-            "name": "黑社会的超能力女儿-杏子",
-            "vote": 7,
-            "rate_global": 3.02,
-            "rate_group": 0.68
-        },
-        {
-            "group": 1,
-            "rank": 27,
-            "name": "你遭难了吗-鬼岛誉",
-            "vote": 6,
-            "rate_global": 2.59,
-            "rate_group": 0.58
-        },
-        {
-            "group": 1,
-            "rank": 28,
-            "name": "来自多彩世界的明天-深泽千草",
-            "vote": 5,
-            "rate_global": 2.16,
-            "rate_group": 0.48
-        },
-        {
-            "group": 1,
-            "rank": 29,
-            "name": "偶像梦幻祭-冰鹰北斗",
-            "vote": 4,
-            "rate_global": 1.72,
-            "rate_group": 0.39
-        },
-        {
-            "group": 1,
-            "rank": 30,
-            "name": "我们无法一起学习-唯我成幸",
-            "vote": 4,
-            "rate_global": 1.72,
-            "rate_group": 0.39
-        },
-        {
-            "group": 1,
-            "rank": 31,
-            "name": "我们无法一起学习-海原智波",
-            "vote": 2,
-            "rate_global": 0.86,
-            "rate_group": 0.19
-        },
-        {
-            "group": 1,
-            "rank": 32,
-            "name": "虫之歌-立花利菜",
-            "vote": 2,
-            "rate_global": 0.86,
-            "rate_group": 0.19
-        },
-        {
-            "group": 1,
-            "rank": 33,
-            "name": "魔卡少女樱-尤纳·D·海渡",
-            "vote": 2,
-            "rate_global": 0.86,
-            "rate_group": 0.19
-        },
-        {
-            "group": 1,
-            "rank": 34,
-            "name": "JOJO的奇妙冒险-广濑康一",
-            "vote": 2,
-            "rate_global": 0.86,
-            "rate_group": 0.19
-        },
-        {
-            "group": 1,
-            "rank": 35,
-            "name": "盾之勇者成名录-川澄树",
-            "vote": 1,
-            "rate_global": 0.43,
-            "rate_group": 0.1
-        }
-    ]
+  "name": "海选赛day3",
+  "time": "2019-09-03 23:00:00",
+  "voter": 232,
+  "last_time": "2019-09-03 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "摇曳百合-赤座灯里",
+      "vote": 87,
+      "rate_global": 37.5,
+      "rate_group": 8.43
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "刀剑神域-尤吉欧",
+      "vote": 83,
+      "rate_global": 35.78,
+      "rate_group": 8.04
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "伪恋-橘万里花",
+      "vote": 77,
+      "rate_global": 33.19,
+      "rate_group": 7.46
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "玉子市场-常盘绿",
+      "vote": 73,
+      "rate_global": 31.47,
+      "rate_group": 7.07
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "辉夜大小姐想让我告白-早坂爱",
+      "vote": 65,
+      "rate_global": 28.02,
+      "rate_group": 6.3
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "少女歌剧-爱城华恋",
+      "vote": 63,
+      "rate_global": 27.16,
+      "rate_group": 6.1
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "街角魔族-吉田优子",
+      "vote": 58,
+      "rate_global": 25.0,
+      "rate_group": 5.62
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "白箱-安原绘麻",
+      "vote": 55,
+      "rate_global": 23.71,
+      "rate_group": 5.33
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "Re:从零开始的异世界生活-艾米莉亚",
+      "vote": 51,
+      "rate_global": 21.98,
+      "rate_group": 4.94
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "天使降临我身边-星野宫子",
+      "vote": 48,
+      "rate_global": 20.69,
+      "rate_group": 4.65
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "女高中生的虚度日常-染谷莉莉",
+      "vote": 39,
+      "rate_global": 16.81,
+      "rate_group": 3.78
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "女高中生的虚度日常-一奏",
+      "vote": 38,
+      "rate_global": 16.38,
+      "rate_group": 3.68
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "我们无法一起学习-古桥文乃",
+      "vote": 36,
+      "rate_global": 15.52,
+      "rate_group": 3.49
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "拥抱！光之美少女-辉木誉",
+      "vote": 36,
+      "rate_global": 15.52,
+      "rate_group": 3.49
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "Star Twinkle光之美少女-羽衣拉拉",
+      "vote": 30,
+      "rate_global": 12.93,
+      "rate_group": 2.91
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "恋爱随意链接-永濑伊织",
+      "vote": 29,
+      "rate_global": 12.5,
+      "rate_group": 2.81
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "FLIP FLAPPERS-可可娜",
+      "vote": 26,
+      "rate_global": 11.21,
+      "rate_group": 2.52
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "ENDRO-塞拉",
+      "vote": 24,
+      "rate_global": 10.34,
+      "rate_group": 2.33
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "佐贺偶像是传奇-夕雾",
+      "vote": 19,
+      "rate_global": 8.19,
+      "rate_group": 1.84
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "CAROLE TUESDAY-卡罗尔",
+      "vote": 12,
+      "rate_global": 5.17,
+      "rate_group": 1.16
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "水果篮子-草摩由希",
+      "vote": 12,
+      "rate_global": 5.17,
+      "rate_group": 1.16
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "齐木楠雄的灾难-照桥心美",
+      "vote": 11,
+      "rate_global": 4.74,
+      "rate_group": 1.07
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "光之美少女-雪城穗乃香",
+      "vote": 9,
+      "rate_global": 3.88,
+      "rate_group": 0.87
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "Manaria Friends-露",
+      "vote": 8,
+      "rate_global": 3.45,
+      "rate_group": 0.78
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "ENDRO-法伊",
+      "vote": 8,
+      "rate_global": 3.45,
+      "rate_group": 0.78
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "黑社会的超能力女儿-杏子",
+      "vote": 7,
+      "rate_global": 3.02,
+      "rate_group": 0.68
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "你遭难了吗-鬼岛誉",
+      "vote": 6,
+      "rate_global": 2.59,
+      "rate_group": 0.58
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "来自多彩世界的明天-深泽千草",
+      "vote": 5,
+      "rate_global": 2.16,
+      "rate_group": 0.48
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "偶像梦幻祭-冰鹰北斗",
+      "vote": 4,
+      "rate_global": 1.72,
+      "rate_group": 0.39
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "我们无法一起学习-唯我成幸",
+      "vote": 4,
+      "rate_global": 1.72,
+      "rate_group": 0.39
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "我们无法一起学习-海原智波",
+      "vote": 2,
+      "rate_global": 0.86,
+      "rate_group": 0.19
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "虫之歌-立花利菜",
+      "vote": 2,
+      "rate_global": 0.86,
+      "rate_group": 0.19
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "魔卡少女樱-尤纳·D·海渡",
+      "vote": 2,
+      "rate_global": 0.86,
+      "rate_group": 0.19
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "JOJO的奇妙冒险-广濑康一",
+      "vote": 2,
+      "rate_global": 0.86,
+      "rate_group": 0.19
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "盾之勇者成名录-川澄树",
+      "vote": 1,
+      "rate_global": 0.43,
+      "rate_group": 0.1
+    }
+  ]
 }
