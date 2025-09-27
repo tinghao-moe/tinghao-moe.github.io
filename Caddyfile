@@ -1,7 +1,17 @@
 https://tinghao.moe {
-	file_server
-	encode zstd gzip
-	handle_path /api/* {
-		reverse_proxy 127.0.0.1:8080
-	}
+  encode zstd gzip
+
+  @images {
+    path *.jpg *.jpeg *.png *.gif *.webp *.avif *.svg
+  }
+  header @images {
+    Cache-Control "public, max-age=7200"
+  }
+  file_server {
+    precompressed br zstd
+  }
+  route /api/* {
+    header Cache-Control "no-cache"
+    file_server
+  }
 }

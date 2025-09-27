@@ -1,0 +1,81 @@
+{
+  "name": "热身赛",
+  "time": "2020-08-30 23:00:00",
+  "voter": null,
+  "last_time": "2020-08-30 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "name": "渡边曜",
+      "group": 1,
+      "rank": 1,
+      "vote": 57,
+      "rate_global": null,
+      "rate_group": 36.77
+    },
+    {
+      "name": "佐伯沙弥香",
+      "group": 1,
+      "rank": 2,
+      "vote": 57,
+      "rate_global": null,
+      "rate_group": 36.77
+    },
+    {
+      "name": "露崎真昼",
+      "group": 1,
+      "rank": 3,
+      "vote": 41,
+      "rate_global": null,
+      "rate_group": 26.45
+    },
+    {
+      "name": "结城友奈",
+      "group": 2,
+      "rank": 1,
+      "vote": 60,
+      "rate_global": null,
+      "rate_group": 37.27
+    },
+    {
+      "name": "鹿目圆",
+      "group": 2,
+      "rank": 2,
+      "vote": 55,
+      "rate_global": null,
+      "rate_group": 34.16
+    },
+    {
+      "name": "小日向满月",
+      "group": 2,
+      "rank": 3,
+      "vote": 36,
+      "rate_global": null,
+      "rate_group": 22.36
+    },
+    {
+      "name": "源桃",
+      "group": 2,
+      "rank": 4,
+      "vote": 7,
+      "rate_global": null,
+      "rate_group": 4.35
+    },
+    {
+      "name": "伊泽塔",
+      "group": 2,
+      "rank": 5,
+      "vote": 2,
+      "rate_global": null,
+      "rate_group": 1.24
+    },
+    {
+      "name": "相田爱",
+      "group": 2,
+      "rank": 6,
+      "vote": 1,
+      "rate_global": null,
+      "rate_group": 0.62
+    }
+  ]
+}

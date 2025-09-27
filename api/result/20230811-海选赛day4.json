@@ -64,7 +64,7 @@
     {
       "group": 1,
       "rank": 8,
-      "name": "我的百合乃工作是也！-知花纯加",
+      "name": "我的百合乃工作是也!-知花纯加",
       "vote": 146,
       "rate_global": 26.5,
       "rate_group": 4.6
@@ -352,7 +352,7 @@
     {
       "group": 1,
       "rank": 44,
-      "name": "为美好的世界献上爆焰！-富尼费拉",
+      "name": "为美好的世界献上爆焰!-富尼费拉",
       "vote": 3,
       "rate_global": 0.54,
       "rate_group": 0.09
@@ -457,6 +457,14 @@
       "group": 1,
       "rank": 57,
       "name": "异世界魔王与召唤少女的奴隶魔术-芭芭珑",
+      "vote": 1,
+      "rate_global": 0.18,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 58,
+      "name": "女神的露天咖啡厅-粕壁幸子",
       "vote": 1,
       "rate_global": 0.18,
       "rate_group": 0.03

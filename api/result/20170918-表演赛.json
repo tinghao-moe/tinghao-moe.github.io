@@ -1,0 +1,73 @@
+{
+  "name": "表演赛",
+  "time": "2017-09-18 23:00:00",
+  "voter": 316,
+  "last_time": "2017-09-18 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "name": "菱川六花",
+      "group": 1,
+      "rank": 1,
+      "vote": 206,
+      "rate_global": 65.19,
+      "rate_group": 68.9
+    },
+    {
+      "name": "渡边曜",
+      "group": 1,
+      "rank": 2,
+      "vote": 93,
+      "rate_global": 29.43,
+      "rate_group": 31.1
+    },
+    {
+      "name": "大道寺知世",
+      "group": 2,
+      "rank": 1,
+      "vote": 115,
+      "rate_global": 36.39,
+      "rate_group": 62.16
+    },
+    {
+      "name": "小野寺小咲",
+      "group": 2,
+      "rank": 2,
+      "vote": 70,
+      "rate_global": 22.15,
+      "rate_group": 37.84
+    },
+    {
+      "name": "一色彩羽",
+      "group": 3,
+      "rank": 1,
+      "vote": 82,
+      "rate_global": 25.95,
+      "rate_group": 51.25
+    },
+    {
+      "name": "山田妖精",
+      "group": 3,
+      "rank": 2,
+      "vote": 78,
+      "rate_global": 24.68,
+      "rate_group": 48.75
+    },
+    {
+      "name": "桂雏菊",
+      "group": 4,
+      "rank": 1,
+      "vote": 84,
+      "rate_global": 26.58,
+      "rate_group": 54.55
+    },
+    {
+      "name": "凉水玉青",
+      "group": 4,
+      "rank": 2,
+      "vote": 70,
+      "rate_global": 22.15,
+      "rate_group": 45.45
+    }
+  ]
+}

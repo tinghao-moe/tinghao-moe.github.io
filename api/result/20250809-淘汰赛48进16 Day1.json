@@ -1,0 +1,105 @@
+{
+  "name": "淘汰赛48进16 Day1",
+  "time": "2025-08-09 23:00:34",
+  "voter": 817,
+  "last_time": "2025-08-09 22:59:56",
+  "last_floor": "874",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "吹响!上低音号-黑江真由",
+      "vote": 336,
+      "rate_global": 41.13,
+      "rate_group": 43.86
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "我怎么可能成为你的恋人，不行不行!-小柳香穗",
+      "vote": 223,
+      "rate_global": 27.29,
+      "rate_group": 29.11
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "闪耀路标-黑金莲",
+      "vote": 207,
+      "rate_global": 25.34,
+      "rate_group": 27.02
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "魔法少女小圆-佐仓杏子",
+      "vote": 307,
+      "rate_global": 37.58,
+      "rate_group": 39.11
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "辉夜大小姐想让我告白-四条真妃",
+      "vote": 258,
+      "rate_global": 31.58,
+      "rate_group": 32.87
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "悠哉日常大王-蜜柑",
+      "vote": 220,
+      "rate_global": 26.93,
+      "rate_group": 28.03
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "我怎么可能成为你的恋人，不行不行!-濑名紫陽花",
+      "vote": 383,
+      "rate_global": 46.88,
+      "rate_group": 49.8
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "吹响!上低音号-吉川优子",
+      "vote": 304,
+      "rate_global": 37.21,
+      "rate_group": 39.53
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "我怎么可能成为你的恋人，不行不行!-甘织遥奈",
+      "vote": 82,
+      "rate_global": 10.04,
+      "rate_group": 10.66
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "少女歌剧-神乐光",
+      "vote": 441,
+      "rate_global": 53.98,
+      "rate_group": 55.47
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "败犬女主太多了!-烧盐柠檬",
+      "vote": 223,
+      "rate_global": 27.29,
+      "rate_group": 28.05
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "孤独摇滚-伊地知虹夏",
+      "vote": 131,
+      "rate_global": 16.03,
+      "rate_group": 16.48
+    }
+  ]
+}

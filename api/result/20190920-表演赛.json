@@ -1,0 +1,81 @@
+{
+  "name": "表演赛",
+  "time": "2019-09-20 23:00:00",
+  "voter": 329,
+  "last_time": "2019-09-20 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "name": "露崎真昼",
+      "group": 1,
+      "rank": 1,
+      "vote": 205,
+      "rate_global": 62.31,
+      "rate_group": 66.13
+    },
+    {
+      "name": "佐伯沙弥香",
+      "group": 1,
+      "rank": 2,
+      "vote": 105,
+      "rate_global": 31.91,
+      "rate_group": 33.87
+    },
+    {
+      "name": "阳夏木蜜柑",
+      "group": 2,
+      "rank": 1,
+      "vote": 164,
+      "rate_global": 49.85,
+      "rate_group": 68.62
+    },
+    {
+      "name": "吉田优子",
+      "group": 2,
+      "rank": 2,
+      "vote": 41,
+      "rate_global": 12.46,
+      "rate_group": 17.15
+    },
+    {
+      "name": "千代田桃",
+      "group": 2,
+      "rank": 3,
+      "vote": 34,
+      "rate_global": 10.33,
+      "rate_group": 14.23
+    },
+    {
+      "name": "小日向满月",
+      "group": 3,
+      "rank": 1,
+      "vote": 96,
+      "rate_global": 29.18,
+      "rate_group": 33.8
+    },
+    {
+      "name": "星野日向",
+      "group": 3,
+      "rank": 2,
+      "vote": 96,
+      "rate_global": 29.18,
+      "rate_group": 33.8
+    },
+    {
+      "name": "仓上日向",
+      "group": 3,
+      "rank": 3,
+      "vote": 50,
+      "rate_global": 15.2,
+      "rate_group": 17.61
+    },
+    {
+      "name": "夏木日向",
+      "group": 3,
+      "rank": 4,
+      "vote": 42,
+      "rate_global": 12.77,
+      "rate_group": 14.79
+    }
+  ]
+}

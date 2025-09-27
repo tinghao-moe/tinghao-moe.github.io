@@ -1,0 +1,105 @@
+{
+  "name": "淘汰赛48进16 Day3",
+  "time": "2025-08-11 23:00:34",
+  "voter": 882,
+  "last_time": "2025-08-11 22:59:35",
+  "last_floor": "975",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "处刑少女的生存之道-茉茉",
+      "vote": 401,
+      "rate_global": 45.46,
+      "rate_group": 48.67
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "败犬女主太多了!-马剃天爱星",
+      "vote": 259,
+      "rate_global": 29.37,
+      "rate_group": 31.43
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "败犬女主太多了!-温水佳树",
+      "vote": 164,
+      "rate_global": 18.59,
+      "rate_group": 19.9
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "GIRLS BAND CRY-货车",
+      "vote": 442,
+      "rate_global": 50.11,
+      "rate_group": 53.45
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "我怎么可能成为你的恋人，不行不行!-甘织玲奈子",
+      "vote": 208,
+      "rate_global": 23.58,
+      "rate_group": 25.15
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "GIRLS BAND CRY-雏（Hina）",
+      "vote": 177,
+      "rate_global": 20.07,
+      "rate_group": 21.4
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "Love Live 虹咲-优木雪菜",
+      "vote": 363,
+      "rate_global": 41.16,
+      "rate_group": 43.47
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "契约之吻-木更",
+      "vote": 328,
+      "rate_global": 37.19,
+      "rate_group": 39.28
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "GIRLS BAND CRY-安和昴",
+      "vote": 144,
+      "rate_global": 16.33,
+      "rate_group": 17.25
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "吹响!上低音号-久石奏",
+      "vote": 440,
+      "rate_global": 49.89,
+      "rate_group": 52.07
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "败犬女主太多了!-八奈见杏菜",
+      "vote": 215,
+      "rate_global": 24.38,
+      "rate_group": 25.44
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "麦当劳-双层芝士汉堡",
+      "vote": 190,
+      "rate_global": 21.54,
+      "rate_group": 22.49
+    }
+  ]
+}

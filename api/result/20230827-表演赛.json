@@ -1,0 +1,81 @@
+{
+  "name": "表演赛",
+  "time": "2023-08-27 23:00:00",
+  "voter": 1179,
+  "last_time": "2023-08-27 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "name": "长崎素世",
+      "group": 1,
+      "rank": 1,
+      "vote": 667,
+      "rate_global": 56.57,
+      "rate_group": 58.0
+    },
+    {
+      "name": "上原步梦",
+      "group": 1,
+      "rank": 2,
+      "vote": 483,
+      "rate_global": 40.97,
+      "rate_group": 42.0
+    },
+    {
+      "name": "MyGO!!!!!",
+      "group": 2,
+      "rank": 1,
+      "vote": 692,
+      "rate_global": 58.69,
+      "rate_group": 61.79
+    },
+    {
+      "name": "Starlight九九组",
+      "group": 2,
+      "rank": 2,
+      "vote": 287,
+      "rate_global": 24.34,
+      "rate_group": 25.62
+    },
+    {
+      "name": "虹咲",
+      "group": 2,
+      "rank": 3,
+      "vote": 141,
+      "rate_global": 11.96,
+      "rate_group": 12.59
+    },
+    {
+      "name": "椎名立希",
+      "group": 3,
+      "rank": 1,
+      "vote": 1041,
+      "rate_global": 88.3,
+      "rate_group": 92.62
+    },
+    {
+      "name": "丰川祥子",
+      "group": 3,
+      "rank": 2,
+      "vote": 83,
+      "rate_global": 7.04,
+      "rate_group": 7.38
+    },
+    {
+      "name": "安达樱",
+      "group": 4,
+      "rank": 1,
+      "vote": 546,
+      "rate_global": 46.31,
+      "rate_group": 55.83
+    },
+    {
+      "name": "樽见",
+      "group": 4,
+      "rank": 2,
+      "vote": 432,
+      "rate_global": 36.64,
+      "rate_group": 44.17
+    }
+  ]
+}

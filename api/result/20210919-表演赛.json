@@ -1,0 +1,81 @@
+{
+  "name": "表演赛",
+  "time": "2021-09-19 23:00:00",
+  "voter": 420,
+  "last_time": "2021-09-19 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "name": "上原步梦",
+      "group": 1,
+      "rank": 1,
+      "vote": 208,
+      "rate_global": 49.52,
+      "rate_group": 50.73
+    },
+    {
+      "name": "露崎真昼",
+      "group": 1,
+      "rank": 2,
+      "vote": 202,
+      "rate_global": 48.1,
+      "rate_group": 49.27
+    },
+    {
+      "name": "土豆",
+      "group": 2,
+      "rank": 1,
+      "vote": 300,
+      "rate_global": 71.43,
+      "rate_group": 80.86
+    },
+    {
+      "name": "蜜柑",
+      "group": 2,
+      "rank": 2,
+      "vote": 61,
+      "rate_global": 14.52,
+      "rate_group": 16.44
+    },
+    {
+      "name": "杯子",
+      "group": 2,
+      "rank": 3,
+      "vote": 10,
+      "rate_global": 2.38,
+      "rate_group": 2.7
+    },
+    {
+      "name": "草上飞",
+      "group": 3,
+      "rank": 1,
+      "vote": 186,
+      "rate_global": 44.29,
+      "rate_group": 52.25
+    },
+    {
+      "name": "优秀素质",
+      "group": 3,
+      "rank": 2,
+      "vote": 107,
+      "rate_global": 25.48,
+      "rate_group": 30.06
+    },
+    {
+      "name": "米浴",
+      "group": 3,
+      "rank": 3,
+      "vote": 52,
+      "rate_global": 12.38,
+      "rate_group": 14.61
+    },
+    {
+      "name": "目白麦昆",
+      "group": 3,
+      "rank": 4,
+      "vote": 11,
+      "rate_global": 2.62,
+      "rate_group": 3.09
+    }
+  ]
+}

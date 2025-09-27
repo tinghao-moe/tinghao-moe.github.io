@@ -1,0 +1,73 @@
+{
+  "name": "淘汰赛16进8 Day2",
+  "time": "2025-08-14 23:00:37",
+  "voter": 944,
+  "last_time": "2025-08-14 22:59:53",
+  "last_floor": "1020",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "处刑少女的生存之道-茉茉",
+      "vote": 496,
+      "rate_global": 52.54,
+      "rate_group": 56.43
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "GIRLS BAND CRY-货车",
+      "vote": 383,
+      "rate_global": 40.57,
+      "rate_group": 43.57
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "吹响!上低音号-久石奏",
+      "vote": 559,
+      "rate_global": 59.22,
+      "rate_group": 62.95
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "Love Live 虹咲-优木雪菜",
+      "vote": 329,
+      "rate_global": 34.85,
+      "rate_group": 37.05
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "吹响!上低音号-铠冢霙",
+      "vote": 578,
+      "rate_global": 61.23,
+      "rate_group": 67.37
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "前桥魔女-膳荣子",
+      "vote": 280,
+      "rate_global": 29.66,
+      "rate_group": 32.63
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "World Dai Star-卡特莉娜",
+      "vote": 446,
+      "rate_global": 47.25,
+      "rate_group": 55.54
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "结城友奈是勇者-高岛友奈",
+      "vote": 357,
+      "rate_global": 37.82,
+      "rate_group": 44.46
+    }
+  ]
+}

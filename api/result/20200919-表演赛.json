@@ -1,0 +1,57 @@
+{
+  "name": "表演赛",
+  "time": "2020-09-19 23:00:00",
+  "voter": 241,
+  "last_time": "2020-09-19 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "name": "佐伯沙弥香",
+      "group": 1,
+      "rank": 1,
+      "vote": 113,
+      "rate_global": 46.89,
+      "rate_group": 53.81
+    },
+    {
+      "name": "草上飞",
+      "group": 1,
+      "rank": 2,
+      "vote": 97,
+      "rate_global": 40.25,
+      "rate_group": 46.19
+    },
+    {
+      "name": "真绯瑠Mahiru",
+      "group": 2,
+      "rank": 1,
+      "vote": 110,
+      "rate_global": 45.64,
+      "rate_group": 50.0
+    },
+    {
+      "name": "露崎真昼",
+      "group": 2,
+      "rank": 2,
+      "vote": 110,
+      "rate_global": 45.64,
+      "rate_group": 50.0
+    },
+    {
+      "name": "由比鹤乃",
+      "group": 3,
+      "rank": 1,
+      "vote": 96,
+      "rate_global": 39.83,
+      "rate_group": 58.9
+    },
+    {
+      "name": "夏川椎菜",
+      "group": 3,
+      "rank": 2,
+      "vote": 67,
+      "rate_global": 27.8,
+      "rate_group": 41.1
+    }
+  ]
+}

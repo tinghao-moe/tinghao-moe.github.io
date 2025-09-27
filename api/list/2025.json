@@ -1,6 +1,14 @@
 [
   {
-    "name": "Bang Dream!-高松灯",
+    "name": "BanG Dream!-三角初华",
+    "type": "auto"
+  },
+  {
+    "name": "BanG Dream!-千早爱音",
+    "type": "auto"
+  },
+  {
+    "name": "BanG Dream!-椎名立希",
     "type": "auto"
   },
   {
@@ -8,19 +16,11 @@
     "type": "auto"
   },
   {
-    "name": "Bang Dream!-千早爱音",
-    "type": "auto"
-  },
-  {
     "name": "BanG Dream!-青叶摩卡",
     "type": "auto"
   },
   {
-    "name": "Bang Dream!-三角初华",
-    "type": "auto"
-  },
-  {
-    "name": "Bang Dream!-椎名立希",
+    "name": "BanG Dream!-高松灯",
     "type": "auto"
   },
   {
@@ -36,15 +36,15 @@
     "type": "auto"
   },
   {
-    "name": "Love Live 虹咲-高咲侑",
-    "type": "auto"
-  },
-  {
     "name": "Love Live 虹咲-优木雪菜",
     "type": "auto"
   },
   {
     "name": "Love Live 虹咲-钟岚珠",
+    "type": "auto"
+  },
+  {
+    "name": "Love Live 虹咲-高咲侑",
     "type": "auto"
   },
   {
@@ -56,59 +56,7 @@
     "type": "auto"
   },
   {
-    "name": "安达与岛村-岛村抱月",
-    "type": "auto"
-  },
-  {
-    "name": "败犬女主太多了！-八奈见杏菜",
-    "type": "auto"
-  },
-  {
-    "name": "败犬女主太多了！-烧盐柠檬",
-    "type": "auto"
-  },
-  {
-    "name": "败犬女主太多了！-小鞠知花",
-    "type": "auto"
-  },
-  {
     "name": "不时轻声地以俄语遮羞的邻座艾莉同学-周防有希",
-    "type": "auto"
-  },
-  {
-    "name": "处刑少女的生存之道-茉茉",
-    "type": "auto"
-  },
-  {
-    "name": "吹响！上低音号-黑江真由",
-    "type": "auto"
-  },
-  {
-    "name": "吹响！上低音号-久石奏",
-    "type": "auto"
-  },
-  {
-    "name": "吹响！上低音号-铠冢霙",
-    "type": "auto"
-  },
-  {
-    "name": "孤独摇滚-伊地知虹夏",
-    "type": "auto"
-  },
-  {
-    "name": "辉夜大小姐想让我告白-四条真妃",
-    "type": "auto"
-  },
-  {
-    "name": "结城友奈是勇者-高岛友奈",
-    "type": "auto"
-  },
-  {
-    "name": "恋语轻唱-泉志帆",
-    "type": "auto"
-  },
-  {
-    "name": "恋语轻唱-水口亚季",
     "type": "auto"
   },
   {
@@ -116,35 +64,19 @@
     "type": "auto"
   },
   {
-    "name": "契约之吻-木更",
+    "name": "吹响!上低音号-久石奏",
     "type": "auto"
   },
   {
-    "name": "闪耀路标-黑金莲",
+    "name": "吹响!上低音号-铠冢霙",
     "type": "auto"
   },
   {
-    "name": "少女歌剧-神乐光",
+    "name": "吹响!上低音号-黑江真由",
     "type": "auto"
   },
   {
-    "name": "我的百合乃工作是也!-间宫果乃子",
-    "type": "auto"
-  },
-  {
-    "name": "我推的孩子-黑川茜",
-    "type": "auto"
-  },
-  {
-    "name": "我推的孩子-有马加奈",
-    "type": "auto"
-  },
-  {
-    "name": "星灵感应-明内幽",
-    "type": "auto"
-  },
-  {
-    "name": "摇曳百合-赤座灯里",
+    "name": "处刑少女的生存之道-茉茉",
     "type": "auto"
   },
   {
@@ -156,11 +88,3099 @@
     "type": "auto"
   },
   {
+    "name": "契约之吻-木更",
+    "type": "auto"
+  },
+  {
+    "name": "孤独摇滚-伊地知虹夏",
+    "type": "auto"
+  },
+  {
+    "name": "安达与岛村-岛村抱月",
+    "type": "auto"
+  },
+  {
+    "name": "少女歌剧-神乐光",
+    "type": "auto"
+  },
+  {
+    "name": "恋语轻唱-水口亚季",
+    "type": "auto"
+  },
+  {
+    "name": "恋语轻唱-泉志帆",
+    "type": "auto"
+  },
+  {
     "name": "悠哉日常大王-蜜柑",
+    "type": "auto"
+  },
+  {
+    "name": "我推的孩子-有马加奈",
+    "type": "auto"
+  },
+  {
+    "name": "我推的孩子-黑川茜",
+    "type": "auto"
+  },
+  {
+    "name": "我的百合乃工作是也!-间宫果乃子",
+    "type": "auto"
+  },
+  {
+    "name": "摇曳百合-赤座灯里",
+    "type": "auto"
+  },
+  {
+    "name": "星灵感应-明内幽",
+    "type": "auto"
+  },
+  {
+    "name": "结城友奈是勇者-高岛友奈",
     "type": "auto"
   },
   {
     "name": "葬送的芙莉莲-辛美尔",
     "type": "auto"
+  },
+  {
+    "name": "败犬女主太多了!-八奈见杏菜",
+    "type": "auto"
+  },
+  {
+    "name": "败犬女主太多了!-小鞠知花",
+    "type": "auto"
+  },
+  {
+    "name": "败犬女主太多了!-烧盐柠檬",
+    "type": "auto"
+  },
+  {
+    "name": "辉夜大小姐想让我告白-四条真妃",
+    "type": "auto"
+  },
+  {
+    "name": "闪耀路标-黑金莲",
+    "type": "auto"
+  },
+  {
+    "name": "#COMPASS2.0 战斗天赋解析系统-13",
+    "type": "default"
+  },
+  {
+    "name": "#COMPASS2.0 战斗天赋解析系统-索恩·尤里耶夫",
+    "type": "default"
+  },
+  {
+    "name": "#COMPASS2.0 战斗天赋解析系统-莉莉卡",
+    "type": "default"
+  },
+  {
+    "name": "#COMPASS2.0 战斗天赋解析系统-辉龙院绮罗",
+    "type": "default"
+  },
+  {
+    "name": "#COMPASS2.0 战斗天赋解析系统-露露卡",
+    "type": "default"
+  },
+  {
+    "name": "2.5次元的诱惑-753♡",
+    "type": "default"
+  },
+  {
+    "name": "2.5次元的诱惑-乃爱",
+    "type": "default"
+  },
+  {
+    "name": "2.5次元的诱惑-喜咲亚里亚",
+    "type": "default"
+  },
+  {
+    "name": "2.5次元的诱惑-栈浅美",
+    "type": "default"
+  },
+  {
+    "name": "2.5次元的诱惑-泷翠理",
+    "type": "default"
+  },
+  {
+    "name": "2.5次元的诱惑-盛亲",
+    "type": "default"
+  },
+  {
+    "name": "2.5次元的诱惑-羽生真由梨",
+    "type": "default"
+  },
+  {
+    "name": "2.5次元的诱惑-茜",
+    "type": "default"
+  },
+  {
+    "name": "9 nine 支配者的王冠-九条都",
+    "type": "default"
+  },
+  {
+    "name": "9 nine 支配者的王冠-新海天",
+    "type": "default"
+  },
+  {
+    "name": "9 nine 支配者的王冠-新海翔",
+    "type": "default"
+  },
+  {
+    "name": "9 nine 支配者的王冠-深泽与一",
+    "type": "default"
+  },
+  {
+    "name": "AKB0048-一条友歌",
+    "type": "default"
+  },
+  {
+    "name": "AKB0048-蓝田织音",
+    "type": "default"
+  },
+  {
+    "name": "ATRI-凯瑟琳",
+    "type": "default"
+  },
+  {
+    "name": "ATRI-斑鸠夏生",
+    "type": "default"
+  },
+  {
+    "name": "ATRI-洋子",
+    "type": "default"
+  },
+  {
+    "name": "ATRI-神白水菜萌",
+    "type": "default"
+  },
+  {
+    "name": "ATRI-野岛龙司",
+    "type": "default"
+  },
+  {
+    "name": "Acro Trip-伊达翠京",
+    "type": "default"
+  },
+  {
+    "name": "Angel Beats-入江美雪",
+    "type": "default"
+  },
+  {
+    "name": "Angel Beats-关根诗织",
+    "type": "default"
+  },
+  {
+    "name": "BadGirl-优谷优",
+    "type": "default"
+  },
+  {
+    "name": "BadGirl-凉风凉",
+    "type": "default"
+  },
+  {
+    "name": "BadGirl-凉风风",
+    "type": "default"
+  },
+  {
+    "name": "BadGirl-水鸟亚鸟",
+    "type": "default"
+  },
+  {
+    "name": "BadGirl-清木清",
+    "type": "default"
+  },
+  {
+    "name": "BadGirl-瑠璃叶瑠萝",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-PAREO",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-今井莉莎",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-冰川纱夜",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-凑友希那",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-和奏瑞依",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-市谷有咲",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-户山香澄",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-月岛麻里奈",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-珠手知由",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-白金燐子",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-祐天寺若麦",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-花园多惠",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-袋小路",
+    "type": "default"
+  },
+  {
+    "name": "CITY-新仓",
+    "type": "default"
+  },
+  {
+    "name": "CITY-真壁茉莉",
+    "type": "default"
+  },
+  {
+    "name": "Campione弑神者!-艾丽卡·布朗特里",
+    "type": "default"
+  },
+  {
+    "name": "Code Geass 反叛的鲁路修-鲁路修·兰佩路基",
+    "type": "default"
+  },
+  {
+    "name": "Do It Yourself!!-日荫匠",
+    "type": "default"
+  },
+  {
+    "name": "Do It Yourself!!-须理出未来",
+    "type": "default"
+  },
+  {
+    "name": "FLIP FLAPPERS-雅雅卡",
+    "type": "default"
+  },
+  {
+    "name": "GIRLS BAND CRY-RUPA",
+    "type": "default"
+  },
+  {
+    "name": "GIRLS BAND CRY-井芹仁菜",
+    "type": "default"
+  },
+  {
+    "name": "GIRLS BAND CRY-雏（Hina）",
+    "type": "default"
+  },
+  {
+    "name": "Happy Sugar Life-三星太阳",
+    "type": "default"
+  },
+  {
+    "name": "Happy Sugar Life-但马美鸟",
+    "type": "default"
+  },
+  {
+    "name": "Happy Sugar Life-松坂砂糖",
+    "type": "default"
+  },
+  {
+    "name": "Little Busters!-阿酱前辈",
+    "type": "default"
+  },
+  {
+    "name": "Love Live Superstar-七草七海",
+    "type": "default"
+  },
+  {
+    "name": "Love Live Superstar-八重",
+    "type": "default"
+  },
+  {
+    "name": "Love Live Superstar-唐可可",
+    "type": "default"
+  },
+  {
+    "name": "Love Live Superstar-岚千砂都",
+    "type": "default"
+  },
+  {
+    "name": "Love Live Superstar-平安名堇",
+    "type": "default"
+  },
+  {
+    "name": "Love Live Superstar-樱小路希奈子",
+    "type": "default"
+  },
+  {
+    "name": "Love Live Superstar-薇恩·玛格丽特",
+    "type": "default"
+  },
+  {
+    "name": "Love Live Superstar-鬼冢夏美",
+    "type": "default"
+  },
+  {
+    "name": "Love Live 虹咲-三船栞子",
+    "type": "default"
+  },
+  {
+    "name": "Love Live 虹咲-中须霞",
+    "type": "default"
+  },
+  {
+    "name": "Love Live 虹咲-副会长",
+    "type": "default"
+  },
+  {
+    "name": "Love Live 虹咲-天王寺璃奈",
+    "type": "default"
+  },
+  {
+    "name": "Love Live 虹咲-樱坂雫",
+    "type": "default"
+  },
+  {
+    "name": "Love Live 虹咲-艾拉",
+    "type": "default"
+  },
+  {
+    "name": "Love Live-南小鸟",
+    "type": "default"
+  },
+  {
+    "name": "MOMENTARY LILY 刹那之花-吉野山茶花",
+    "type": "default"
+  },
+  {
+    "name": "MOMENTARY LILY 刹那之花-咲耶菖蒲",
+    "type": "default"
+  },
+  {
+    "name": "MOMENTARY LILY 刹那之花-河津百合",
+    "type": "default"
+  },
+  {
+    "name": "MOMENTARY LILY 刹那之花-薄墨雏菊",
+    "type": "default"
+  },
+  {
+    "name": "MOMENTARY LILY 刹那之花-霞莲华",
+    "type": "default"
+  },
+  {
+    "name": "MOMENTARY LILY 刹那之花-高台寺欧石楠",
+    "type": "default"
+  },
+  {
+    "name": "Rewrite-神户小鸟",
+    "type": "default"
+  },
+  {
+    "name": "SHY腼腆英雄-佩佩夏·安德烈诺瓦（SPIRITS）",
+    "type": "default"
+  },
+  {
+    "name": "Silent Witch 沉默魔女的秘密-凯西·古洛布",
+    "type": "default"
+  },
+  {
+    "name": "Silent Witch 沉默魔女的秘密-莫妮卡·埃瓦雷特",
+    "type": "default"
+  },
+  {
+    "name": "Simoun-凯姆",
+    "type": "default"
+  },
+  {
+    "name": "Simoun-摩里娜斯",
+    "type": "default"
+  },
+  {
+    "name": "Simoun-阿尔提",
+    "type": "default"
+  },
+  {
+    "name": "Simoun-阿艾尔",
+    "type": "default"
+  },
+  {
+    "name": "S级怪兽《贝希摩斯》被误认成小猫-艾丽娅",
+    "type": "default"
+  },
+  {
+    "name": "S级怪兽《贝希摩斯》被误认成小猫-薇儿卡",
+    "type": "default"
+  },
+  {
+    "name": "To LOVE-古手川唯",
+    "type": "default"
+  },
+  {
+    "name": "To LOVE-娜娜·阿斯塔·戴比路克",
+    "type": "default"
+  },
+  {
+    "name": "To LOVE-提亚悠·鲁娜提克",
+    "type": "default"
+  },
+  {
+    "name": "To LOVE-斯特拉",
+    "type": "default"
+  },
+  {
+    "name": "To LOVE-村雨静",
+    "type": "default"
+  },
+  {
+    "name": "To LOVE-结城梨斗",
+    "type": "default"
+  },
+  {
+    "name": "To LOVE-结城美柑",
+    "type": "default"
+  },
+  {
+    "name": "To LOVE-金色暗影",
+    "type": "default"
+  },
+  {
+    "name": "To LOVE-雪丽奴",
+    "type": "default"
+  },
+  {
+    "name": "To LOVE-露恩·艾尔西·裘利亚",
+    "type": "default"
+  },
+  {
+    "name": "Turkey!-一之濑小百合",
+    "type": "default"
+  },
+  {
+    "name": "Turkey!-三鹰希",
+    "type": "default"
+  },
+  {
+    "name": "Turkey!-音无麻衣",
+    "type": "default"
+  },
+  {
+    "name": "Wonderful光之美少女!-狐崎",
+    "type": "default"
+  },
+  {
+    "name": "Wonderful光之美少女!-石榴",
+    "type": "default"
+  },
+  {
+    "name": "World Dai Star-静香",
+    "type": "default"
+  },
+  {
+    "name": "You and Idol光之美少女-东中美琴",
+    "type": "default"
+  },
+  {
+    "name": "You and Idol光之美少女-咲良歌",
+    "type": "default"
+  },
+  {
+    "name": "You and Idol光之美少女-普利伦",
+    "type": "default"
+  },
+  {
+    "name": "You and Idol光之美少女-紫雨心",
+    "type": "default"
+  },
+  {
+    "name": "You and Idol光之美少女-美优",
+    "type": "default"
+  },
+  {
+    "name": "You and Idol光之美少女-苍风奈奈",
+    "type": "default"
+  },
+  {
+    "name": "citrus-蓝原柚子",
+    "type": "default"
+  },
+  {
+    "name": "citrus-蓝原梅",
+    "type": "default"
+  },
+  {
+    "name": "citrus-蓝原芽衣",
+    "type": "default"
+  },
+  {
+    "name": "citrus-谷口晴美",
+    "type": "default"
+  },
+  {
+    "name": "mono-大将",
+    "type": "default"
+  },
+  {
+    "name": "mono-岛田小春",
+    "type": "default"
+  },
+  {
+    "name": "mono-秋山春乃",
+    "type": "default"
+  },
+  {
+    "name": "mono-雨宫纱月",
+    "type": "default"
+  },
+  {
+    "name": "mono-雾山杏",
+    "type": "default"
+  },
+  {
+    "name": "mono-驹田华子",
+    "type": "default"
+  },
+  {
+    "name": "一杆青空-茜遥",
+    "type": "default"
+  },
+  {
+    "name": "一杆青空-青羽美波",
+    "type": "default"
+  },
+  {
+    "name": "七大罪-伊丽莎白",
+    "type": "default"
+  },
+  {
+    "name": "七大罪-班",
+    "type": "default"
+  },
+  {
+    "name": "七大罪-高瑟",
+    "type": "default"
+  },
+  {
+    "name": "七大罪-黛安",
+    "type": "default"
+  },
+  {
+    "name": "不幸职业【鉴定士】实则最强-乔琳",
+    "type": "default"
+  },
+  {
+    "name": "不幸职业【鉴定士】实则最强-佐德",
+    "type": "default"
+  },
+  {
+    "name": "不时轻声地以俄语遮羞的邻座艾莉同学-更科茅咲",
+    "type": "default"
+  },
+  {
+    "name": "与游戏中心的少女异文化交流的故事-望月桃子",
+    "type": "default"
+  },
+  {
+    "name": "与游戏中心的少女异文化交流的故事-草壁莲司",
+    "type": "default"
+  },
+  {
+    "name": "与游戏中心的少女异文化交流的故事-莉莉·贝卡",
+    "type": "default"
+  },
+  {
+    "name": "与游戏中心的少女异文化交流的故事-谢莉尔·贝卡",
+    "type": "default"
+  },
+  {
+    "name": "世界计划-KAITO",
+    "type": "default"
+  },
+  {
+    "name": "世界计划-MEIKO",
+    "type": "default"
+  },
+  {
+    "name": "世界计划-凤笑梦",
+    "type": "default"
+  },
+  {
+    "name": "世界计划-初音未来",
+    "type": "default"
+  },
+  {
+    "name": "世界计划-天马司",
+    "type": "default"
+  },
+  {
+    "name": "世界计划-巡音流歌",
+    "type": "default"
+  },
+  {
+    "name": "世界计划-神代类",
+    "type": "default"
+  },
+  {
+    "name": "世界计划-草薙宁宁",
+    "type": "default"
+  },
+  {
+    "name": "世界计划-镜音连",
+    "type": "default"
+  },
+  {
+    "name": "世界计划-镜音铃",
+    "type": "default"
+  },
+  {
+    "name": "东之伊甸-森美咲",
+    "type": "default"
+  },
+  {
+    "name": "中二病也要谈恋爱-丹生谷森夏",
+    "type": "default"
+  },
+  {
+    "name": "中年男的异世界网购生活-健一·滨田",
+    "type": "default"
+  },
+  {
+    "name": "中禅寺老师的灵怪讲义实录。解谜就交给老师。-中禅寺敦子",
+    "type": "default"
+  },
+  {
+    "name": "中禅寺老师的灵怪讲义实录。解谜就交给老师。-乔纳森·克洛德",
+    "type": "default"
+  },
+  {
+    "name": "中禅寺老师的灵怪讲义实录。解谜就交给老师。-关口巽",
+    "type": "default"
+  },
+  {
+    "name": "中禅寺老师的灵怪讲义实录。解谜就交给老师。-和子",
+    "type": "default"
+  },
+  {
+    "name": "中禅寺老师的灵怪讲义实录。解谜就交给老师。-小川凉子",
+    "type": "default"
+  },
+  {
+    "name": "中禅寺老师的灵怪讲义实录。解谜就交给老师。-日下部栞奈",
+    "type": "default"
+  },
+  {
+    "name": "中禅寺老师的灵怪讲义实录。解谜就交给老师。-杉本老师",
+    "type": "default"
+  },
+  {
+    "name": "中禅寺老师的灵怪讲义实录。解谜就交给老师。-田口",
+    "type": "default"
+  },
+  {
+    "name": "为美好的世界献上爆焰!-悠悠",
+    "type": "default"
+  },
+  {
+    "name": "乐园追放-安吉拉·巴尔扎克",
+    "type": "default"
+  },
+  {
+    "name": "九龙大众浪漫-杨明",
+    "type": "default"
+  },
+  {
+    "name": "九龙大众浪漫-鲸井令子",
+    "type": "default"
+  },
+  {
+    "name": "九龙大众浪漫-鼬珑",
+    "type": "default"
+  },
+  {
+    "name": "乡下大叔成为剑圣-可露妮·可露歇尔",
+    "type": "default"
+  },
+  {
+    "name": "乡下大叔成为剑圣-贝里尔·加德南特",
+    "type": "default"
+  },
+  {
+    "name": "亦叶亦花-小父内凉叶",
+    "type": "default"
+  },
+  {
+    "name": "亦叶亦花-谷崎诗音",
+    "type": "default"
+  },
+  {
+    "name": "人渣的本愿-三户",
+    "type": "default"
+  },
+  {
+    "name": "人渣的本愿-步美",
+    "type": "default"
+  },
+  {
+    "name": "人渣的本愿-皆川茜",
+    "type": "default"
+  },
+  {
+    "name": "人渣的本愿-绘鸠早苗",
+    "type": "default"
+  },
+  {
+    "name": "人渣的本愿-钟井鸣海",
+    "type": "default"
+  },
+  {
+    "name": "从零开始的异世界生活-佩特拉·雷蒂",
+    "type": "default"
+  },
+  {
+    "name": "从零开始的异世界生活-卡佩菈·爱梅拉妲·露格尼卡",
+    "type": "default"
+  },
+  {
+    "name": "从零开始的异世界生活-安娜塔西亚·合辛",
+    "type": "default"
+  },
+  {
+    "name": "从零开始的异世界生活-希尔菲",
+    "type": "default"
+  },
+  {
+    "name": "从零开始的异世界生活-库珥修·卡尔斯腾",
+    "type": "default"
+  },
+  {
+    "name": "从零开始的异世界生活-由里乌斯·尤克历乌斯",
+    "type": "default"
+  },
+  {
+    "name": "从零开始的异世界生活-罗伊·阿尔法德",
+    "type": "default"
+  },
+  {
+    "name": "从零开始的异世界生活-莉希亚·汀泽尔",
+    "type": "default"
+  },
+  {
+    "name": "从零开始的异世界生活-莉莉安娜·马斯可芮德",
+    "type": "default"
+  },
+  {
+    "name": "从零开始的异世界生活-莱伊·巴登凯托斯",
+    "type": "default"
+  },
+  {
+    "name": "伪恋-橘万里花",
+    "type": "default"
+  },
+  {
+    "name": "佐贺偶像是传奇-绀野纯子",
+    "type": "default"
+  },
+  {
+    "name": "假面骑士歌查德-银杏莲华",
+    "type": "default"
+  },
+  {
+    "name": "偶像大师闪耀色彩-和泉爱依",
+    "type": "default"
+  },
+  {
+    "name": "偶像大师闪耀色彩-福丸小糸",
+    "type": "default"
+  },
+  {
+    "name": "偶像大师闪耀色彩-黛冬优子",
+    "type": "default"
+  },
+  {
+    "name": "光死去的夏天-山岸朝子",
+    "type": "default"
+  },
+  {
+    "name": "全修。-尤尼欧",
+    "type": "default"
+  },
+  {
+    "name": "公主的管弦乐团-一条流星",
+    "type": "default"
+  },
+  {
+    "name": "公主的管弦乐团-多兰",
+    "type": "default"
+  },
+  {
+    "name": "公主的管弦乐团-奇塔",
+    "type": "default"
+  },
+  {
+    "name": "公主的管弦乐团-根津爱子",
+    "type": "default"
+  },
+  {
+    "name": "公主的管弦乐团-田中舞",
+    "type": "default"
+  },
+  {
+    "name": "公主的管弦乐团-空野水萌",
+    "type": "default"
+  },
+  {
+    "name": "公主的管弦乐团-识边篝",
+    "type": "default"
+  },
+  {
+    "name": "公主的管弦乐团-阳之下夏",
+    "type": "default"
+  },
+  {
+    "name": "公主的管弦乐团-风花堇",
+    "type": "default"
+  },
+  {
+    "name": "公女殿下的家庭教师-亚连",
+    "type": "default"
+  },
+  {
+    "name": "冰海战记-雷夫",
+    "type": "default"
+  },
+  {
+    "name": "凸变英雄X-幸运青",
+    "type": "default"
+  },
+  {
+    "name": "凸变英雄X-罗莉",
+    "type": "default"
+  },
+  {
+    "name": "出入禁止的鼹鼠-佐藤真由",
+    "type": "default"
+  },
+  {
+    "name": "刀使巫女-十条姬和",
+    "type": "default"
+  },
+  {
+    "name": "刀使巫女-十条篝",
+    "type": "default"
+  },
+  {
+    "name": "刀使巫女-卫藤可奈美",
+    "type": "default"
+  },
+  {
+    "name": "刀剑神域-神崎艾莎",
+    "type": "default"
+  },
+  {
+    "name": "前桥魔女-三俣巧可",
+    "type": "default"
+  },
+  {
+    "name": "前桥魔女-三叶凛子",
+    "type": "default"
+  },
+  {
+    "name": "前桥魔女-上泉舞衣",
+    "type": "default"
+  },
+  {
+    "name": "前桥魔女-北原镜华",
+    "type": "default"
+  },
+  {
+    "name": "前桥魔女-新里杏珠",
+    "type": "default"
+  },
+  {
+    "name": "前桥魔女-膳荣子",
+    "type": "default"
+  },
+  {
+    "name": "前桥魔女-解悟魔女",
+    "type": "default"
+  },
+  {
+    "name": "前桥魔女-赤城结奈",
+    "type": "default"
+  },
+  {
+    "name": "受到猩猩神的庇护的大小姐在王立骑士团受到宠爱-索菲亚·莉菈",
+    "type": "default"
+  },
+  {
+    "name": "只有神知道的世界-艾利由西亚·D·露德·伊玛",
+    "type": "default"
+  },
+  {
+    "name": "只有神知道的世界-高原步美",
+    "type": "default"
+  },
+  {
+    "name": "可爱史莱姆噗尼露-云母麻美",
+    "type": "default"
+  },
+  {
+    "name": "可爱史莱姆噗尼露-噗尼露",
+    "type": "default"
+  },
+  {
+    "name": "可爱史莱姆噗尼露-河合井小太郎",
+    "type": "default"
+  },
+  {
+    "name": "叹气的亡灵想隐退-西朵莉·斯玛特",
+    "type": "default"
+  },
+  {
+    "name": "叹气的亡灵想隐退-露妲·伦贝克",
+    "type": "default"
+  },
+  {
+    "name": "吊带袜天使-Panty",
+    "type": "default"
+  },
+  {
+    "name": "吊带袜天使-Scanty",
+    "type": "default"
+  },
+  {
+    "name": "吊带袜天使-Stocking",
+    "type": "default"
+  },
+  {
+    "name": "名侦探柯南-中森青子",
+    "type": "default"
+  },
+  {
+    "name": "名侦探柯南-小岛元太",
+    "type": "default"
+  },
+  {
+    "name": "名侦探柯南-灰原哀",
+    "type": "default"
+  },
+  {
+    "name": "名侦探柯南-犯泽先生",
+    "type": "default"
+  },
+  {
+    "name": "名侦探柯南-若狭留美",
+    "type": "default"
+  },
+  {
+    "name": "名侦探柯南-远山和叶",
+    "type": "default"
+  },
+  {
+    "name": "名侦探柯南-铃木园子",
+    "type": "default"
+  },
+  {
+    "name": "名侦探柯南-阿笠博士",
+    "type": "default"
+  },
+  {
+    "name": "吹响!上低音号-吉川优子",
+    "type": "default"
+  },
+  {
+    "name": "吹响!上低音号-小笠原晴香",
+    "type": "default"
+  },
+  {
+    "name": "吹响!上低音号-针谷佳穗",
+    "type": "default"
+  },
+  {
+    "name": "命运石之门-桥田至",
+    "type": "default"
+  },
+  {
+    "name": "喜欢的冲绳妹说方言-上间天介",
+    "type": "default"
+  },
+  {
+    "name": "喜欢的冲绳妹说方言-喜屋武飞夏",
+    "type": "default"
+  },
+  {
+    "name": "喜欢的冲绳妹说方言-比嘉夏菜",
+    "type": "default"
+  },
+  {
+    "name": "噬血狂袭-煌坂纱矢华",
+    "type": "default"
+  },
+  {
+    "name": "噬血狂袭-葛莲妲",
+    "type": "default"
+  },
+  {
+    "name": "四叠半时光机布鲁斯-明石",
+    "type": "default"
+  },
+  {
+    "name": "圣女因太过完美不够可爱而被废除婚约并卖到邻国-米娅·阿登纳",
+    "type": "default"
+  },
+  {
+    "name": "地。关于地球的运动-拉法尔",
+    "type": "default"
+  },
+  {
+    "name": "地。关于地球的运动-杜拉卡",
+    "type": "default"
+  },
+  {
+    "name": "地。关于地球的运动-格拉斯",
+    "type": "default"
+  },
+  {
+    "name": "地。关于地球的运动-约伦塔",
+    "type": "default"
+  },
+  {
+    "name": "地下城里的人们-芙琳",
+    "type": "default"
+  },
+  {
+    "name": "地下城里的人们-雷西林吉",
+    "type": "default"
+  },
+  {
+    "name": "地缚少年花子君-八寻宁宁",
+    "type": "default"
+  },
+  {
+    "name": "地缚少年花子君-四岛芽衣",
+    "type": "default"
+  },
+  {
+    "name": "地缚少年花子君-弥子",
+    "type": "default"
+  },
+  {
+    "name": "地缚少年花子君-苍井茜",
+    "type": "default"
+  },
+  {
+    "name": "地缚少年花子君-赤根葵",
+    "type": "default"
+  },
+  {
+    "name": "境界线上的地平线-东",
+    "type": "default"
+  },
+  {
+    "name": "境界线上的地平线-参水·真喜子",
+    "type": "default"
+  },
+  {
+    "name": "境界线上的地平线-奈美",
+    "type": "default"
+  },
+  {
+    "name": "境界线上的地平线-御广敷·银二",
+    "type": "default"
+  },
+  {
+    "name": "境界线上的地平线-本多·正纯",
+    "type": "default"
+  },
+  {
+    "name": "境界线上的地平线-浅间·智",
+    "type": "default"
+  },
+  {
+    "name": "境界线上的地平线-海蒂·奥盖扎薇乐",
+    "type": "default"
+  },
+  {
+    "name": "境界线上的地平线-玛戈特·奈特",
+    "type": "default"
+  },
+  {
+    "name": "境界线上的地平线-葵·托利",
+    "type": "default"
+  },
+  {
+    "name": "夏日口袋-䌷文德斯",
+    "type": "default"
+  },
+  {
+    "name": "夏日口袋-久岛鸥",
+    "type": "default"
+  },
+  {
+    "name": "夏日口袋-久岛鹭",
+    "type": "default"
+  },
+  {
+    "name": "夏日口袋-加藤羽未",
+    "type": "default"
+  },
+  {
+    "name": "夏日口袋-岬镜子",
+    "type": "default"
+  },
+  {
+    "name": "夏日口袋-空门苍",
+    "type": "default"
+  },
+  {
+    "name": "夏日口袋-隼人",
+    "type": "default"
+  },
+  {
+    "name": "夏日口袋-雀",
+    "type": "default"
+  },
+  {
+    "name": "夏日口袋-鸣濑白羽",
+    "type": "default"
+  },
+  {
+    "name": "夏日口袋-鹰原羽依里",
+    "type": "default"
+  },
+  {
+    "name": "夏日重现-小早川朝子",
+    "type": "default"
+  },
+  {
+    "name": "夜晚的水母不会游泳-渡濑季初",
+    "type": "default"
+  },
+  {
+    "name": "夜晚的水母不会游泳-高梨·金·阿努克·芽衣",
+    "type": "default"
+  },
+  {
+    "name": "夜樱四重奏-V·茱莉·F",
+    "type": "default"
+  },
+  {
+    "name": "夜樱四重奏-五十音言叶",
+    "type": "default"
+  },
+  {
+    "name": "夜樱四重奏-土夏彦八重",
+    "type": "default"
+  },
+  {
+    "name": "夜樱四重奏-天野绿子",
+    "type": "default"
+  },
+  {
+    "name": "夜樱四重奏-岸桃华",
+    "type": "default"
+  },
+  {
+    "name": "夜樱四重奏-比泉秋名",
+    "type": "default"
+  },
+  {
+    "name": "夜樱四重奏-狂卷石榴",
+    "type": "default"
+  },
+  {
+    "name": "大叔转生恶役大小姐-安娜·多尔",
+    "type": "default"
+  },
+  {
+    "name": "大叔转生恶役大小姐-维吉尔·毕洛基",
+    "type": "default"
+  },
+  {
+    "name": "天久鹰央的推理病历表-天久鹰央",
+    "type": "default"
+  },
+  {
+    "name": "天使降临我身边-星野日向",
+    "type": "default"
+  },
+  {
+    "name": "天才治疗师退队作为无照治疗师快乐过活-索菲亚",
+    "type": "default"
+  },
+  {
+    "name": "天才治疗师退队作为无照治疗师快乐过活-莉莉",
+    "type": "default"
+  },
+  {
+    "name": "天才治疗师退队作为无照治疗师快乐过活-蒂尔",
+    "type": "default"
+  },
+  {
+    "name": "天才麻将少女-男解说",
+    "type": "default"
+  },
+  {
+    "name": "天穗之咲稻姬-结",
+    "type": "default"
+  },
+  {
+    "name": "天降之物-妮姆芙",
+    "type": "default"
+  },
+  {
+    "name": "天降之物-阿斯特蕾亚",
+    "type": "default"
+  },
+  {
+    "name": "天降之物-风音日和",
+    "type": "default"
+  },
+  {
+    "name": "契约之吻-夕桐绫乃",
+    "type": "default"
+  },
+  {
+    "name": "妄想学生会-七条天空",
+    "type": "default"
+  },
+  {
+    "name": "妄想学生会-柳本健二",
+    "type": "default"
+  },
+  {
+    "name": "妄想学生会-津田隆利",
+    "type": "default"
+  },
+  {
+    "name": "妄想学生会-萩村铃",
+    "type": "default"
+  },
+  {
+    "name": "妻子变成小学生。-新岛圭介",
+    "type": "default"
+  },
+  {
+    "name": "妻子变成小学生。-新岛麻衣",
+    "type": "default"
+  },
+  {
+    "name": "孤独摇滚-后藤一里",
+    "type": "default"
+  },
+  {
+    "name": "孤独摇滚-喜多郁代",
+    "type": "default"
+  },
+  {
+    "name": "学战都市-天雾绫斗",
+    "type": "default"
+  },
+  {
+    "name": "寒蝉鸣泣之时-北条沙都子",
+    "type": "default"
+  },
+  {
+    "name": "寒蝉鸣泣之时-古手梨花",
+    "type": "default"
+  },
+  {
+    "name": "小书痴的下克上-罗洁梅茵",
+    "type": "default"
+  },
+  {
+    "name": "小市民系列-冰谷优人",
+    "type": "default"
+  },
+  {
+    "name": "小林家的龙女仆-艾露玛",
+    "type": "default"
+  },
+  {
+    "name": "少女歌剧-凤满",
+    "type": "default"
+  },
+  {
+    "name": "少女歌剧-刘美帆",
+    "type": "default"
+  },
+  {
+    "name": "少女歌剧-星见纯那",
+    "type": "default"
+  },
+  {
+    "name": "少女终末旅行-尤莉",
+    "type": "default"
+  },
+  {
+    "name": "帝乃三姐妹原来很好搞定-绫世优",
+    "type": "default"
+  },
+  {
+    "name": "干杂活我乃最强-基尔希尔",
+    "type": "default"
+  },
+  {
+    "name": "幸腹涂鸦-森野麒麟",
+    "type": "default"
+  },
+  {
+    "name": "幸腹涂鸦-町子凉",
+    "type": "default"
+  },
+  {
+    "name": "异世界默示录麦诺格拉-伊良拓斗",
+    "type": "default"
+  },
+  {
+    "name": "异世界默示录麦诺格拉-基亚",
+    "type": "default"
+  },
+  {
+    "name": "异世界默示录麦诺格拉-污泥的阿荼",
+    "type": "default"
+  },
+  {
+    "name": "强者的新传说-塞莱娅",
+    "type": "default"
+  },
+  {
+    "name": "心理测量者-常守朱",
+    "type": "default"
+  },
+  {
+    "name": "忍者与杀手二人组的日常生活-井堤凑",
+    "type": "default"
+  },
+  {
+    "name": "忍者与杀手二人组的日常生活-百合子",
+    "type": "default"
+  },
+  {
+    "name": "忍者与杀手二人组的日常生活-草隐美登里",
+    "type": "default"
+  },
+  {
+    "name": "忍者与杀手二人组的日常生活-草隐里子",
+    "type": "default"
+  },
+  {
+    "name": "忍者与杀手二人组的日常生活-草隐飞鸟",
+    "type": "default"
+  },
+  {
+    "name": "忍者与杀手二人组的日常生活-黑",
+    "type": "default"
+  },
+  {
+    "name": "忍者杀手-不磨户二",
+    "type": "default"
+  },
+  {
+    "name": "忍者杀手-矢本小季",
+    "type": "default"
+  },
+  {
+    "name": "忍者杀手-藤木户冬子",
+    "type": "default"
+  },
+  {
+    "name": "恋爱与选举与巧克力-住吉千里",
+    "type": "default"
+  },
+  {
+    "name": "恋爱与选举与巧克力-梦岛胧",
+    "type": "default"
+  },
+  {
+    "name": "恋语轻唱-水口未希",
+    "type": "default"
+  },
+  {
+    "name": "恋语轻唱-里宫百百花",
+    "type": "default"
+  },
+  {
+    "name": "恶魔之谜-沟吕木边",
+    "type": "default"
+  },
+  {
+    "name": "恶魔之谜-走鳰",
+    "type": "default"
+  },
+  {
+    "name": "悲喜渔生-佐佐木常宏",
+    "type": "default"
+  },
+  {
+    "name": "悲喜渔生-艾丝",
+    "type": "default"
+  },
+  {
+    "name": "悲喜渔生-西森梢",
+    "type": "default"
+  },
+  {
+    "name": "悲喜渔生-踯躅森贵明",
+    "type": "default"
+  },
+  {
+    "name": "憧憬成为魔法少女-柊舞缇娜",
+    "type": "default"
+  },
+  {
+    "name": "憧憬成为魔法少女-水神小夜",
+    "type": "default"
+  },
+  {
+    "name": "成为名垂青史的恶役千金吧!-威里阿姆斯·艾莉西娅",
+    "type": "default"
+  },
+  {
+    "name": "成为名垂青史的恶役千金吧!-威里阿姆斯·艾路伯特",
+    "type": "default"
+  },
+  {
+    "name": "成为名垂青史的恶役千金吧!-肯伍德·柯蒂斯",
+    "type": "default"
+  },
+  {
+    "name": "成为名垂青史的恶役千金吧!-西卡·迪库",
+    "type": "default"
+  },
+  {
+    "name": "我与尼特女忍者的莫名同居生活-出浦白津莉",
+    "type": "default"
+  },
+  {
+    "name": "我决定和班上最讨厌的女生结婚了-北条才人",
+    "type": "default"
+  },
+  {
+    "name": "我决定和班上最讨厌的女生结婚了-樱森千代",
+    "type": "default"
+  },
+  {
+    "name": "我决定和班上最讨厌的女生结婚了-樱森朱音",
+    "type": "default"
+  },
+  {
+    "name": "我决定和班上最讨厌的女生结婚了-樱森真帆",
+    "type": "default"
+  },
+  {
+    "name": "我决定和班上最讨厌的女生结婚了-石仓阳鞠",
+    "type": "default"
+  },
+  {
+    "name": "我怎么可能成为你的恋人，不行不行!-小柳香穗",
+    "type": "default"
+  },
+  {
+    "name": "我怎么可能成为你的恋人，不行不行!-濑名紫阳花",
+    "type": "default"
+  },
+  {
+    "name": "我怎么可能成为你的恋人，不行不行!-王冢真唯",
+    "type": "default"
+  },
+  {
+    "name": "我怎么可能成为你的恋人，不行不行!-甘织玲奈子",
+    "type": "default"
+  },
+  {
+    "name": "我怎么可能成为你的恋人，不行不行!-甘织遥奈",
+    "type": "default"
+  },
+  {
+    "name": "我怎么可能成为你的恋人，不行不行!-藤村",
+    "type": "default"
+  },
+  {
+    "name": "我推的孩子-星野爱",
+    "type": "default"
+  },
+  {
+    "name": "我推的孩子-星野露比",
+    "type": "default"
+  },
+  {
+    "name": "我推的孩子-鸣岛梅尔特",
+    "type": "default"
+  },
+  {
+    "name": "我是星际国家的恶德领主!-美香",
+    "type": "default"
+  },
+  {
+    "name": "我是星际国家的恶德领主!-香菜美",
+    "type": "default"
+  },
+  {
+    "name": "我独自升级-今宫五月（王珍珍）",
+    "type": "default"
+  },
+  {
+    "name": "我独自升级-朝比奈凛（韩宋伊）",
+    "type": "default"
+  },
+  {
+    "name": "我独自升级-松浦良平（高明桓）",
+    "type": "default"
+  },
+  {
+    "name": "我独自升级-水篠聪子（林静慧）",
+    "type": "default"
+  },
+  {
+    "name": "我的幸福婚姻-久堂叶月",
+    "type": "default"
+  },
+  {
+    "name": "我的幸福婚姻-斋森美世",
+    "type": "default"
+  },
+  {
+    "name": "我的百合乃工作是也!-白鹭阳芽",
+    "type": "default"
+  },
+  {
+    "name": "我的百合乃工作是也!-知花纯加",
+    "type": "default"
+  },
+  {
+    "name": "战队大失格-若叶京助",
+    "type": "default"
+  },
+  {
+    "name": "房东妹子青春期!-前田",
+    "type": "default"
+  },
+  {
+    "name": "房东妹子青春期!-植野真由",
+    "type": "default"
+  },
+  {
+    "name": "房东妹子青春期!-里中千惠",
+    "type": "default"
+  },
+  {
+    "name": "拔作岛-女部田郁子",
+    "type": "default"
+  },
+  {
+    "name": "拔作岛-橘麻沙音",
+    "type": "default"
+  },
+  {
+    "name": "拔作岛-渡会雏见",
+    "type": "default"
+  },
+  {
+    "name": "拔作岛-片桐奈奈濑",
+    "type": "default"
+  },
+  {
+    "name": "拔作岛-畔美岬",
+    "type": "default"
+  },
+  {
+    "name": "拔作岛-秋野水引",
+    "type": "default"
+  },
+  {
+    "name": "拔作岛-糺川礼",
+    "type": "default"
+  },
+  {
+    "name": "拥抱!光之美少女-药师寺纱绫",
+    "type": "default"
+  },
+  {
+    "name": "摇曳百合-三轮蓝",
+    "type": "default"
+  },
+  {
+    "name": "摇曳百合-园川惠",
+    "type": "default"
+  },
+  {
+    "name": "摇曳百合-大室抚子",
+    "type": "default"
+  },
+  {
+    "name": "摇滚乃是淑女的爱好-优",
+    "type": "default"
+  },
+  {
+    "name": "摇滚乃是淑女的爱好-大城",
+    "type": "default"
+  },
+  {
+    "name": "摇滚乃是淑女的爱好-太田",
+    "type": "default"
+  },
+  {
+    "name": "摇滚乃是淑女的爱好-植草",
+    "type": "default"
+  },
+  {
+    "name": "摇滚乃是淑女的爱好-直人",
+    "type": "default"
+  },
+  {
+    "name": "摇滚乃是淑女的爱好-铃之宫爱莉珠",
+    "type": "default"
+  },
+  {
+    "name": "摇滚乃是淑女的爱好-铃之宫莉莉纱",
+    "type": "default"
+  },
+  {
+    "name": "摇滚乃是淑女的爱好-院濑见蒂娜",
+    "type": "default"
+  },
+  {
+    "name": "摇滚乃是淑女的爱好-黑铁音羽",
+    "type": "default"
+  },
+  {
+    "name": "数码宝贝-城户丈",
+    "type": "default"
+  },
+  {
+    "name": "数码宝贝-巴鲁兽",
+    "type": "default"
+  },
+  {
+    "name": "数码宝贝-石田大和",
+    "type": "default"
+  },
+  {
+    "name": "数码宝贝02-V兽",
+    "type": "default"
+  },
+  {
+    "name": "数码宝贝02-一乘寺贤",
+    "type": "default"
+  },
+  {
+    "name": "数码宝贝02-井上京",
+    "type": "default"
+  },
+  {
+    "name": "数码宝贝02-本宫大辅",
+    "type": "default"
+  },
+  {
+    "name": "文豪野犬-中岛敦",
+    "type": "default"
+  },
+  {
+    "name": "文豪野犬-太宰治",
+    "type": "default"
+  },
+  {
+    "name": "文豪野犬-宫泽贤治",
+    "type": "default"
+  },
+  {
+    "name": "文豪野犬-春野绮罗子",
+    "type": "default"
+  },
+  {
+    "name": "文豪野犬-森鸥外",
+    "type": "default"
+  },
+  {
+    "name": "文豪野犬-谷崎润一郎",
+    "type": "default"
+  },
+  {
+    "name": "文豪野犬-谷崎直美",
+    "type": "default"
+  },
+  {
+    "name": "文豪野犬-马克·吐温",
+    "type": "default"
+  },
+  {
+    "name": "新干线变形机器人-发音未来",
+    "type": "default"
+  },
+  {
+    "name": "无头骑士异闻录-园原杏里",
+    "type": "default"
+  },
+  {
+    "name": "无头骑士异闻录-狩泽绘理华",
+    "type": "default"
+  },
+  {
+    "name": "无头骑士异闻录-龙之峰帝人",
+    "type": "default"
+  },
+  {
+    "name": "无职转生-希露菲叶特",
+    "type": "default"
+  },
+  {
+    "name": "时光流逝，饭菜依旧美味-儿玉樱",
+    "type": "default"
+  },
+  {
+    "name": "时光流逝，饭菜依旧美味-古馆九礼亚",
+    "type": "default"
+  },
+  {
+    "name": "时光流逝，饭菜依旧美味-太田真由美",
+    "type": "default"
+  },
+  {
+    "name": "时光流逝，饭菜依旧美味-小川诗音",
+    "type": "default"
+  },
+  {
+    "name": "时光流逝，饭菜依旧美味-星奈奈",
+    "type": "default"
+  },
+  {
+    "name": "时光流逝，饭菜依旧美味-河合真子",
+    "type": "default"
+  },
+  {
+    "name": "明天，美食广场见。-山本",
+    "type": "default"
+  },
+  {
+    "name": "明日方舟 U探泰拉-尤里卡",
+    "type": "default"
+  },
+  {
+    "name": "明日方舟 U探泰拉-缪尔赛思",
+    "type": "default"
+  },
+  {
+    "name": "星之卡比-卡比",
+    "type": "default"
+  },
+  {
+    "name": "星灵感应-小之星海果",
+    "type": "default"
+  },
+  {
+    "name": "星灵感应-雷门瞬",
+    "type": "default"
+  },
+  {
+    "name": "暗杀女仆冥土小姐-日阴奈佳",
+    "type": "default"
+  },
+  {
+    "name": "暗杀女仆冥土小姐-横谷人好",
+    "type": "default"
+  },
+  {
+    "name": "暗杀女仆冥土小姐-横谷李恋",
+    "type": "default"
+  },
+  {
+    "name": "暗杀女仆冥土小姐-炸麻薯太郎",
+    "type": "default"
+  },
+  {
+    "name": "暗杀女仆冥土小姐-葛蕾斯",
+    "type": "default"
+  },
+  {
+    "name": "暗杀教室-中村莉樱",
+    "type": "default"
+  },
+  {
+    "name": "暗杀教室-矢田桃花",
+    "type": "default"
+  },
+  {
+    "name": "更衣人偶坠入爱河-姬野天音（天野千岁）",
+    "type": "default"
+  },
+  {
+    "name": "最狂辅助职业【话术士】世界最强战团听我号令-菲诺裘·巴尔基尼",
+    "type": "default"
+  },
+  {
+    "name": "最狂辅助职业【话术士】世界最强战团听我号令-诺艾尔·修特廉",
+    "type": "default"
+  },
+  {
+    "name": "最狂辅助职业【话术士】世界最强战团听我号令-达妮雅",
+    "type": "default"
+  },
+  {
+    "name": "末日后酒店-嘭子",
+    "type": "default"
+  },
+  {
+    "name": "机动战士高达 GQuuuuuuX-尼娅安",
+    "type": "default"
+  },
+  {
+    "name": "机动战士高达 GQuuuuuuX-拉拉·辛",
+    "type": "default"
+  },
+  {
+    "name": "机动战士高达 水星的魔女-沙迪克·泽内利",
+    "type": "default"
+  },
+  {
+    "name": "来自深渊-普鲁修卡",
+    "type": "default"
+  },
+  {
+    "name": "极黑的布伦希尔特-鹰鸟小鸟",
+    "type": "default"
+  },
+  {
+    "name": "某科学的超电磁炮-湾内绢保",
+    "type": "default"
+  },
+  {
+    "name": "某科学的超电磁炮-白井黑子",
+    "type": "default"
+  },
+  {
+    "name": "某科学的超电磁炮-芙兰达",
+    "type": "default"
+  },
+  {
+    "name": "某科学的超电磁炮-食蜂操祈",
+    "type": "default"
+  },
+  {
+    "name": "某魔法的禁书目录-茵蒂克丝",
+    "type": "default"
+  },
+  {
+    "name": "柔光魔女股份有限公司-越谷仁美",
+    "type": "default"
+  },
+  {
+    "name": "歌声是法式千层酥-古城爱莉",
+    "type": "default"
+  },
+  {
+    "name": "歌声是法式千层酥-小牧嬉歌",
+    "type": "default"
+  },
+  {
+    "name": "歌声是法式千层酥-近卫玲音",
+    "type": "default"
+  },
+  {
+    "name": "死神-井上织姬",
+    "type": "default"
+  },
+  {
+    "name": "气绝勇者与暗杀公主-夏尔",
+    "type": "default"
+  },
+  {
+    "name": "气绝勇者与暗杀公主-果亚",
+    "type": "default"
+  },
+  {
+    "name": "气绝勇者与暗杀公主-阿涅茉涅",
+    "type": "default"
+  },
+  {
+    "name": "没能成为魔法师的女孩子的故事。-可露米·未来",
+    "type": "default"
+  },
+  {
+    "name": "测不准的阿波连同学-石川",
+    "type": "default"
+  },
+  {
+    "name": "海贼王-托尼托尼·乔巴",
+    "type": "default"
+  },
+  {
+    "name": "海贼王-波雅·汉库克",
+    "type": "default"
+  },
+  {
+    "name": "深夜Punch-谱风",
+    "type": "default"
+  },
+  {
+    "name": "深夜Punch-重雪",
+    "type": "default"
+  },
+  {
+    "name": "满月之战-小日向满月",
+    "type": "default"
+  },
+  {
+    "name": "满月之战-林宁宁",
+    "type": "default"
+  },
+  {
+    "name": "满月之战-袴田水晶",
+    "type": "default"
+  },
+  {
+    "name": "潜行吧奈亚子-余市健彦",
+    "type": "default"
+  },
+  {
+    "name": "潜行吧奈亚子-八坂真寻",
+    "type": "default"
+  },
+  {
+    "name": "潜行吧奈亚子-八坂赖子",
+    "type": "default"
+  },
+  {
+    "name": "潜行吧奈亚子-哈斯太",
+    "type": "default"
+  },
+  {
+    "name": "潜行吧奈亚子-夏塔",
+    "type": "default"
+  },
+  {
+    "name": "潜行吧奈亚子-奈亚子",
+    "type": "default"
+  },
+  {
+    "name": "潜行吧奈亚子-鹤子",
+    "type": "default"
+  },
+  {
+    "name": "火影忍者-春野樱",
+    "type": "default"
+  },
+  {
+    "name": "火影忍者-香燐",
+    "type": "default"
+  },
+  {
+    "name": "火影忍者博人传-漩涡鸣人",
+    "type": "default"
+  },
+  {
+    "name": "爱有点沉重的暗黑精灵从异世界紧追不放-玛莉亚贝尔",
+    "type": "default"
+  },
+  {
+    "name": "物语系列-千石抚子",
+    "type": "default"
+  },
+  {
+    "name": "物语系列-日伞星雨",
+    "type": "default"
+  },
+  {
+    "name": "物语系列-阿良良木历",
+    "type": "default"
+  },
+  {
+    "name": "琉璃的宝石-伊万里曜子",
+    "type": "default"
+  },
+  {
+    "name": "琉璃的宝石-濑户硝子",
+    "type": "default"
+  },
+  {
+    "name": "琉璃的宝石-荒砥凪",
+    "type": "default"
+  },
+  {
+    "name": "琉璃的宝石-谷川琉璃",
+    "type": "default"
+  },
+  {
+    "name": "甘城光辉游乐园-鲁布鲁姆",
+    "type": "default"
+  },
+  {
+    "name": "男女之间存在纯友情吗？-夏目悠宇",
+    "type": "default"
+  },
+  {
+    "name": "男女之间存在纯友情吗？-榎本凛音",
+    "type": "default"
+  },
+  {
+    "name": "男女之间存在纯友情吗？-榎本红叶",
+    "type": "default"
+  },
+  {
+    "name": "男女之间存在纯友情吗？-横山亚寿美",
+    "type": "default"
+  },
+  {
+    "name": "男女之间存在纯友情吗？-犬冢日葵",
+    "type": "default"
+  },
+  {
+    "name": "男女之间存在纯友情吗？-真木岛慎司",
+    "type": "default"
+  },
+  {
+    "name": "疑似后宫-惠",
+    "type": "default"
+  },
+  {
+    "name": "疑似后宫-白泽桐",
+    "type": "default"
+  },
+  {
+    "name": "白箱-宫井枫",
+    "type": "default"
+  },
+  {
+    "name": "白箱-新川奈绪",
+    "type": "default"
+  },
+  {
+    "name": "白箱-相马玲奈",
+    "type": "default"
+  },
+  {
+    "name": "白箱-葛城刚太郎",
+    "type": "default"
+  },
+  {
+    "name": "白箱-远藤亮介",
+    "type": "default"
+  },
+  {
+    "name": "白箱-远藤麻佑美",
+    "type": "default"
+  },
+  {
+    "name": "目隐都市的演绎者-如月桃",
+    "type": "default"
+  },
+  {
+    "name": "目隐都市的演绎者-榎本贵音",
+    "type": "default"
+  },
+  {
+    "name": "目隐都市的演绎者-濑户幸助",
+    "type": "default"
+  },
+  {
+    "name": "目隐都市的演绎者-雨宫响也",
+    "type": "default"
+  },
+  {
+    "name": "直至魔女消逝-亨迪",
+    "type": "default"
+  },
+  {
+    "name": "直至魔女消逝-梅格·拉兹贝莉",
+    "type": "default"
+  },
+  {
+    "name": "直至魔女消逝-祈",
+    "type": "default"
+  },
+  {
+    "name": "直至魔女消逝-苏菲·海特",
+    "type": "default"
+  },
+  {
+    "name": "直至魔女消逝-菲涅·卡文迪许",
+    "type": "default"
+  },
+  {
+    "name": "真实之泪-石动乃绘",
+    "type": "default"
+  },
+  {
+    "name": "真的要结婚吗-五十岛秋子",
+    "type": "default"
+  },
+  {
+    "name": "真的要结婚吗-大原拓也",
+    "type": "default"
+  },
+  {
+    "name": "真的要结婚吗-小宫夏海",
+    "type": "default"
+  },
+  {
+    "name": "真的要结婚吗-斋藤茜",
+    "type": "default"
+  },
+  {
+    "name": "真的要结婚吗-本城寺莉香",
+    "type": "default"
+  },
+  {
+    "name": "真的要结婚吗-权田广见",
+    "type": "default"
+  },
+  {
+    "name": "真的要结婚吗-黑川麻子",
+    "type": "default"
+  },
+  {
+    "name": "石纪元-北东西南",
+    "type": "default"
+  },
+  {
+    "name": "石纪元-小川杠",
+    "type": "default"
+  },
+  {
+    "name": "石纪元-浅雾幻",
+    "type": "default"
+  },
+  {
+    "name": "石纪元-西园寺羽京",
+    "type": "default"
+  },
+  {
+    "name": "碧蓝之海-北原伊织",
+    "type": "default"
+  },
+  {
+    "name": "碧蓝之海-古手川奈奈华",
+    "type": "default"
+  },
+  {
+    "name": "碧蓝之海-御手洗优",
+    "type": "default"
+  },
+  {
+    "name": "碧蓝之海-滨冈梓",
+    "type": "default"
+  },
+  {
+    "name": "神选-佐佐木依怙",
+    "type": "default"
+  },
+  {
+    "name": "离开A级队伍的我，和从前的弟子往迷宫深处迈进-希露可",
+    "type": "default"
+  },
+  {
+    "name": "离开A级队伍的我，和从前的弟子往迷宫深处迈进-蕾茵",
+    "type": "default"
+  },
+  {
+    "name": "租借女友-更科瑠夏",
+    "type": "default"
+  },
+  {
+    "name": "租借女友-栗林骏",
+    "type": "default"
+  },
+  {
+    "name": "章鱼噼的原罪-东润也",
+    "type": "default"
+  },
+  {
+    "name": "章鱼噼的原罪-东直树",
+    "type": "default"
+  },
+  {
+    "name": "章鱼噼的原罪-久世静香",
+    "type": "default"
+  },
+  {
+    "name": "章鱼噼的原罪-云母坂真理奈",
+    "type": "default"
+  },
+  {
+    "name": "章鱼噼的原罪-章鱼噼",
+    "type": "default"
+  },
+  {
+    "name": "精灵宝可梦-波加曼",
+    "type": "default"
+  },
+  {
+    "name": "精灵幻想记-利欧",
+    "type": "default"
+  },
+  {
+    "name": "紫云寺家的孩子们-紫云寺万里",
+    "type": "default"
+  },
+  {
+    "name": "紫云寺家的孩子们-紫云寺南",
+    "type": "default"
+  },
+  {
+    "name": "紫云寺家的孩子们-紫云寺志苑",
+    "type": "default"
+  },
+  {
+    "name": "紫云寺家的孩子们-紫云寺讴华",
+    "type": "default"
+  },
+  {
+    "name": "终将成为最强炼金术师？-巧·入间",
+    "type": "default"
+  },
+  {
+    "name": "终将成为最强炼金术师？-诺伦",
+    "type": "default"
+  },
+  {
+    "name": "结城友奈是勇者-三之轮银",
+    "type": "default"
+  },
+  {
+    "name": "结城友奈是勇者-弥勒莲华",
+    "type": "default"
+  },
+  {
+    "name": "绝灭危愚少女 Amazing Twins-等等力天音",
+    "type": "default"
+  },
+  {
+    "name": "继母的拖油瓶是我的前女友-东头伊佐奈",
+    "type": "default"
+  },
+  {
+    "name": "缘之空-乃木坂初佳",
+    "type": "default"
+  },
+  {
+    "name": "缘之空-仓永梢",
+    "type": "default"
+  },
+  {
+    "name": "缘之空-依媛奈绪",
+    "type": "default"
+  },
+  {
+    "name": "缘之空-天女目瑛",
+    "type": "default"
+  },
+  {
+    "name": "缘之空-春日野悠",
+    "type": "default"
+  },
+  {
+    "name": "缘之空-春日野穹",
+    "type": "default"
+  },
+  {
+    "name": "缘结甘神家-姊小路舞昼",
+    "type": "default"
+  },
+  {
+    "name": "缘结甘神家-甘神夕奈",
+    "type": "default"
+  },
+  {
+    "name": "缘结甘神家-甘神夜重",
+    "type": "default"
+  },
+  {
+    "name": "缘结甘神家-甘神朝姬",
+    "type": "default"
+  },
+  {
+    "name": "罪恶装备-优妮卡",
+    "type": "default"
+  },
+  {
+    "name": "罪恶装备-布丽姬",
+    "type": "default"
+  },
+  {
+    "name": "罪恶装备-蒂姬",
+    "type": "default"
+  },
+  {
+    "name": "群花绽放，彷如修罗-冬贺萩大",
+    "type": "default"
+  },
+  {
+    "name": "群花绽放，彷如修罗-吉祥寺博美",
+    "type": "default"
+  },
+  {
+    "name": "群花绽放，彷如修罗-整井良子",
+    "type": "default"
+  },
+  {
+    "name": "群花绽放，彷如修罗-昙美咲",
+    "type": "default"
+  },
+  {
+    "name": "群花绽放，彷如修罗-春山理惠",
+    "type": "default"
+  },
+  {
+    "name": "群花绽放，彷如修罗-春山花奈",
+    "type": "default"
+  },
+  {
+    "name": "群花绽放，彷如修罗-林千晶",
+    "type": "default"
+  },
+  {
+    "name": "群花绽放，彷如修罗-牡丹鉾波可可",
+    "type": "default"
+  },
+  {
+    "name": "群花绽放，彷如修罗-薄赖瑞希",
+    "type": "default"
+  },
+  {
+    "name": "肥宅勇者-诚司",
+    "type": "default"
+  },
+  {
+    "name": "舞动青春-绯山千夏",
+    "type": "default"
+  },
+  {
+    "name": "舰队collection-夕立",
+    "type": "default"
+  },
+  {
+    "name": "舰队collection-大和",
+    "type": "default"
+  },
+  {
+    "name": "舰队collection-如月",
+    "type": "default"
+  },
+  {
+    "name": "舰队collection-榛名",
+    "type": "default"
+  },
+  {
+    "name": "舰队collection-比叡",
+    "type": "default"
+  },
+  {
+    "name": "舰队collection-那珂",
+    "type": "default"
+  },
+  {
+    "name": "花开伊吕波-松前皋月",
+    "type": "default"
+  },
+  {
+    "name": "英雄联盟 双城之战-金克斯",
+    "type": "default"
+  },
+  {
+    "name": "药屋少女的呢喃-子翠",
+    "type": "default"
+  },
+  {
+    "name": "药屋少女的呢喃-小兰",
+    "type": "default"
+  },
+  {
+    "name": "药屋少女的呢喃-樱花",
+    "type": "default"
+  },
+  {
+    "name": "药屋少女的呢喃-罗半",
+    "type": "default"
+  },
+  {
+    "name": "药屋少女的呢喃-罗汉",
+    "type": "default"
+  },
+  {
+    "name": "莉兹与青鸟-青鸟",
+    "type": "default"
+  },
+  {
+    "name": "蓦然回首-京本",
+    "type": "default"
+  },
+  {
+    "name": "蓦然回首-藤野步",
+    "type": "default"
+  },
+  {
+    "name": "薇薇 萤石眼之歌-薇薇",
+    "type": "default"
+  },
+  {
+    "name": "薰香花朵凛然绽放-依田绚斗",
+    "type": "default"
+  },
+  {
+    "name": "薰香花朵凛然绽放-和栗薰子",
+    "type": "default"
+  },
+  {
+    "name": "藤丸立香想不明白-刑部姬",
+    "type": "default"
+  },
+  {
+    "name": "藤丸立香想不明白-奥伯龙",
+    "type": "default"
+  },
+  {
+    "name": "虽然我是注定没落的贵族 闲来无事只好来深究魔法-连恩·汉弥顿",
+    "type": "default"
+  },
+  {
+    "name": "虽然我是白豚贵族，但因为我有前世的记忆，所以我在养育弱小的弟弟-凤蝶",
+    "type": "default"
+  },
+  {
+    "name": "虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS-劳·洛兹布兰达",
+    "type": "default"
+  },
+  {
+    "name": "虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS-杰德·斯克雷德",
+    "type": "default"
+  },
+  {
+    "name": "虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS-阿莉娜·克洛瓦",
+    "type": "default"
+  },
+  {
+    "name": "虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS-露露莉·艾修弗特",
+    "type": "default"
+  },
+  {
+    "name": "街角魔族-吉田优子",
+    "type": "default"
+  },
+  {
+    "name": "被队伍驱逐的治愈师，其实是最强的-劳斯特",
+    "type": "default"
+  },
+  {
+    "name": "被队伍驱逐的治愈师，其实是最强的-奈尔塞纳",
+    "type": "default"
+  },
+  {
+    "name": "让我听见爱的歌声-天野悟美",
+    "type": "default"
+  },
+  {
+    "name": "让我听见爱的歌声-素崎十真",
+    "type": "default"
+  },
+  {
+    "name": "记录的地平线-五十铃",
+    "type": "default"
+  },
+  {
+    "name": "记录的地平线-伦迪浩斯·寇德",
+    "type": "default"
+  },
+  {
+    "name": "记录的地平线-城惠",
+    "type": "default"
+  },
+  {
+    "name": "记录的地平线-实莉",
+    "type": "default"
+  },
+  {
+    "name": "记录的地平线-小龙",
+    "type": "default"
+  },
+  {
+    "name": "记录的地平线-李·耿恩",
+    "type": "default"
+  },
+  {
+    "name": "记录的地平线-玛莉艾儿",
+    "type": "default"
+  },
+  {
+    "name": "记录的地平线-瑟拉拉",
+    "type": "default"
+  },
+  {
+    "name": "记录的地平线-莉特卡·莫芙尔",
+    "type": "default"
+  },
+  {
+    "name": "记录的地平线-蕾妮希雅·耶鲁艾特·柯文",
+    "type": "default"
+  },
+  {
+    "name": "记录的地平线-蕾莉亚·莫芙尔",
+    "type": "default"
+  },
+  {
+    "name": "豆打地平线-东北伊达子",
+    "type": "default"
+  },
+  {
+    "name": "豆打地平线-东北俊子",
+    "type": "default"
+  },
+  {
+    "name": "豆打地平线-东北切蒲英",
+    "type": "default"
+  },
+  {
+    "name": "豆打地平线-俊达萌",
+    "type": "default"
+  },
+  {
+    "name": "豆打地平线-冲绳泡盛",
+    "type": "default"
+  },
+  {
+    "name": "豆打地平线-北海道蜜瓜",
+    "type": "default"
+  },
+  {
+    "name": "豆打地平线-四国玫碳",
+    "type": "default"
+  },
+  {
+    "name": "豆打地平线-大江户相子",
+    "type": "default"
+  },
+  {
+    "name": "败犬女主太多了!-姬宫华恋",
+    "type": "default"
+  },
+  {
+    "name": "败犬女主太多了!-朝云千早",
+    "type": "default"
+  },
+  {
+    "name": "败犬女主太多了!-温水佳树",
+    "type": "default"
+  },
+  {
+    "name": "败犬女主太多了!-温水和彦",
+    "type": "default"
+  },
+  {
+    "name": "败犬女主太多了!-马剃天爱星",
+    "type": "default"
+  },
+  {
+    "name": "费马的料理-西门理事长",
+    "type": "default"
+  },
+  {
+    "name": "赛博朋克 边缘行者-Rebecca",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-丸善斯基",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-创世驹",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-北原穰",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-北部玄驹",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-名君司",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-好歌剧",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-富士奇石",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-小宫山胜美",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-小栗帽",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-崭新光辉",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-成田路",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-放声欢呼",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-樱花千代王",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-气槽",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-烈焰快驹",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-目白阿尔丹",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-真机伶",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-稻荷一",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-菱钻奇宝",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-藤正进行曲",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-诺伦王牌",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-超级溪流",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-里见光钻",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-里见皇冠",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-鲁道夫象征",
+    "type": "default"
+  },
+  {
+    "name": "赛马娘-黄金城市",
+    "type": "default"
+  },
+  {
+    "name": "超时空要塞Δ-牧奈·中岛",
+    "type": "default"
+  },
+  {
+    "name": "超时空要塞Δ-要·布卡尼尔",
+    "type": "default"
+  },
+  {
+    "name": "超超超超超喜欢你的100个女朋友-原贺胡桃",
+    "type": "default"
+  },
+  {
+    "name": "超超超超超喜欢你的100个女朋友-荣逢凪乃",
+    "type": "default"
+  },
+  {
+    "name": "超超超超超喜欢你的100个女朋友-须藤育",
+    "type": "default"
+  },
+  {
+    "name": "跃动青春-小直",
+    "type": "default"
+  },
+  {
+    "name": "跃动青春-岩仓美津未",
+    "type": "default"
+  },
+  {
+    "name": "跃动青春-志摩聪介",
+    "type": "default"
+  },
+  {
+    "name": "路人女主的养成方法-冰堂美智留",
+    "type": "default"
+  },
+  {
+    "name": "路人女主的养成方法-加藤惠",
+    "type": "default"
+  },
+  {
+    "name": "路人女主的养成方法-姬川时乃",
+    "type": "default"
+  },
+  {
+    "name": "路人女主的养成方法-森丘蓝子",
+    "type": "default"
+  },
+  {
+    "name": "路人女主的养成方法-水原睿智佳",
+    "type": "default"
+  },
+  {
+    "name": "路人女主的养成方法-波岛伊织",
+    "type": "default"
+  },
+  {
+    "name": "路人女主的养成方法-波岛出海",
+    "type": "default"
+  },
+  {
+    "name": "路人女主的养成方法-红坂朱音",
+    "type": "default"
+  },
+  {
+    "name": "路人女主的养成方法-霞之丘诗羽",
+    "type": "default"
+  },
+  {
+    "name": "身为VTuber的我因为忘记关台而成了传说-山谷还",
+    "type": "default"
+  },
+  {
+    "name": "身为VTuber的我因为忘记关台而成了传说-昼寝猫魔",
+    "type": "default"
+  },
+  {
+    "name": "身为VTuber的我因为忘记关台而成了传说-苑风爱莱",
+    "type": "default"
+  },
+  {
+    "name": "转生王女与天才千金的魔法革命-尤菲莉亚·玛赞塔",
+    "type": "default"
+  },
+  {
+    "name": "转生王女与天才千金的魔法革命-艾妮丝菲亚·温·帕雷提亚",
+    "type": "default"
+  },
+  {
+    "name": "转生贵族的异世界冒险录-凯因·冯·希尔佛多",
+    "type": "default"
+  },
+  {
+    "name": "转生贵族的异世界冒险录-蕾奈·冯·希尔佛多",
+    "type": "default"
+  },
+  {
+    "name": "轻音少女-山中佐和子",
+    "type": "default"
+  },
+  {
+    "name": "轻音少女-真锅和",
+    "type": "default"
+  },
+  {
+    "name": "辉夜大小姐想让我告白-伊井野弥子",
+    "type": "default"
+  },
+  {
+    "name": "这公司有我喜欢的人-三谷结衣",
+    "type": "default"
+  },
+  {
+    "name": "这公司有我喜欢的人-佐仓雪子",
+    "type": "default"
+  },
+  {
+    "name": "这公司有我喜欢的人-宇藤千春",
+    "type": "default"
+  },
+  {
+    "name": "这公司有我喜欢的人-早川静乃",
+    "type": "default"
+  },
+  {
+    "name": "这公司有我喜欢的人-立石真直",
+    "type": "default"
+  },
+  {
+    "name": "逆转裁判-矢张政志",
+    "type": "default"
+  },
+  {
+    "name": "逆转裁判-美柳千奈美",
+    "type": "default"
+  },
+  {
+    "name": "重生大小姐正在攻略龙帝陛下-夏洛特·萨维尔",
+    "type": "default"
+  },
+  {
+    "name": "金牌得主-加护芽衣子",
+    "type": "default"
+  },
+  {
+    "name": "金牌得主-明浦路司",
+    "type": "default"
+  },
+  {
+    "name": "金牌得主-犬饲总太",
+    "type": "default"
+  },
+  {
+    "name": "金牌得主-狼崎光",
+    "type": "default"
+  },
+  {
+    "name": "金牌得主-白根琥珀",
+    "type": "default"
+  },
+  {
+    "name": "金牌得主-结束实叶",
+    "type": "default"
+  },
+  {
+    "name": "金牌得主-结束祈",
+    "type": "default"
+  },
+  {
+    "name": "金牌得主-那智鞠绪",
+    "type": "default"
+  },
+  {
+    "name": "金牌得主-高峰瞳",
+    "type": "default"
+  },
+  {
+    "name": "金牌得主-鹿本铃",
+    "type": "default"
+  },
+  {
+    "name": "钢铁交响乐-弦卷真纪",
+    "type": "default"
+  },
+  {
+    "name": "钢铁交响乐-结月缘",
+    "type": "default"
+  },
+  {
+    "name": "银河英雄传说-杨威利",
+    "type": "default"
+  },
+  {
+    "name": "阳光马达棒球场!-青奈",
+    "type": "default"
+  },
+  {
+    "name": "阴晴不定大哥哥-多田野诗乃",
+    "type": "default"
+  },
+  {
+    "name": "阴阳回天 重生-笃永",
+    "type": "default"
+  },
+  {
+    "name": "随兴旅-莲沼历",
+    "type": "default"
+  },
+  {
+    "name": "随兴旅-铃森千花",
+    "type": "default"
+  },
+  {
+    "name": "青之箱-蝶野雏",
+    "type": "default"
+  },
+  {
+    "name": "青之箱-鹿野千夏",
+    "type": "default"
+  },
+  {
+    "name": "青梅竹马绝对不会输的恋爱喜剧-丸末晴",
+    "type": "default"
+  },
+  {
+    "name": "香格里拉·开拓异境-Animalia",
+    "type": "default"
+  },
+  {
+    "name": "香格里拉·开拓异境-亚拉密斯",
+    "type": "default"
+  },
+  {
+    "name": "香格里拉·开拓异境-埃姆尔",
+    "type": "default"
+  },
+  {
+    "name": "香格里拉·开拓异境-天音永远",
+    "type": "default"
+  },
+  {
+    "name": "香格里拉·开拓异境-秋津茜",
+    "type": "default"
+  },
+  {
+    "name": "香格里拉·开拓异境-西尔维娅·戈德堡",
+    "type": "default"
+  },
+  {
+    "name": "香格里拉·开拓异境-鹿尾野叶",
+    "type": "default"
+  },
+  {
+    "name": "鬼人幻灯抄-茂助",
+    "type": "default"
+  },
+  {
+    "name": "鬼灭之刃-恋雪",
+    "type": "default"
+  },
+  {
+    "name": "魔兵传奇-桃乐丝",
+    "type": "default"
+  },
+  {
+    "name": "魔女与使魔-嬉野久久实",
+    "type": "default"
+  },
+  {
+    "name": "魔女与使魔-若月妮可",
+    "type": "default"
+  },
+  {
+    "name": "魔女与使魔-风祭监志",
+    "type": "default"
+  },
+  {
+    "name": "魔女之旅-伊蕾娜",
+    "type": "default"
+  },
+  {
+    "name": "魔法制造者-席翁",
+    "type": "default"
+  },
+  {
+    "name": "魔法制造者-玛莉",
+    "type": "default"
+  },
+  {
+    "name": "魔法少女与恶曾是敌人-米拉",
+    "type": "default"
+  },
+  {
+    "name": "魔法少女伊莉雅-伊莉雅丝菲尔·冯·爱因兹贝伦",
+    "type": "default"
+  },
+  {
+    "name": "魔法少女奈叶-高町薇薇欧",
+    "type": "default"
+  },
+  {
+    "name": "魔法少女小圆-丘比",
+    "type": "default"
+  },
+  {
+    "name": "魔法少女小圆-佐仓杏子",
+    "type": "default"
+  },
+  {
+    "name": "魔法少女小圆-鹿目询子",
+    "type": "default"
+  },
+  {
+    "name": "魔法少女育成计划-最高速",
+    "type": "default"
+  },
+  {
+    "name": "魔法少女育成计划-白雪",
+    "type": "default"
+  },
+  {
+    "name": "魔法纪录 魔法少女小圆外传-八云御魂",
+    "type": "default"
+  },
+  {
+    "name": "魔法纪录 魔法少女小圆外传-天音月咲",
+    "type": "default"
+  },
+  {
+    "name": "魔法纪录 魔法少女小圆外传-天音月夜",
+    "type": "default"
+  },
+  {
+    "name": "魔法纪录 魔法少女小圆外传-柊音梦",
+    "type": "default"
+  },
+  {
+    "name": "魔法纪录 魔法少女小圆外传-里见灯花",
+    "type": "default"
+  },
+  {
+    "name": "魔王2099-山田·雷纳德·绯月",
+    "type": "default"
+  },
+  {
+    "name": "麦当劳-现在就吃双层芝士汉堡",
+    "type": "default"
+  },
+  {
+    "name": "黑岩射手-神足由宇",
+    "type": "default"
+  },
+  {
+    "name": "黑岩射手-纳野沙耶",
+    "type": "default"
+  },
+  {
+    "name": "黑岩射手-黑衣麻陶",
+    "type": "default"
+  },
+  {
+    "name": "BanG Dream!-丸山彩",
+    "type": "kuroe"
+  },
+  {
+    "name": "从零开始的异世界生活-蕾姆",
+    "type": "kuroe"
+  },
+  {
+    "name": "小市民系列-小鸠常悟朗",
+    "type": "kuroe"
+  },
+  {
+    "name": "测不准的阿波连同学-大城美月",
+    "type": "kuroe"
+  },
+  {
+    "name": "青春猪头少年-古贺朋绘",
+    "type": "kuroe"
+  },
+  {
+    "name": "青春猪头少年-广川卯月",
+    "type": "kuroe"
+  },
+  {
+    "name": "青春猪头少年-牧之原翔子",
+    "type": "kuroe"
   }
 ]

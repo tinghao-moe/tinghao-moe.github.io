@@ -240,7 +240,7 @@
     {
       "group": 1,
       "rank": 30,
-      "name": "Happiness Charge光之美少女！-冰川伊绪奈",
+      "name": "Happiness Charge光之美少女!-冰川伊绪奈",
       "vote": 11,
       "rate_global": 1.82,
       "rate_group": 0.33
@@ -465,6 +465,14 @@
       "group": 1,
       "rank": 58,
       "name": "悲剧始作俑者-普莱德",
+      "vote": 1,
+      "rate_global": 0.17,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 59,
+      "name": "星掠者-尼库拉",
       "vote": 1,
       "rate_global": 0.17,
       "rate_group": 0.03

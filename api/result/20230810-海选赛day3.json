@@ -48,7 +48,7 @@
     {
       "group": 1,
       "rank": 6,
-      "name": "广阔天空！光之美少女-虹之丘真白",
+      "name": "广阔天空!光之美少女-虹之丘真白",
       "vote": 206,
       "rate_global": 23.38,
       "rate_group": 5.63
@@ -64,7 +64,7 @@
     {
       "group": 1,
       "rank": 8,
-      "name": "广阔天空！光之美少女-索拉·哈雷瓦塔尔",
+      "name": "广阔天空!光之美少女-索拉·哈雷瓦塔尔",
       "vote": 149,
       "rate_global": 16.91,
       "rate_group": 4.07
@@ -200,7 +200,7 @@
     {
       "group": 1,
       "rank": 25,
-      "name": "为美好的世界献上爆焰！-沃尔巴克",
+      "name": "为美好的世界献上爆焰!-沃尔巴克",
       "vote": 16,
       "rate_global": 1.82,
       "rate_group": 0.44
@@ -208,7 +208,7 @@
     {
       "group": 1,
       "rank": 26,
-      "name": "Smile光之美少女！-青木丽华",
+      "name": "Smile光之美少女!-青木丽华",
       "vote": 13,
       "rate_global": 1.48,
       "rate_group": 0.36
@@ -465,6 +465,14 @@
       "group": 1,
       "rank": 58,
       "name": "玛纳莉亚的密友-勒乌",
+      "vote": 1,
+      "rate_global": 0.11,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 59,
+      "name": "Extreme Hearts-樱井羽月",
       "vote": 1,
       "rate_global": 0.11,
       "rate_group": 0.03

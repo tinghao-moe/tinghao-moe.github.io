@@ -1,0 +1,105 @@
+{
+  "name": "淘汰赛48进16 Day2",
+  "time": "2025-08-10 23:00:36",
+  "voter": 881,
+  "last_time": "2025-08-10 22:59:53",
+  "last_floor": "964",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "败犬女主太多了!-小鞠知花",
+      "vote": 402,
+      "rate_global": 45.63,
+      "rate_group": 48.43
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "少女歌剧-星见纯那",
+      "vote": 262,
+      "rate_global": 29.74,
+      "rate_group": 31.57
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "Love Live 虹咲-钟岚珠",
+      "vote": 166,
+      "rate_global": 18.84,
+      "rate_group": 20.0
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "BanG Dream!-椎名立希",
+      "vote": 583,
+      "rate_global": 66.17,
+      "rate_group": 68.11
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "我怎么可能成为你的恋人，不行不行!-王冢真唯",
+      "vote": 225,
+      "rate_global": 25.54,
+      "rate_group": 26.29
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "BanG Dream!-高松灯",
+      "vote": 48,
+      "rate_global": 5.45,
+      "rate_group": 5.61
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "BanG Dream!-三角初华",
+      "vote": 506,
+      "rate_global": 57.43,
+      "rate_group": 60.02
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "葬送的芙莉莲-辛美尔",
+      "vote": 192,
+      "rate_global": 21.79,
+      "rate_group": 22.78
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "我推的孩子-有马加奈",
+      "vote": 145,
+      "rate_global": 16.46,
+      "rate_group": 17.2
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "星灵感应-明内幽",
+      "vote": 388,
+      "rate_global": 44.04,
+      "rate_group": 47.61
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "恋语轻唱-泉志帆",
+      "vote": 250,
+      "rate_global": 28.38,
+      "rate_group": 30.67
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "魔法少女小圆-丘比",
+      "vote": 177,
+      "rate_global": 20.09,
+      "rate_group": 21.72
+    }
+  ]
+}

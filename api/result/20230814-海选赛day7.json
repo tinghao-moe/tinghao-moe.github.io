@@ -96,7 +96,7 @@
     {
       "group": 1,
       "rank": 12,
-      "name": "为美好的世界献上爆焰！-悠悠",
+      "name": "为美好的世界献上爆焰!-悠悠",
       "vote": 69,
       "rate_global": 16.39,
       "rate_group": 3.16
@@ -136,7 +136,7 @@
     {
       "group": 1,
       "rank": 17,
-      "name": "我的百合乃工作是也！-小柴舞",
+      "name": "我的百合乃工作是也!-小柴舞",
       "vote": 43,
       "rate_global": 10.21,
       "rate_group": 1.97
@@ -457,6 +457,14 @@
       "group": 1,
       "rank": 57,
       "name": "IDOLY PRIDE-小美山爱",
+      "vote": 1,
+      "rate_global": 0.24,
+      "rate_group": 0.05
+    },
+    {
+      "group": 1,
+      "rank": 58,
+      "name": "魔具少女-碓健悟",
       "vote": 1,
       "rate_global": 0.24,
       "rate_group": 0.05

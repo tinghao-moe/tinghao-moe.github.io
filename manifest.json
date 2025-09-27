@@ -1,6 +1,6 @@
 {
   "short_name": "挺好萌",
-  "name": "挺好萌2024",
+  "name": "挺好萌2025",
   "icons": [
     {
       "src": "zhanba.jpg",
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#ffffff",
+  "background_color": "#000000"
 }

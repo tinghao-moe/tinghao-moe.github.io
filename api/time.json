@@ -1,254 +1,303 @@
 [
     {
+        "currentStage": "",
         "text": "提名开始",
         "targetTime": "2025-07-22T00:00:00+08:00",
         "urlText": "时间安排及活动规划",
         "url": "https://tieba.baidu.com/p/9842336748"
     },
     {
+        "currentStage": "提名阶段",
         "text": "提名结束",
-        "targetTime": "2025-07-29T23:00:00+08:00",
+        "targetTime": "2025-07-28T23:00:00+08:00",
         "urlText": "前往提名楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9890920072"
     },
     {
+        "currentStage": "海选阶段即将开始",
         "text": "海选赛分组抽签",
         "targetTime": "2025-07-29T19:00:00+08:00",
         "urlText": "观看抽签直播",
-        "url": null
+        "url": "https://live.bilibili.com/1740574408"
     },
     {
+        "currentStage": "海选阶段即将开始",
         "text": "海选第一天开始",
         "targetTime": "2025-07-30T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9911820812"
     },
     {
+        "currentStage": "海选赛 DAY 1",
         "text": "海选第一天结束",
         "targetTime": "2025-07-30T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9911820812"
     },
     {
+        "currentStage": "海选赛 DAY 1",
         "text": "海选第二天开始",
         "targetTime": "2025-07-31T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9914619148"
     },
     {
+        "currentStage": "海选赛 DAY 2",
         "text": "海选第二天结束",
         "targetTime": "2025-07-31T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9914619148"
     },
     {
+        "currentStage": "海选赛 DAY 2",
         "text": "海选第三天开始",
         "targetTime": "2025-08-01T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9917228367"
     },
     {
+        "currentStage": "海选赛 DAY 3",
         "text": "海选第三天结束",
         "targetTime": "2025-08-01T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9917228367"
     },
     {
+        "currentStage": "海选赛 DAY 3",
         "text": "海选第四天开始",
         "targetTime": "2025-08-02T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9919872958"
     },
     {
+        "currentStage": "海选赛 DAY 4",
         "text": "海选第四天结束",
         "targetTime": "2025-08-02T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9919872958"
     },
     {
+        "currentStage": "海选赛 DAY 4",
         "text": "海选第五天开始",
         "targetTime": "2025-08-03T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9922377644"
     },
     {
+        "currentStage": "海选赛 DAY 5",
         "text": "海选第五天结束",
         "targetTime": "2025-08-03T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9922377644"
     },
     {
+        "currentStage": "海选赛 DAY 5",
         "text": "海选第六天开始",
         "targetTime": "2025-08-04T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9924743753"
     },
     {
+        "currentStage": "海选赛 DAY 6",
         "text": "海选第六天结束",
         "targetTime": "2025-08-04T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9924743753"
     },
     {
+        "currentStage": "海选赛 DAY 6",
         "text": "海选第七天开始",
         "targetTime": "2025-08-05T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9927381808"
     },
     {
+        "currentStage": "海选赛 DAY 7",
         "text": "海选第七天结束",
         "targetTime": "2025-08-05T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9927381808"
     },
     {
+        "currentStage": "海选赛 DAY 7",
         "text": "海选第八天开始",
         "targetTime": "2025-08-06T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9930144192"
     },
     {
+        "currentStage": "海选赛 DAY 8",
         "text": "海选第八天结束",
         "targetTime": "2025-08-06T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9930144192"
     },
     {
+        "currentStage": "海选赛 DAY 8",
         "text": "复活赛开始",
         "targetTime": "2025-08-07T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9932968037"
     },
     {
+        "currentStage": "海选阶段 复活赛",
         "text": "复活赛结束",
         "targetTime": "2025-08-07T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9932968037"
     },
     {
+        "currentStage": "淘汰赛抽签",
         "text": "本战分组抽签",
-        "targetTime": "2025-08-08T20:00:00+08:00",
+        "targetTime": "2025-08-08T21:00:00+08:00",
         "urlText": "观看抽签直播",
-        "url": null
+        "url": "https://live.bilibili.com/1740574408"
     },
     {
+        "currentStage": "淘汰阶段即将开始",
         "text": "淘汰赛48进16Day1开始",
         "targetTime": "2025-08-09T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9938373236"
     },
     {
+        "currentStage": "淘汰赛48进16 DAY 1",
         "text": "淘汰赛48进16Day1结束",
         "targetTime": "2025-08-09T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9938373236"
     },
     {
+        "currentStage": "淘汰赛48进16 DAY 1",
         "text": "淘汰赛48进16Day2开始",
         "targetTime": "2025-08-10T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9941073820"
     },
     {
+        "currentStage": "淘汰赛48进16 DAY 2",
         "text": "淘汰赛48进16Day2结束",
         "targetTime": "2025-08-10T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9941073820"
     },
     {
+        "currentStage": "淘汰赛48进16 DAY 2",
         "text": "淘汰赛48进16Day3开始",
         "targetTime": "2025-08-11T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9943525424"
     },
     {
+        "currentStage": "淘汰赛48进16 DAY 3",
         "text": "淘汰赛48进16Day3结束",
         "targetTime": "2025-08-11T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9943525424"
     },
     {
+        "currentStage": "淘汰赛48进16 DAY 3",
         "text": "淘汰赛48进16Day4开始",
         "targetTime": "2025-08-12T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9946275823"
     },
     {
+        "currentStage": "淘汰赛48进16 DAY 4",
         "text": "淘汰赛48进16Day4结束",
         "targetTime": "2025-08-12T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9946275823"
     },
     {
+        "currentStage": "淘汰赛48进16 DAY 4",
         "text": "淘汰赛16进8Day1开始",
         "targetTime": "2025-08-13T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9949029534"
     },
     {
+        "currentStage": "淘汰赛16进8 DAY 1",
         "text": "淘汰赛16进8Day1结束",
         "targetTime": "2025-08-13T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9949029534"
     },
     {
+        "currentStage": "淘汰赛16进8 DAY 1",
         "text": "淘汰赛16进8Day2开始",
         "targetTime": "2025-08-14T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9951739575"
     },
     {
+        "currentStage": "淘汰赛16进8 DAY 2",
         "text": "淘汰赛16进8Day2结束",
         "targetTime": "2025-08-14T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9951739575"
     },
     {
+        "currentStage": "淘汰赛 16进8 DAY 2",
         "text": "淘汰赛8进4开始",
         "targetTime": "2025-08-15T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9954574639"
     },
     {
+        "currentStage": "淘汰赛 8进4",
         "text": "淘汰赛8进4结束",
         "targetTime": "2025-08-15T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9954574639"
     },
     {
+        "currentStage": "半决赛即将开始",
         "text": "半决赛开始",
         "targetTime": "2025-08-16T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9957331132"
     },
     {
+        "currentStage": "半决赛",
         "text": "半决赛结束",
         "targetTime": "2025-08-16T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9957331132"
     },
     {
+        "currentStage": "决赛即将开始",
         "text": "决赛开始",
         "targetTime": "2025-08-17T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9959966146"
     },
     {
+        "currentStage": "决赛",
         "text": "决赛结束",
         "targetTime": "2025-08-17T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9959966146"
     },
     {
+        "currentStage": "表演赛即将开始",
         "text": "表演赛开始",
         "targetTime": "2025-08-18T00:00:00+08:00",
         "urlText": "前往投票楼",
-        "url": null
+        "url": "https://tieba.baidu.com/p/9962478763"
     },
     {
+        "currentStage": "表演赛",
         "text": "表演赛结束",
         "targetTime": "2025-08-18T23:00:00+08:00",
-        "urlText": "前往结果楼",
-        "url": null
+        "urlText": "前往投票楼",
+        "url": "https://tieba.baidu.com/p/9962478763"
+    },
+    {
+        "currentStage": "",
+        "text": "长颈鹿表彰大会",
+        "targetTime": "2025-08-19T20:00:00+08:00",
+        "urlText": "前往结果汇总楼",
+        "url": "https://tieba.baidu.com/p/9911403069"
     }
 ]

@@ -96,7 +96,7 @@
     {
       "group": 1,
       "rank": 12,
-      "name": "我的百合乃工作是也！-綾小路美月",
+      "name": "我的百合乃工作是也!-綾小路美月",
       "vote": 115,
       "rate_global": 16.99,
       "rate_group": 2.76
@@ -208,7 +208,7 @@
     {
       "group": 1,
       "rank": 26,
-      "name": "广阔天空！光之美少女-圣扬羽",
+      "name": "广阔天空!光之美少女-圣扬羽",
       "vote": 14,
       "rate_global": 2.07,
       "rate_group": 0.34
@@ -296,7 +296,7 @@
     {
       "group": 1,
       "rank": 37,
-      "name": "吹响！上低音号-铃木五月",
+      "name": "吹响!上低音号-铃木五月",
       "vote": 6,
       "rate_global": 0.89,
       "rate_group": 0.14
@@ -457,6 +457,14 @@
       "group": 1,
       "rank": 57,
       "name": "七魔剑支配天下-皮特·雷斯顿",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 58,
+      "name": "A3!-立花泉",
       "vote": 1,
       "rate_global": 0.15,
       "rate_group": 0.02

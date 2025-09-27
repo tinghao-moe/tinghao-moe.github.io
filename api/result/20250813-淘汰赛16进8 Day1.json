@@ -1,0 +1,73 @@
+{
+  "name": "淘汰赛16进8 Day1",
+  "time": "2025-08-13 23:00:43",
+  "voter": 1036,
+  "last_time": "2025-08-13 22:59:52",
+  "last_floor": "1144",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "魔法少女小圆-佐仓杏子",
+      "vote": 536,
+      "rate_global": 51.74,
+      "rate_group": 55.54
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "吹响!上低音号-黑江真由",
+      "vote": 429,
+      "rate_global": 41.41,
+      "rate_group": 44.46
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "少女歌剧-神乐光",
+      "vote": 562,
+      "rate_global": 54.25,
+      "rate_group": 57.41
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "我怎么可能成为你的恋人，不行不行!-濑名紫陽花",
+      "vote": 417,
+      "rate_global": 40.25,
+      "rate_group": 42.59
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "BanG Dream!-椎名立希",
+      "vote": 769,
+      "rate_global": 74.23,
+      "rate_group": 76.52
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "败犬女主太多了!-小鞠知花",
+      "vote": 236,
+      "rate_global": 22.78,
+      "rate_group": 23.48
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "BanG Dream!-三角初华",
+      "vote": 576,
+      "rate_global": 55.6,
+      "rate_group": 57.72
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "星灵感应-明内幽",
+      "vote": 422,
+      "rate_global": 40.73,
+      "rate_group": 42.28
+    }
+  ]
+}

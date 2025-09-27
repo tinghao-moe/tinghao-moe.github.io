@@ -1,0 +1,145 @@
+{
+  "name": "表演赛",
+  "time": "2025-08-18 23:00:39",
+  "voter": 909,
+  "last_time": "2025-08-18 22:59:47",
+  "last_floor": "1011",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "BanG Dream!-椎名立希",
+      "vote": 523,
+      "rate_global": 57.54,
+      "rate_group": 60.53
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "BanG Dream!-若叶睦",
+      "vote": 341,
+      "rate_global": 37.51,
+      "rate_group": 39.47
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "莲之空-乙宗梢",
+      "vote": 321,
+      "rate_global": 35.31,
+      "rate_group": 47.28
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "学园偶像大师-秦谷美铃",
+      "vote": 195,
+      "rate_global": 21.45,
+      "rate_group": 28.72
+    },
+    {
+      "group": 2,
+      "rank": 3,
+      "name": "少女歌剧中等部-高千穗史黛拉",
+      "vote": 163,
+      "rate_global": 17.93,
+      "rate_group": 24.01
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "魔法纪录-环彩羽",
+      "vote": 304,
+      "rate_global": 33.44,
+      "rate_group": 37.3
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "我怎么可能成为你的恋人，不行不行!-甘织玲奈子",
+      "vote": 248,
+      "rate_global": 27.28,
+      "rate_group": 30.43
+    },
+    {
+      "group": 3,
+      "rank": 3,
+      "name": "BanG Dream!-千早爱音",
+      "vote": 201,
+      "rate_global": 22.11,
+      "rate_group": 24.66
+    },
+    {
+      "group": 3,
+      "rank": 4,
+      "name": "憧憬成为魔法少女-花菱春香",
+      "vote": 62,
+      "rate_global": 6.82,
+      "rate_group": 7.61
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "星灵感应-明内幽",
+      "vote": 359,
+      "rate_global": 39.49,
+      "rate_group": 43.25
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "吹响!上低音号-久石奏",
+      "vote": 289,
+      "rate_global": 31.79,
+      "rate_group": 34.82
+    },
+    {
+      "group": 4,
+      "rank": 3,
+      "name": "莲之空-日野下花帆",
+      "vote": 96,
+      "rate_global": 10.56,
+      "rate_group": 11.57
+    },
+    {
+      "group": 4,
+      "rank": 4,
+      "name": "街角魔族-阳夏木蜜柑",
+      "vote": 86,
+      "rate_global": 9.46,
+      "rate_group": 10.36
+    },
+    {
+      "group": 5,
+      "rank": 1,
+      "name": "Love Live 虹咲-上原步梦",
+      "vote": 393,
+      "rate_global": 43.23,
+      "rate_group": 45.59
+    },
+    {
+      "group": 5,
+      "rank": 2,
+      "name": "少女歌剧-爱城华恋",
+      "vote": 254,
+      "rate_global": 27.94,
+      "rate_group": 29.47
+    },
+    {
+      "group": 5,
+      "rank": 3,
+      "name": "契约之吻-木更",
+      "vote": 110,
+      "rate_global": 12.1,
+      "rate_group": 12.76
+    },
+    {
+      "group": 5,
+      "rank": 4,
+      "name": "BanG Dream!-高松灯",
+      "vote": 105,
+      "rate_global": 11.55,
+      "rate_group": 12.18
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "表演赛",
+  "time": "2018-09-16 23:00:00",
+  "voter": 330,
+  "last_time": "2018-09-16 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "name": "菱川六花",
+      "group": 1,
+      "rank": 1,
+      "vote": 182,
+      "rate_global": 55.15,
+      "rate_group": 56.17
+    },
+    {
+      "name": "露崎真昼",
+      "group": 1,
+      "rank": 2,
+      "vote": 142,
+      "rate_global": 43.03,
+      "rate_group": 43.83
+    },
+    {
+      "name": "塚本秀一",
+      "group": 2,
+      "rank": 1,
+      "vote": 92,
+      "rate_global": 27.88,
+      "rate_group": 54.76
+    },
+    {
+      "name": "中世古香织",
+      "group": 2,
+      "rank": 2,
+      "vote": 41,
+      "rate_global": 12.42,
+      "rate_group": 24.4
+    },
+    {
+      "name": "高坂丽奈",
+      "group": 2,
+      "rank": 3,
+      "vote": 35,
+      "rate_global": 10.61,
+      "rate_group": 20.83
+    },
+    {
+      "name": "坂上智代",
+      "group": 3,
+      "rank": 1,
+      "vote": 68,
+      "rate_global": 20.61,
+      "rate_group": 45.03
+    },
+    {
+      "name": "藤林杏",
+      "group": 3,
+      "rank": 2,
+      "vote": 54,
+      "rate_global": 16.36,
+      "rate_group": 35.76
+    },
+    {
+      "name": "藤林椋",
+      "group": 3,
+      "rank": 3,
+      "vote": 29,
+      "rate_global": 8.79,
+      "rate_group": 19.21
+    }
+  ]
+}

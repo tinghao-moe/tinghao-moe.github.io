@@ -1,0 +1,73 @@
+{
+  "name": "淘汰赛8进4",
+  "time": "2025-08-15 23:00:47",
+  "voter": 1157,
+  "last_time": "2025-08-15 22:59:59",
+  "last_floor": "1261",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "BanG Dream!-椎名立希",
+      "vote": 852,
+      "rate_global": 73.64,
+      "rate_group": 76.69
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "魔法少女小圆-佐仓杏子",
+      "vote": 259,
+      "rate_global": 22.39,
+      "rate_group": 23.31
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "BanG Dream!-三角初华",
+      "vote": 610,
+      "rate_global": 52.72,
+      "rate_group": 55.1
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "少女歌剧-神乐光",
+      "vote": 497,
+      "rate_global": 42.96,
+      "rate_group": 44.9
+    },
+    {
+      "group": 3,
+      "rank": 1,
+      "name": "吹响!上低音号-铠冢霙",
+      "vote": 565,
+      "rate_global": 48.83,
+      "rate_group": 52.36
+    },
+    {
+      "group": 3,
+      "rank": 2,
+      "name": "处刑少女的生存之道-茉茉",
+      "vote": 514,
+      "rate_global": 44.43,
+      "rate_group": 47.64
+    },
+    {
+      "group": 4,
+      "rank": 1,
+      "name": "吹响!上低音号-久石奏",
+      "vote": 665,
+      "rate_global": 57.48,
+      "rate_group": 62.62
+    },
+    {
+      "group": 4,
+      "rank": 2,
+      "name": "World Dai Star-卡特莉娜",
+      "vote": 397,
+      "rate_global": 34.31,
+      "rate_group": 37.38
+    }
+  ]
+}

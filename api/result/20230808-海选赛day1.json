@@ -144,7 +144,7 @@
     {
       "group": 1,
       "rank": 18,
-      "name": "广阔天空！光之美少女-夕凪翼",
+      "name": "广阔天空!光之美少女-夕凪翼",
       "vote": 31,
       "rate_global": 6.14,
       "rate_group": 1.12
@@ -264,7 +264,7 @@
     {
       "group": 1,
       "rank": 33,
-      "name": "Go！公主光之美少女-春野遥",
+      "name": "Go!公主光之美少女-春野遥",
       "vote": 13,
       "rate_global": 2.57,
       "rate_group": 0.47
@@ -304,7 +304,7 @@
     {
       "group": 1,
       "rank": 38,
-      "name": "Fresh光之美少女！-山吹祈里",
+      "name": "Fresh光之美少女!-山吹祈里",
       "vote": 9,
       "rate_global": 1.78,
       "rate_group": 0.32
@@ -465,6 +465,14 @@
       "group": 1,
       "rank": 58,
       "name": "最近雇的女仆有点怪-凛凛澄",
+      "vote": 1,
+      "rate_global": 0.2,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 59,
+      "name": "Extreme Hearts-阿什利·范克罗夫特",
       "vote": 1,
       "rate_global": 0.2,
       "rate_group": 0.04

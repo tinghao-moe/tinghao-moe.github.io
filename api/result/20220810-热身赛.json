@@ -1,0 +1,41 @@
+{
+  "name": "热身赛",
+  "time": "2022-08-10 23:00:00",
+  "voter": 326,
+  "last_time": "2022-08-10 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "name": "茉茉",
+      "group": 1,
+      "rank": 1,
+      "vote": 122,
+      "rate_global": 37.42,
+      "rate_group": 37.42
+    },
+    {
+      "name": "高岛友奈",
+      "group": 1,
+      "rank": 2,
+      "vote": 121,
+      "rate_global": 37.12,
+      "rate_group": 37.12
+    },
+    {
+      "name": "环彩羽",
+      "group": 1,
+      "rank": 3,
+      "vote": 70,
+      "rate_global": 21.47,
+      "rate_group": 21.47
+    },
+    {
+      "name": "一柳梨璃",
+      "group": 1,
+      "rank": 4,
+      "vote": 13,
+      "rate_global": 3.99,
+      "rate_group": 3.99
+    }
+  ]
+}

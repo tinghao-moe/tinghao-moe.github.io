@@ -56,7 +56,7 @@
     {
       "group": 1,
       "rank": 7,
-      "name": "我的百合乃工作是也！-间宫果乃子",
+      "name": "我的百合乃工作是也!-间宫果乃子",
       "vote": 238,
       "rate_global": 36.96,
       "rate_group": 6.84
@@ -457,6 +457,14 @@
       "group": 1,
       "rank": 57,
       "name": "A3!-琉璃川幸",
+      "vote": 1,
+      "rate_global": 0.16,
+      "rate_group": 0.03
+    },
+    {
+      "group": 1,
+      "rank": 58,
+      "name": "放学后失眠的你-中见丸太",
       "vote": 1,
       "rate_global": 0.16,
       "rate_group": 0.03

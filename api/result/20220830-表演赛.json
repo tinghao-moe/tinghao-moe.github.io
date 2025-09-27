@@ -1,0 +1,89 @@
+{
+  "name": "表演赛",
+  "time": "2022-08-30 23:00:00",
+  "voter": 472,
+  "last_time": "2022-08-30 23:00:00",
+  "last_floor": -1,
+  "votes": [
+    {
+      "name": "露崎真昼",
+      "group": 1,
+      "rank": 1,
+      "vote": 384,
+      "rate_global": 81.36,
+      "rate_group": 85.14
+    },
+    {
+      "name": "爱城华恋",
+      "group": 1,
+      "rank": 2,
+      "vote": 67,
+      "rate_global": 14.19,
+      "rate_group": 14.86
+    },
+    {
+      "name": "上原步梦&优木雪菜&樱坂雫",
+      "group": 2,
+      "rank": 1,
+      "vote": 240,
+      "rate_global": 50.85,
+      "rate_group": 52.4
+    },
+    {
+      "name": "爱城华恋&露崎真昼&神乐光",
+      "group": 2,
+      "rank": 2,
+      "vote": 218,
+      "rate_global": 46.19,
+      "rate_group": 47.6
+    },
+    {
+      "name": "梓美冬",
+      "group": 3,
+      "rank": 1,
+      "vote": 341,
+      "rate_global": 72.25,
+      "rate_group": 86.77
+    },
+    {
+      "name": "黑江",
+      "group": 3,
+      "rank": 2,
+      "vote": 52,
+      "rate_global": 11.02,
+      "rate_group": 13.23
+    },
+    {
+      "name": "草野优衣",
+      "group": 4,
+      "rank": 1,
+      "vote": 246,
+      "rate_global": 52.12,
+      "rate_group": 91.11
+    },
+    {
+      "name": "士条怜",
+      "group": 4,
+      "rank": 2,
+      "vote": 10,
+      "rate_global": 2.12,
+      "rate_group": 3.7
+    },
+    {
+      "name": "雾原霞",
+      "group": 4,
+      "rank": 3,
+      "vote": 8,
+      "rate_global": 1.69,
+      "rate_group": 2.96
+    },
+    {
+      "name": "春咲日和",
+      "group": 4,
+      "rank": 4,
+      "vote": 6,
+      "rate_global": 1.27,
+      "rate_group": 2.22
+    }
+  ]
+}

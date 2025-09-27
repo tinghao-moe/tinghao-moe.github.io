@@ -1,0 +1,41 @@
+{
+  "name": "决赛",
+  "time": "2025-08-17 23:01:03",
+  "voter": 1468,
+  "last_time": "2025-08-17 22:59:55",
+  "last_floor": "1743",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "BanG Dream!-椎名立希",
+      "vote": 962,
+      "rate_global": 65.53,
+      "rate_group": 66.34
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "吹响!上低音号-久石奏",
+      "vote": 488,
+      "rate_global": 33.24,
+      "rate_group": 33.66
+    },
+    {
+      "group": 2,
+      "rank": 1,
+      "name": "BanG Dream!-三角初华",
+      "vote": 757,
+      "rate_global": 51.57,
+      "rate_group": 53.99
+    },
+    {
+      "group": 2,
+      "rank": 2,
+      "name": "吹响!上低音号-铠冢霙",
+      "vote": 645,
+      "rate_global": 43.94,
+      "rate_group": 46.01
+    }
+  ]
+}

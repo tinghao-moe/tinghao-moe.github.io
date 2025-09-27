@@ -1,0 +1,801 @@
+{
+  "name": "海选赛day6",
+  "time": "2025-08-04 23:00:27",
+  "voter": 651,
+  "last_time": "2025-08-04 22:59:14",
+  "last_floor": "738",
+  "votes": [
+    {
+      "group": 1,
+      "rank": 1,
+      "name": "Love Live 虹咲-优木雪菜",
+      "vote": 396,
+      "rate_global": 60.83,
+      "rate_group": 8.32
+    },
+    {
+      "group": 1,
+      "rank": 2,
+      "name": "败犬女主太多了!-烧盐柠檬",
+      "vote": 337,
+      "rate_global": 51.77,
+      "rate_group": 7.08
+    },
+    {
+      "group": 1,
+      "rank": 3,
+      "name": "吹响!上低音号-吉川优子",
+      "vote": 277,
+      "rate_global": 42.55,
+      "rate_group": 5.82
+    },
+    {
+      "group": 1,
+      "rank": 4,
+      "name": "凉宫春日的忧郁-长门有希",
+      "vote": 269,
+      "rate_global": 41.32,
+      "rate_group": 5.65
+    },
+    {
+      "group": 1,
+      "rank": 5,
+      "name": "我怎么可能成为你的恋人，不行不行!-甘织遥奈",
+      "vote": 241,
+      "rate_global": 37.02,
+      "rate_group": 5.06
+    },
+    {
+      "group": 1,
+      "rank": 6,
+      "name": "路人女主的养成方法-霞之丘诗羽",
+      "vote": 228,
+      "rate_global": 35.02,
+      "rate_group": 4.79
+    },
+    {
+      "group": 1,
+      "rank": 7,
+      "name": "BadGirl-凉风凉",
+      "vote": 212,
+      "rate_global": 32.57,
+      "rate_group": 4.45
+    },
+    {
+      "group": 1,
+      "rank": 8,
+      "name": "GIRLS BAND CRY-井芹仁菜",
+      "vote": 197,
+      "rate_global": 30.26,
+      "rate_group": 4.14
+    },
+    {
+      "group": 1,
+      "rank": 9,
+      "name": "恋语轻唱-水口亚季",
+      "vote": 191,
+      "rate_global": 29.34,
+      "rate_group": 4.01
+    },
+    {
+      "group": 1,
+      "rank": 10,
+      "name": "缘之空-春日野穹",
+      "vote": 156,
+      "rate_global": 23.96,
+      "rate_group": 3.28
+    },
+    {
+      "group": 1,
+      "rank": 11,
+      "name": "机动战士高达 GQuuuuuuX-尼娅安",
+      "vote": 153,
+      "rate_global": 23.5,
+      "rate_group": 3.21
+    },
+    {
+      "group": 1,
+      "rank": 12,
+      "name": "天使降临我身边-星野日向",
+      "vote": 149,
+      "rate_global": 22.89,
+      "rate_group": 3.13
+    },
+    {
+      "group": 1,
+      "rank": 13,
+      "name": "我推的孩子-星野爱",
+      "vote": 136,
+      "rate_global": 20.89,
+      "rate_group": 2.86
+    },
+    {
+      "group": 1,
+      "rank": 14,
+      "name": "青春猪头少年-牧之原翔子",
+      "vote": 131,
+      "rate_global": 20.12,
+      "rate_group": 2.75
+    },
+    {
+      "group": 1,
+      "rank": 15,
+      "name": "机动战士高达 水星的魔女-沙迪克·泽内利",
+      "vote": 128,
+      "rate_global": 19.66,
+      "rate_group": 2.69
+    },
+    {
+      "group": 1,
+      "rank": 16,
+      "name": "为美好的世界献上爆焰!-悠悠",
+      "vote": 127,
+      "rate_global": 19.51,
+      "rate_group": 2.67
+    },
+    {
+      "group": 1,
+      "rank": 17,
+      "name": "中二病也要谈恋爱-丹生谷森夏",
+      "vote": 110,
+      "rate_global": 16.9,
+      "rate_group": 2.31
+    },
+    {
+      "group": 1,
+      "rank": 18,
+      "name": "少女终末旅行-尤莉",
+      "vote": 89,
+      "rate_global": 13.67,
+      "rate_group": 1.87
+    },
+    {
+      "group": 1,
+      "rank": 19,
+      "name": "夏日口袋-鸣濑白羽",
+      "vote": 73,
+      "rate_global": 11.21,
+      "rate_group": 1.53
+    },
+    {
+      "group": 1,
+      "rank": 20,
+      "name": "群花绽放，彷如修罗-昙美咲",
+      "vote": 67,
+      "rate_global": 10.29,
+      "rate_group": 1.41
+    },
+    {
+      "group": 1,
+      "rank": 21,
+      "name": "Turkey!-音无麻衣",
+      "vote": 62,
+      "rate_global": 9.52,
+      "rate_group": 1.3
+    },
+    {
+      "group": 1,
+      "rank": 22,
+      "name": "星之卡比-卡比",
+      "vote": 62,
+      "rate_global": 9.52,
+      "rate_group": 1.3
+    },
+    {
+      "group": 1,
+      "rank": 23,
+      "name": "Code Geass 反叛的鲁路修-鲁路修",
+      "vote": 53,
+      "rate_global": 8.14,
+      "rate_group": 1.11
+    },
+    {
+      "group": 1,
+      "rank": 24,
+      "name": "来自深渊-普鲁修卡",
+      "vote": 48,
+      "rate_global": 7.37,
+      "rate_group": 1.01
+    },
+    {
+      "group": 1,
+      "rank": 25,
+      "name": "精灵宝可梦-波加曼",
+      "vote": 46,
+      "rate_global": 7.07,
+      "rate_group": 0.97
+    },
+    {
+      "group": 1,
+      "rank": 26,
+      "name": "9 nine 支配者的王冠-九条都",
+      "vote": 45,
+      "rate_global": 6.91,
+      "rate_group": 0.94
+    },
+    {
+      "group": 1,
+      "rank": 27,
+      "name": "吊带袜天使-Stocking",
+      "vote": 44,
+      "rate_global": 6.76,
+      "rate_group": 0.92
+    },
+    {
+      "group": 1,
+      "rank": 28,
+      "name": "路人女主的养成方法-冰堂美智留",
+      "vote": 41,
+      "rate_global": 6.3,
+      "rate_group": 0.86
+    },
+    {
+      "group": 1,
+      "rank": 29,
+      "name": "从零开始的异世界生活-由里乌斯",
+      "vote": 40,
+      "rate_global": 6.14,
+      "rate_group": 0.84
+    },
+    {
+      "group": 1,
+      "rank": 30,
+      "name": "名侦探柯南-犯泽先生",
+      "vote": 35,
+      "rate_global": 5.38,
+      "rate_group": 0.73
+    },
+    {
+      "group": 1,
+      "rank": 31,
+      "name": "青春猪头少年-广川卯月",
+      "vote": 35,
+      "rate_global": 5.38,
+      "rate_group": 0.73
+    },
+    {
+      "group": 1,
+      "rank": 32,
+      "name": "少女歌剧-刘美帆",
+      "vote": 34,
+      "rate_global": 5.22,
+      "rate_group": 0.71
+    },
+    {
+      "group": 1,
+      "rank": 33,
+      "name": "结城友奈是勇者-弥勒莲华",
+      "vote": 34,
+      "rate_global": 5.22,
+      "rate_group": 0.71
+    },
+    {
+      "group": 1,
+      "rank": 34,
+      "name": "金牌得主-结束实叶",
+      "vote": 30,
+      "rate_global": 4.61,
+      "rate_group": 0.63
+    },
+    {
+      "group": 1,
+      "rank": 35,
+      "name": "舰队collection-如月",
+      "vote": 29,
+      "rate_global": 4.45,
+      "rate_group": 0.61
+    },
+    {
+      "group": 1,
+      "rank": 36,
+      "name": "吊带袜天使-Panty",
+      "vote": 29,
+      "rate_global": 4.45,
+      "rate_group": 0.61
+    },
+    {
+      "group": 1,
+      "rank": 37,
+      "name": "MOMENTARY LILY 刹那之花-河津百合",
+      "vote": 26,
+      "rate_global": 3.99,
+      "rate_group": 0.55
+    },
+    {
+      "group": 1,
+      "rank": 38,
+      "name": "男女之间存在纯友情吗？-犬冢日葵",
+      "vote": 26,
+      "rate_global": 3.99,
+      "rate_group": 0.55
+    },
+    {
+      "group": 1,
+      "rank": 39,
+      "name": "2.5次元的诱惑-753♡",
+      "vote": 23,
+      "rate_global": 3.53,
+      "rate_group": 0.48
+    },
+    {
+      "group": 1,
+      "rank": 40,
+      "name": "虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS-阿莉娜·克洛瓦",
+      "vote": 18,
+      "rate_global": 2.76,
+      "rate_group": 0.38
+    },
+    {
+      "group": 1,
+      "rank": 41,
+      "name": "琉璃的宝石-荒砥凪",
+      "vote": 18,
+      "rate_global": 2.76,
+      "rate_group": 0.38
+    },
+    {
+      "group": 1,
+      "rank": 42,
+      "name": "天降之物-阿斯特蕾亚",
+      "vote": 17,
+      "rate_global": 2.61,
+      "rate_group": 0.36
+    },
+    {
+      "group": 1,
+      "rank": 43,
+      "name": "满月之战-林宁宁",
+      "vote": 17,
+      "rate_global": 2.61,
+      "rate_group": 0.36
+    },
+    {
+      "group": 1,
+      "rank": 44,
+      "name": "2.5次元的诱惑-喜咲亚里亚",
+      "vote": 13,
+      "rate_global": 2.0,
+      "rate_group": 0.27
+    },
+    {
+      "group": 1,
+      "rank": 45,
+      "name": "世界计划-KAITO",
+      "vote": 12,
+      "rate_global": 1.84,
+      "rate_group": 0.25
+    },
+    {
+      "group": 1,
+      "rank": 46,
+      "name": "魔法少女与恶曾是敌人-米拉",
+      "vote": 12,
+      "rate_global": 1.84,
+      "rate_group": 0.25
+    },
+    {
+      "group": 1,
+      "rank": 47,
+      "name": "名侦探柯南-中森青子",
+      "vote": 12,
+      "rate_global": 1.84,
+      "rate_group": 0.25
+    },
+    {
+      "group": 1,
+      "rank": 48,
+      "name": "某科学的超电磁炮-湾内绢保",
+      "vote": 12,
+      "rate_global": 1.84,
+      "rate_group": 0.25
+    },
+    {
+      "group": 1,
+      "rank": 49,
+      "name": "记录的地平线-实莉",
+      "vote": 11,
+      "rate_global": 1.69,
+      "rate_group": 0.23
+    },
+    {
+      "group": 1,
+      "rank": 50,
+      "name": "To LOVE-提亚悠",
+      "vote": 11,
+      "rate_global": 1.69,
+      "rate_group": 0.23
+    },
+    {
+      "group": 1,
+      "rank": 51,
+      "name": "我怎么可能成为你的恋人，不行不行!-藤村",
+      "vote": 10,
+      "rate_global": 1.54,
+      "rate_group": 0.21
+    },
+    {
+      "group": 1,
+      "rank": 52,
+      "name": "citrus-蓝原梅",
+      "vote": 10,
+      "rate_global": 1.54,
+      "rate_group": 0.21
+    },
+    {
+      "group": 1,
+      "rank": 53,
+      "name": "数码宝贝02-V兽",
+      "vote": 10,
+      "rate_global": 1.54,
+      "rate_group": 0.21
+    },
+    {
+      "group": 1,
+      "rank": 54,
+      "name": "mono-岛田小春",
+      "vote": 9,
+      "rate_global": 1.38,
+      "rate_group": 0.19
+    },
+    {
+      "group": 1,
+      "rank": 55,
+      "name": "ATRI-凯瑟琳",
+      "vote": 9,
+      "rate_global": 1.38,
+      "rate_group": 0.19
+    },
+    {
+      "group": 1,
+      "rank": 56,
+      "name": "潜行吧奈亚子-八坂真寻",
+      "vote": 9,
+      "rate_global": 1.38,
+      "rate_group": 0.19
+    },
+    {
+      "group": 1,
+      "rank": 57,
+      "name": "记录的地平线-蕾妮希雅",
+      "vote": 8,
+      "rate_global": 1.23,
+      "rate_group": 0.17
+    },
+    {
+      "group": 1,
+      "rank": 58,
+      "name": "金牌得主-加护芽衣子",
+      "vote": 8,
+      "rate_global": 1.23,
+      "rate_group": 0.17
+    },
+    {
+      "group": 1,
+      "rank": 59,
+      "name": "舰队collection-那珂",
+      "vote": 8,
+      "rate_global": 1.23,
+      "rate_group": 0.17
+    },
+    {
+      "group": 1,
+      "rank": 60,
+      "name": "赛马娘-放声欢呼",
+      "vote": 8,
+      "rate_global": 1.23,
+      "rate_group": 0.17
+    },
+    {
+      "group": 1,
+      "rank": 61,
+      "name": "甘城光辉游乐园-鲁布鲁姆",
+      "vote": 7,
+      "rate_global": 1.08,
+      "rate_group": 0.15
+    },
+    {
+      "group": 1,
+      "rank": 62,
+      "name": "跃动青春-小直",
+      "vote": 7,
+      "rate_global": 1.08,
+      "rate_group": 0.15
+    },
+    {
+      "group": 1,
+      "rank": 63,
+      "name": "白箱-新川奈绪",
+      "vote": 7,
+      "rate_global": 1.08,
+      "rate_group": 0.15
+    },
+    {
+      "group": 1,
+      "rank": 64,
+      "name": "豆打地平线-东北切蒲英",
+      "vote": 7,
+      "rate_global": 1.08,
+      "rate_group": 0.15
+    },
+    {
+      "group": 1,
+      "rank": 65,
+      "name": "天才麻将少女-男解说",
+      "vote": 6,
+      "rate_global": 0.92,
+      "rate_group": 0.13
+    },
+    {
+      "group": 1,
+      "rank": 66,
+      "name": "MOMENTARY LILY 刹那之花-高台寺欧石楠",
+      "vote": 6,
+      "rate_global": 0.92,
+      "rate_group": 0.13
+    },
+    {
+      "group": 1,
+      "rank": 67,
+      "name": "房东妹子青春期!-里中千惠",
+      "vote": 6,
+      "rate_global": 0.92,
+      "rate_group": 0.13
+    },
+    {
+      "group": 1,
+      "rank": 68,
+      "name": "药屋少女的呢喃-樱花",
+      "vote": 5,
+      "rate_global": 0.77,
+      "rate_group": 0.1
+    },
+    {
+      "group": 1,
+      "rank": 69,
+      "name": "Wonderful光之美少女!-狐崎",
+      "vote": 5,
+      "rate_global": 0.77,
+      "rate_group": 0.1
+    },
+    {
+      "group": 1,
+      "rank": 70,
+      "name": "无头骑士异闻录-狩泽绘理华",
+      "vote": 5,
+      "rate_global": 0.77,
+      "rate_group": 0.1
+    },
+    {
+      "group": 1,
+      "rank": 71,
+      "name": "魔女与使魔-嬉野久久实",
+      "vote": 4,
+      "rate_global": 0.61,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 72,
+      "name": "我决定和班上最讨厌的女生结婚了-北条才人",
+      "vote": 4,
+      "rate_global": 0.61,
+      "rate_group": 0.08
+    },
+    {
+      "group": 1,
+      "rank": 73,
+      "name": "石纪元-浅雾幻",
+      "vote": 3,
+      "rate_global": 0.46,
+      "rate_group": 0.06
+    },
+    {
+      "group": 1,
+      "rank": 74,
+      "name": "幸腹涂鸦-森野麒麟",
+      "vote": 3,
+      "rate_global": 0.46,
+      "rate_group": 0.06
+    },
+    {
+      "group": 1,
+      "rank": 75,
+      "name": "黑岩射手-纳野沙耶",
+      "vote": 3,
+      "rate_global": 0.46,
+      "rate_group": 0.06
+    },
+    {
+      "group": 1,
+      "rank": 76,
+      "name": "妄想学生会-柳本健二",
+      "vote": 2,
+      "rate_global": 0.31,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 77,
+      "name": "战队大失格-若叶京助",
+      "vote": 2,
+      "rate_global": 0.31,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 78,
+      "name": "乡下大叔成为剑圣-可露妮",
+      "vote": 2,
+      "rate_global": 0.31,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 79,
+      "name": "潜行吧奈亚子-八坂赖子",
+      "vote": 2,
+      "rate_global": 0.31,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 80,
+      "name": "男女之间存在纯友情吗？-榎本红叶",
+      "vote": 2,
+      "rate_global": 0.31,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 81,
+      "name": "夜樱四重奏-狂卷石榴",
+      "vote": 2,
+      "rate_global": 0.31,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 82,
+      "name": "地下城里的人们-雷西林吉",
+      "vote": 2,
+      "rate_global": 0.31,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 83,
+      "name": "潜行吧奈亚子-余市健彦",
+      "vote": 2,
+      "rate_global": 0.31,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 84,
+      "name": "白箱-宫井枫",
+      "vote": 2,
+      "rate_global": 0.31,
+      "rate_group": 0.04
+    },
+    {
+      "group": 1,
+      "rank": 85,
+      "name": "#COMPASS2.0 战斗天赋解析系统-莉莉卡",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 86,
+      "name": "男女之间存在纯友情吗？-横山亚寿美",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 87,
+      "name": "这公司有我喜欢的人-早川静乃",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 88,
+      "name": "#COMPASS2.0 战斗天赋解析系统-13",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 89,
+      "name": "费马的料理-西门理事长",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 90,
+      "name": "受到猩猩神的庇护的大小姐在王立骑士团受到宠爱-索菲亚·莉菈",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 91,
+      "name": "记录的地平线-伦迪浩斯·寇德",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 92,
+      "name": "S级怪兽《贝希摩斯》被误认成小猫-薇儿卡",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 93,
+      "name": "夜樱四重奏-五十音言叶",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 94,
+      "name": "出入禁止的鼹鼠-佐藤真由",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 95,
+      "name": "中禅寺老师的灵怪讲义实录。解谜就交给老师。-小川凉子",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 96,
+      "name": "让我听见爱的歌声-天野悟美",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 97,
+      "name": "香格里拉·开拓异境-鹿尾野叶",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 98,
+      "name": "夜樱四重奏-天野绿子",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    },
+    {
+      "group": 1,
+      "rank": 99,
+      "name": "公女殿下的家庭教师-亚连",
+      "vote": 1,
+      "rate_global": 0.15,
+      "rate_group": 0.02
+    }
+  ]
+}
