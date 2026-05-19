@@ -127,36 +127,11 @@
   "普通攻击是全体攻击而且能二次攻击的妈妈你喜欢吗？-大好真真子": [
     "普通攻击是全体...妈妈你喜欢吗？-大好真真子"
   ],
-  "BanG Dream!-高松光": [
-    "BanG Dream! It's MyGO!!!!!-高松光"
-  ],
   "FRESH光之美少女!-山吹祈里": [
     "Fresh光之美少女!-山吹祈里"
   ],
-  "BanG Dream!-高松灯": [
-    "BanG Dream! It's MyGO!!!!!-高松灯"
-  ],
-  "BanG Dream!-长崎爽世": [
-    "BanG Dream! It's MyGO!!!!!-长崎爽世",
-    "BanG Dream!-长崎素世",
-    "长崎素世"
-  ],
-  "BanG Dream!-三角初华": [
-    "BanG Dream! It's MyGO!!!!!-三角初华"
-  ],
-  "BanG Dream!-椎名立希": [
-    "BanG Dream! It's MyGO!!!!!-椎名立希",
-    "椎名立希"
-  ],
   "我的百合乃工作是也!-矢野美月": [
     "我的百合乃工作是也!-綾小路美月"
-  ],
-  "BanG Dream!-千早爱音": [
-    "BanG Dream! It's MyGO!!!!!-千早爱音"
-  ],
-  "BanG Dream!-丰川祥子": [
-    "BanG Dream! It's MyGO!!!!!-丰川祥子",
-    "丰川祥子"
   ],
   "Love Live Superstar-岚千砂都": [
     "LoveLive Superstar-岚千砂都"
@@ -166,9 +141,6 @@
   ],
   "深夜Punch-十景": [
     "深夜punch-十景"
-  ],
-  "BanG Dream!-若叶睦": [
-    "BanG Dream! It's MyGO!!!!!-若叶睦"
   ],
   "Love Live Superstar-叶月恋": [
     "LoveLive Superstar-叶月恋"
@@ -192,9 +164,9 @@
   "无职转生-洛琪希·米格路迪亚": [
     "无职转生-洛琪希"
   ],
-  "假面骑士W-鸣海亚树子": [
+  "风都侦探-鸣海亚树子": [
     "风都侦探-照井亚树子",
-    "风都侦探-鸣海亚树子"
+    "假面骑士W-鸣海亚树子"
   ],
   "Love Live Superstar-涩谷香音": [
     "LoveLive Superstar-涩谷香音"
@@ -602,8 +574,8 @@
   "School Days-桂言叶": [
     "日在校园-桂言叶"
   ],
-  "假面骑士W-左翔太郎": [
-    "风都侦探-左翔太郎"
+  "风都侦探-左翔太郎": [
+    "假面骑士W-左翔太郎"
   ],
   "Re:从零开始的异世界生活-菜月昴": [
     "从零开始的异世界生活-菜月昴"
@@ -951,5 +923,50 @@
   ],
   "机动战士高达 水星的魔女-斯莱塔·墨丘利": [
     "机动战士高达 水星的魔女-斯莱塔"
+  ],
+  "BanG Dream! It's MyGO!!!!!-高松灯": [
+    "BanG Dream! It's MyGO!!!!!-高松灯",
+    "BanG Dream!-高松灯"
+  ],
+  "BanG Dream! It's MyGO!!!!!-千早爱音": [
+    "BanG Dream! It's MyGO!!!!!-千早爱音",
+    "BanG Dream!-千早爱音"
+  ],
+  "BanG Dream! It's MyGO!!!!!-长崎爽世": [
+    "BanG Dream! It's MyGO!!!!!-长崎爽世",
+    "BanG Dream!-长崎素世",
+    "长崎素世",
+    "BanG Dream!-长崎爽世"
+  ],
+  "BanG Dream! It's MyGO!!!!!-椎名立希": [
+    "BanG Dream! It's MyGO!!!!!-椎名立希",
+    "椎名立希",
+    "BanG Dream!-椎名立希"
+  ],
+  "BanG Dream! It's MyGO!!!!!-高松光": [
+    "BanG Dream! It's MyGO!!!!!-高松光",
+    "BanG Dream!-高松光"
+  ],
+  "BanG Dream! Ave Mujica-若叶睦": [
+    "BanG Dream! It's MyGO!!!!!-若叶睦",
+    "BanG Dream!-若叶睦"
+  ],
+  "BanG Dream! Ave Mujica-三角初华": [
+    "BanG Dream! It's MyGO!!!!!-三角初华",
+    "BanG Dream!-三角初华"
+  ],
+  "BanG Dream! Ave Mujica-丰川祥子": [
+    "BanG Dream! It's MyGO!!!!!-丰川祥子",
+    "丰川祥子",
+    "BanG Dream!-丰川祥子"
+  ],
+  "BanG Dream! Ave Mujica-祐天寺若麦": [
+    "BanG Dream!-祐天寺若麦"
+  ],
+  "BanG Dream! Ave Mujica-袋小路": [
+    "BanG Dream!-袋小路"
+  ],
+  "BanG Dream! It's MyGO!!!!!-真次凛凛子": [
+    "BanG Dream!-真次凛凛子"
   ]
 }
