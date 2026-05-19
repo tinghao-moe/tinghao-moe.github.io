@@ -5990,7 +5990,7 @@
     "bgm_cid": 71556
   },
   {
-    "name": "学院魔剑使-黎榭莉亚",
+    "name": "圣剑学院的魔剑使-黎榭莉亚",
     "alias": [
       "黎榭莉亚·雷·克里斯塔利亚",
       "リーセリア・レイ・ クリスタリア"
@@ -6103,7 +6103,7 @@
     "bgm_cid": 152191
   },
   {
-    "name": "学院魔剑使-咲耶",
+    "name": "圣剑学院的魔剑使-咲耶",
     "alias": [
       "さき",
       "咲",
@@ -7440,7 +7440,7 @@
     "moegirl_name": "四之宫凛"
   },
   {
-    "name": "玛纳莉亚的密友-米兰老师",
+    "name": "Manaria Friends-米兰老师",
     "alias": [],
     "bgm_cid": null
   },
@@ -7557,7 +7557,7 @@
     "moegirl_name": "双叶妙"
   },
   {
-    "name": "玛纳莉亚的密友-勒乌",
+    "name": "Manaria Friends-勒乌",
     "alias": [],
     "bgm_cid": null
   },
@@ -9908,7 +9908,7 @@
     "bgm_cid": 106416
   },
   {
-    "name": "To LOVE-菈菈",
+    "name": "出包王女-菈菈",
     "alias": [
       "菈菈·萨塔琳·戴比路克",
       "ララ・サタリン・デビルーク",
@@ -11445,7 +11445,7 @@
     "bgm_cid": null
   },
   {
-    "name": "不是真正的伙伴而被逐出勇者队伍-雷德",
+    "name": "因为不是真正的伙伴而被逐出勇者队伍，流落到边境展开慢活人生-雷德",
     "alias": [
       "Red",
       "レッド",
@@ -11802,7 +11802,7 @@
     "moegirl_name": "百武照"
   },
   {
-    "name": "To LOVE-西连寺春菜",
+    "name": "出包王女-西连寺春菜",
     "alias": [
       "西连寺春菜",
       "西連寺春菜",
@@ -18638,7 +18638,7 @@
     "moegirl_name": "七海麻美"
   },
   {
-    "name": "FRMAE ARMS GIRL-轰雷",
+    "name": "FRAME ARMS GIRL-轰雷",
     "alias": [
       "轰雷",
       "Gourai",
@@ -19620,7 +19620,7 @@
     "moegirl_name": "牧濑红莉栖"
   },
   {
-    "name": "To LOVE-梦梦",
+    "name": "出包王女-梦梦",
     "alias": [],
     "bgm_cid": null
   },
@@ -24842,7 +24842,7 @@
     "bgm_cid": 14547
   },
   {
-    "name": "捏造trap-冈崎由真",
+    "name": "捏造陷阱-冈崎由真",
     "alias": [
       "おかざき ゆま",
       "冈崎由真",
@@ -25959,7 +25959,7 @@
     "bgm_cid": 5628
   },
   {
-    "name": "光之美少女Suite-黑川爱莲",
+    "name": "Suite光之美少女-黑川爱莲",
     "alias": [],
     "bgm_cid": null
   },
@@ -26656,7 +26656,7 @@
     "alias": []
   },
   {
-    "name": "To LOVE-古手川唯",
+    "name": "出包王女-古手川唯",
     "alias": [
       "古手川唯",
       "Yui Kotegawa",
@@ -26666,7 +26666,7 @@
     "bgm_cid": 265
   },
   {
-    "name": "To LOVE-娜娜·阿斯塔·戴比路克",
+    "name": "出包王女-娜娜·阿斯塔·戴比路克",
     "alias": [
       "Nana Asta Deviluke",
       "Nana Astar Deviluke",
@@ -26676,7 +26676,7 @@
     "bgm_cid": 9995
   },
   {
-    "name": "To LOVE-提亚悠·鲁娜提克",
+    "name": "出包王女-提亚悠·鲁娜提克",
     "alias": [
       "Tiāyu Runatīku",
       "提亚由 露娜蒂克",
@@ -26687,11 +26687,11 @@
     "bgm_cid": 18157
   },
   {
-    "name": "To LOVE-斯特拉",
+    "name": "出包王女-斯特拉",
     "alias": []
   },
   {
-    "name": "To LOVE-村雨静",
+    "name": "出包王女-村雨静",
     "alias": [
       "おしず / むらさめ しず",
       "Oshizu / Murasame Shizu",
@@ -26703,7 +26703,7 @@
     "bgm_cid": 16999
   },
   {
-    "name": "To LOVE-结城梨斗",
+    "name": "出包王女-结城梨斗",
     "alias": [
       "夕崎梨子",
       "ゆうき りと / ゆうさき りこ",
@@ -26716,7 +26716,7 @@
     "bgm_cid": 256
   },
   {
-    "name": "To LOVE-结城美柑",
+    "name": "出包王女-结城美柑",
     "alias": [
       "Mikan Yuuki",
       "Yuuki Mikan",
@@ -26727,7 +26727,7 @@
     "bgm_cid": 261
   },
   {
-    "name": "To LOVE-金色暗影",
+    "name": "出包王女-金色暗影",
     "alias": [
       "こんじきのやみ",
       "小暗",
@@ -26742,7 +26742,7 @@
     "bgm_cid": 266
   },
   {
-    "name": "To LOVE-雪丽奴",
+    "name": "出包王女-雪丽奴",
     "alias": [
       "希莉奴",
       "雪莉奴",
@@ -26753,7 +26753,7 @@
     "bgm_cid": 39528
   },
   {
-    "name": "To LOVE-露恩·艾尔西·裘利亚",
+    "name": "出包王女-露恩·艾尔西·裘利亚",
     "alias": [
       "レン・エルシ・ジュエリア",
       "Ren Erushi Jueria",

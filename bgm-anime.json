@@ -36,10 +36,10 @@
     "image": "https://lain.bgm.tv/pic/cover/l/2b/79/381666_RfyR1.jpg"
   },
   "某科学的超电磁炮": {
-    "subject_id": 1014,
-    "name": "とある魔術の禁書目録",
-    "name_cn": "魔法禁书目录",
-    "image": "https://lain.bgm.tv/pic/cover/l/76/6d/1014_nqAH8.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "寒蝉鸣泣之时": {
     "subject_id": 288,
@@ -90,10 +90,10 @@
     "image": "https://lain.bgm.tv/pic/cover/l/d5/89/464561_DRdV0.jpg"
   },
   "东方Project": {
-    "subject_id": 1171,
-    "name": "東方夢想夏郷",
-    "name_cn": "东方梦想夏乡",
-    "image": "https://lain.bgm.tv/pic/cover/l/a1/13/1171_On5fs.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "鹿乃子乃子虎视眈眈": {
     "subject_id": 484761,
@@ -396,10 +396,10 @@
     "image": "https://lain.bgm.tv/pic/cover/l/5e/cc/147568_0XYiM.jpg"
   },
   "幻日的夜羽": {
-    "subject_id": 165553,
-    "name": "ラブライブ! サンシャイン!!",
-    "name_cn": "LoveLive! Sunshine!!",
-    "image": "https://lain.bgm.tv/pic/cover/l/d3/37/165553_5f88z.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "偶像大师 灰姑娘女孩 U149": {
     "subject_id": 130231,
@@ -912,10 +912,10 @@
     "image": "https://lain.bgm.tv/pic/cover/l/ca/48/214265_uHAIG.jpg"
   },
   "偶像大师": {
-    "subject_id": 3271,
-    "name": "アイドルマスター XENOGLOSSIA",
-    "name_cn": "偶像大师 XENOGLOSSIA",
-    "image": "https://lain.bgm.tv/pic/cover/l/bf/bb/3271_uKaX3.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "无能的奈奈": {
     "subject_id": 302418,
@@ -1140,10 +1140,10 @@
     "image": "https://lain.bgm.tv/pic/cover/l/da/3d/389450_0hbeB.jpg"
   },
   "幻想嘉年华": {
-    "subject_id": 290,
-    "name": "Fate/stay night",
-    "name_cn": "Fate/stay night",
-    "image": "https://lain.bgm.tv/pic/cover/l/f9/0f/290_6Qi5Q.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "女高中生的虚度日常": {
     "subject_id": 265708,
@@ -1168,12 +1168,6 @@
     "name": "魔法少女特殊戦あすか",
     "name_cn": "魔法少女特殊战明日香",
     "image": "https://lain.bgm.tv/pic/cover/l/e2/a7/254716_ODniN.jpg"
-  },
-  "学院魔剑使": {
-    "subject_id": 353819,
-    "name": "聖剣学院の魔剣使い",
-    "name_cn": "圣剑学院的魔剑使",
-    "image": "https://lain.bgm.tv/pic/cover/l/c2/36/353819_qIHLl.jpg"
   },
   "笑容的代价": {
     "subject_id": 263907,
@@ -1500,10 +1494,10 @@
     "image": "https://lain.bgm.tv/pic/cover/l/fd/cd/256114_mvRVq.jpg"
   },
   "Fate strange Fake": {
-    "subject_id": 10639,
-    "name": "Fate/Zero",
-    "name_cn": "Fate/Zero",
-    "image": "https://lain.bgm.tv/pic/cover/l/86/1f/10639_w4sHs.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "偶像大师 灰姑娘女孩": {
     "subject_id": 101399,
@@ -1530,10 +1524,10 @@
     "image": "https://lain.bgm.tv/pic/cover/l/ce/e4/506873_xdo4D.jpg"
   },
   "Fate Apocrypha": {
-    "subject_id": 10639,
-    "name": "Fate/Zero",
-    "name_cn": "Fate/Zero",
-    "image": "https://lain.bgm.tv/pic/cover/l/86/1f/10639_w4sHs.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "雏逻辑": {
     "subject_id": 175362,
@@ -1608,10 +1602,10 @@
     "image": "https://lain.bgm.tv/pic/cover/l/73/cd/39024_yzwyh.jpg"
   },
   "游戏王": {
-    "subject_id": 3711,
-    "name": "遊☆戯☆王デュエルモンスターズGX",
-    "name_cn": "游戏王－怪兽之决斗GX",
-    "image": "https://lain.bgm.tv/pic/cover/l/ab/a1/3711_zVYL3.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "平凡职业造就世界最强": {
     "subject_id": 231414,
@@ -1824,10 +1818,10 @@
     "image": "https://lain.bgm.tv/pic/cover/l/eb/f1/223407_oRrT7.jpg"
   },
   "传颂之物": {
-    "subject_id": 136336,
-    "name": "うたわれるもの 偽りの仮面",
-    "name_cn": "传颂之物 虚伪的假面",
-    "image": "https://lain.bgm.tv/pic/cover/l/2a/44/136336_maCsq.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "后宫之乌": {
     "subject_id": 362479,
@@ -1895,17 +1889,11 @@
     "name_cn": "顶点!!!!!!!!!!!!!!!",
     "image": "https://lain.bgm.tv/pic/cover/l/17/7f/364845_mOcol.jpg"
   },
-  "To LOVE": {
-    "subject_id": 849,
-    "name": "To LOVEる -とらぶる-",
-    "name_cn": "出包王女",
-    "image": "https://lain.bgm.tv/pic/cover/l/fe/8c/849_9xbj1.jpg"
-  },
   "传颂之物二人的白皇": {
-    "subject_id": 136336,
-    "name": "うたわれるもの 偽りの仮面",
-    "name_cn": "传颂之物 虚伪的假面",
-    "image": "https://lain.bgm.tv/pic/cover/l/2a/44/136336_maCsq.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "秘密内幕～女警的反击～": {
     "subject_id": 344422,
@@ -2230,12 +2218,6 @@
     "name": "ハイスクールD×D",
     "name_cn": "恶魔高校 D×D",
     "image": "https://lain.bgm.tv/pic/cover/l/03/9b/15910_5XjQ5.jpg"
-  },
-  "不是真正的伙伴而被逐出勇者队伍": {
-    "subject_id": 319739,
-    "name": "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました",
-    "name_cn": "因为不是命中注定的同伴而被赶出了勇者的队伍、从此以后过上了悠闲的隐居生活",
-    "image": "https://lain.bgm.tv/pic/cover/l/00/6d/319739_BJNJC.jpg"
   },
   "白沙的水族馆": {
     "subject_id": 325281,
@@ -3149,12 +3131,6 @@
     "name_cn": "动物新世代",
     "image": "https://lain.bgm.tv/pic/cover/l/24/5a/285905_3tF33.jpg"
   },
-  "FRMAE ARMS GIRL": {
-    "subject_id": 198961,
-    "name": "フレームアームズ・ガール",
-    "name_cn": "机甲少女 FRAME ARMS GIRL",
-    "image": "https://lain.bgm.tv/pic/cover/l/f9/70/198961_YsY4g.jpg"
-  },
   "GOSICK": {
     "subject_id": 9781,
     "name": "GOSICK -ゴシック-",
@@ -3744,16 +3720,16 @@
     "image": "https://lain.bgm.tv/pic/cover/l/80/69/58850_eZLEn.jpg"
   },
   "Fate EXTRA Last Encore": {
-    "subject_id": 290,
-    "name": "Fate/stay night",
-    "name_cn": "Fate/stay night",
-    "image": "https://lain.bgm.tv/pic/cover/l/f9/0f/290_6Qi5Q.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "数码宝贝tri": {
-    "subject_id": 3128,
-    "name": "デジモンアドベンチャー",
-    "name_cn": "数码宝贝大冒险",
-    "image": "https://lain.bgm.tv/pic/cover/l/df/f8/3128_4QNAH.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "天狼": {
     "subject_id": 241089,
@@ -4080,16 +4056,10 @@
     "image": "https://lain.bgm.tv/pic/cover/l/fe/8c/849_9xbj1.jpg"
   },
   "初音岛": {
-    "subject_id": 1309,
-    "name": "D.C.II 〜ダ・カーポII〜",
-    "name_cn": "初音岛II",
-    "image": "https://lain.bgm.tv/pic/cover/l/53/5a/1310_9l5VY.jpg"
-  },
-  "捏造trap": {
-    "subject_id": 198099,
-    "name": "捏造トラップ -NTR-",
-    "name_cn": "捏造陷阱 -NTR-",
-    "image": "https://lain.bgm.tv/pic/cover/l/85/1b/198099_Z6NcF.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "数码宝贝": {
     "subject_id": 3128,
@@ -4164,10 +4134,10 @@
     "image": "https://lain.bgm.tv/pic/cover/l/db/9a/158415_mzDLd.jpg"
   },
   "东方妖妖梦": {
-    "subject_id": 1171,
-    "name": "東方夢想夏郷",
-    "name_cn": "东方梦想夏乡",
-    "image": "https://lain.bgm.tv/pic/cover/l/a1/13/1171_On5fs.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "Hand Shakers": {
     "subject_id": 174592,
@@ -4452,10 +4422,10 @@
     "image": "https://lain.bgm.tv/pic/cover/l/c0/f7/67826_oa7Xa.jpg"
   },
   "四叠半时光机布鲁斯": {
-    "subject_id": 4019,
-    "name": "四畳半神話大系",
-    "name_cn": "四叠半神话大系",
-    "image": "https://lain.bgm.tv/pic/cover/l/7f/c6/4019_f34f4.jpg"
+    "subject_id": null,
+    "name": "",
+    "name_cn": "",
+    "image": ""
   },
   "圣女因太过完美不够可爱而被废除婚约并卖到邻国": {
     "subject_id": 520672,
@@ -5081,12 +5051,6 @@
     "name_cn": "假面骑士歌查德",
     "image": "https://lain.bgm.tv/pic/cover/l/fc/25/443506_EFPcD.jpg"
   },
-  "光之美少女Suite": {
-    "subject_id": 11779,
-    "name": "スイートプリキュア♪",
-    "name_cn": "Suite 光之美少女♪",
-    "image": "https://lain.bgm.tv/pic/cover/l/7d/9d/11779_y7CW8.jpg"
-  },
   "吸血姬美夕": {
     "subject_id": 4466,
     "name": "吸血姫美夕",
@@ -5153,12 +5117,6 @@
     "name_cn": "温泉物语",
     "image": "https://lain.bgm.tv/pic/cover/l/ef/05/16692_lRrp7.jpg"
   },
-  "玛纳莉亚的密友": {
-    "subject_id": 145354,
-    "name": "マナリアフレンズ",
-    "name_cn": "玛纳利亚的密友",
-    "image": "https://lain.bgm.tv/pic/cover/l/b1/66/145354_v6n1Q.jpg"
-  },
   "现实主义勇者的王国再建记": {
     "subject_id": 304319,
     "name": "現実主義勇者の王国再建記",
@@ -5182,12 +5140,6 @@
     "name": "ポケットモンスターXY",
     "name_cn": "宝可梦XY",
     "image": "https://lain.bgm.tv/pic/cover/l/ca/e3/78799_f9bqW.jpg"
-  },
-  "绝灭危愚少女": {
-    "subject_id": 79676,
-    "name": "絶滅危愚少女 Amazing Twins",
-    "name_cn": "绝灭危愚少女",
-    "image": "https://lain.bgm.tv/pic/cover/l/8b/d7/79676_X9k00.jpg"
   },
   "绝灭危愚少女 Amazing Twins": {
     "subject_id": 79676,
