@@ -1,0 +1,3288 @@
+{
+  "2017": {
+    "year": 2017,
+    "nth": 1,
+    "left": [
+      {
+        "json_key": "Day1-G1",
+        "members": [
+          {
+            "full": "路人女主的养成方法-英梨梨",
+            "short": "英梨梨",
+            "rank": 1,
+            "vote_json": 183
+          },
+          {
+            "full": "NEW GAME-远山伦",
+            "short": "远山伦",
+            "rank": 2,
+            "vote_json": 56
+          },
+          {
+            "full": "旋风管家-桂雏菊",
+            "short": "桂雏菊",
+            "rank": 3,
+            "vote_json": 52
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G2",
+        "members": [
+          {
+            "full": "我的妹妹不可能这么可爱-五更琉璃（黑猫）",
+            "short": "五更琉璃（黑猫）",
+            "rank": 1,
+            "vote_json": 190
+          },
+          {
+            "full": "惊爆草莓-凉水玉青",
+            "short": "凉水玉青",
+            "rank": 2,
+            "vote_json": 61
+          },
+          {
+            "full": "Love Live-高坂穗乃果",
+            "short": "高坂穗乃果",
+            "rank": 3,
+            "vote_json": 33
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G1",
+        "members": [
+          {
+            "full": "我的青春恋爱物语果然有问题-由比滨结衣",
+            "short": "由比滨结衣",
+            "rank": 1,
+            "vote_json": 115
+          },
+          {
+            "full": "伪恋-小野寺小咲",
+            "short": "小野寺小咲",
+            "rank": 2,
+            "vote_json": 108
+          },
+          {
+            "full": "吹响!上低音号-中世古香织",
+            "short": "中世古香织",
+            "rank": 3,
+            "vote_json": 38
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G2",
+        "members": [
+          {
+            "full": "魔卡少女樱-大道寺知世",
+            "short": "大道寺知世",
+            "rank": 2,
+            "vote_json": 87
+          },
+          {
+            "full": "Princess Principal-公主",
+            "short": "公主",
+            "rank": 3,
+            "vote_json": 36
+          },
+          {
+            "full": "Love Live Sunshine-渡边曜",
+            "short": "渡边曜",
+            "rank": 1,
+            "vote_json": 204
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G1",
+        "members": [
+          {
+            "full": "樱花庄的宠物女孩-青山七海",
+            "short": "青山七海",
+            "rank": 1,
+            "vote_json": 169
+          },
+          {
+            "full": "命运石之门-椎名真由理",
+            "short": "椎名真由理",
+            "rank": 2,
+            "vote_json": 60
+          },
+          {
+            "full": "Fate/kaleidliner魔法少女☆伊莉雅-间桐樱",
+            "short": "间桐樱",
+            "rank": 3,
+            "vote_json": 28
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G2",
+        "members": [
+          {
+            "full": "Love Live-南小鸟",
+            "short": "南小鸟",
+            "rank": 2,
+            "vote_json": 87
+          },
+          {
+            "full": "政宗君的复仇-藤之宫宁子",
+            "short": "藤之宫宁子",
+            "rank": 3,
+            "vote_json": 47
+          },
+          {
+            "full": "结城友奈是勇者-三好夏凛",
+            "short": "三好夏凛",
+            "rank": 1,
+            "vote_json": 95
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G1",
+        "members": [
+          {
+            "full": "吹响!上低音号-高坂丽奈",
+            "short": "高坂丽奈",
+            "rank": 2,
+            "vote_json": 64
+          },
+          {
+            "full": "Re:从零开始的异世界生活-艾米莉亚",
+            "short": "艾米莉亚",
+            "rank": 1,
+            "vote_json": 142
+          },
+          {
+            "full": "樱花任务-木春由乃",
+            "short": "木春由乃",
+            "rank": 3,
+            "vote_json": 64
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G2",
+        "members": [
+          {
+            "full": "Rewrite-神户小鸟",
+            "short": "神户小鸟",
+            "rank": 1,
+            "vote_json": 102
+          },
+          {
+            "full": "Princess Principal-安洁",
+            "short": "安洁",
+            "rank": 2,
+            "vote_json": 88
+          },
+          {
+            "full": "某科学的超电磁炮-御坂美琴",
+            "short": "御坂美琴",
+            "rank": 3,
+            "vote_json": 75
+          }
+        ]
+      }
+    ],
+    "right": [
+      {
+        "json_key": "Day1-G3",
+        "members": [
+          {
+            "full": "魔法少女小圆-美树沙耶香",
+            "short": "美树沙耶香",
+            "rank": 1,
+            "vote_json": 176
+          },
+          {
+            "full": "Love Live-园田海未",
+            "short": "园田海未",
+            "rank": 3,
+            "vote_json": 36
+          },
+          {
+            "full": "我的青春恋爱物语果然有问题-一色彩羽",
+            "short": "一色彩羽",
+            "rank": 2,
+            "vote_json": 81
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G4",
+        "members": [
+          {
+            "full": "少女编号-乌丸千岁",
+            "short": "乌丸千岁",
+            "rank": 1,
+            "vote_json": 108
+          },
+          {
+            "full": "小林家的龙女仆-托尔",
+            "short": "托尔",
+            "rank": 3,
+            "vote_json": 69
+          },
+          {
+            "full": "小魔女学园-厄休拉（闪光夏莉欧）",
+            "short": "厄休拉（闪光夏莉欧）",
+            "rank": 2,
+            "vote_json": 82
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G3",
+        "members": [
+          {
+            "full": "请问您今天要来点兔子吗-保登心爱",
+            "short": "保登心爱",
+            "rank": 3,
+            "vote_json": 46
+          },
+          {
+            "full": "NEW GAME-凉风青叶",
+            "short": "凉风青叶",
+            "rank": 2,
+            "vote_json": 72
+          },
+          {
+            "full": "高校舰队-纳沙幸子",
+            "short": "纳沙幸子",
+            "rank": 1,
+            "vote_json": 97
+          }
+        ]
+      },
+      {
+        "json_key": null,
+        "members": [],
+        "moe": [
+          "莉法",
+          "珂朵莉",
+          "小木曾雪菜"
+        ]
+      },
+      {
+        "json_key": "Day3-G3",
+        "members": [
+          {
+            "full": "中二病也要谈恋爱-七宫智音",
+            "short": "七宫智音",
+            "rank": 1,
+            "vote_json": 169
+          },
+          {
+            "full": "月刊少女野崎君-佐仓千代",
+            "short": "佐仓千代",
+            "rank": 3,
+            "vote_json": 29
+          },
+          {
+            "full": "魔法少女小圆-鹿目圆",
+            "short": "鹿目圆",
+            "rank": 2,
+            "vote_json": 58
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G4",
+        "members": [
+          {
+            "full": "电玩咖-星之守千秋",
+            "short": "星之守千秋",
+            "rank": 3,
+            "vote_json": 31
+          },
+          {
+            "full": "我的妹妹是黄漫老师-山田妖精",
+            "short": "山田妖精",
+            "rank": 2,
+            "vote_json": 95
+          },
+          {
+            "full": "龙与虎-栉枝实乃梨",
+            "short": "栉枝实乃梨",
+            "rank": 1,
+            "vote_json": 124
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G3",
+        "members": [
+          {
+            "full": "心跳!光之美少女-剑崎真琴",
+            "short": "剑崎真琴",
+            "rank": 2,
+            "vote_json": 65
+          },
+          {
+            "full": "食灵零-谏山黄泉",
+            "short": "谏山黄泉",
+            "rank": 3,
+            "vote_json": 29
+          },
+          {
+            "full": "我的妹妹不可能那么可爱-新垣绫濑",
+            "short": "新垣绫濑",
+            "rank": 1,
+            "vote_json": 139
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G4",
+        "members": [
+          {
+            "full": "电玩咖-亚玖璃",
+            "short": "亚玖璃",
+            "rank": 3,
+            "vote_json": 29
+          },
+          {
+            "full": "魔法少女小圆-晓美焰",
+            "short": "晓美焰",
+            "rank": 2,
+            "vote_json": 114
+          },
+          {
+            "full": "Re:从零开始的异世界生活-蕾姆",
+            "short": "蕾姆",
+            "rank": 1,
+            "vote_json": 151
+          }
+        ]
+      }
+    ]
+  },
+  "2018": {
+    "year": 2018,
+    "nth": 2,
+    "left": [
+      {
+        "json_key": "Day1-G1",
+        "members": [
+          {
+            "full": "刀使巫女-柳濑舞衣",
+            "short": "柳濑舞衣",
+            "rank": 1,
+            "vote_json": 138
+          },
+          {
+            "full": "Re:从零开始的异世界生活-蕾姆",
+            "short": "蕾姆",
+            "rank": 3,
+            "vote_json": 46
+          },
+          {
+            "full": "伪恋-橘万里花",
+            "short": "橘万里花",
+            "rank": 2,
+            "vote_json": 47
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G2",
+        "members": [
+          {
+            "full": "我的妹妹不可能这么可爱-五更琉璃（黑猫）",
+            "short": "五更琉璃（黑猫）",
+            "rank": 1,
+            "vote_json": 138
+          },
+          {
+            "full": "Re:从零开始的异世界生活-艾米莉亚",
+            "short": "艾米莉亚",
+            "rank": 2,
+            "vote_json": 43
+          },
+          {
+            "full": "Fate stay night-间桐樱",
+            "short": "间桐樱",
+            "rank": 3,
+            "vote_json": 27
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G1",
+        "members": [
+          {
+            "full": "少女歌剧-大场奈奈",
+            "short": "大场奈奈",
+            "rank": 1,
+            "vote_json": 125
+          },
+          {
+            "full": "樱花庄的宠物女孩-青山七海",
+            "short": "青山七海",
+            "rank": 3,
+            "vote_json": 64
+          },
+          {
+            "full": "来自风平浪静的明天-潮留美海",
+            "short": "潮留美海",
+            "rank": 2,
+            "vote_json": 68
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G2",
+        "members": [
+          {
+            "full": "中二病也要谈恋爱-七宫智音",
+            "short": "七宫智音",
+            "rank": 2,
+            "vote_json": 68
+          },
+          {
+            "full": "摇曳百合-赤座灯里",
+            "short": "赤座灯里",
+            "rank": 3,
+            "vote_json": 20
+          },
+          {
+            "full": "赛马娘-草上飞",
+            "short": "草上飞",
+            "rank": 1,
+            "vote_json": 180
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G1",
+        "members": [
+          {
+            "full": "魔卡少女樱-大道寺知世",
+            "short": "大道寺知世",
+            "rank": 1,
+            "vote_json": 122
+          },
+          {
+            "full": "白色相簿2-小木曾雪菜",
+            "short": "小木曾雪菜",
+            "rank": 2,
+            "vote_json": 67
+          },
+          {
+            "full": "CLANNAD-坂上智代",
+            "short": "坂上智代",
+            "rank": 3,
+            "vote_json": 32
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G2",
+        "members": [
+          {
+            "full": "Just Because!-小宫惠那",
+            "short": "小宫惠那",
+            "rank": 2,
+            "vote_json": 53
+          },
+          {
+            "full": "赛马娘-无声铃鹿",
+            "short": "无声铃鹿",
+            "rank": 3,
+            "vote_json": 40
+          },
+          {
+            "full": "刀使巫女-燕结芽",
+            "short": "燕结芽",
+            "rank": 1,
+            "vote_json": 104
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G1",
+        "members": [
+          {
+            "full": "CLANNAD-藤林椋",
+            "short": "藤林椋",
+            "rank": 2,
+            "vote_json": 64
+          },
+          {
+            "full": "玉子市场-常盘绿",
+            "short": "常盘绿",
+            "rank": 3,
+            "vote_json": 56
+          },
+          {
+            "full": "结城友奈是勇者-三之轮银",
+            "short": "三之轮银",
+            "rank": 1,
+            "vote_json": 83
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G2",
+        "members": [
+          {
+            "full": "CLANNAD-藤林杏",
+            "short": "藤林杏",
+            "rank": 2,
+            "vote_json": 53
+          },
+          {
+            "full": "惊爆草莓-凉水玉青",
+            "short": "凉水玉青",
+            "rank": 3,
+            "vote_json": 49
+          },
+          {
+            "full": "少女歌剧-土豆",
+            "short": "土豆",
+            "rank": 1,
+            "vote_json": 152
+          }
+        ]
+      }
+    ],
+    "right": [
+      {
+        "json_key": "Day1-G3",
+        "members": [
+          {
+            "full": "路人女主的养成方法-英梨梨",
+            "short": "英梨梨",
+            "rank": 1,
+            "vote_json": 154
+          },
+          {
+            "full": "吹响!上低音号-高坂丽奈",
+            "short": "高坂丽奈",
+            "rank": 2,
+            "vote_json": 50
+          },
+          {
+            "full": "吹响!上低音号-中世古香织",
+            "short": "中世古香织",
+            "rank": 3,
+            "vote_json": 20
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G4",
+        "members": [
+          {
+            "full": "NEW GAME-远山伦",
+            "short": "远山伦",
+            "rank": 1,
+            "vote_json": 79
+          },
+          {
+            "full": "我的妹妹不可能那么可爱-新垣绫濑",
+            "short": "新垣绫濑",
+            "rank": 2,
+            "vote_json": 79
+          },
+          {
+            "full": "宝石之国-钻石",
+            "short": "钻石",
+            "rank": 3,
+            "vote_json": 63
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G3",
+        "members": [
+          {
+            "full": "电玩咖-亚玖璃",
+            "short": "亚玖璃",
+            "rank": 3,
+            "vote_json": 39
+          },
+          {
+            "full": "伪恋-小野寺小咲",
+            "short": "小野寺小咲",
+            "rank": 2,
+            "vote_json": 85
+          },
+          {
+            "full": "拥抱!光之美少女-药师寺纱绫",
+            "short": "药师寺纱绫",
+            "rank": 1,
+            "vote_json": 109
+          }
+        ]
+      },
+      {
+        "json_key": null,
+        "members": [],
+        "moe": [
+          "冢本秀一",
+          "桂雏菊",
+          "露崎真昼"
+        ]
+      },
+      {
+        "json_key": "Day3-G3",
+        "members": [
+          {
+            "full": "DARLING in the FRANXX-莓",
+            "short": "莓",
+            "rank": 1,
+            "vote_json": 103
+          },
+          {
+            "full": "命运石之门-椎名真由理",
+            "short": "椎名真由理",
+            "rank": 3,
+            "vote_json": 51
+          },
+          {
+            "full": "结城友奈是勇者-三好夏凛",
+            "short": "三好夏凛",
+            "rank": 2,
+            "vote_json": 63
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G4",
+        "members": [
+          {
+            "full": "少女歌剧-爱城华恋",
+            "short": "爱城华恋",
+            "rank": 3,
+            "vote_json": 31
+          },
+          {
+            "full": "结城友奈是勇者-乃木园子",
+            "short": "乃木园子",
+            "rank": 1,
+            "vote_json": 123
+          },
+          {
+            "full": "少女歌剧-西条克洛迪娜",
+            "short": "西条克洛迪娜",
+            "rank": 2,
+            "vote_json": 41
+          }
+        ]
+      },
+      {
+        "json_key": null,
+        "members": [],
+        "moe": [
+          "仓上日向",
+          "珂朵莉",
+          "由比滨结衣"
+        ]
+      },
+      {
+        "json_key": "Day4-G4",
+        "members": [
+          {
+            "full": "龙与虎-栉枝实乃梨",
+            "short": "栉枝实乃梨",
+            "rank": 2,
+            "vote_json": 54
+          },
+          {
+            "full": "我的妹妹是黄漫老师-山田妖精",
+            "short": "山田妖精",
+            "rank": 3,
+            "vote_json": 36
+          },
+          {
+            "full": "魔法少女小圆-美树沙耶香",
+            "short": "美树沙耶香",
+            "rank": 1,
+            "vote_json": 131
+          }
+        ]
+      }
+    ]
+  },
+  "2019": {
+    "year": 2019,
+    "nth": 3,
+    "left": [
+      {
+        "json_key": "Day1-G1",
+        "members": [
+          {
+            "full": "来自风平浪静的明天-潮留美海",
+            "short": "潮留美海",
+            "rank": 1,
+            "vote_json": 97
+          },
+          {
+            "full": "我的青春恋爱物语果然有问题-一色彩羽",
+            "short": "一色彩羽",
+            "rank": 2,
+            "vote_json": 67
+          },
+          {
+            "full": "拥抱!光之美少女-药师寺纱绫",
+            "short": "药师寺纱绫",
+            "rank": 3,
+            "vote_json": 61
+          }
+        ]
+      },
+      {
+        "json_key": null,
+        "members": [],
+        "moe": [
+          "本庄阿鲁",
+          "泰蕾莎",
+          "栉枝实乃梨"
+        ]
+      },
+      {
+        "json_key": "Day1-G3",
+        "members": [
+          {
+            "full": "天使降临我身边-姬坂乃爱",
+            "short": "姬坂乃爱",
+            "rank": 1,
+            "vote_json": 127
+          },
+          {
+            "full": "CLANNAD-坂上智代",
+            "short": "坂上智代",
+            "rank": 3,
+            "vote_json": 54
+          },
+          {
+            "full": "满月之战-小日向满月",
+            "short": "小日向满月",
+            "rank": 2,
+            "vote_json": 71
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G4",
+        "members": [
+          {
+            "full": "DARLING in the FRANXX-莓",
+            "short": "莓",
+            "rank": 1,
+            "vote_json": 113
+          },
+          {
+            "full": "刀使巫女-柳濑舞衣",
+            "short": "柳濑舞衣",
+            "rank": 2,
+            "vote_json": 109
+          },
+          {
+            "full": "玉子市场-常盘绿",
+            "short": "常盘绿",
+            "rank": 3,
+            "vote_json": 45
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G1",
+        "members": [
+          {
+            "full": "街角魔族-吉田优子",
+            "short": "吉田优子",
+            "rank": 1,
+            "vote_json": 103
+          },
+          {
+            "full": "我的妹妹是黄漫老师-山田妖精",
+            "short": "山田妖精",
+            "rank": 2,
+            "vote_json": 67
+          },
+          {
+            "full": "刀剑神域-尤吉欧",
+            "short": "尤吉欧",
+            "rank": 3,
+            "vote_json": 66
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G2",
+        "members": [
+          {
+            "full": "街角魔族-千代田桃",
+            "short": "千代田桃",
+            "rank": 3,
+            "vote_json": 69
+          },
+          {
+            "full": "惊爆草莓-凉水玉青",
+            "short": "凉水玉青",
+            "rank": 2,
+            "vote_json": 73
+          },
+          {
+            "full": "我的妹妹不可能这么可爱-五更琉璃（黑猫）",
+            "short": "五更琉璃（黑猫）",
+            "rank": 1,
+            "vote_json": 94
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G3",
+        "members": [
+          {
+            "full": "中二病也要谈恋爱-七宫智音",
+            "short": "七宫智音",
+            "rank": 2,
+            "vote_json": 81
+          },
+          {
+            "full": "满月之战-安娜·胡戈",
+            "short": "安娜·胡戈",
+            "rank": 1,
+            "vote_json": 113
+          },
+          {
+            "full": "街角魔族-阳夏木蜜柑",
+            "short": "阳夏木蜜柑",
+            "rank": 3,
+            "vote_json": 70
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G4",
+        "members": [
+          {
+            "full": "NEW GAME-远山伦",
+            "short": "远山伦",
+            "rank": 2,
+            "vote_json": 78
+          },
+          {
+            "full": "向山进发-仓上日向",
+            "short": "仓上日向",
+            "rank": 1,
+            "vote_json": 94
+          },
+          {
+            "full": "少女歌剧-大场奈奈",
+            "short": "大场奈奈",
+            "rank": 3,
+            "vote_json": 72
+          }
+        ]
+      }
+    ],
+    "right": [
+      {
+        "json_key": null,
+        "members": [],
+        "moe": [
+          "早坂爱",
+          "夏木日向",
+          "冢本秀一"
+        ]
+      },
+      {
+        "json_key": "Day3-G2",
+        "members": [
+          {
+            "full": "皿三昧-阵内燕太",
+            "short": "阵内燕太",
+            "rank": 1,
+            "vote_json": 115
+          },
+          {
+            "full": "月影特工-相模枫",
+            "short": "相模枫",
+            "rank": 3,
+            "vote_json": 28
+          },
+          {
+            "full": "结城友奈是勇者-乃木园子",
+            "short": "乃木园子",
+            "rank": 2,
+            "vote_json": 73
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G3",
+        "members": [
+          {
+            "full": "魔卡少女樱-大道寺知世",
+            "short": "大道寺知世",
+            "rank": 1,
+            "vote_json": 114
+          },
+          {
+            "full": "刀使巫女-燕结芽",
+            "short": "燕结芽",
+            "rank": 2,
+            "vote_json": 73
+          },
+          {
+            "full": "吹响!上低音号-中世古香织",
+            "short": "中世古香织",
+            "rank": 3,
+            "vote_json": 32
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G4",
+        "members": [
+          {
+            "full": "路人女主的养成方法-英梨梨",
+            "short": "英梨梨",
+            "rank": 1,
+            "vote_json": 99
+          },
+          {
+            "full": "结城友奈是勇者-三之轮银",
+            "short": "三之轮银",
+            "rank": 2,
+            "vote_json": 62
+          },
+          {
+            "full": "樱花庄的宠物女孩-青山七海",
+            "short": "青山七海",
+            "rank": 3,
+            "vote_json": 59
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G1",
+        "members": [
+          {
+            "full": "天使降临我身边-星野日向",
+            "short": "星野日向",
+            "rank": 1,
+            "vote_json": 118
+          },
+          {
+            "full": "摇曳百合-赤座灯里",
+            "short": "赤座灯里",
+            "rank": 3,
+            "vote_json": 46
+          },
+          {
+            "full": "宝石之国-钻石",
+            "short": "钻石",
+            "rank": 2,
+            "vote_json": 50
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G2",
+        "members": [
+          {
+            "full": "我的青春恋爱物语果然有问题-由比滨结衣",
+            "short": "由比滨结衣",
+            "rank": 1,
+            "vote_json": 84
+          },
+          {
+            "full": "命运石之门-椎名真由理",
+            "short": "椎名真由理",
+            "rank": 3,
+            "vote_json": 60
+          },
+          {
+            "full": "吹响!上低音号-铠冢霙",
+            "short": "铠冢霙",
+            "rank": 2,
+            "vote_json": 61
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G3",
+        "members": [
+          {
+            "full": "伪恋-小野寺小咲",
+            "short": "小野寺小咲",
+            "rank": 2,
+            "vote_json": 64
+          },
+          {
+            "full": "CLANNAD-藤林杏",
+            "short": "藤林杏",
+            "rank": 3,
+            "vote_json": 53
+          },
+          {
+            "full": "白色相簿2-小木曾雪菜",
+            "short": "小木曾雪菜",
+            "rank": 1,
+            "vote_json": 64
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G4",
+        "members": [
+          {
+            "full": "终将成为你-佐伯沙弥香",
+            "short": "佐伯沙弥香",
+            "rank": 1,
+            "vote_json": 193
+          },
+          {
+            "full": "结城友奈是勇者-三好夏凛",
+            "short": "三好夏凛",
+            "rank": 2,
+            "vote_json": 29
+          },
+          {
+            "full": "伪恋-橘万里花",
+            "short": "橘万里花",
+            "rank": 3,
+            "vote_json": 26
+          }
+        ]
+      }
+    ]
+  },
+  "2020": {
+    "year": 2020,
+    "nth": 4,
+    "left": [
+      {
+        "json_key": "Day1-G1",
+        "members": [
+          {
+            "full": "天使降临我身边-姬坂乃爱",
+            "short": "姬坂乃爱",
+            "rank": 1,
+            "vote_json": 144
+          },
+          {
+            "full": "满月之战-安娜·胡戈",
+            "short": "安娜·胡戈",
+            "rank": 3,
+            "vote_json": 50
+          },
+          {
+            "full": "中二病也要谈恋爱-七宫智音",
+            "short": "七宫智音",
+            "rank": 2,
+            "vote_json": 54
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G2",
+        "members": [
+          {
+            "full": "少女歌剧-土豆",
+            "short": "土豆",
+            "rank": 1,
+            "vote_json": 144
+          },
+          {
+            "full": "魔法纪录-二叶莎奈",
+            "short": "二叶莎奈",
+            "rank": 3,
+            "vote_json": 45
+          },
+          {
+            "full": "DARLING in the FRANXX-莓",
+            "short": "莓",
+            "rank": 2,
+            "vote_json": 67
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G1",
+        "members": [
+          {
+            "full": "魔法少女小圆-鹿目圆",
+            "short": "鹿目圆",
+            "rank": 2,
+            "vote_json": 46
+          },
+          {
+            "full": "利兹与青鸟-伞木希美",
+            "short": "伞木希美",
+            "rank": 1,
+            "vote_json": 130
+          },
+          {
+            "full": "魔法少女小圆-巴麻美",
+            "short": "巴麻美",
+            "rank": 3,
+            "vote_json": 37
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G2",
+        "members": [
+          {
+            "full": "邻家索菲-夏木日向",
+            "short": "夏木日向",
+            "rank": 2,
+            "vote_json": 68
+          },
+          {
+            "full": "结城友奈是勇者-乃木园子",
+            "short": "乃木园子",
+            "rank": 1,
+            "vote_json": 90
+          },
+          {
+            "full": "CLANNAD-藤林杏",
+            "short": "藤林杏",
+            "rank": 3,
+            "vote_json": 43
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G1",
+        "members": [
+          {
+            "full": "我的妹妹是黄漫老师-山田妖精",
+            "short": "山田妖精",
+            "rank": 2,
+            "vote_json": 46
+          },
+          {
+            "full": "少女歌剧-大场奈奈",
+            "short": "大场奈奈",
+            "rank": 1,
+            "vote_json": 99
+          },
+          {
+            "full": "某科学的超电磁炮-白井黑子",
+            "short": "白井黑子",
+            "rank": 3,
+            "vote_json": 45
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G2",
+        "members": [
+          {
+            "full": "路人女主的养成方法-英梨梨",
+            "short": "英梨梨",
+            "rank": 1,
+            "vote_json": 89
+          },
+          {
+            "full": "22/7-斋藤妮可露",
+            "short": "斋藤妮可露",
+            "rank": 2,
+            "vote_json": 68
+          },
+          {
+            "full": "伪恋-小野寺小咲",
+            "short": "小野寺小咲",
+            "rank": 3,
+            "vote_json": 17
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G1",
+        "members": [
+          {
+            "full": "街角魔族-阳夏木蜜柑",
+            "short": "阳夏木蜜柑",
+            "rank": 1,
+            "vote_json": 95
+          },
+          {
+            "full": "某科学的超电磁炮-食蜂操祈",
+            "short": "食蜂操祈",
+            "rank": 3,
+            "vote_json": 23
+          },
+          {
+            "full": "樱花庄的宠物女孩-青山七海",
+            "short": "青山七海",
+            "rank": 2,
+            "vote_json": 44
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G2",
+        "members": [
+          {
+            "full": "魔法纪录-由比鹤乃",
+            "short": "由比鹤乃",
+            "rank": 1,
+            "vote_json": 71
+          },
+          {
+            "full": "NG-远山伦",
+            "short": "远山伦",
+            "rank": 2,
+            "vote_json": 40
+          },
+          {
+            "full": "魔法纪录-十咎桃子",
+            "short": "十咎桃子",
+            "rank": 3,
+            "vote_json": 39
+          }
+        ]
+      }
+    ],
+    "right": [
+      {
+        "json_key": "Day1-G3",
+        "members": [
+          {
+            "full": "赛马娘-草上飞",
+            "short": "草上飞",
+            "rank": 1,
+            "vote_json": 150
+          },
+          {
+            "full": "魔法纪录-七海八千代",
+            "short": "七海八千代",
+            "rank": 2,
+            "vote_json": 58
+          },
+          {
+            "full": "公主连结Re Dive-草野优衣",
+            "short": "草野优衣",
+            "rank": 3,
+            "vote_json": 40
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G4",
+        "members": [
+          {
+            "full": "刀使巫女-柳濑舞衣",
+            "short": "柳濑舞衣",
+            "rank": 1,
+            "vote_json": 164
+          },
+          {
+            "full": "皿三昧-阵内燕太",
+            "short": "阵内燕太",
+            "rank": 3,
+            "vote_json": 36
+          },
+          {
+            "full": "青笨-古贺朋绘",
+            "short": "古贺朋绘",
+            "rank": 2,
+            "vote_json": 40
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G3",
+        "members": [
+          {
+            "full": "魔法纪录-梓美冬",
+            "short": "梓美冬",
+            "rank": 1,
+            "vote_json": 138
+          },
+          {
+            "full": "刀使巫女-燕结芽",
+            "short": "燕结芽",
+            "rank": 2,
+            "vote_json": 45
+          },
+          {
+            "full": "白色相簿2-小木曾雪菜",
+            "short": "小木曾雪菜",
+            "rank": 3,
+            "vote_json": 34
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G4",
+        "members": [
+          {
+            "full": "魔法纪录-环彩羽",
+            "short": "环彩羽",
+            "rank": 1,
+            "vote_json": 121
+          },
+          {
+            "full": "结城友奈是勇者-三之轮银",
+            "short": "三之轮银",
+            "rank": 3,
+            "vote_json": 34
+          },
+          {
+            "full": "天使降临我身边-星野日向",
+            "short": "星野日向",
+            "rank": 2,
+            "vote_json": 64
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G3",
+        "members": [
+          {
+            "full": "来自风平浪静的明天-潮留美海",
+            "short": "潮留美海",
+            "rank": 3,
+            "vote_json": 47
+          },
+          {
+            "full": "满月之战-小日向满月",
+            "short": "小日向满月",
+            "rank": 1,
+            "vote_json": 87
+          },
+          {
+            "full": "龙与虎-栉枝实乃梨",
+            "short": "栉枝实乃梨",
+            "rank": 2,
+            "vote_json": 49
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G4",
+        "members": [
+          {
+            "full": "我的青春恋爱物语果然有问题-由比滨结衣",
+            "short": "由比滨结衣",
+            "rank": 1,
+            "vote_json": 74
+          },
+          {
+            "full": "结城友奈是勇者-三好夏凛",
+            "short": "三好夏凛",
+            "rank": 2,
+            "vote_json": 70
+          },
+          {
+            "full": "yuruyuri-赤座灯里",
+            "short": "赤座灯里",
+            "rank": 3,
+            "vote_json": 48
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G3",
+        "members": [
+          {
+            "full": "CLANNAD-坂上智代",
+            "short": "坂上智代",
+            "rank": 3,
+            "vote_json": 35
+          },
+          {
+            "full": "街角魔族-千代田桃",
+            "short": "千代田桃",
+            "rank": 1,
+            "vote_json": 58
+          },
+          {
+            "full": "玉子市场-常盘绿",
+            "short": "常盘绿",
+            "rank": 2,
+            "vote_json": 56
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G4",
+        "members": [
+          {
+            "full": "结城友奈是勇者-郡千景",
+            "short": "郡千景",
+            "rank": 3,
+            "vote_json": 33
+          },
+          {
+            "full": "命运石之门-椎名真由理",
+            "short": "椎名真由理",
+            "rank": 2,
+            "vote_json": 40
+          },
+          {
+            "full": "惊爆草莓-凉水玉青",
+            "short": "凉水玉青",
+            "rank": 1,
+            "vote_json": 67
+          }
+        ]
+      }
+    ]
+  },
+  "2021": {
+    "year": 2021,
+    "nth": 5,
+    "left": [
+      {
+        "json_key": "Day1-G1",
+        "members": [
+          {
+            "full": "DARLING in the FRANXX-莓",
+            "short": "莓",
+            "rank": 3,
+            "vote_json": 81
+          },
+          {
+            "full": "安达与岛村-樽见",
+            "short": "樽见",
+            "rank": 2,
+            "vote_json": 168
+          },
+          {
+            "full": "Love Live Superstar-唐可可",
+            "short": "唐可可",
+            "rank": 1,
+            "vote_json": 181
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G2",
+        "members": [
+          {
+            "full": "结城友奈是勇者-郡千景",
+            "short": "郡千景",
+            "rank": 3,
+            "vote_json": 82
+          },
+          {
+            "full": "突击莉莉-吉村·Thi·梅",
+            "short": "吉村·Thi·梅",
+            "rank": 2,
+            "vote_json": 109
+          },
+          {
+            "full": "悠悠哉哉少女日和-蜜柑",
+            "short": "蜜柑",
+            "rank": 1,
+            "vote_json": 195
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G1",
+        "members": [
+          {
+            "full": "魔法纪录-梓美冬",
+            "short": "梓美冬",
+            "rank": 1,
+            "vote_json": 272
+          },
+          {
+            "full": "Love Live 虹咲-樱坂雫",
+            "short": "樱坂雫",
+            "rank": 2,
+            "vote_json": 85
+          },
+          {
+            "full": "龙与虎-川岛亚美",
+            "short": "川岛亚美",
+            "rank": 3,
+            "vote_json": 31
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G2",
+        "members": [
+          {
+            "full": "突击莉莉-枫·J·努韦尔",
+            "short": "枫·J·努韦尔",
+            "rank": 1,
+            "vote_json": 262
+          },
+          {
+            "full": "少女歌剧-星见纯那",
+            "short": "星见纯那",
+            "rank": 2,
+            "vote_json": 59
+          },
+          {
+            "full": "公主连结Re Dive-草野优衣",
+            "short": "草野优衣",
+            "rank": 3,
+            "vote_json": 56
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G1",
+        "members": [
+          {
+            "full": "赛马娘-里见光钻",
+            "short": "里见光钻",
+            "rank": 1,
+            "vote_json": 148
+          },
+          {
+            "full": "街角魔族-千代田桃",
+            "short": "千代田桃",
+            "rank": 2,
+            "vote_json": 107
+          },
+          {
+            "full": "BanG Dream!-丸山彩",
+            "short": "丸山彩",
+            "rank": 3,
+            "vote_json": 82
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G2",
+        "members": [
+          {
+            "full": "结城友奈是勇者-三好夏凛",
+            "short": "三好夏凛",
+            "rank": 3,
+            "vote_json": 70
+          },
+          {
+            "full": "小林家的龙女仆-艾露玛",
+            "short": "艾露玛",
+            "rank": 2,
+            "vote_json": 143
+          },
+          {
+            "full": "魔法纪录-黑江",
+            "short": "黑江",
+            "rank": 1,
+            "vote_json": 157
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G1",
+        "members": [
+          {
+            "full": "Love Live 虹咲-优木雪菜",
+            "short": "优木雪菜",
+            "rank": 1,
+            "vote_json": 327
+          },
+          {
+            "full": "突击莉莉-一柳梨璃",
+            "short": "一柳梨璃",
+            "rank": 3,
+            "vote_json": 29
+          },
+          {
+            "full": "满月之战-小日向满月",
+            "short": "小日向满月",
+            "rank": 2,
+            "vote_json": 66
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G2",
+        "members": [
+          {
+            "full": "魔法纪录-环彩羽",
+            "short": "环彩羽",
+            "rank": 1,
+            "vote_json": 207
+          },
+          {
+            "full": "青春猪头少年-古贺朋绘",
+            "short": "古贺朋绘",
+            "rank": 3,
+            "vote_json": 51
+          },
+          {
+            "full": "魔法少女小圆-鹿目圆",
+            "short": "鹿目圆",
+            "rank": 2,
+            "vote_json": 107
+          }
+        ]
+      }
+    ],
+    "right": [
+      {
+        "json_key": "Day1-G3",
+        "members": [
+          {
+            "full": "赛马娘-优秀素质",
+            "short": "优秀素质",
+            "rank": 1,
+            "vote_json": 268
+          },
+          {
+            "full": "玉子市场-常盘绿",
+            "short": "常盘绿",
+            "rank": 3,
+            "vote_json": 45
+          },
+          {
+            "full": "Love Live Superstar-岚千砂都",
+            "short": "岚千砂都",
+            "rank": 2,
+            "vote_json": 105
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G4",
+        "members": [
+          {
+            "full": "少女歌剧-土豆",
+            "short": "土豆",
+            "rank": 1,
+            "vote_json": 264
+          },
+          {
+            "full": "Love Live Superstar-涩谷香音",
+            "short": "涩谷香音",
+            "rank": 2,
+            "vote_json": 105
+          },
+          {
+            "full": "魔法纪录-十咎桃子",
+            "short": "十咎桃子",
+            "rank": 3,
+            "vote_json": 58
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G3",
+        "members": [
+          {
+            "full": "魔法纪录-由比鹤乃",
+            "short": "由比鹤乃",
+            "rank": 2,
+            "vote_json": 127
+          },
+          {
+            "full": "利兹与青鸟-伞木希美",
+            "short": "伞木希美",
+            "rank": 1,
+            "vote_json": 169
+          },
+          {
+            "full": "少女歌剧-大场奈奈",
+            "short": "大场奈奈",
+            "rank": 3,
+            "vote_json": 99
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G4",
+        "members": [
+          {
+            "full": "街角魔族-阳夏木蜜柑",
+            "short": "阳夏木蜜柑",
+            "rank": 1,
+            "vote_json": 166
+          },
+          {
+            "full": "Love Live 虹咲-中须霞",
+            "short": "中须霞",
+            "rank": 2,
+            "vote_json": 130
+          },
+          {
+            "full": "魔法纪录-二叶莎奈",
+            "short": "二叶莎奈",
+            "rank": 3,
+            "vote_json": 85
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G3",
+        "members": [
+          {
+            "full": "寒蝉鸣泣之时-北条沙都子",
+            "short": "北条沙都子",
+            "rank": 1,
+            "vote_json": 154
+          },
+          {
+            "full": "魔法纪录-七海八千代",
+            "short": "七海八千代",
+            "rank": 2,
+            "vote_json": 144
+          },
+          {
+            "full": "刀使巫女-燕结芽",
+            "short": "燕结芽",
+            "rank": 3,
+            "vote_json": 75
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G4",
+        "members": [
+          {
+            "full": "Love Live-园田海未",
+            "short": "园田海未",
+            "rank": 3,
+            "vote_json": 63
+          },
+          {
+            "full": "天使降临我身边-星野日向",
+            "short": "星野日向",
+            "rank": 2,
+            "vote_json": 118
+          },
+          {
+            "full": "寒蝉鸣泣之时-古手梨花",
+            "short": "古手梨花",
+            "rank": 1,
+            "vote_json": 180
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G3",
+        "members": [
+          {
+            "full": "Love Live 虹咲-高咲侑",
+            "short": "高咲侑",
+            "rank": 1,
+            "vote_json": 293
+          },
+          {
+            "full": "刀使巫女-柳濑舞衣",
+            "short": "柳濑舞衣",
+            "rank": 2,
+            "vote_json": 68
+          },
+          {
+            "full": "结城友奈是勇者-乃木园子",
+            "short": "乃木园子",
+            "rank": 3,
+            "vote_json": 66
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G4",
+        "members": [
+          {
+            "full": "Love Live 虹咲-上原步梦",
+            "short": "上原步梦",
+            "rank": 1,
+            "vote_json": 399
+          },
+          {
+            "full": "安达与岛村-安达樱",
+            "short": "安达樱",
+            "rank": 2,
+            "vote_json": 32
+          },
+          {
+            "full": "魔法少女小圆-巴麻美",
+            "short": "巴麻美",
+            "rank": 3,
+            "vote_json": 22
+          }
+        ]
+      }
+    ]
+  },
+  "2022": {
+    "year": 2022,
+    "nth": 6,
+    "left": [
+      {
+        "json_key": "Day1-G1",
+        "members": [
+          {
+            "full": "赛马娘-优秀素质",
+            "short": "优秀素质",
+            "rank": 1,
+            "vote_json": 174
+          },
+          {
+            "full": "街角魔族-阳夏木蜜柑",
+            "short": "阳夏木蜜柑",
+            "rank": 3,
+            "vote_json": 85
+          },
+          {
+            "full": "结城友奈是勇者-郡千景",
+            "short": "郡千景",
+            "rank": 2,
+            "vote_json": 146
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G2",
+        "members": [
+          {
+            "full": "少女歌剧-爱城华恋",
+            "short": "爱城华恋",
+            "rank": 1,
+            "vote_json": 283
+          },
+          {
+            "full": "结城友奈是勇者-三好夏凛",
+            "short": "三好夏凛",
+            "rank": 2,
+            "vote_json": 98
+          },
+          {
+            "full": "Love Live Superstar-平安名堇",
+            "short": "平安名堇",
+            "rank": 3,
+            "vote_json": 27
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G1",
+        "members": [
+          {
+            "full": "Love Live 虹咲-宫下爱",
+            "short": "宫下爱",
+            "rank": 3,
+            "vote_json": 49
+          },
+          {
+            "full": "Love Live 虹咲-近江彼方",
+            "short": "近江彼方",
+            "rank": 2,
+            "vote_json": 64
+          },
+          {
+            "full": "寒蝉鸣泣之时-北条沙都子",
+            "short": "北条沙都子",
+            "rank": 1,
+            "vote_json": 194
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G2",
+        "members": [
+          {
+            "full": "魔法纪录-黑江",
+            "short": "黑江",
+            "rank": 1,
+            "vote_json": 195
+          },
+          {
+            "full": "Love Live 虹咲-副会长",
+            "short": "副会长",
+            "rank": 3,
+            "vote_json": 55
+          },
+          {
+            "full": "Lycoris Recoil-锦木千束",
+            "short": "锦木千束",
+            "rank": 2,
+            "vote_json": 82
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G1",
+        "members": [
+          {
+            "full": "安达与岛村-樽见",
+            "short": "樽见",
+            "rank": 1,
+            "vote_json": 172
+          },
+          {
+            "full": "结城友奈是勇者-乃木园子",
+            "short": "乃木园子",
+            "rank": 3,
+            "vote_json": 92
+          },
+          {
+            "full": "魔法纪录-环彩羽",
+            "short": "环彩羽",
+            "rank": 2,
+            "vote_json": 110
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G2",
+        "members": [
+          {
+            "full": "Love Live 虹咲-高咲侑",
+            "short": "高咲侑",
+            "rank": 2,
+            "vote_json": 121
+          },
+          {
+            "full": "突击莉莉-枫·J·努韦尔",
+            "short": "枫·J·努韦尔",
+            "rank": 1,
+            "vote_json": 167
+          },
+          {
+            "full": "少女歌剧-神乐光",
+            "short": "神乐光",
+            "rank": 3,
+            "vote_json": 104
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G1",
+        "members": [
+          {
+            "full": "Love Live 虹咲-钟岚珠",
+            "short": "钟岚珠",
+            "rank": 1,
+            "vote_json": 216
+          },
+          {
+            "full": "魔法少女小圆-巴麻美",
+            "short": "巴麻美",
+            "rank": 3,
+            "vote_json": 21
+          },
+          {
+            "full": "安达与岛村-安达樱",
+            "short": "安达樱",
+            "rank": 2,
+            "vote_json": 127
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G2",
+        "members": [
+          {
+            "full": "slow loop-吉永恋",
+            "short": "吉永恋",
+            "rank": 1,
+            "vote_json": 137
+          },
+          {
+            "full": "契约之吻-木更",
+            "short": "木更",
+            "rank": 3,
+            "vote_json": 91
+          },
+          {
+            "full": "辉夜大小姐想让我告白-四条真妃",
+            "short": "四条真妃",
+            "rank": 2,
+            "vote_json": 120
+          }
+        ]
+      }
+    ],
+    "right": [
+      {
+        "json_key": "Day1-G3",
+        "members": [
+          {
+            "full": "Love Live 虹咲-朝香果林",
+            "short": "朝香果林",
+            "rank": 3,
+            "vote_json": 25
+          },
+          {
+            "full": "少女歌剧-大场奈奈",
+            "short": "大场奈奈",
+            "rank": 1,
+            "vote_json": 302
+          },
+          {
+            "full": "赛马娘-北部玄驹",
+            "short": "北部玄驹",
+            "rank": 2,
+            "vote_json": 54
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G4",
+        "members": [
+          {
+            "full": "Love Live 虹咲-天王寺璃奈",
+            "short": "天王寺璃奈",
+            "rank": 3,
+            "vote_json": 59
+          },
+          {
+            "full": "魔法纪录-梓美冬",
+            "short": "梓美冬",
+            "rank": 1,
+            "vote_json": 266
+          },
+          {
+            "full": "悠哉日常大王-蜜柑",
+            "short": "蜜柑",
+            "rank": 2,
+            "vote_json": 69
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G3",
+        "members": [
+          {
+            "full": "Love Live 虹咲-优木雪菜",
+            "short": "优木雪菜",
+            "rank": 1,
+            "vote_json": 208
+          },
+          {
+            "full": "魔法纪录-由比鹤乃",
+            "short": "由比鹤乃",
+            "rank": 2,
+            "vote_json": 100
+          },
+          {
+            "full": "少女歌剧-花柳香子",
+            "short": "花柳香子",
+            "rank": 3,
+            "vote_json": 37
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G4",
+        "members": [
+          {
+            "full": "Love Live 虹咲-三船栞子",
+            "short": "三船栞子",
+            "rank": 2,
+            "vote_json": 129
+          },
+          {
+            "full": "结城友奈是勇者-高岛友奈",
+            "short": "高岛友奈",
+            "rank": 1,
+            "vote_json": 161
+          },
+          {
+            "full": "魔法纪录-七海八千代",
+            "short": "七海八千代",
+            "rank": 3,
+            "vote_json": 50
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G3",
+        "members": [
+          {
+            "full": "处刑少女的生存之道-茉茉",
+            "short": "茉茉",
+            "rank": 1,
+            "vote_json": 245
+          },
+          {
+            "full": "Love Live-园田海未",
+            "short": "园田海未",
+            "rank": 3,
+            "vote_json": 41
+          },
+          {
+            "full": "街角魔族-千代田桃",
+            "short": "千代田桃",
+            "rank": 2,
+            "vote_json": 94
+          }
+        ]
+      },
+      {
+        "json_key": null,
+        "members": [],
+        "moe": [
+          "七海灯子",
+          "鹿目圆",
+          "米娅·泰勒"
+        ]
+      },
+      {
+        "json_key": "Day4-G3",
+        "members": [
+          {
+            "full": "Love Live 虹咲-樱坂雫",
+            "short": "樱坂雫",
+            "rank": 1,
+            "vote_json": 207
+          },
+          {
+            "full": "Love Live 虹咲-中须霞",
+            "short": "中须霞",
+            "rank": 2,
+            "vote_json": 84
+          },
+          {
+            "full": "Love Live 虹咲-艾玛·维尔德",
+            "short": "艾玛·维尔德",
+            "rank": 3,
+            "vote_json": 21
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G4",
+        "members": [
+          {
+            "full": "Lycoris Recoil-井之上泷奈",
+            "short": "井之上泷奈",
+            "rank": 2,
+            "vote_json": 112
+          },
+          {
+            "full": "街角魔族-吉田优子",
+            "short": "吉田优子",
+            "rank": 1,
+            "vote_json": 143
+          },
+          {
+            "full": "Love Live-南小鸟",
+            "short": "南小鸟",
+            "rank": 3,
+            "vote_json": 61
+          }
+        ]
+      }
+    ]
+  },
+  "2023": {
+    "year": 2023,
+    "nth": 7,
+    "left": [
+      {
+        "json_key": "Day1-G1",
+        "members": [
+          {
+            "full": "World Dai Star-卡特莉娜",
+            "short": "卡特莉娜",
+            "rank": 1,
+            "vote_json": 306
+          },
+          {
+            "full": "Love Live-园田海未",
+            "short": "园田海未",
+            "rank": 3,
+            "vote_json": 112
+          },
+          {
+            "full": "突击莉莉-枫·J·努韦尔",
+            "short": "枫·J·努韦尔",
+            "rank": 2,
+            "vote_json": 175
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G2",
+        "members": [
+          {
+            "full": "魔法纪录-七海八千代",
+            "short": "七海八千代",
+            "rank": 1,
+            "vote_json": 217
+          },
+          {
+            "full": "幻日的夜羽-曜",
+            "short": "曜",
+            "rank": 2,
+            "vote_json": 209
+          },
+          {
+            "full": "街角魔族-吉田优子",
+            "short": "吉田优子",
+            "rank": 3,
+            "vote_json": 158
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G1",
+        "members": [
+          {
+            "full": "安达与岛村-岛村抱月",
+            "short": "岛村抱月",
+            "rank": 3,
+            "vote_json": 162
+          },
+          {
+            "full": "结城友奈是勇者-郡千景",
+            "short": "郡千景",
+            "rank": 1,
+            "vote_json": 264
+          },
+          {
+            "full": "Love Live 虹咲-三船栞子",
+            "short": "三船栞子",
+            "rank": 2,
+            "vote_json": 237
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G2",
+        "members": [
+          {
+            "full": "BanG Dream!-丸山彩",
+            "short": "丸山彩",
+            "rank": 2,
+            "vote_json": 72
+          },
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-千早爱音",
+            "short": "千早爱音",
+            "rank": 1,
+            "vote_json": 596
+          },
+          {
+            "full": "寒蝉鸣泣之时-北条沙都子",
+            "short": "北条沙都子",
+            "rank": 3,
+            "vote_json": 49
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G1",
+        "members": [
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-长崎爽世",
+            "short": "长崎爽世",
+            "rank": 1,
+            "vote_json": 797
+          },
+          {
+            "full": "赛马娘-成田路",
+            "short": "成田路",
+            "rank": 3,
+            "vote_json": 28
+          },
+          {
+            "full": "Love Live 虹咲-樱坂雫",
+            "short": "樱坂雫",
+            "rank": 2,
+            "vote_json": 46
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G2",
+        "members": [
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-椎名立希",
+            "short": "椎名立希",
+            "rank": 1,
+            "vote_json": 645
+          },
+          {
+            "full": "魔法纪录-由比鹤乃",
+            "short": "由比鹤乃",
+            "rank": 3,
+            "vote_json": 34
+          },
+          {
+            "full": "闪耀路标-黑金莲",
+            "short": "黑金莲",
+            "rank": 2,
+            "vote_json": 190
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G1",
+        "members": [
+          {
+            "full": "机动战士高达 水星的魔女-沙迪克",
+            "short": "沙迪克",
+            "rank": 2,
+            "vote_json": 144
+          },
+          {
+            "full": "少女歌剧-神乐光",
+            "short": "神乐光",
+            "rank": 1,
+            "vote_json": 331
+          },
+          {
+            "full": "向山进发-仓上日向",
+            "short": "仓上日向",
+            "rank": 3,
+            "vote_json": 138
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G2",
+        "members": [
+          {
+            "full": "安达与岛村-安达樱",
+            "short": "安达樱",
+            "rank": 1,
+            "vote_json": 345
+          },
+          {
+            "full": "转生王女与天才千金的魔法革命-尤菲莉亚",
+            "short": "尤菲莉亚",
+            "rank": 3,
+            "vote_json": 34
+          },
+          {
+            "full": "辉夜大小姐想让我告白-四条真妃",
+            "short": "四条真妃",
+            "rank": 2,
+            "vote_json": 223
+          }
+        ]
+      }
+    ],
+    "right": [
+      {
+        "json_key": "Day1-G3",
+        "members": [
+          {
+            "full": "Do It Yourself!!-须理出未来",
+            "short": "须理出未来",
+            "rank": 2,
+            "vote_json": 103
+          },
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-丰川祥子",
+            "short": "丰川祥子",
+            "rank": 1,
+            "vote_json": 458
+          },
+          {
+            "full": "结城友奈是勇者-高岛友奈",
+            "short": "高岛友奈",
+            "rank": 3,
+            "vote_json": 90
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G4",
+        "members": [
+          {
+            "full": "孤独摇滚-伊地知虹夏",
+            "short": "伊地知虹夏",
+            "rank": 1,
+            "vote_json": 316
+          },
+          {
+            "full": "赛马娘-目白麦昆",
+            "short": "目白麦昆",
+            "rank": 3,
+            "vote_json": 83
+          },
+          {
+            "full": "Love Live Superstar-平安名堇",
+            "short": "平安名堇",
+            "rank": 2,
+            "vote_json": 162
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G3",
+        "members": [
+          {
+            "full": "赛马娘-优秀素质",
+            "short": "优秀素质",
+            "rank": 2,
+            "vote_json": 216
+          },
+          {
+            "full": "Lycoris Recoil-井之上泷奈",
+            "short": "井之上泷奈",
+            "rank": 3,
+            "vote_json": 79
+          },
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-三角初华",
+            "short": "三角初华",
+            "rank": 1,
+            "vote_json": 412
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G4",
+        "members": [
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-高松灯",
+            "short": "高松灯",
+            "rank": 1,
+            "vote_json": 523
+          },
+          {
+            "full": "我推的孩子-有马加奈",
+            "short": "有马加奈",
+            "rank": 2,
+            "vote_json": 111
+          },
+          {
+            "full": "天使降临我身边-姬坂乃爱",
+            "short": "姬坂乃爱",
+            "rank": 3,
+            "vote_json": 75
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G3",
+        "members": [
+          {
+            "full": "Love Live 虹咲-钟岚珠",
+            "short": "钟岚珠",
+            "rank": 2,
+            "vote_json": 219
+          },
+          {
+            "full": "利兹与青鸟-伞木希美",
+            "short": "伞木希美",
+            "rank": 1,
+            "vote_json": 496
+          },
+          {
+            "full": "Love Live 虹咲-高咲侑",
+            "short": "高咲侑",
+            "rank": 3,
+            "vote_json": 102
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G4",
+        "members": [
+          {
+            "full": "魔法少女小圆-巴麻美",
+            "short": "巴麻美",
+            "rank": 1,
+            "vote_json": 291
+          },
+          {
+            "full": "摇曳百合-赤座灯里",
+            "short": "赤座灯里",
+            "rank": 3,
+            "vote_json": 220
+          },
+          {
+            "full": "孤独摇滚-喜多郁代",
+            "short": "喜多郁代",
+            "rank": 2,
+            "vote_json": 282
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G3",
+        "members": [
+          {
+            "full": "我的百合乃工作是也!-间宫果乃子",
+            "short": "间宫果乃子",
+            "rank": 2,
+            "vote_json": 183
+          },
+          {
+            "full": "契约之吻-木更",
+            "short": "木更",
+            "rank": 3,
+            "vote_json": 155
+          },
+          {
+            "full": "安达与岛村-樽见",
+            "short": "樽见",
+            "rank": 1,
+            "vote_json": 268
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G4",
+        "members": [
+          {
+            "full": "Love Live 虹咲-中须霞",
+            "short": "中须霞",
+            "rank": 3,
+            "vote_json": 17
+          },
+          {
+            "full": "Love Live 虹咲-优木雪菜",
+            "short": "优木雪菜",
+            "rank": 2,
+            "vote_json": 275
+          },
+          {
+            "full": "处刑少女的生存之道-茉茉",
+            "short": "茉茉",
+            "rank": 1,
+            "vote_json": 335
+          }
+        ]
+      }
+    ]
+  },
+  "2024": {
+    "year": 2024,
+    "nth": 8,
+    "left": [
+      {
+        "json_key": "Day1-G1",
+        "members": [
+          {
+            "full": "Love Live 虹咲-钟岚珠",
+            "short": "钟岚珠",
+            "rank": 3,
+            "vote_json": 212
+          },
+          {
+            "full": "星灵感应-明内幽",
+            "short": "明内幽",
+            "rank": 1,
+            "vote_json": 827
+          },
+          {
+            "full": "葬送的芙莉莲-辛美尔",
+            "short": "辛美尔",
+            "rank": 2,
+            "vote_json": 553
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G2",
+        "members": [
+          {
+            "full": "凉宫春日的忧郁-长门有希",
+            "short": "长门有希",
+            "rank": 2,
+            "vote_json": 179
+          },
+          {
+            "full": "Love Live 虹咲-高咲侑",
+            "short": "高咲侑",
+            "rank": 3,
+            "vote_json": 79
+          },
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-椎名立希",
+            "short": "椎名立希",
+            "rank": 1,
+            "vote_json": 1395
+          }
+        ]
+      },
+      {
+        "json_key": null,
+        "members": [],
+        "moe": [
+          "枫·J·努韦尔",
+          "周防有希",
+          "井之上泷奈"
+        ]
+      },
+      {
+        "json_key": "Day2-G2",
+        "members": [
+          {
+            "full": "海绵宝宝-章鱼哥",
+            "short": "章鱼哥",
+            "rank": 3,
+            "vote_json": 314
+          },
+          {
+            "full": "契约之吻-木更",
+            "short": "木更",
+            "rank": 2,
+            "vote_json": 595
+          },
+          {
+            "full": "恋语轻唱-泉志帆",
+            "short": "泉志帆",
+            "rank": 1,
+            "vote_json": 625
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G1",
+        "members": [
+          {
+            "full": "Love Live 虹咲-优木雪菜",
+            "short": "优木雪菜",
+            "rank": 1,
+            "vote_json": 914
+          },
+          {
+            "full": "BanG Dream!-美竹兰",
+            "short": "美竹兰",
+            "rank": 3,
+            "vote_json": 348
+          },
+          {
+            "full": "我推的孩子-黑川茜",
+            "short": "黑川茜",
+            "rank": 2,
+            "vote_json": 800
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G2",
+        "members": [
+          {
+            "full": "败犬女主太多了!-八奈见杏菜",
+            "short": "八奈见杏菜",
+            "rank": 1,
+            "vote_json": 1040
+          },
+          {
+            "full": "吹响!上低音号-黄前久美子",
+            "short": "黄前久美子",
+            "rank": 2,
+            "vote_json": 1013
+          },
+          {
+            "full": "吹响!上低音号-黑江真由",
+            "short": "黑江真由",
+            "rank": 3,
+            "vote_json": 147
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G1",
+        "members": [
+          {
+            "full": "GIRLS BAND CRY-货车",
+            "short": "货车",
+            "rank": 1,
+            "vote_json": 763
+          },
+          {
+            "full": "孤独摇滚-伊地知虹夏",
+            "short": "伊地知虹夏",
+            "rank": 3,
+            "vote_json": 337
+          },
+          {
+            "full": "结城友奈是勇者-高岛友奈",
+            "short": "高岛友奈",
+            "rank": 2,
+            "vote_json": 541
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G2",
+        "members": [
+          {
+            "full": "赛马娘-优秀素质",
+            "short": "优秀素质",
+            "rank": 2,
+            "vote_json": 449
+          },
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-高松灯",
+            "short": "高松灯",
+            "rank": 1,
+            "vote_json": 995
+          },
+          {
+            "full": "水母-山之内花音",
+            "short": "山之内花音",
+            "rank": 3,
+            "vote_json": 176
+          }
+        ]
+      }
+    ],
+    "right": [
+      {
+        "json_key": "Day1-G3",
+        "members": [
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-三角初华",
+            "short": "三角初华",
+            "rank": 1,
+            "vote_json": 1074
+          },
+          {
+            "full": "闪耀路标-黑金莲",
+            "short": "黑金莲",
+            "rank": 2,
+            "vote_json": 346
+          },
+          {
+            "full": "我的百合乃工作是也!-间宫果乃子",
+            "short": "间宫果乃子",
+            "rank": 3,
+            "vote_json": 192
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G4",
+        "members": [
+          {
+            "full": "吹响!上低音号-久石奏",
+            "short": "久石奏",
+            "rank": 1,
+            "vote_json": 882
+          },
+          {
+            "full": "败犬女主太多了!-烧盐柠檬",
+            "short": "烧盐柠檬",
+            "rank": 3,
+            "vote_json": 142
+          },
+          {
+            "full": "处刑少女的生存之道-茉茉",
+            "short": "茉茉",
+            "rank": 2,
+            "vote_json": 580
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G3",
+        "members": [
+          {
+            "full": "少女歌剧-神乐光",
+            "short": "神乐光",
+            "rank": 1,
+            "vote_json": 855
+          },
+          {
+            "full": "辉夜大小姐想让我告白-四条真妃",
+            "short": "四条真妃",
+            "rank": 2,
+            "vote_json": 405
+          },
+          {
+            "full": "World Dai Star-卡特莉娜",
+            "short": "卡特莉娜",
+            "rank": 3,
+            "vote_json": 300
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G4",
+        "members": [
+          {
+            "full": "GIRLS BAND CRY-河原木桃香",
+            "short": "河原木桃香",
+            "rank": 3,
+            "vote_json": 48
+          },
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-若叶睦",
+            "short": "若叶睦",
+            "rank": 1,
+            "vote_json": 1245
+          },
+          {
+            "full": "BanG Dream!-青叶摩卡",
+            "short": "青叶摩卡",
+            "rank": 2,
+            "vote_json": 307
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G3",
+        "members": [
+          {
+            "full": "夜晚的水母不会游泳-光月真昼",
+            "short": "光月真昼",
+            "rank": 3,
+            "vote_json": 164
+          },
+          {
+            "full": "安达与岛村-安达樱",
+            "short": "安达樱",
+            "rank": 1,
+            "vote_json": 1247
+          },
+          {
+            "full": "吹响!上低音号-冢本秀一",
+            "short": "冢本秀一",
+            "rank": 2,
+            "vote_json": 730
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G4",
+        "members": [
+          {
+            "full": "败犬女主太多了!-小鞠知花",
+            "short": "小鞠知花",
+            "rank": 2,
+            "vote_json": 291
+          },
+          {
+            "full": "我推的孩子-有马加奈",
+            "short": "有马加奈",
+            "rank": 3,
+            "vote_json": 277
+          },
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-丰川祥子",
+            "short": "丰川祥子",
+            "rank": 1,
+            "vote_json": 1565
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G3",
+        "members": [
+          {
+            "full": "吹响!上低音号-铠冢霙",
+            "short": "铠冢霙",
+            "rank": 1,
+            "vote_json": 747
+          },
+          {
+            "full": "悠哉日常大王-蜜柑",
+            "short": "蜜柑",
+            "rank": 3,
+            "vote_json": 299
+          },
+          {
+            "full": "安达与岛村-岛村抱月",
+            "short": "岛村抱月",
+            "rank": 2,
+            "vote_json": 555
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G4",
+        "members": [
+          {
+            "full": "恋语轻唱-水口亚季",
+            "short": "水口亚季",
+            "rank": 2,
+            "vote_json": 621
+          },
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-千早爱音",
+            "short": "千早爱音",
+            "rank": 1,
+            "vote_json": 733
+          },
+          {
+            "full": "GIRLS BAND CRY-安和昴",
+            "short": "安和昴",
+            "rank": 3,
+            "vote_json": 236
+          }
+        ]
+      }
+    ]
+  },
+  "2025": {
+    "year": 2025,
+    "nth": 9,
+    "left": [
+      {
+        "json_key": "Day1-G1",
+        "members": [
+          {
+            "full": "我怎么可能成为你的恋人，不行不行!-小柳香穗",
+            "short": "小柳香穗",
+            "rank": 2,
+            "vote_json": 223
+          },
+          {
+            "full": "吹响!上低音号-黑江真由",
+            "short": "黑江真由",
+            "rank": 1,
+            "vote_json": 336
+          },
+          {
+            "full": "闪耀路标-黑金莲",
+            "short": "黑金莲",
+            "rank": 3,
+            "vote_json": 207
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G2",
+        "members": [
+          {
+            "full": "悠哉日常大王-蜜柑",
+            "short": "蜜柑",
+            "rank": 3,
+            "vote_json": 220
+          },
+          {
+            "full": "辉夜大小姐想让我告白-四条真妃",
+            "short": "四条真妃",
+            "rank": 2,
+            "vote_json": 258
+          },
+          {
+            "full": "魔法少女小圆-佐仓杏子",
+            "short": "佐仓杏子",
+            "rank": 1,
+            "vote_json": 307
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G1",
+        "members": [
+          {
+            "full": "少女歌剧-星见纯那",
+            "short": "星见纯那",
+            "rank": 2,
+            "vote_json": 262
+          },
+          {
+            "full": "Love Live 虹咲-钟岚珠",
+            "short": "钟岚珠",
+            "rank": 3,
+            "vote_json": 166
+          },
+          {
+            "full": "败犬女主太多了!-小鞠知花",
+            "short": "小鞠知花",
+            "rank": 1,
+            "vote_json": 402
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G2",
+        "members": [
+          {
+            "full": "我怎么可能成为你的恋人，不行不行!-王冢真唯",
+            "short": "王冢真唯",
+            "rank": 2,
+            "vote_json": 225
+          },
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-高松灯",
+            "short": "高松灯",
+            "rank": 3,
+            "vote_json": 48
+          },
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-椎名立希",
+            "short": "椎名立希",
+            "rank": 1,
+            "vote_json": 583
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G1",
+        "members": [
+          {
+            "full": "败犬女主太多了!-温水佳树",
+            "short": "温水佳树",
+            "rank": 3,
+            "vote_json": 164
+          },
+          {
+            "full": "败犬女主太多了!-马剃天爱星",
+            "short": "马剃天爱星",
+            "rank": 2,
+            "vote_json": 259
+          },
+          {
+            "full": "处刑少女的生存之道-茉茉",
+            "short": "茉茉",
+            "rank": 1,
+            "vote_json": 401
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G2",
+        "members": [
+          {
+            "full": "我怎么可能成为你的恋人，不行不行!-甘织玲奈子",
+            "short": "甘织玲奈子",
+            "rank": 2,
+            "vote_json": 208
+          },
+          {
+            "full": "GIRLS BAND CRY-货车",
+            "short": "货车",
+            "rank": 1,
+            "vote_json": 442
+          },
+          {
+            "full": "GIRLS BAND CRY-雏（Hina）",
+            "short": "雏（Hina）",
+            "rank": 3,
+            "vote_json": 177
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G1",
+        "members": [
+          {
+            "full": "吹响!上低音号-小笠原晴香",
+            "short": "小笠原晴香",
+            "rank": 3,
+            "vote_json": 59
+          },
+          {
+            "full": "前桥魔女-上泉舞衣",
+            "short": "上泉舞衣",
+            "rank": 2,
+            "vote_json": 378
+          },
+          {
+            "full": "吹响!上低音号-铠冢霙",
+            "short": "铠冢霙",
+            "rank": 1,
+            "vote_json": 429
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G2",
+        "members": [
+          {
+            "full": "前桥魔女-膳荣子",
+            "short": "膳荣子",
+            "rank": 1,
+            "vote_json": 308
+          },
+          {
+            "full": "赛马娘-藤正进行曲",
+            "short": "藤正进行曲",
+            "rank": 2,
+            "vote_json": 303
+          },
+          {
+            "full": "孤独摇滚-喜多郁代",
+            "short": "喜多郁代",
+            "rank": 3,
+            "vote_json": 225
+          }
+        ]
+      }
+    ],
+    "right": [
+      {
+        "json_key": "Day1-G3",
+        "members": [
+          {
+            "full": "我怎么可能成为你的恋人，不行不行!-濑名紫陽花",
+            "short": "濑名紫陽花",
+            "rank": 1,
+            "vote_json": 383
+          },
+          {
+            "full": "吹响!上低音号-吉川优子",
+            "short": "吉川优子",
+            "rank": 2,
+            "vote_json": 304
+          },
+          {
+            "full": "我怎么可能成为你的恋人，不行不行!-甘织遥奈",
+            "short": "甘织遥奈",
+            "rank": 3,
+            "vote_json": 82
+          }
+        ]
+      },
+      {
+        "json_key": "Day1-G4",
+        "members": [
+          {
+            "full": "少女歌剧-神乐光",
+            "short": "神乐光",
+            "rank": 1,
+            "vote_json": 441
+          },
+          {
+            "full": "孤独摇滚-伊地知虹夏",
+            "short": "伊地知虹夏",
+            "rank": 3,
+            "vote_json": 131
+          },
+          {
+            "full": "败犬女主太多了!-烧盐柠檬",
+            "short": "烧盐柠檬",
+            "rank": 2,
+            "vote_json": 223
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G3",
+        "members": [
+          {
+            "full": "葬送的芙莉莲-辛美尔",
+            "short": "辛美尔",
+            "rank": 2,
+            "vote_json": 192
+          },
+          {
+            "full": "我推的孩子-有马加奈",
+            "short": "有马加奈",
+            "rank": 3,
+            "vote_json": 145
+          },
+          {
+            "full": "BanG Dream! Ave Mujica-三角初华",
+            "short": "三角初华",
+            "rank": 1,
+            "vote_json": 506
+          }
+        ]
+      },
+      {
+        "json_key": "Day2-G4",
+        "members": [
+          {
+            "full": "星灵感应-明内幽",
+            "short": "明内幽",
+            "rank": 1,
+            "vote_json": 388
+          },
+          {
+            "full": "魔法少女小圆-丘比",
+            "short": "丘比",
+            "rank": 3,
+            "vote_json": 177
+          },
+          {
+            "full": "恋语轻唱-泉志帆",
+            "short": "泉志帆",
+            "rank": 2,
+            "vote_json": 250
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G3",
+        "members": [
+          {
+            "full": "Love Live 虹咲-优木雪菜",
+            "short": "优木雪菜",
+            "rank": 1,
+            "vote_json": 363
+          },
+          {
+            "full": "契约之吻-木更",
+            "short": "木更",
+            "rank": 2,
+            "vote_json": 328
+          },
+          {
+            "full": "GIRLS BAND CRY-安和昴",
+            "short": "安和昴",
+            "rank": 3,
+            "vote_json": 144
+          }
+        ]
+      },
+      {
+        "json_key": "Day3-G4",
+        "members": [
+          {
+            "full": "吹响!上低音号-久石奏",
+            "short": "久石奏",
+            "rank": 1,
+            "vote_json": 440
+          },
+          {
+            "full": "麦当劳-双层芝士汉堡",
+            "short": "双层芝士汉堡",
+            "rank": 3,
+            "vote_json": 190
+          },
+          {
+            "full": "败犬女主太多了!-八奈见杏菜",
+            "short": "八奈见杏菜",
+            "rank": 2,
+            "vote_json": 215
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G3",
+        "members": [
+          {
+            "full": "BanG Dream! It's MyGO!!!!!-千早爱音",
+            "short": "千早爱音",
+            "rank": 2,
+            "vote_json": 310
+          },
+          {
+            "full": "World Dai Star-卡特莉娜",
+            "short": "卡特莉娜",
+            "rank": 1,
+            "vote_json": 354
+          },
+          {
+            "full": "凉宫春日的忧郁-长门有希",
+            "short": "长门有希",
+            "rank": 3,
+            "vote_json": 216
+          }
+        ]
+      },
+      {
+        "json_key": "Day4-G4",
+        "members": [
+          {
+            "full": "BanG Dream!-青叶摩卡",
+            "short": "青叶摩卡",
+            "rank": 3,
+            "vote_json": 251
+          },
+          {
+            "full": "安达与岛村-岛村抱月",
+            "short": "岛村抱月",
+            "rank": 2,
+            "vote_json": 288
+          },
+          {
+            "full": "结城友奈是勇者-高岛友奈",
+            "short": "高岛友奈",
+            "rank": 1,
+            "vote_json": 314
+          }
+        ]
+      }
+    ]
+  }
+}

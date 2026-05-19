@@ -1,0 +1,479 @@
+{
+    "渡边曜":  {
+                "year":  2017,
+                "path":  [
+                             {
+                                 "date":  "2017-09-01",
+                                 "battle":  "海选赛day5",
+                                 "vote":  428,
+                                 "rateGlobal":  84.58,
+                                 "opponentName":  null,
+                                 "opponentVote":  null
+                             },
+                             {
+                                 "date":  "2017-09-10",
+                                 "battle":  "淘汰赛48进16 Day2",
+                                 "vote":  204,
+                                 "rateGlobal":  57.3,
+                                 "opponentName":  "大道寺知世",
+                                 "opponentVote":  87
+                             },
+                             {
+                                 "date":  "2017-09-13",
+                                 "battle":  "淘汰赛16进8 Day1",
+                                 "vote":  261,
+                                 "rateGlobal":  57.74,
+                                 "opponentName":  "由比滨结衣",
+                                 "opponentVote":  133
+                             },
+                             {
+                                 "date":  "2017-09-15",
+                                 "battle":  "淘汰赛8进4",
+                                 "vote":  275,
+                                 "rateGlobal":  43.79,
+                                 "opponentName":  "五更琉璃（黑猫）",
+                                 "opponentVote":  205
+                             },
+                             {
+                                 "date":  "2017-09-16",
+                                 "battle":  "半决赛",
+                                 "vote":  323,
+                                 "rateGlobal":  53.39,
+                                 "opponentName":  "神户小鸟",
+                                 "opponentVote":  236
+                             },
+                             {
+                                 "date":  "2017-09-17",
+                                 "battle":  "决赛",
+                                 "vote":  325,
+                                 "rateGlobal":  63.35,
+                                 "opponentName":  "美树沙耶香",
+                                 "opponentVote":  167
+                             }
+                         ]
+            },
+    "露崎真昼":  {
+                 "year":  2018,
+                 "path":  [
+                              {
+                                  "date":  "2018-08-29",
+                                  "battle":  "海选赛day4",
+                                  "vote":  316,
+                                  "rateGlobal":  84.72,
+                                  "opponentName":  null,
+                                  "opponentVote":  null
+                              },
+                              {
+                                  "date":  "2018-09-08",
+                                  "battle":  "淘汰赛48进16 Day2",
+                                  "vote":  207,
+                                  "rateGlobal":  69.46,
+                                  "opponentName":  "塚本秀一",
+                                  "opponentVote":  41
+                              },
+                              {
+                                  "date":  "2018-09-11",
+                                  "battle":  "淘汰赛16进8 Day1",
+                                  "vote":  257,
+                                  "rateGlobal":  82.11,
+                                  "opponentName":  "药师寺纱绫",
+                                  "opponentVote":  38
+                              },
+                              {
+                                  "date":  "2018-09-13",
+                                  "battle":  "淘汰赛8进4",
+                                  "vote":  331,
+                                  "rateGlobal":  59.75,
+                                  "opponentName":  "英梨梨",
+                                  "opponentVote":  127
+                              },
+                              {
+                                  "date":  "2018-09-14",
+                                  "battle":  "半决赛",
+                                  "vote":  292,
+                                  "rateGlobal":  56.15,
+                                  "opponentName":  "美树沙耶香",
+                                  "opponentVote":  103
+                              },
+                              {
+                                  "date":  "2018-09-15",
+                                  "battle":  "决赛",
+                                  "vote":  286,
+                                  "rateGlobal":  52.96,
+                                  "opponentName":  "草上飞",
+                                  "opponentVote":  242
+                              }
+                          ]
+             },
+    "佐伯沙弥香":  {
+                  "year":  2019,
+                  "path":  [
+                               {
+                                   "date":  "2019-09-04",
+                                   "battle":  "海选赛day4",
+                                   "vote":  189,
+                                   "rateGlobal":  74.7,
+                                   "opponentName":  null,
+                                   "opponentVote":  null
+                               },
+                               {
+                                   "date":  "2019-09-14",
+                                   "battle":  "淘汰赛48进16 Day4",
+                                   "vote":  193,
+                                   "rateGlobal":  72.28,
+                                   "opponentName":  "三好夏凛",
+                                   "opponentVote":  29
+                               },
+                               {
+                                   "date":  "2019-09-16",
+                                   "battle":  "淘汰赛16进8 Day2",
+                                   "vote":  250,
+                                   "rateGlobal":  69.44,
+                                   "opponentName":  "小木曾雪菜",
+                                   "opponentVote":  47
+                               },
+                               {
+                                   "date":  "2019-09-17",
+                                   "battle":  "淘汰赛8进4",
+                                   "vote":  214,
+                                   "rateGlobal":  61.49,
+                                   "opponentName":  "星野日向",
+                                   "opponentVote":  85
+                               },
+                               {
+                                   "date":  "2019-09-18",
+                                   "battle":  "半决赛",
+                                   "vote":  193,
+                                   "rateGlobal":  57.78,
+                                   "opponentName":  "大道寺知世",
+                                   "opponentVote":  124
+                               },
+                               {
+                                   "date":  "2019-09-19",
+                                   "battle":  "决赛",
+                                   "vote":  270,
+                                   "rateGlobal":  56.49,
+                                   "opponentName":  "姬坂乃爱",
+                                   "opponentVote":  199
+                               }
+                           ]
+              },
+    "草上飞":  {
+                "year":  2020,
+                "path":  [
+                             {
+                                 "date":  "2020-09-07",
+                                 "battle":  "海选赛day8",
+                                 "vote":  131,
+                                 "rateGlobal":  63.59,
+                                 "opponentName":  null,
+                                 "opponentVote":  null
+                             },
+                             {
+                                 "date":  "2020-09-09",
+                                 "battle":  "淘汰赛48进16 Day1",
+                                 "vote":  150,
+                                 "rateGlobal":  55.56,
+                                 "opponentName":  "七海八千代",
+                                 "opponentVote":  58
+                             },
+                             {
+                                 "date":  "2020-09-14",
+                                 "battle":  "淘汰赛16进8 Day2",
+                                 "vote":  161,
+                                 "rateGlobal":  59.85,
+                                 "opponentName":  "柳濑舞衣",
+                                 "opponentVote":  64
+                             },
+                             {
+                                 "date":  "2020-09-15",
+                                 "battle":  "淘汰赛8进4",
+                                 "vote":  177,
+                                 "rateGlobal":  50.28,
+                                 "opponentName":  "环彩羽",
+                                 "opponentVote":  140
+                             },
+                             {
+                                 "date":  "2020-09-16",
+                                 "battle":  "半决赛",
+                                 "vote":  213,
+                                 "rateGlobal":  50.35,
+                                 "opponentName":  "小日向满月",
+                                 "opponentVote":  142
+                             },
+                             {
+                                 "date":  "2020-09-17",
+                                 "battle":  "决赛",
+                                 "vote":  243,
+                                 "rateGlobal":  59.85,
+                                 "opponentName":  "由比鹤乃",
+                                 "opponentVote":  141
+                             }
+                         ]
+            },
+    "上原步梦":  {
+                 "year":  2021,
+                 "path":  [
+                              {
+                                  "date":  "2021-09-02",
+                                  "battle":  "海选赛day4",
+                                  "vote":  420,
+                                  "rateGlobal":  87.87,
+                                  "opponentName":  null,
+                                  "opponentVote":  null
+                              },
+                              {
+                                  "date":  "2021-09-12",
+                                  "battle":  "淘汰赛48进16 Day4",
+                                  "vote":  399,
+                                  "rateGlobal":  85.26,
+                                  "opponentName":  "安达樱",
+                                  "opponentVote":  32
+                              },
+                              {
+                                  "date":  "2021-09-14",
+                                  "battle":  "淘汰赛16进8 Day2",
+                                  "vote":  499,
+                                  "rateGlobal":  76.3,
+                                  "opponentName":  "高咲侑",
+                                  "opponentVote":  90
+                              },
+                              {
+                                  "date":  "2021-09-15",
+                                  "battle":  "淘汰赛8进4",
+                                  "vote":  479,
+                                  "rateGlobal":  76.64,
+                                  "opponentName":  "古手梨花",
+                                  "opponentVote":  101
+                              },
+                              {
+                                  "date":  "2021-09-16",
+                                  "battle":  "半决赛",
+                                  "vote":  495,
+                                  "rateGlobal":  76.04,
+                                  "opponentName":  "优秀素质",
+                                  "opponentVote":  122
+                              },
+                              {
+                                  "date":  "2021-09-17",
+                                  "battle":  "决赛",
+                                  "vote":  590,
+                                  "rateGlobal":  74.68,
+                                  "opponentName":  "梓美冬",
+                                  "opponentVote":  186
+                              }
+                          ]
+             },
+    "爱城华恋":  {
+                 "year":  2022,
+                 "path":  [
+                              {
+                                  "date":  "2022-08-17",
+                                  "battle":  "海选赛day7",
+                                  "vote":  356,
+                                  "rateGlobal":  84.36,
+                                  "opponentName":  null,
+                                  "opponentVote":  null
+                              },
+                              {
+                                  "date":  "2022-08-21",
+                                  "battle":  "淘汰赛48进16 Day1",
+                                  "vote":  283,
+                                  "rateGlobal":  65.9,
+                                  "opponentName":  "三好夏凛",
+                                  "opponentVote":  98
+                              },
+                              {
+                                  "date":  "2022-08-25",
+                                  "battle":  "淘汰赛16进8 Day1",
+                                  "vote":  322,
+                                  "rateGlobal":  62.4,
+                                  "opponentName":  "优秀素质",
+                                  "opponentVote":  161
+                              },
+                              {
+                                  "date":  "2022-08-27",
+                                  "battle":  "淘汰赛8进4",
+                                  "vote":  381,
+                                  "rateGlobal":  69.2,
+                                  "opponentName":  "黑江",
+                                  "opponentVote":  131
+                              },
+                              {
+                                  "date":  "2022-08-28",
+                                  "battle":  "半决赛",
+                                  "vote":  409,
+                                  "rateGlobal":  58.1,
+                                  "opponentName":  "钟岚珠",
+                                  "opponentVote":  242
+                              },
+                              {
+                                  "date":  "2022-08-29",
+                                  "battle":  "决赛",
+                                  "vote":  475,
+                                  "rateGlobal":  54.22,
+                                  "opponentName":  "梓美冬",
+                                  "opponentVote":  383
+                              }
+                          ]
+             },
+    "长崎素世":  {
+                 "year":  2023,
+                 "path":  [
+                              {
+                                  "date":  "2023-08-10",
+                                  "battle":  "海选赛day3",
+                                  "vote":  809,
+                                  "rateGlobal":  91.83,
+                                  "opponentName":  null,
+                                  "opponentVote":  null
+                              },
+                              {
+                                  "date":  "2023-08-20",
+                                  "battle":  "淘汰赛48进16 Day3",
+                                  "vote":  797,
+                                  "rateGlobal":  88.26,
+                                  "opponentName":  "樱坂雫",
+                                  "opponentVote":  46
+                              },
+                              {
+                                  "date":  "2023-08-23",
+                                  "battle":  "淘汰赛16进8 Day2",
+                                  "vote":  823,
+                                  "rateGlobal":  68.13,
+                                  "opponentName":  "椎名立希",
+                                  "opponentVote":  337
+                              },
+                              {
+                                  "date":  "2023-08-24",
+                                  "battle":  "淘汰赛8进4",
+                                  "vote":  1034,
+                                  "rateGlobal":  85.74,
+                                  "opponentName":  "安达樱",
+                                  "opponentVote":  135
+                              },
+                              {
+                                  "date":  "2023-08-25",
+                                  "battle":  "半决赛",
+                                  "vote":  992,
+                                  "rateGlobal":  76.72,
+                                  "opponentName":  "千早爱音",
+                                  "opponentVote":  247
+                              },
+                              {
+                                  "date":  "2023-08-26",
+                                  "battle":  "决赛",
+                                  "vote":  1562,
+                                  "rateGlobal":  91.13,
+                                  "opponentName":  "丰川祥子",
+                                  "opponentVote":  105
+                              }
+                          ]
+             },
+    "若叶睦":  {
+                "year":  2024,
+                "path":  [
+                             {
+                                 "date":  "2024-08-07",
+                                 "battle":  "海选赛day3",
+                                 "vote":  1234,
+                                 "rateGlobal":  90.47,
+                                 "opponentName":  null,
+                                 "opponentVote":  null
+                             },
+                             {
+                                 "date":  "2024-08-16",
+                                 "battle":  "淘汰赛48进16 Day2",
+                                 "vote":  1245,
+                                 "rateGlobal":  74.73,
+                                 "opponentName":  "青叶摩卡",
+                                 "opponentVote":  307
+                             },
+                             {
+                                 "date":  "2024-08-19",
+                                 "battle":  "淘汰赛16进8 Day1",
+                                 "vote":  1859,
+                                 "rateGlobal":  78.77,
+                                 "opponentName":  "神乐光",
+                                 "opponentVote":  368
+                             },
+                             {
+                                 "date":  "2024-08-21",
+                                 "battle":  "淘汰赛8进4",
+                                 "vote":  1912,
+                                 "rateGlobal":  86.13,
+                                 "opponentName":  "三角初华",
+                                 "opponentVote":  206
+                             },
+                             {
+                                 "date":  "2024-08-22",
+                                 "battle":  "半决赛",
+                                 "vote":  1438,
+                                 "rateGlobal":  71.44,
+                                 "opponentName":  "丰川祥子",
+                                 "opponentVote":  537
+                             },
+                             {
+                                 "date":  "2024-08-23",
+                                 "battle":  "决赛",
+                                 "vote":  1375,
+                                 "rateGlobal":  54.48,
+                                 "opponentName":  "椎名立希",
+                                 "opponentVote":  1129
+                             }
+                         ]
+            },
+    "椎名立希":  {
+                 "year":  2025,
+                 "path":  [
+                              {
+                                  "date":  "2025-07-31",
+                                  "battle":  "海选赛day2",
+                                  "vote":  591,
+                                  "rateGlobal":  77.36,
+                                  "opponentName":  null,
+                                  "opponentVote":  null
+                              },
+                              {
+                                  "date":  "2025-08-10",
+                                  "battle":  "淘汰赛48进16 Day2",
+                                  "vote":  583,
+                                  "rateGlobal":  66.17,
+                                  "opponentName":  "王冢真唯",
+                                  "opponentVote":  225
+                              },
+                              {
+                                  "date":  "2025-08-13",
+                                  "battle":  "淘汰赛16进8 Day1",
+                                  "vote":  769,
+                                  "rateGlobal":  74.23,
+                                  "opponentName":  "小鞠知花",
+                                  "opponentVote":  236
+                              },
+                              {
+                                  "date":  "2025-08-15",
+                                  "battle":  "淘汰赛8进4",
+                                  "vote":  852,
+                                  "rateGlobal":  73.64,
+                                  "opponentName":  "佐仓杏子",
+                                  "opponentVote":  259
+                              },
+                              {
+                                  "date":  "2025-08-16",
+                                  "battle":  "半决赛",
+                                  "vote":  995,
+                                  "rateGlobal":  68.76,
+                                  "opponentName":  "铠冢霙",
+                                  "opponentVote":  408
+                              },
+                              {
+                                  "date":  "2025-08-17",
+                                  "battle":  "决赛",
+                                  "vote":  962,
+                                  "rateGlobal":  65.53,
+                                  "opponentName":  "久石奏",
+                                  "opponentVote":  488
+                              }
+                          ]
+             }
+}
