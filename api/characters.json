@@ -4081,7 +4081,10 @@
       "ひいらぎ ナナ",
       "柊奈奈",
       "柊ナナ",
-      "Nana Hiiragi"
+      "Nana Hiiragi",
+      "格娜娜",
+      "无能力者娜娜-格娜娜",
+      "无能的奈奈-格娜娜"
     ],
     "bgm_cid": 68715
   },
@@ -6148,18 +6151,18 @@
     "bgm_cid": 154822
   },
   {
-    "name": "BanG Dream! It's MyGO!!!!!-长崎爽世",
+    "name": "BanG Dream! It's MyGO!!!!!-长崎素世",
     "alias": [
       "长崎素世",
       "Soyorin",
       "ながさき そよ",
       "一ノ瀬 そよ",
-      "长崎爽世",
+      "长崎素世",
       "長崎そよ",
       "Nagasaki Soyo"
     ],
     "bgm_cid": 127793,
-    "moegirl_name": "长崎爽世"
+    "moegirl_name": "长崎素世"
   },
   {
     "name": "佐贺偶像是传奇-源樱",
@@ -12469,11 +12472,6 @@
     ],
     "bgm_cid": 70610,
     "moegirl_name": "千代田桃"
-  },
-  {
-    "name": "无能的奈奈-格娜娜",
-    "alias": [],
-    "bgm_cid": null
   },
   {
     "name": "剧偶像-守野赛丽亚",

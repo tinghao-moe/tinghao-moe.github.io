@@ -11178,13 +11178,22 @@
     "name": "无能的奈奈-柊奈奈",
     "records": [
       {
-        "match": "海选赛day6",
-        "date": "2024-08-10",
-        "season": 8,
-        "vote": 118,
-        "rank": 18,
-        "rate_global": 6.71,
-        "rate_group": 1.26
+        "match": "海选赛day7",
+        "date": "2022-08-17",
+        "season": 6,
+        "vote": 50,
+        "rank": 10,
+        "rate_global": 11.85,
+        "rate_group": 2.8
+      },
+      {
+        "match": "复活赛",
+        "date": "2022-08-19",
+        "season": 6,
+        "vote": 29,
+        "rank": 30,
+        "rate_global": 8.61,
+        "rate_group": 1.47
       },
       {
         "match": "海选赛day7",
@@ -11194,6 +11203,15 @@
         "rank": 15,
         "rate_global": 14.01,
         "rate_group": 2.71
+      },
+      {
+        "match": "海选赛day6",
+        "date": "2024-08-10",
+        "season": 8,
+        "vote": 118,
+        "rank": 18,
+        "rate_global": 6.71,
+        "rate_group": 1.26
       }
     ]
   },
@@ -15917,7 +15935,7 @@
     ]
   },
   {
-    "name": "BanG Dream! It's MyGO!!!!!-长崎爽世",
+    "name": "BanG Dream! It's MyGO!!!!!-长崎素世",
     "records": [
       {
         "match": "表演赛",
@@ -28001,29 +28019,6 @@
         "rank": 3,
         "rate_global": 10.33,
         "rate_group": 14.23
-      }
-    ]
-  },
-  {
-    "name": "无能的奈奈-格娜娜",
-    "records": [
-      {
-        "match": "海选赛day7",
-        "date": "2022-08-17",
-        "season": 6,
-        "vote": 50,
-        "rank": 10,
-        "rate_global": 11.85,
-        "rate_group": 2.8
-      },
-      {
-        "match": "复活赛",
-        "date": "2022-08-19",
-        "season": 6,
-        "vote": 29,
-        "rank": 30,
-        "rate_global": 8.61,
-        "rate_group": 1.47
       }
     ]
   },
