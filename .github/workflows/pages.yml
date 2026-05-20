@@ -1,0 +1,52 @@
+name: Deploy static site to Pages
+
+# Self-managed Pages deployment so we can pin action versions and opt
+# into Node 24 ahead of the June 2026 mandatory cutover. The repo is
+# pre-built (assets/ is the vite output, api/ + nominees/ are synced
+# data) — no build step is needed.
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow at most one concurrent deployment; never cancel an in-flight one
+# halfway (would leave the site half-updated).
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+# Opt in to Node 24 explicitly. Some of the official Pages composite
+# actions still ship a Node-20-pinned upload-artifact internally
+# (https://github.com/actions/upload-pages-artifact/issues/138); this
+# env var forces the runner to execute them on Node 24, which silences
+# the deprecation warning and matches the post-June-2026 default.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
