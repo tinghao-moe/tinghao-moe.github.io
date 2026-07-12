@@ -1,0 +1,157 @@
+name: Deploy web to Pages
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Pages repository
+        uses: actions/checkout@v5
+        with:
+          path: page
+
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ vars.WEB_REPO_APP_ID }}
+          private-key: ${{ secrets.WEB_REPO_APP_PRIVATE_KEY }}
+          owner: tinghao-moe
+
+      - name: Checkout web repository
+        uses: actions/checkout@v5
+        with:
+          repository: tinghao-moe/web
+          token: ${{ steps.app-token.outputs.token }}
+          path: web
+          persist-credentials: false
+
+      - name: Checkout bar chart race renderer repository
+        uses: actions/checkout@v5
+        with:
+          repository: tinghao-moe/bar-chart-race-renderer
+          token: ${{ steps.app-token.outputs.token }}
+          path: bar-chart-race-renderer
+          persist-credentials: false
+
+      - name: Checkout tingmoe-vs repository
+        uses: actions/checkout@v5
+        with:
+          repository: tinghao-moe/tingmoe-vs
+          token: ${{ steps.app-token.outputs.token }}
+          path: tingmoe-vs
+          persist-credentials: false
+
+      - name: Checkout tingmoe-guess repository
+        uses: actions/checkout@v5
+        with:
+          repository: tinghao-moe/tingmoe-guess
+          token: ${{ steps.app-token.outputs.token }}
+          path: tingmoe-guess
+          persist-credentials: false
+
+      - name: Checkout nominees avatars repository
+        uses: actions/checkout@v5
+        with:
+          repository: tinghao-moe/nominees-avatars
+          token: ${{ steps.app-token.outputs.token }}
+          path: nominees-avatars
+          persist-credentials: false
+
+      - name: Checkout API archive repository
+        uses: actions/checkout@v5
+        with:
+          repository: tinghao-moe/api-archive
+          token: ${{ steps.app-token.outputs.token }}
+          path: api-archive
+          persist-credentials: false
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: pnpm
+          cache-dependency-path: |
+            web/pnpm-lock.yaml
+            bar-chart-race-renderer/pnpm-lock.yaml
+            tingmoe-vs/web/pnpm-lock.yaml
+            tingmoe-guess/pnpm-lock.yaml
+
+      - name: Install and build web
+        working-directory: web
+        run: |
+          pnpm install --frozen-lockfile
+          pnpm build
+
+      - name: Install and build bar chart race renderer
+        working-directory: bar-chart-race-renderer
+        run: |
+          pnpm install --frozen-lockfile
+          pnpm build
+
+      - name: Install and build tingmoe-vs web
+        working-directory: tingmoe-vs/web
+        run: |
+          pnpm install --frozen-lockfile
+          pnpm build
+
+      - name: Install and build tingmoe-guess
+        working-directory: tingmoe-guess
+        run: |
+          pnpm install --frozen-lockfile
+          pnpm build
+
+      - name: Prepare and minify API files
+        run: |
+          mkdir -p api-dist
+          find api-archive -mindepth 1 -maxdepth 1 ! -name .git -exec cp -a {} api-dist/ \;
+          find nominees-avatars -maxdepth 1 -type f -name '*.json' -exec cp -a {} api-dist/ \;
+          while IFS= read -r -d '' file; do
+            jq -c . "$file" > "${file}.tmp"
+            mv "${file}.tmp" "$file"
+          done < <(find api-dist -type f -name '*.json' -print0)
+
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p dist/video dist/vs dist/guess dist/nominees dist/api
+          cp -a web/dist/. dist/
+          cp -a bar-chart-race-renderer/dist/. dist/video/
+          cp -a tingmoe-vs/web/dist/. dist/vs/
+          cp -a tingmoe-guess/dist/. dist/guess/
+          cp -a nominees-avatars/avatars/. dist/nominees/
+          cp -a api-dist/. dist/api/
+          if [ -f page/CNAME ]; then cp page/CNAME dist/CNAME; fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
