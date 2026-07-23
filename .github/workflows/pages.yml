@@ -83,6 +83,14 @@ jobs:
           path: api-archive
           persist-credentials: false
 
+      - name: Checkout support-card-2026 repository
+        uses: actions/checkout@v5
+        with:
+          repository: tinghao-moe/support-card-2026
+          token: ${{ steps.app-token.outputs.token }}
+          path: support-card-2026
+          persist-credentials: false
+
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:
@@ -98,6 +106,7 @@ jobs:
             bar-chart-race-renderer/pnpm-lock.yaml
             tingmoe-vs/web/pnpm-lock.yaml
             tingmoe-guess/pnpm-lock.yaml
+            support-card-2026/pnpm-lock.yaml
 
       - name: Install and build web
         working-directory: web
@@ -123,6 +132,12 @@ jobs:
           pnpm install --frozen-lockfile
           pnpm build
 
+      - name: Install and build support-card-2026
+        working-directory: support-card-2026
+        run: |
+          pnpm install --frozen-lockfile
+          pnpm build
+
       - name: Prepare and minify API files
         run: |
           mkdir -p api-dist
@@ -135,11 +150,12 @@ jobs:
 
       - name: Prepare Pages artifact
         run: |
-          mkdir -p dist/video dist/vs dist/guess dist/nominees dist/api
+          mkdir -p dist/video dist/vs dist/guess dist/support-card dist/nominees dist/api
           cp -a web/dist/. dist/
           cp -a bar-chart-race-renderer/dist/. dist/video/
           cp -a tingmoe-vs/web/dist/. dist/vs/
           cp -a tingmoe-guess/dist/. dist/guess/
+          cp -a support-card-2026/dist/. dist/support-card/
           cp -a nominees-avatars/avatars/. dist/nominees/
           cp -a api-dist/. dist/api/
           if [ -f page/CNAME ]; then cp page/CNAME dist/CNAME; fi
