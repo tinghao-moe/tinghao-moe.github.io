@@ -75,6 +75,14 @@ jobs:
           path: nominees-avatars
           persist-credentials: false
 
+      - name: Checkout anime covers repository
+        uses: actions/checkout@v5
+        with:
+          repository: tinghao-moe/anime-covers
+          token: ${{ steps.app-token.outputs.token }}
+          path: anime-covers
+          persist-credentials: false
+
       - name: Checkout API archive repository
         uses: actions/checkout@v5
         with:
@@ -150,7 +158,7 @@ jobs:
 
       - name: Prepare Pages artifact
         run: |
-          mkdir -p dist/video dist/vs dist/guess dist/support-card dist/nominees dist/cards dist/api
+          mkdir -p dist/video dist/vs dist/guess dist/support-card dist/nominees dist/cards dist/anime dist/api
           cp -a web/dist/. dist/
           cp -a bar-chart-race-renderer/dist/. dist/video/
           cp -a tingmoe-vs/web/dist/. dist/vs/
@@ -158,6 +166,7 @@ jobs:
           cp -a support-card-2026/dist/. dist/support-card/
           cp -a nominees-avatars/avatars/. dist/nominees/
           cp -a nominees-avatars/cards/. dist/cards/
+          cp -a anime-covers/anime/. dist/anime/
           cp -a api-dist/. dist/api/
           if [ -f page/CNAME ]; then cp page/CNAME dist/CNAME; fi
 
